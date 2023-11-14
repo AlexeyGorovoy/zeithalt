@@ -7,6 +7,3 @@ Capital city - **Cerene Vale**.
 
 Synopsis:
 > *Zeithalt is changing, under threat from unnatural disturbances and behavior (see [Corruption](/corruption.md)). We must protect her and live in balance with nature to thrive long-term.*
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDg2OTI3NF19
--->
