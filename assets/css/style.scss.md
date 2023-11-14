@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4ODQzMTY2NDJdfQ==
+-->
