@@ -172,6 +172,18 @@
       "keywords": [
         "corrupted"
       ]
+    },
+    {
+      "name": "Age of Darkness",
+      "ref": "age_of_darkness"
+    },
+    {
+      "name": "Age of Conquest",
+      "ref": "age_of_conquest"
+    },
+    {
+      "name": "Age of Battles",
+      "ref": "age_of_battles"
     }
   ]
 }
