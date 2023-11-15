@@ -184,6 +184,38 @@
     {
       "name": "Age of Battles",
       "ref": "age_of_battles"
+    },
+    {
+      "name": "Fortifications",
+      "ref": "fortifications",
+      "keywords": [
+        "battle",
+        "unit"
+      ]
+    },
+    {
+      "name": "Garrisons",
+      "ref": "garrisons",
+      "keywords": [
+        "battle",
+        "unit"
+      ]
+    },
+    {
+      "name": "Support",
+      "ref": "support",
+      "keywords": [
+        "battle",
+        "unit"
+      ]
+    },
+    {
+      "name": "Saboteur",
+      "ref": "saboteur",
+      "keywords": [
+        "battle",
+        "unit"
+      ]
     }
   ]
 }
