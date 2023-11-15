@@ -14,15 +14,24 @@
     },
     {
       "name": "Cybernetics Inc.",
-      "ref": "cybernetics_inc"
+      "ref": "cybernetics_inc",
+      "keywords": [
+        "ci"
+      ]
     },
     {
       "name": "Cybers",
-      "ref": "cybers"
+      "ref": "cybers",
+      "keywords": [
+        "ci"
+      ]
     },
     {
       "name": "Delta Collective",
-      "ref": "delta_collective"
+      "ref": "delta_collective",
+      "keywords": [
+        "dc"
+      ]
     },
     {
       "name": "Eon",
@@ -30,39 +39,69 @@
     },
     {
       "name": "Deltan Language",
-      "ref": "deltan_language"
+      "ref": "deltan_language",
+      "keywords": [
+        "dc"
+      ]
     },
     {
       "name": "Deltans",
-      "ref": "deltans"
+      "ref": "deltans",
+      "keywords": [
+        "dc"
+      ]
     },
     {
       "name": "Minds",
-      "ref": "minds"
+      "ref": "minds",
+      "keywords": [
+        "mt"
+      ]
     },
     {
       "name": "MindTech Institute",
-      "ref": "mindtech_institute"
+      "ref": "mindtech_institute",
+      "keywords": [
+        "mt"
+      ]
     },
     {
       "name": "Protectores Silva",
-      "ref": "protectores_silva"
+      "ref": "protectores_silva",
+      "keywords": [
+        "ps"
+      ],
+      "aliases": [
+        "Tree Huggers"
+      ]
     },
     {
       "name": "PTSD",
-      "ref": "ptsd"
+      "ref": "ptsd",
+      "keywords": [
+        "ps"
+      ]
     },
     {
       "name": "Rebels",
-      "ref": "rebels"
+      "ref": "rebels",
+      "keywords": [
+          "sw"
+      ]
     },
     {
       "name": "Sellswords",
-      "ref": "sellswords"
+      "ref": "sellswords",
+      "keywords": [
+          "sw"
+      ]
     },
     {
       "name": "Silvans",
-      "ref": "silvans"
+      "ref": "silvans",
+      "keywords": [
+        "ps"
+      ]
     },
     {
       "name": "Timeless Desert",
@@ -75,8 +114,25 @@
       ]
     },
     {
+      "name": "WAR Items",
+      "ref": "war_items",
+      "aliases": [
+        "Weapon", "Armor", "Relics"
+      ]
+    },
+    {
       "name": "Zeithalt Zeitgeist",
-      "ref": "zeithalt_zeitgeist"
+      "ref": "zeithalt_zeitgeist",
+      "keywords": [
+        "newspaper"
+      ]
+    },
+    {
+      "name": "Mimbot",
+      "ref": "mimbot",
+      "keywords": [
+        "you"
+      ]
     }
   ]
 }
