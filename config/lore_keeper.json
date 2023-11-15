@@ -133,6 +133,45 @@
       "keywords": [
         "you"
       ]
+    },
+    {
+      "name": "Corrupted Gemstone",
+      "ref": "cr_gemstone",
+      "keywords": [
+        "cr",
+        "artefact",
+        "artifact"
+      ]
+    },
+    {
+      "name": "Corrupted Artefacts",
+      "ref": "cr_artefacts",
+      "keywords": [
+        "cr",
+        "artifact",
+        "samples"
+      ]
+    },
+    {
+      "name": "CR Mines",
+      "ref": "cr_mines",
+      "keywords": [
+        "corrupted"
+      ]
+    },
+    {
+      "name": "CR Shards",
+      "ref": "cr_shards",
+      "keywords": [
+        "corrupted"
+      ]
+    },
+    {
+      "name": "CR Fallout",
+      "ref": "cr_fallout",
+      "keywords": [
+        "corrupted"
+      ]
     }
   ]
 }
