@@ -1,24 +1,36 @@
 {
   "what_is": [
     {
-      "name": "Cybernetics Inc.",
-      "ref": "cybernetics_inc"
+      "name": "Bank of Zeithalt",
+      "ref": "bank_of_zeithalt"
     },
     {
-      "name": "MindTech Institute",
-      "ref": "mindtech_institute"
+      "name": "Corruption",
+      "ref": "corruption"
+    },
+    {
+      "name": "Cybernetics Inc.",
+      "ref": "cybernetics_inc"
     },
     {
       "name": "Delta Collective",
       "ref": "delta_collective"
     },
     {
+      "name": "MindTech Institute",
+      "ref": "mindtech_institute"
+    },
+    {
       "name": "Protectores Silva",
       "ref": "protectores_silva"
     },
     {
-      "name": "Corruption",
-      "ref": "corruption"
+      "name": "Rebels",
+      "ref": "rebels"
+    },
+    {
+      "name": "Sellswords",
+      "ref": "sellswords"
     },
     {
       "name": "Timeless Desert",

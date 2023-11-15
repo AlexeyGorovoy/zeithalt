@@ -1,4 +1,5 @@
 ### Delta Collective
+**🪪 Faction**
 
 Delta Collective (DC) - one of the three original factions.
 
