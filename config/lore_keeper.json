@@ -216,6 +216,15 @@
         "battle",
         "unit"
       ]
+    },
+    {
+      "name": "Fighters Guild",
+      "ref": "fighters_guild",
+      "keywords": [
+        "battle",
+        "dino",
+        "sw"
+      ]
     }
   ]
 }
