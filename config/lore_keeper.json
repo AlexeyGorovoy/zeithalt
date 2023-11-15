@@ -1,0 +1,20 @@
+{
+  "what_is": [
+    {
+      "name": "Cybernetics Inc.",
+      "ref": "cybernetics_inc"
+    },
+    {
+      "name": "MindTech Institute",
+      "ref": "mindtech_institute"
+    },
+    {
+      "name": "Delta Collective",
+      "ref": "delta_collective"
+    },
+    {
+      "name": "Protectores Silva",
+      "ref": "protectores_silva"
+    }
+  ]
+}
