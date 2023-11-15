@@ -1,4 +1,4 @@
-## TITLE
+## Corrupted Gemstone
 
 **📜 Item**
 
