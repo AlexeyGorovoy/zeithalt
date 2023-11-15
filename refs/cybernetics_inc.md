@@ -1,4 +1,5 @@
 ## Cybernetics Inc
+
 **🪪 Faction**
 
 Cybernetics Inc (CI) - one of the three original factions. Located in the north of the Island, with the capital in **Admincity**. 

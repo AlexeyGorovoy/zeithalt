@@ -25,6 +25,10 @@
       "ref": "delta_collective"
     },
     {
+      "name": "Eon",
+      "ref": "eon"
+    },
+    {
       "name": "Deltan Language",
       "ref": "deltan_language"
     },
@@ -45,6 +49,10 @@
       "ref": "protectores_silva"
     },
     {
+      "name": "PTSD",
+      "ref": "ptsd"
+    },
+    {
       "name": "Rebels",
       "ref": "rebels"
     },
@@ -59,6 +67,10 @@
     {
       "name": "Timeless Desert",
       "ref": "timeless_desert"
+    },
+    {
+      "name": "Zeithalt Zeitgeist",
+      "ref": "zeithalt_zeitgeist"
     }
   ]
 }

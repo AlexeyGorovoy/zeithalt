@@ -1,7 +1,8 @@
 ## Protectores Silva
+
 **🪪 Faction**
 
-Protectores Silva (PS) - a newer faction on the island, founded in former MT lands.
+Protectores Silva (PS) - a newer faction on the island, founded in former MT lands on Eon 369.
 
 Capital city - **Cerene Vale**.
 
