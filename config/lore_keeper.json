@@ -15,6 +15,10 @@
     {
       "name": "Protectores Silva",
       "ref": "protectores_silva"
+    },
+    {
+      "name": "Corruption",
+      "ref": "corruption"
     }
   ]
 }
