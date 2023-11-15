@@ -5,6 +5,10 @@
       "ref": "bank_of_zeithalt"
     },
     {
+      "name": "Common language",
+      "ref": "common_language"
+    },
+    {
       "name": "Corruption",
       "ref": "corruption"
     },
@@ -13,8 +17,24 @@
       "ref": "cybernetics_inc"
     },
     {
+      "name": "Cybers",
+      "ref": "cybers"
+    },
+    {
       "name": "Delta Collective",
       "ref": "delta_collective"
+    },
+    {
+      "name": "Deltan Language",
+      "ref": "deltan_language"
+    },
+    {
+      "name": "Deltans",
+      "ref": "deltans"
+    },
+    {
+      "name": "Minds",
+      "ref": "minds"
     },
     {
       "name": "MindTech Institute",
@@ -31,6 +51,10 @@
     {
       "name": "Sellswords",
       "ref": "sellswords"
+    },
+    {
+      "name": "Silvams",
+      "ref": "silvans"
     },
     {
       "name": "Timeless Desert",
