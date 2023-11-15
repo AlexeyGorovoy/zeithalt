@@ -1,4 +1,4 @@
-### Protectores Silva
+## Protectores Silva
 **🪪 Faction**
 
 Protectores Silva (PS) - a newer faction on the island, founded in former MT lands.

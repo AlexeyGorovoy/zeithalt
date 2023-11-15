@@ -1,4 +1,4 @@
-### Corruption
+## Corruption
 **🪪 Entity**
 
 Corruption (CR) - potentially existential threat of mysterious origin. 

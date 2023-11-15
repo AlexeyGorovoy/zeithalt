@@ -1,4 +1,4 @@
-### MindTech Institute
+## MindTech Institute
 **🪪 Faction**
 
 MindTech Institute (MT) - one of the three original factions.
