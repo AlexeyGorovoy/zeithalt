@@ -19,3 +19,8 @@ It looks as if corruption itself is contained within the gemstone, but the true 
 Since then other people have touched the gemstone, but got no visions from it. Also, it seems to be only pulsating in **hexAgon’s** hands - when others hold it, the gemstone stays matte black and cold.
 
 It seems that the gemstone has bonded with **hexAgon** in some special way.
+
+<!---
+keywords: cr, artifact, artefact, hexagon
+aliases:
+-->

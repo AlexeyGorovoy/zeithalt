@@ -5,6 +5,5 @@
 Defensive military regiments, that can be stationed in a territory to increase its defensive capabilities.
 
 <!---
-keywords: hairy
-aliases: Harry
+keywords: battle, unit
 -->
