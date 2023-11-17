@@ -1,6 +1,6 @@
 ## Jackbox Party Central
 
-**🪧 Place**
+**🪧 Place** in Oblivion Mire
 
 The Jackbox Party Central is a plaza created by Airmanon Driftwing as a place where people can gather and party together. 
 
