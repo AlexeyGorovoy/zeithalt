@@ -1,6 +1,6 @@
-## Underground Botanical Garden
+## 🌺 Underground Botanical Garden
 
-**🪧 Place**
+**🪧 Place** in A'as Forest
 
 Built in Eon 509 by Protectores Silva, the garden serves as a refuge for numerous species of plants and animals coming from all over the Zeithalt.
 

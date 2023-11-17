@@ -1,4 +1,4 @@
-## Jackbox Party Central
+## 🎊 Jackbox Party Central
 
 **🪧 Place** in Oblivion Mire
 
