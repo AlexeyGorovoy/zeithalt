@@ -1,3 +1,5 @@
 - towers of mindtech institute
 - timeline
 - lake Corsair 
+- do a Loki
+- do a bumps
