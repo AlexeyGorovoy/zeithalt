@@ -1,11 +1,9 @@
 DISCORD BOT TODO LIST
 
 lore requests
-- towers of mindtech institute
 - lake Corsair 
 - do a Loki
 - do a bumps
-- transfer mt land descriptions from notion
 
 
 Timeline
