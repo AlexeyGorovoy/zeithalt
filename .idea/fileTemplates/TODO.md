@@ -4,7 +4,7 @@ ${TITLE}
 
 This entry has not been written yet. 
 
-Will you the text for it?
+Will you write the text for it?
 
 Will you request others to that?
 
