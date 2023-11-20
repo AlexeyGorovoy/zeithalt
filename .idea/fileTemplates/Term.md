@@ -1,6 +1,6 @@
 #set( $TITLE = '## TITLE')
 ${TITLE}
-**📑 Term**
+`📑 Term`
 
 DEFINITON
 

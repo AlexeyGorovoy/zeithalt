@@ -1,6 +1,6 @@
 #set( $TITLE = '## TITLE')
 ${TITLE}
-**🧙‍♂️ Character**
+`🧙‍♂️ Character`
 
 DEFINITON
 
