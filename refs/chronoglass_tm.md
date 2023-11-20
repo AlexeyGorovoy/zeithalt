@@ -2,7 +2,7 @@
 
 **📑 Term**
 
-A commercial product made from the [chronoglass](/chronoglass.md) by the Cloudy Co. corporation lead by Bumps The Businessman. 
+A commercial product made from the [chronoglass](chronoglass.md) by the Cloudy Co. corporation lead by Bumps The Businessman. 
 
 > Slogan: _See the Past through the Glass!_
 
