@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 DISCORD BOT TODO LIST
 
 Timeline
