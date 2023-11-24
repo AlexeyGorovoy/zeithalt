@@ -24,7 +24,7 @@ When faced with a choice whether to keep the city or let Neuropolis burn to the 
 All the fires remaining after battle were promptly put out, the immediate restoration of city walls began, Deltan officials started the effort to restore peaceful life in the city.
 
 ![Battle Map Eon 0384](map/eon0384.png)
-## Eon 375 - TITLE
+## Eon 375 - The 4h Battle of Mt. Pickles
 
 `⚔️ Battle` won by [Protectores Silva](../refs/protectores_silva.md) (military exercise)
 
@@ -66,7 +66,7 @@ The founding statement from this new faction to the people of Zeithalt is:
 > *After the battle CI operatives spent the entire night combing through the swamp, removed all invasive species that had been over flourishing added some scientific research probes and now remove themselves.*
 
 ![Battle Map](map/eon0368.png)
-## Eon EON - The Fishy Battle of Imperial Swamp
+## Eon 367 - The Fishy Battle of Imperial Swamp
 
 `⚔️ Battle` won by [Cybernetics Inc](../refs/cybernetics_inc.md)
 
