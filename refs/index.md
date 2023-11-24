@@ -86,8 +86,6 @@
 
 [Imperial Swamp](imperial_swamp.md)
 
-[# Index](index.md)
-
 [Indigo Shore](indigo_shore.md)
 
 ### J

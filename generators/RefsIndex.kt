@@ -15,7 +15,7 @@ fun main() {
     var lastLetter: String? = null
 
     val links = files
-        ?.filter { it.isFile && !it.name.startsWith("_") }
+        ?.filter { it.isFile && !it.name.startsWith("#") && !it.name.startsWith("index") }
         ?.mapNotNull { file ->
 
             val title = file.readLines()
