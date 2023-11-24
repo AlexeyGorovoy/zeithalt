@@ -14,6 +14,8 @@
 
 [Alexx](alexx.md)
 
+[Armor](war_items.md)
+
 ### B
 [Bank of Zeithalt](bank_of_zeithalt.md)
 
@@ -48,6 +50,8 @@
 
 [CuriousDino](curious_dino.md)
 
+[CI](cybernetics_inc.md)
+
 [Cybernetics Inc](cybernetics_inc.md)
 
 [Cybers](cybers.md)
@@ -59,14 +63,20 @@
 
 [Deltan language](deltan_language.md)
 
+[DC](delta_collective.md)
+
 [Delta Collective](delta_collective.md)
 
 [Dev Null Marsh](dev_null_marsh.md)
 
 [🎰 Dino's Gambling Den](dinos_gambling_den.md)
 
+[Double-Z](zeithalt_zeitgeist.md)
+
 ### E
 [Eon](eon.md)
+
+[Energy Resources](resources.md)
 
 ### F
 [Fighters Guild](fighters_guild.md)
@@ -111,6 +121,8 @@
 
 [Minds](minds.md)
 
+[MT](mindtech_institute.md)
+
 [MindTech Institute](mindtech_institute.md)
 
 [🔬 Modern CR Research Facility](modern_cr_research_facility.md)
@@ -118,6 +130,8 @@
 [Mt. Pickles](mt_pickles.md)
 
 [--- Mimbot's Index ---](refs_index.md)
+
+[Mineral Resources](resources.md)
 
 ### N
 [Neuropolis](neuropolis.md)
@@ -142,6 +156,8 @@
 
 [Pierre's Porous Pickle Porch](pppp.md)
 
+[PS](protectores_silva.md)
+
 [Protectores Silva](protectores_silva.md)
 
 [PTSD](PTSD.md)
@@ -159,7 +175,11 @@
 
 [Revalx](revalx.md)
 
+[Relics](war_items.md)
+
 ### S
+[Science Resources](resources.md)
+
 [Saboteur](saboteur.md)
 
 [Sazhra](sazhra.md)
@@ -177,7 +197,11 @@
 [Synaxos Fields](synaxos_fields.md)
 
 ### T
+[Towers of MindTech Institute](institute_fortress_inner.md)
+
 [🎡 The Particle Collitionist](partcile_collitionist.md)
+
+[Tree Huggers](protectores_silva.md)
 
 [Temporal Resources](temporal_resources.md)
 
@@ -195,6 +219,8 @@
 [🌺 Underground Botanical Garden](botanical_garden.md)
 
 ### W
+[Weapons](war_items.md)
+
 [WAR items](war_items.md)
 
 ### X

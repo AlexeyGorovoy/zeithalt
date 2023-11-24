@@ -16,26 +16,23 @@ fun main() {
 
     val links = files
         ?.filter { it.isFile && !it.name.startsWith("#") && !it.name.startsWith("index") }
-        ?.mapNotNull { file ->
+        ?.flatMap { file ->
+
+            val text = file.readText()
 
             val title = file.readLines()
             .firstOrNull()
             ?.replace("##", "")
             ?.trim()
 
-            val letter = title?.firstOrNull {
-                it in 'a'..'z' || it in 'A'..'Z' || it in '0' .. '9'
-            }?.uppercase()
+            val aliases = extractAliases(text)
 
-            if (letter != null) {
-                Entry(
-                    letter = letter,
-                    title = title,
-                    link = "[$title](${file.name})"
-                )
+            val titles = if (title != null) {
+                aliases + title
             } else {
-                null
+                aliases
             }
+            buildEntries(titles, file.name)
         }
         ?.sortedBy { it.letter }
         ?.flatMap { entry ->
@@ -70,6 +67,51 @@ $content
 
     val endTime = System.currentTimeMillis()
     println("Finished in ${endTime - startTime} ms")
+}
+
+@Suppress("UnnecessaryVariable")
+private fun extractAliases(refText: String): List<String> {
+
+    val parts = refText.split("<!---")
+
+    val metadata = parts
+        .getOrNull(1)
+        ?.split("\n")
+
+//    val keywords = metadata
+//        ?.find { it.startsWith("keywords:", ignoreCase = true) }
+//        ?.replace("keywords:", "")
+//        ?.trim()
+//        ?.split(", ")
+//        .orEmpty()
+
+    val aliases = metadata
+        ?.find { it.startsWith("aliases:", ignoreCase = true) }
+        ?.replace("aliases:", "")
+        ?.trim()
+        ?.split(", ")
+        ?.filter { it.isNotBlank() }
+        .orEmpty()
+
+    return aliases
+}
+
+private fun buildEntries(titles: List<String>, filename: String): List<Entry> {
+    return titles.mapNotNull { title ->
+        val letter = title.firstOrNull {
+            it in 'a'..'z' || it in 'A'..'Z' || it in '0' .. '9'
+        }?.uppercase()
+
+        if (letter != null) {
+            Entry(
+                letter = letter,
+                title = title,
+                link = "[$title](${filename})"
+            )
+        } else {
+            null
+        }
+    }
 }
 
 data class Entry(
