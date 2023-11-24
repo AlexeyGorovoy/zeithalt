@@ -117,6 +117,8 @@
 
 [Mt. Pickles](mt_pickles.md)
 
+[--- Mimbot's Index ---](refs_index.md)
+
 ### N
 [Neuropolis](neuropolis.md)
 
