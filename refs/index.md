@@ -19,6 +19,8 @@
 ### B
 [Bank of Zeithalt](bank_of_zeithalt.md)
 
+[Blackspire Mountains](blackspire_mountains.md)
+
 [Brickland Fortress](brickland_fortress.md)
 
 [Bumpus Mackamarus Arbum](bumps.md)
@@ -74,6 +76,8 @@
 [Double-Z](zeithalt_zeitgeist.md)
 
 ### E
+[Eastern Brickland](brickland_fortress.md)
+
 [Eon](eon.md)
 
 [Energy Resources](resources.md)
@@ -112,6 +116,8 @@
 [MindTech Institute Fortress (outer walls)](institute_fortress_outer.md)
 
 [Map Legend](map_legend.md)
+
+[Meadowridge](meadowridge.md)
 
 [Mimb](mimb.md)
 
@@ -203,6 +209,8 @@
 
 [Tree Huggers](protectores_silva.md)
 
+[TITLE](southern_sea.md)
+
 [Temporal Resources](temporal_resources.md)
 
 [Timeless Desert](timeless_desert.md)
@@ -219,6 +227,8 @@
 [🌺 Underground Botanical Garden](botanical_garden.md)
 
 ### W
+[Western Brickland](brickland_fortress.md)
+
 [Weapons](war_items.md)
 
 [WAR items](war_items.md)
