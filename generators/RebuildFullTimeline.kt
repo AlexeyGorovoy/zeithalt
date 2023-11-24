@@ -16,8 +16,7 @@ fun main () {
         ?.sortedByDescending { file -> file.name }
         ?.flatMap { file ->
             listOf(
-                file.readText(),
-                "\n-----"
+                file.readText()
             )
         }
         ?.joinToString("\n")
