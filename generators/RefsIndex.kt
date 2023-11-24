@@ -60,7 +60,7 @@ fun main() {
             "[$letter](#${letter})"
         }
 
-    val output = File("refs/_index.md")
+    val output = File("refs/index.md")
     output.writeText("""
 # Index 
 =================

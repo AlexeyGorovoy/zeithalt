@@ -23,7 +23,7 @@ fun main () {
 
     println(links)
 
-    val output = File("timeline/_full.md")
+    val output = File("timeline/full.md")
     output.writeText(links ?: "none")
 
     val endTime = System.currentTimeMillis()
