@@ -63,7 +63,6 @@ fun main() {
     val output = File("refs/index.md")
     output.writeText("""
 # Index 
-=================
 $reference
 
 $content

@@ -1,5 +1,4 @@
 # Index 
-=================
 [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [R](#R) [S](#S) [T](#T) [U](#U) [W](#W) [X](#X) [Y](#Y) [Z](#Z)
 
 ### A
@@ -86,6 +85,8 @@
 [Illusion Cliffs](illusion_cliffs.md)
 
 [Imperial Swamp](imperial_swamp.md)
+
+[# Index](index.md)
 
 [Indigo Shore](indigo_shore.md)
 
