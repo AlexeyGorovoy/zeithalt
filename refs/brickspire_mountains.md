@@ -1,4 +1,4 @@
-## Blackspire Mountains
+## Brickspire Mountains
 
 `🪧 Landmark`
 

@@ -21,7 +21,7 @@
 
 [Brickland Fortress](../refs/brickland_fortress.md)
 
-[Blackspire Mountains](../refs/brickspire_mountains.md)
+[Brickspire Mountains](../refs/brickspire_mountains.md)
 
 [Bumpus Mackamarus Arbum](../refs/bumps.md)
 
