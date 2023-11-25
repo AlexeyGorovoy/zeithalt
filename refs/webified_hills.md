@@ -1,8 +1,8 @@
-#set( $TITLE = '## TITLE')
-${TITLE}
+## TITLE
+
 `📃 To-do list`
 
-This entry has not been written yet. 
+This entry has not been written yet.
 
 Will you write the text for it?
 

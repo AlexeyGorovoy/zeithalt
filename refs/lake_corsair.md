@@ -1,14 +1,8 @@
 ## Lake Corsair
 
-`📃 To-do list`
+`🖼️ Landmark`
 
-This entry has not been written yet.
-
-Will you write the text for it?
-
-Will you request others to that?
-
-You can do both on discord https://discord.com/channels/562910943848169472/1173922660489633802
+A picturesque lake in the middle of traditionally [Cyber](cybers.md) lands, at the meeting point of three lands: [Admincity](admincity.md), [Webified Hills](webified_hills.md) and [Singularity Valley](singularity_valley.md).
 
 <!---
 keywords: todo
