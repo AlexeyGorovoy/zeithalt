@@ -12,7 +12,7 @@ The high quality stones are mined from quarries used both locally, as well as ex
 
 There are numerous small fortifications scattered all around the Brickspire Mountains to protect these vulnerable yet important quarries and mining villages built around them from bandit attacks and act as local defence forces when the region needs protection in battles.
 
-However, the main force that defends the entire region and acts as a one giant gate between the Western and Eastern parts is the Brickland Fortress itself. It has an enormous size and equally gorgeous appearance; while being located in the tallest mountain of the entire region.
+However, the main force that defends the entire region and acts as a one giant gate between the Western and Eastern parts is the Brickland Fortress itself. It is located in the tallest mountain of the entire region, has an enormous size and equally gorgeous appearance.
 
 Although nowadays this fortress gives the name to the whole region, it is believed that during the [Age of Darkness](../refs/age_of_darkness.md) nomadic people had a different name for their home. Sadly that name is now forgotten and lost in time.
 
