@@ -106,7 +106,7 @@ private fun buildEntries(titles: List<String>, filename: String): List<Entry> {
             Entry(
                 letter = letter,
                 title = title,
-                link = "[$title](${filename})"
+                link = "[$title](../refs/${filename})"
             )
         } else {
             null

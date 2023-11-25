@@ -2,244 +2,250 @@
 [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [R](#R) [S](#S) [T](#T) [U](#U) [W](#W) [X](#X) [Y](#Y) [Z](#Z)
 
 ### A
-[Aas Forest](aas_forest.md)
+[Aas Forest](../refs/aas_forest.md)
 
-[Age of Battles](age_of_battles.md)
+[Age of Battles](../refs/age_of_battles.md)
 
-[Age of Conquest](age_of_conquest.md)
+[Age of Conquest](../refs/age_of_conquest.md)
 
-[Age of Darkness](age_of_darkness.md)
+[Age of Darkness](../refs/age_of_darkness.md)
 
-[Airmanon 'Air' Driftwing](airmanon.md)
+[Airmanon 'Air' Driftwing](../refs/airmanon.md)
 
-[Alexx](alexx.md)
+[Alexx](../refs/alexx.md)
 
-[Armor](war_items.md)
+[Armor](../refs/war_items.md)
 
 ### B
-[Bank of Zeithalt](bank_of_zeithalt.md)
+[Bank of Zeithalt](../refs/bank_of_zeithalt.md)
 
-[Blackspire Mountains](blackspire_mountains.md)
+[Brickland Fortress](../refs/brickland_fortress.md)
 
-[Brickland Fortress](brickland_fortress.md)
+[Blackspire Mountains](../refs/brickspire_mountains.md)
 
-[Bumpus Mackamarus Arbum](bumps.md)
+[Bumpus Mackamarus Arbum](../refs/bumps.md)
 
 ### C
-[Cerene Vale](cerene_vale.md)
+[Cerene Vale](../refs/cerene_vale.md)
 
-[Chaotic Plains](chaotic_plains.md)
+[Chaotic Plains](../refs/chaotic_plains.md)
 
-[Chronoglass](chronoglass.md)
+[Chronoglass](../refs/chronoglass.md)
 
-[ChronoGlass™️](chronoglass_tm.md)
+[ChronoGlass™️](../refs/chronoglass_tm.md)
 
-[Common language](common_language.md)
+[Common language](../refs/common_language.md)
 
-[Corruption](corruption.md)
+[Corruption](../refs/corruption.md)
 
-[Corrupted Artefacts](cr_artefacts.md)
+[Corrupted Artefacts](../refs/cr_artefacts.md)
 
-[CR Fallout](cr_fallout.md)
+[CR Fallout](../refs/cr_fallout.md)
 
-[Corrupted Gemstone](cr_gemstone.md)
+[Corrupted Gemstone](../refs/cr_gemstone.md)
 
-[CR Mines](cr_mines.md)
+[CR Mines](../refs/cr_mines.md)
 
-[CR Shards](cr_shards.md)
+[CR Shards](../refs/cr_shards.md)
 
-[🏥 CURE](cure.md)
+[🏥 CURE](../refs/cure.md)
 
-[CuriousDino](curious_dino.md)
+[CuriousDino](../refs/curious_dino.md)
 
-[CI](cybernetics_inc.md)
+[CI](../refs/cybernetics_inc.md)
 
-[Cybernetics Inc](cybernetics_inc.md)
+[Cybernetics Inc](../refs/cybernetics_inc.md)
 
-[Cybers](cybers.md)
+[Cybers](../refs/cybers.md)
 
-[Cybertron Jungle](cybertron_jungle.md)
+[Cybertron Jungle](../refs/cybertron_jungle.md)
 
 ### D
-[Deltans](deltans.md)
+[Deltans](../refs/deltans.md)
 
-[Deltan language](deltan_language.md)
+[Deltan language](../refs/deltan_language.md)
 
-[DC](delta_collective.md)
+[DC](../refs/delta_collective.md)
 
-[Delta Collective](delta_collective.md)
+[Delta Collective](../refs/delta_collective.md)
 
-[Dev Null Marsh](dev_null_marsh.md)
+[Dev Null Marsh](../refs/dev_null_marsh.md)
 
-[🎰 Dino's Gambling Den](dinos_gambling_den.md)
+[🎰 Dino's Gambling Den](../refs/dinos_gambling_den.md)
 
-[Double-Z](zeithalt_zeitgeist.md)
+[Double-Z](../refs/zeithalt_zeitgeist.md)
 
 ### E
-[Eastern Brickland](brickland_fortress.md)
+[Eastern Brickland](../refs/brickland_fortress.md)
 
-[Eon](eon.md)
+[Eon](../refs/eon.md)
 
-[Energy Resources](resources.md)
+[Energy Resources](../refs/resources.md)
 
 ### F
-[Fighters Guild](fighters_guild.md)
+[Fighters Guild](../refs/fighters_guild.md)
 
-[Fortifications](fortifications.md)
+[Fortifications](../refs/fortifications.md)
 
 ### G
-[Garrisons](garrisons.md)
+[Garrisons](../refs/garrisons.md)
 
-[GreenOtter](greenotter.md)
+[GreenOtter](../refs/greenotter.md)
 
 ### H
-[haxAgon](hexagon.md)
+[haxAgon](../refs/hexagon.md)
 
 ### I
-[Illusion Cliffs](illusion_cliffs.md)
+[Illusion Cliffs](../refs/illusion_cliffs.md)
 
-[Imperial Swamp](imperial_swamp.md)
+[Imperial Swamp](../refs/imperial_swamp.md)
 
-[Indigo Shore](indigo_shore.md)
+[Indigo Shore](../refs/indigo_shore.md)
 
 ### J
-[🎊 Jackbox Party Central](jackbox_party_central.md)
+[🎊 Jackbox Party Central](../refs/jackbox_party_central.md)
 
 ### L
-[Lake Corsair](lake_corsair.md)
+[Lake Corsair](../refs/lake_corsair.md)
 
-[Loki](loki.md)
+[Loki](../refs/loki.md)
 
 ### M
-[MindTech Institute Fortress (inner walls)](institute_fortress_inner.md)
+[MindTech Institute Fortress (inner walls)](../refs/institute_fortress_inner.md)
 
-[MindTech Institute Fortress (outer walls)](institute_fortress_outer.md)
+[MindTech Institute Fortress (outer walls)](../refs/institute_fortress_outer.md)
 
-[Map Legend](map_legend.md)
+[Map Legend](../refs/map_legend.md)
 
-[Meadowridge](meadowridge.md)
+[Meadowridge](../refs/meadowridge.md)
 
-[Mimb](mimb.md)
+[Mimb](../refs/mimb.md)
 
-[Mimbot, the Lore Keeper](mimbot.md)
+[Mimbot, the Lore Keeper](../refs/mimbot.md)
 
-[Mimps Virus](mimps.md)
+[Mimps Virus](../refs/mimps.md)
 
-[Minds](minds.md)
+[Minds](../refs/minds.md)
 
-[MT](mindtech_institute.md)
+[MT](../refs/mindtech_institute.md)
 
-[MindTech Institute](mindtech_institute.md)
+[MindTech Institute](../refs/mindtech_institute.md)
 
-[🔬 Modern CR Research Facility](modern_cr_research_facility.md)
+[🔬 Modern CR Research Facility](../refs/modern_cr_research_facility.md)
 
-[Mt. Pickles](mt_pickles.md)
+[Mt. Pickles](../refs/mt_pickles.md)
 
-[--- Mimbot's Index ---](refs_index.md)
+[--- Mimbot's Index ---](../refs/refs_index.md)
 
-[Mineral Resources](resources.md)
+[Mineral Resources](../refs/resources.md)
 
 ### N
-[Neuropolis](neuropolis.md)
+[Neuropolis](../refs/neuropolis.md)
 
-[📰 News HQ](news_hq.md)
+[📰 News HQ](../refs/news_hq.md)
 
 ### O
-[Oblivion Mire](oblivion_mire.md)
+[Oblivion Mire](../refs/oblivion_mire.md)
 
-[Ogrodnik](ogrodnik.md)
+[Ogrodnik](../refs/ogrodnik.md)
 
-[Ozimud](ozimud.md)
+[Ozimud](../refs/ozimud.md)
 
 ### P
-[Paradox PAss](paradox_pass.md)
+[Paradox PAss](../refs/paradox_pass.md)
 
-[Peace Death Gorge](peace_death_gorge.md)
+[Peace Death Gorge](../refs/peace_death_gorge.md)
 
-[🌿 Photosynthetic Power Station](photosynthetic_power_station.md)
+[🌿 Photosynthetic Power Station](../refs/photosynthetic_power_station.md)
 
-[🍕 PIZZA](pizza.md)
+[🍕 PIZZA](../refs/pizza.md)
 
-[Pierre's Porous Pickle Porch](pppp.md)
+[Pierre's Porous Pickle Porch](../refs/pppp.md)
 
-[PS](protectores_silva.md)
+[PS](../refs/protectores_silva.md)
 
-[Protectores Silva](protectores_silva.md)
+[Protectores Silva](../refs/protectores_silva.md)
 
-[PTSD](PTSD.md)
+[PTSD](../refs/PTSD.md)
 
-[💰 PTSD Office](ptsd_office.md)
+[💰 PTSD Office](../refs/ptsd_office.md)
 
-[Purple Deeps](purple_deeps.md)
+[Purple Deeps](../refs/purple_deeps.md)
 
 ### R
-[Rebels](rebels.md)
+[Rebels](../refs/rebels.md)
 
-[🏭 Resource Management Facility](resouece_management_facility.md)
+[🏭 Resource Management Facility](../refs/resouece_management_facility.md)
 
-[Resources (RES)](resources.md)
+[Resources (RES)](../refs/resources.md)
 
-[Revalx](revalx.md)
+[Revalx](../refs/revalx.md)
 
-[Relics](war_items.md)
+[Relics](../refs/war_items.md)
 
 ### S
-[Science Resources](resources.md)
+[Science Resources](../refs/resources.md)
 
-[Saboteur](saboteur.md)
+[Saboteur](../refs/saboteur.md)
 
-[Sazhra](sazhra.md)
+[Sazhra](../refs/sazhra.md)
 
-[Sellswords](sellswords.md)
+[Sellswords](../refs/sellswords.md)
 
-[Silvans](silvans.md)
+[Silvans](../refs/silvans.md)
 
-[👤 SMURF](smurf.md)
+[👤 SMURF](../refs/smurf.md)
 
-[Something Tacensis Rock](something.md)
+[Something Tacensis Rock](../refs/something.md)
 
-[Support](support.md)
+[Support](../refs/support.md)
 
-[Synaxos Fields](synaxos_fields.md)
+[Synaxos Fields](../refs/synaxos_fields.md)
 
 ### T
-[Towers of MindTech Institute](institute_fortress_inner.md)
+[TITLE](../refs/admincity.md)
 
-[🎡 The Particle Collitionist](partcile_collitionist.md)
+[Towers of MindTech Institute](../refs/institute_fortress_inner.md)
 
-[Tree Huggers](protectores_silva.md)
+[🎡 The Particle Collitionist](../refs/partcile_collitionist.md)
 
-[TITLE](southern_sea.md)
+[Tree Huggers](../refs/protectores_silva.md)
 
-[Temporal Resources](temporal_resources.md)
+[TITLE](../refs/singularity_valley.md)
 
-[Timeless Desert](timeless_desert.md)
+[TITLE](../refs/southern_sea.md)
 
-[Timeline](timeline.md)
+[Temporal Resources](../refs/temporal_resources.md)
 
-[To do "a Bumps"](to_do_a_bumps.md)
+[Timeless Desert](../refs/timeless_desert.md)
 
-[To do "a Loki"](to_do_a_loki.md)
+[Timeline](../refs/timeline.md)
 
-[🌳 Tree of Many Inquiries](tree_of_many_inquiries.md)
+[To do "a Bumps"](../refs/to_do_a_bumps.md)
+
+[To do "a Loki"](../refs/to_do_a_loki.md)
+
+[🌳 Tree of Many Inquiries](../refs/tree_of_many_inquiries.md)
+
+[TITLE](../refs/webified_hills.md)
 
 ### U
-[🌺 Underground Botanical Garden](botanical_garden.md)
+[🌺 Underground Botanical Garden](../refs/botanical_garden.md)
 
 ### W
-[Western Brickland](brickland_fortress.md)
+[Western Brickland](../refs/brickland_fortress.md)
 
-[Weapons](war_items.md)
+[Weapons](../refs/war_items.md)
 
-[WAR items](war_items.md)
+[WAR items](../refs/war_items.md)
 
 ### X
-[Xyrclaox Watch](xyrclaox_watch.md)
+[Xyrclaox Watch](../refs/xyrclaox_watch.md)
 
 ### Y
-[You](you.md)
+[You](../refs/you.md)
 
 ### Z
-[Zeithalt Zeitgeist newspaper](zeithalt_zeitgeist.md)
+[Zeithalt Zeitgeist newspaper](../refs/zeithalt_zeitgeist.md)
 
-[🌟 ZIPP Lines](zipp_lines.md)
+[🌟 ZIPP Lines](../refs/zipp_lines.md)

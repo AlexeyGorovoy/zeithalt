@@ -2,14 +2,14 @@
 
 `🪧 Place`
 
-It is a thirty-storey building with a vaguely triangular plan, surrounded by the [outer walls](institute_fortress_outer.md). At each corner stands a tower, different from the others in shape and size.
+It is a thirty-storey building with a vaguely triangular plan, surrounded by the [outer walls](../refs/institute_fortress_outer.md). At each corner stands a tower, different from the others in shape and size.
 
 The building houses the seat of government: the Council of the Wise. Many rooms are not open to the public and their use is unknown.
 
 The Towers, distinguished by a colour, are: 
 - the *Orange Tower*, which hosts the students, candidates to be part of the Institute.
-- the *Blue Tower* is reserved for members of the Institute who study the culture of the southwestern faction, [Delta Collective](delta_collective.md).
-- finally, the *Green Tower* hosts the members who deal with everything related to the northern faction, [Cybernetics Inc](cybernetics_inc.md).
+- the *Blue Tower* is reserved for members of the Institute who study the culture of the southwestern faction, [Delta Collective](../refs/delta_collective.md).
+- finally, the *Green Tower* hosts the members who deal with everything related to the northern faction, [Cybernetics Inc](../refs/cybernetics_inc.md).
 
 - Lessons relating to the faction being studied take place in the Blue and Green Towers.
 
