@@ -1,4 +1,4 @@
-## Egg Festival
+## 🥚 Egg Festival
 
 `🪧 Place` in [Cerene Vale](../refs/cerene_vale.md)
 
