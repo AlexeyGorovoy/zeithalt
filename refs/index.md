@@ -1,8 +1,10 @@
 # Index 
-[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [R](#R) [S](#S) [T](#T) [U](#U) [W](#W) [X](#X) [Y](#Y) [Z](#Z)
+[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z)
 
 ### A
 [Aas Forest](../refs/aas_forest.md)
+
+[Admincity](../refs/admincity.md)
 
 [Age of Battles](../refs/age_of_battles.md)
 
@@ -194,26 +196,24 @@
 
 [Silvans](../refs/silvans.md)
 
+[Singularity Valley](../refs/singularity_valley.md)
+
 [👤 SMURF](../refs/smurf.md)
 
 [Something Tacensis Rock](../refs/something.md)
+
+[Southern Sea](../refs/southern_sea.md)
 
 [Support](../refs/support.md)
 
 [Synaxos Fields](../refs/synaxos_fields.md)
 
 ### T
-[TITLE](../refs/admincity.md)
-
 [Towers of MindTech Institute](../refs/institute_fortress_inner.md)
 
 [🎡 The Particle Collitionist](../refs/partcile_collitionist.md)
 
 [Tree Huggers](../refs/protectores_silva.md)
-
-[TITLE](../refs/singularity_valley.md)
-
-[TITLE](../refs/southern_sea.md)
 
 [Temporal Resources](../refs/temporal_resources.md)
 
@@ -227,10 +227,13 @@
 
 [🌳 Tree of Many Inquiries](../refs/tree_of_many_inquiries.md)
 
-[TITLE](../refs/webified_hills.md)
-
 ### U
 [🌺 Underground Botanical Garden](../refs/botanical_garden.md)
+
+### V
+[Valhalla Bar](../refs/valhalla_bar.md)
+
+[Valkyrie Spec Ops](../refs/valkyrie_specops.md)
 
 ### W
 [Western Brickland](../refs/brickland_fortress.md)
@@ -238,6 +241,8 @@
 [Weapons](../refs/war_items.md)
 
 [WAR items](../refs/war_items.md)
+
+[Webified Hills](../refs/webified_hills.md)
 
 ### X
 [Xyrclaox Watch](../refs/xyrclaox_watch.md)
