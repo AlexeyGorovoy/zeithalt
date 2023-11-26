@@ -1,5 +1,5 @@
 # Index 
-[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z)
+[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
 ### A
 [Aas Forest](../refs/aas_forest.md)
@@ -95,7 +95,7 @@
 [GreenOtter](../refs/greenotter.md)
 
 ### H
-[haxAgon](../refs/hexagon.md)
+[hexAgon](../refs/hexagon.md)
 
 ### I
 [Illusion Cliffs](../refs/illusion_cliffs.md)

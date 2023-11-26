@@ -54,7 +54,7 @@ fun main() {
     val reference = letters
         .sorted()
         .joinToString(" ") { letter ->
-            "[$letter](#${letter})"
+            "[$letter](#${letter.lowercase()})"
         }
 
     val output = File("refs/index.md")
