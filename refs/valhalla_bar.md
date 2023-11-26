@@ -1,16 +1,10 @@
 ## Valhalla Bar
 
-`📃 To-do list`
+`🪧 Place` in [Oblivion Mire](../refs/oblivion_mire.md)
 
-This entry has not been written yet.
+Build on eon 480 by [MindTech Institute](../refs/mindtech_institute.md)
 
-Will you write the text for it?
-
-Will you request others to that?
-
-You can do both [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>)
 <!---
-tag: todo
-keywords:  
+keywords:  mt, oblivion mire
 aliases: 
 -->

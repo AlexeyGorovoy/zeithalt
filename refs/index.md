@@ -1,5 +1,5 @@
 # Index 
-[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
+[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
 ### A
 [Aas Forest](../refs/aas_forest.md)
@@ -16,12 +16,30 @@
 
 [Alexx](../refs/alexx.md)
 
+[🐙 Altar of Ctulhu](../refs/altar_of_ctulhu.md)
+
+[📚 Archives of Subconsciousness](../refs/archives_of_subcon.md)
+
+[Ares Gardens](../refs/ares_gardens.md)
+
+[🛣️ Axonite Road](../refs/axonite_road.md)
+
 [Armor](../refs/war_items.md)
 
 ### B
+[⚗️ Bioengineered Algae Farm](../refs/algae_farm.md)
+
+[🎋 Bamboo Grove](../refs/bamboo_grove.md)
+
 [Bank of Zeithalt](../refs/bank_of_zeithalt.md)
 
+[🔱 Beacon for the Sight of Innovation](../refs/beacon_of_innovation.md)
+
+[🕯️ Beacon for the Light of Reason](../refs/beacon_of_reason.md)
+
 [Blue Screen Lagoon](../refs/blue_screen_lagoon.md)
+
+[🍺 Brewery](../refs/brewery.md)
 
 [Brickland Fortress](../refs/brickland_fortress.md)
 
@@ -30,6 +48,8 @@
 [Bumpus Mackamarus Arbum](../refs/bumps.md)
 
 ### C
+[🏢 Center for Anomaly Control](../refs/center_for_anomaly_control.md)
+
 [Cerene Vale](../refs/cerene_vale.md)
 
 [Chaotic Plains](../refs/chaotic_plains.md)
@@ -37,6 +57,8 @@
 [Chronoglass](../refs/chronoglass.md)
 
 [ChronoGlass™️](../refs/chronoglass_tm.md)
+
+[☁️ Cloudy Data Center](../refs/cloudy_co_datacenter.md)
 
 [Common language](../refs/common_language.md)
 
@@ -77,10 +99,14 @@
 
 [🎰 Dino's Gambling Den](../refs/dinos_gambling_den.md)
 
+[Duck Farm](../refs/duck_farm.md)
+
 [Double-Z](../refs/zeithalt_zeitgeist.md)
 
 ### E
 [Eastern Brickland](../refs/brickland_fortress.md)
+
+[Egg Festival](../refs/egg_festival.md)
 
 [Eon](../refs/eon.md)
 
@@ -89,10 +115,16 @@
 ### F
 [Fighters Guild](../refs/fighters_guild.md)
 
+[🏢 Fighters Guild, CI Branch](../refs/fighters_guilt_branch_ci.md)
+
 [Fortifications](../refs/fortifications.md)
 
 ### G
+[💿 Gaia Knowledge Database](../refs/gaia_knowledbe_db.md)
+
 [Garrisons](../refs/garrisons.md)
+
+[🏹 Giant Slingshot](../refs/giant_slingshot.md)
 
 [Great AI](../refs/great_ai.md)
 
@@ -111,8 +143,15 @@
 ### J
 [🎊 Jackbox Party Central](../refs/jackbox_party_central.md)
 
+[🦖 Jurassic Park](../refs/jurassic_park.md)
+
+### K
+[🕸️ K2 Fibers](../refs/k2_fibers.md)
+
 ### L
 [Lake Corsair](../refs/lake_corsair.md)
+
+[🗼 Lime Tower](../refs/lime_tower.md)
 
 [Loki](../refs/loki.md)
 
@@ -123,7 +162,11 @@
 
 [Map Legend](../refs/map_legend.md)
 
+[🪆 Matryoshka Idoll](../refs/matryoshka_idoll.md)
+
 [Meadowridge](../refs/meadowridge.md)
+
+[Military Academy](../refs/military_academy.md)
 
 [Mimb](../refs/mimb.md)
 
@@ -139,7 +182,13 @@
 
 [🔬 Modern CR Research Facility](../refs/modern_cr_research_facility.md)
 
+[Money Factory](../refs/money_factory.md)
+
+[🎲 Monument to Chaos](../refs/monument_to_chaos.md)
+
 [Mt. Pickles](../refs/mt_pickles.md)
+
+[💾 Museum of Archaic Technology](../refs/museum_of_archaic_tech.md)
 
 [--- Mimbot's Index ---](../refs/refs_index.md)
 
@@ -162,7 +211,13 @@
 
 [Peace Death Gorge](../refs/peace_death_gorge.md)
 
+[PEBKAC Peak](../refs/pebkac_peak.md)
+
 [🌿 Photosynthetic Power Station](../refs/photosynthetic_power_station.md)
+
+[⛽️ Pickled Ooblek Deli](../refs/pickled_ooblek_deli.md)
+
+[Pirate Harbor](../refs/pirate_harbor.md)
 
 [🍕 PIZZA](../refs/pizza.md)
 
@@ -172,18 +227,21 @@
 
 [Protectores Silva](../refs/protectores_silva.md)
 
-[PTSD](../refs/PTSD.md)
+[PTSD](../refs/ptsd.md)
 
 [💰 PTSD Office](../refs/ptsd_office.md)
 
 [Purple Deeps](../refs/purple_deeps.md)
 
+### Q
+[🛰️ Quantum Nexus Laboratory](../refs/quantum_nexus_lab.md)
+
 ### R
 [Rebels](../refs/rebels.md)
 
-[🏭 Resource Management Facility](../refs/resouece_management_facility.md)
-
 [Resources (RES)](../refs/resources.md)
+
+[🏭 Resource Management Facility](../refs/resource_management_facility.md)
 
 [Revalx](../refs/revalx.md)
 
@@ -202,11 +260,19 @@
 
 [Singularity Valley](../refs/singularity_valley.md)
 
+[🧜‍♀️ Siren's Lighthouse](../refs/sirens_lighthouse.md)
+
+[SmartHome Tech](../refs/smarthome_tech.md)
+
 [👤 SMURF](../refs/smurf.md)
 
 [Something Tacensis Rock](../refs/something.md)
 
 [Southern Sea](../refs/southern_sea.md)
+
+[Spaceport](../refs/spaceport.md)
+
+[🗽 Statue of Mimb](../refs/statue_of_mimb.md)
 
 [Support](../refs/support.md)
 
@@ -220,6 +286,10 @@
 [🎡 The Particle Collitionist](../refs/partcile_collitionist.md)
 
 [Tree Huggers](../refs/protectores_silva.md)
+
+[🪩 The Sacred Sphere](../refs/sacred_sphere.md)
+
+[🫖 Tea Emporium](../refs/tea_emporium.md)
 
 [Temporal Resources](../refs/temporal_resources.md)
 
@@ -236,10 +306,20 @@
 ### U
 [🌺 Underground Botanical Garden](../refs/botanical_garden.md)
 
+[⚙️ Underwater Turbine Power Plant](../refs/underwater_power_plant.md)
+
 ### V
 [Valhalla Bar](../refs/valhalla_bar.md)
 
 [Valkyrie Spec Ops](../refs/valkyrie_specops.md)
+
+[Virtuara Outpost](../refs/virtuara_outpost.md)
+
+[🦈 Void Shark Hatchery](../refs/void_shark_hatchery.md)
+
+[♨️ Volcanic Jacuzzi](../refs/volcanic_jacuzzi.md)
+
+[🌋 Volcano Influeno](../refs/volcano_influeno.md)
 
 ### W
 [Western Brickland](../refs/brickland_fortress.md)
@@ -248,15 +328,25 @@
 
 [WAR items](../refs/war_items.md)
 
+[🎏 Weather Tower Relay](../refs/weather_tower_relay.md)
+
 [Webified Hills](../refs/webified_hills.md)
 
+[Wildlife Preservation](../refs/wildlife_preservation.md)
+
 ### X
+[🎨 Xiavente's Meme Workshop](../refs/meme_workshop.md)
+
 [Xyrclaox Watch](../refs/xyrclaox_watch.md)
 
 ### Y
 [You](../refs/you.md)
 
 ### Z
+[🦁 Zeithalt Pet Zoo and Animal Shelter](../refs/animal_shelter.md)
+
 [Zeithalt Zeitgeist newspaper](../refs/zeithalt_zeitgeist.md)
+
+[🗼 Zikkurat](../refs/zikkurat.md)
 
 [🌟 ZIPP Lines](../refs/zipp_lines.md)

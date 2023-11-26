@@ -1,6 +1,6 @@
 ## 🌳 Tree of Many Inquiries
 
-**🪧 Place** in Cybertron Jungle
+**🪧 Place** in [Cybertron Jungle](../refs/cybertron_jungle.md)
 
 The Tree of Many Inquiries (TMI) is a huge oak tree that was discovered by PS in the depths of Cybertron Jungle in Eon 472.
 
