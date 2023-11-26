@@ -21,6 +21,8 @@
 ### B
 [Bank of Zeithalt](../refs/bank_of_zeithalt.md)
 
+[Blue Screen Lagoon](../refs/blue_screen_lagoon.md)
+
 [Brickland Fortress](../refs/brickland_fortress.md)
 
 [Brickspire Mountains](../refs/brickspire_mountains.md)

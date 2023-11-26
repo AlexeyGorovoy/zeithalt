@@ -1,3 +1,10 @@
+## Eon 730 - PS give Blue Screen Lagoon to CI
+
+`⌛ Event`
+
+[Protectores Silva](../refs/protectores_silva.md) gives control over [Blue Screen Lagoon](../refs/blue_screen_lagoon.md) to [Cybernetics Inc](../refs/cybernetics_inc.md) upon their mutual agreement.
+
+![Battle Map](../timeline/map/eon0730.png) [map legend](../refs/map_legend.md)
 ## Eon 723 - 2nd Sabotage in the Desert
 
 `⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md)
