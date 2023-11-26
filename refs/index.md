@@ -209,6 +209,10 @@
 [Synaxos Fields](../refs/synaxos_fields.md)
 
 ### T
+[The Algorithms](../refs/great_ai.md)
+
+[TITLE](../refs/great_ai.md)
+
 [Towers of MindTech Institute](../refs/institute_fortress_inner.md)
 
 [🎡 The Particle Collitionist](../refs/partcile_collitionist.md)
