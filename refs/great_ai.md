@@ -1,4 +1,4 @@
-## The Great AI
+## Great AI
 
 `📃 To-do list`
 

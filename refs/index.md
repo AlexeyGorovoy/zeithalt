@@ -92,6 +92,8 @@
 ### G
 [Garrisons](../refs/garrisons.md)
 
+[Great AI](../refs/great_ai.md)
+
 [GreenOtter](../refs/greenotter.md)
 
 ### H
@@ -210,8 +212,6 @@
 
 ### T
 [The Algorithms](../refs/great_ai.md)
-
-[The Great AI](../refs/great_ai.md)
 
 [Towers of MindTech Institute](../refs/institute_fortress_inner.md)
 
