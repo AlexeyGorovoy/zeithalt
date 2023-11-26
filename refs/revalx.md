@@ -1,16 +1,15 @@
 ## Revalx
 
-`📃 To-do list`
+`🧙‍♂️ Character`
 
-This entry has not been written yet.
+Reticula Valxion (/Reh-ti-cyu-lah Valk-see-on/), or Revalx (/Reh-valks/), is a strategist and field tactician who leads multiple squads of various members in the battlefield. 
 
-Will you write the text for it?
+A former Minister of Defense during his time in MindTech Institute, he assumes the position as a Tactical Field Commander of the [Valkyrie Spec Ops](../refs/valkyrie_specops.md), an independent mercenary service.
 
-Will you request others to that?
+He co-founded the [Fighters Guild](../refs/fighters_guild.md) with other prominent sellswords and act as a proxy on the behalf of his squads to fund their combat operations.
 
-You can do both [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>)
 
 <!---
-keywords: todo
+keywords: revalx, valkyrie, mercenary, mt, character
 aliases: 
 -->
