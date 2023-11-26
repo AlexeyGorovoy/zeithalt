@@ -1,4 +1,4 @@
-## SmartHome Tech
+## 💡 SmartHome Tech
 
 `🪧 Place` in [Neuropolis](../refs/neuropolis.md)
 

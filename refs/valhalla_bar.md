@@ -1,4 +1,4 @@
-## Valhalla Bar
+## 🥡 Valhalla Bar
 
 `🪧 Place` in [Oblivion Mire](../refs/oblivion_mire.md)
 

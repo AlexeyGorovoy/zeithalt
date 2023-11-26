@@ -1,4 +1,4 @@
-## Spaceport
+## 🛸 Spaceport
 
 `🪧 Place` in [Chaotic Plains](../refs/chaotic_plains.md)
 

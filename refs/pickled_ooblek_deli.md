@@ -1,6 +1,6 @@
 ## ⛽️ Pickled Ooblek Deli
 
-`🪧 Place` in [Dev Null Marsh](../refs/dev_null_marsh.md)
+`🪧 Place` in [Mt. Pickles](../refs/mt_pickles.md)
 
 Built on eon 555 by [Cybernetics Inc](../refs/cybernetics_inc.md)
 

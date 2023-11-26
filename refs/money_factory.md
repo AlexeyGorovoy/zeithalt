@@ -1,4 +1,4 @@
-## Money Factory
+## 🏦 Money Factory
 
 `🪧 Place` in [Imperial Swamp](../refs/imperial_swamp.md)
 

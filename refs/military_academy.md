@@ -1,4 +1,4 @@
-## Military Academy
+## 🏯 Military Academy
 
 `🪧 Place` in [Xyrclaox Watch](../refs/xyrclaox_watch.md)
 

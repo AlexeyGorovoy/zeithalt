@@ -99,7 +99,7 @@
 
 [🎰 Dino's Gambling Den](../refs/dinos_gambling_den.md)
 
-[Duck Farm](../refs/duck_farm.md)
+[🦆 Duck Farm](../refs/duck_farm.md)
 
 [Double-Z](../refs/zeithalt_zeitgeist.md)
 
@@ -115,7 +115,7 @@
 ### F
 [Fighters Guild](../refs/fighters_guild.md)
 
-[🏢 Fighters Guild, CI Branch](../refs/fighters_guilt_branch_ci.md)
+[🏢 Fighters Guild, CI Branch](../refs/fighters_guild_ci_branch.md)
 
 [Fortifications](../refs/fortifications.md)
 
@@ -166,7 +166,7 @@
 
 [Meadowridge](../refs/meadowridge.md)
 
-[Military Academy](../refs/military_academy.md)
+[🏯 Military Academy](../refs/military_academy.md)
 
 [Mimb](../refs/mimb.md)
 
@@ -182,7 +182,7 @@
 
 [🔬 Modern CR Research Facility](../refs/modern_cr_research_facility.md)
 
-[Money Factory](../refs/money_factory.md)
+[🏦 Money Factory](../refs/money_factory.md)
 
 [🎲 Monument to Chaos](../refs/monument_to_chaos.md)
 
@@ -209,6 +209,8 @@
 ### P
 [Paradox PAss](../refs/paradox_pass.md)
 
+[🎡 Particle Collitionist](../refs/partcile_collitionist.md)
+
 [Peace Death Gorge](../refs/peace_death_gorge.md)
 
 [PEBKAC Peak](../refs/pebkac_peak.md)
@@ -217,7 +219,7 @@
 
 [⛽️ Pickled Ooblek Deli](../refs/pickled_ooblek_deli.md)
 
-[Pirate Harbor](../refs/pirate_harbor.md)
+[🏴‍☠️ Pirate Harbor](../refs/pirate_harbor.md)
 
 [🍕 PIZZA](../refs/pizza.md)
 
@@ -262,7 +264,7 @@
 
 [🧜‍♀️ Siren's Lighthouse](../refs/sirens_lighthouse.md)
 
-[SmartHome Tech](../refs/smarthome_tech.md)
+[💡 SmartHome Tech](../refs/smarthome_tech.md)
 
 [👤 SMURF](../refs/smurf.md)
 
@@ -270,7 +272,7 @@
 
 [Southern Sea](../refs/southern_sea.md)
 
-[Spaceport](../refs/spaceport.md)
+[🛸 Spaceport](../refs/spaceport.md)
 
 [🗽 Statue of Mimb](../refs/statue_of_mimb.md)
 
@@ -282,8 +284,6 @@
 [The Algorithms](../refs/great_ai.md)
 
 [Towers of MindTech Institute](../refs/institute_fortress_inner.md)
-
-[🎡 The Particle Collitionist](../refs/partcile_collitionist.md)
 
 [Tree Huggers](../refs/protectores_silva.md)
 
@@ -309,7 +309,7 @@
 [⚙️ Underwater Turbine Power Plant](../refs/underwater_power_plant.md)
 
 ### V
-[Valhalla Bar](../refs/valhalla_bar.md)
+[🥡 Valhalla Bar](../refs/valhalla_bar.md)
 
 [Valkyrie Spec Ops](../refs/valkyrie_specops.md)
 
@@ -332,7 +332,7 @@
 
 [Webified Hills](../refs/webified_hills.md)
 
-[Wildlife Preservation](../refs/wildlife_preservation.md)
+[🐅 Wildlife Preservation](../refs/wildlife_preservation.md)
 
 ### X
 [🎨 Xiavente's Meme Workshop](../refs/meme_workshop.md)

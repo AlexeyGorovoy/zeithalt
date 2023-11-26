@@ -1,4 +1,4 @@
-## Pirate Harbor
+## 🏴‍☠️ Pirate Harbor
 
 `🪧 Place` in [Purple Deeps](../refs/purple_deeps.md)
 

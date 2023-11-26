@@ -1,4 +1,4 @@
-## Duck Farm
+## 🦆 Duck Farm
 
 `🪧 Place` in [Indigo Shore](../refs/indigo_shore.md)
 

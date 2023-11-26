@@ -1,4 +1,4 @@
-## 🎡 The Particle Collitionist
+## 🎡 Particle Collitionist
 
 **🪧 Place** in [Timeless Desert](../refs/timeless_desert.md)
 

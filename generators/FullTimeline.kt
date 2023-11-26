@@ -21,8 +21,6 @@ fun main () {
         }
         ?.joinToString("\n")
 
-    println(links)
-
     val output = File("timeline/index.md")
     output.writeText(links ?: "none")
 

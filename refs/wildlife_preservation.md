@@ -1,4 +1,4 @@
-## Wildlife Preservation
+## 🐅 Wildlife Preservation
 
 `🪧 Place` in [Ares Gardens](../refs/ares_gardens.md)
 
