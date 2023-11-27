@@ -8,6 +8,8 @@ It was founded to train tough and brave warriors for battle as well as develop i
 
 At the center of the academy is the _[Revalx](../refs/revalx.md) Memorial Park_, named after the former Ministry of Defense who founded the place. He is considered one of the outstanding leaders of his time. The infrastructure of the academy is further enhanced with the technology provided by [Cybernetics Inc](../refs/cybernetics_inc.md).
 
+[`🐙`](../refs/altar_of_ctulhu.md)
+
 <!---
 keywords: mt, xyrclaox watch 
 aliases: 
