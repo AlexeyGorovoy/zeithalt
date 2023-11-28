@@ -17,6 +17,115 @@ This tactic proves useful again, as the Cybers are able to trigger [CR Mines](..
 However, the battle itself was heavily dominated by [Deltan](../refs/deltans.md) forces helping MT defend, while Cybers and Silvans mostly conserved their forces for the upcoming MT retribution.
 
 ![Battle Map](../timeline/map/eon0723.png)
+## Eon 501 - The Failed Landing near Virtuara Outpost
+
+`⚔️ Battle` won by [Cybernetics Inc](../refs/cybernetics_inc.md)
+
+Attack by sea and at an unusual time - [Delta Collective](../refs/delta_collective.md) clearly hoped for swift and surprising attack…
+
+However, [Cybers](../refs/cybers.md) were prepared for that: defences were ready, troops anticipated the attack.
+
+Notable that in this battle [Protectores Silva](../refs/protectores_silva.md) broke their long-time habit of being neutral and sided with [Cybers](../refs/cybers.md) in this battle.
+
+[MindTech Institute](../refs/mindtech_institute.md) stayed neutral, making it a 1 vs 2 attack, with no land support.
+
+As a result - [Cybernetics Inc](../refs/cybernetics_inc.md) successfully fends off the [Deltan](../refs/deltans.md) threat and wins _The Failed Landing near Virtuara Outpost_.
+
+![Battle Map](../timeline/map/eon0501.png)
+
+## Eon 492 - CI and MT exchange lands
+
+`⌛ Event`
+
+[Cybernetics Inc](../refs/cybernetics_inc.md) and [MindTech Institute](../refs/mindtech_institute.md)  exchange lands upon their mutual agreement:
+- [Blue Screen Lagoon](../refs/blue_screen_lagoon.md) is now under control of [Cybernetics Inc](../refs/cybernetics_inc.md);
+- [Oblivion Mire](../refs/oblivion_mire.md) is now under control of [MindTech Institute](../refs/mindtech_institute.md).
+
+With this exchange the factions also release a joint statement that they have completed the process of returning the lands to their original owners.
+
+Will this mean an era of prosperity and peace for the two factions? Or will it be just a short break before the next conflict?
+
+![Battle Map](../timeline/map/eon0492.png)
+## Eon 491 - The Oblivious Battle on the Mire
+
+`⚔️ Battle` won by [Cybernetics Inc](../refs/cybernetics_inc.md)
+
+This battle turned out to be even longer and more unremarkable than the previous one.
+
+[Cybernetics Inc](../refs/cybernetics_inc.md) and [MindTech Institute](../refs/mindtech_institute.md) once again conducted another military exercise;
+[Delta Collective](../refs/delta_collective.md) and [Protectores Silva](../refs/protectores_silva.md) were mostly neutral, presumably once again been asked by two other faction to stay neutral.
+
+All-in-all, nothing really special, except for the hilarious fact that members of MT’s government (presumably being intoxicated by the fumes of [Oblivion Mire](../refs/oblivion_mire.md)) forgot to issue an official message about place and time of the attack to their troops.
+
+This resulted in some of their forces attacking in the middle of the night, while others embarrassingly overslept the first half of the battle.
+
+Such forgetfulness of MT officials granted this battle its title - _The Oblivious Battle on the Mire_ 
+
+![Battle Map](../timeline/map/eon0491.png)
+
+## Eon 487 - CI and MT exchange lands
+
+`⌛ Event`
+
+[Cybernetics Inc](../refs/cybernetics_inc.md) and [MindTech Institute](../refs/mindtech_institute.md) exchange lands upon their mutual agreement:
+- [Paradox Pass](../refs/paradox_pass.md) is now under control of [MindTech Institute](../refs/mindtech_institute.md);
+- [Oblivion Mire](../refs/oblivion_mire.md) is now under control of [Cybernetics Inc](../refs/cybernetics_inc.md).
+
+![Battle Map](../timeline/map/eon0487.png)
+
+## Eon 481 - PS passes their attack turn
+
+`⌛ Event`
+
+[Protectores Silva](../refs/protectores_silva.md) passes their tack turn again.
+
+## Eon 480 - CI gives Xyrclaox Watch back to MT
+
+`⌛ Event`
+
+[Cybernetics Inc](../refs/cybernetics_inc.md) cedes control over [Xyrclaox Watch](../refs/xyrclaox_watch.md) back to
+[MindTech Institute](../refs/mindtech_institute.md) upon their mutual agreement.
+
+![Battle Map](../timeline/map/eon0480.png)
+## Eon 479 - The Crawling Battle of Xyrclaox Watch
+
+`⚔️ Battle` won by [Cybernetics Inc](../refs/cybernetics_inc.md)
+
+[The Watch’s](../refs/xyrclaox_watch.md) defenses prepared by [MindTech Institute](../refs/mindtech_institute.md) are good and attackers have to come from a narrow path to the lands… This offensive was never going to be easy.
+
+With [Protectores Silva](../refs/protectores_silva.md) and [Delta Collective](../refs/delta_collective.md) staying near perfectly neutral, this battle dragged on even more…
+
+Since the beginning of the battle, [Cybernetics Inc](../refs/cybernetics_inc.md) slowly but surely were closing the gap between them and the [Mind](../refs/minds.md), until in a final push they were able to secure the victory.
+
+The careful, slow and intense nature of the battle has granted it its name - _The Crawling Battle of [Xyrclaox Watch](../refs/xyrclaox_watch.md)_.
+
+![Battle Map](../timeline/map/eon0479.png)
+## Eon 469 - The Corrupted Battle of PEBKAC Peak
+
+`⚔️ Battle` won by [Cybernetics Inc](../refs/cybernetics_inc.md) (combined faction forces)
+
+All major factions of Zeithalt once again were able to show great unity in fighting-off the [Corruption](../refs/corruption.md) and pulled together a massive effort, narrowly winning against the ever-growing threat.
+
+The eons leading up to the battle showed unprecedented collaborations between [Cybernetics Inc](../refs/cybernetics_inc.md) and [Protectores Silva](../refs/protectores_silva.md). Factions temporarily traded lands and provided each other help in preparation for the  surge.
+
+During the battle, [MindTech Institute](../refs/mindtech_institute.md) fought on par with [Protectores Silva](../refs/protectores_silva.md), while [Delta Collective](../refs/delta_collective.md) were lagging a bit behind (though many attribute this to the battle starting at nighttime in Deltan time zone).
+
+Due to the success in The Corrupted Battle of [PEBKAC Peak](../refs/pebkac_peak.md) factions CR research projects move forward, giving more understanding on the nature of [Corruption](../refs/corruption.md).
+
+![Battle Map](../timeline/map/eon0469.png)
+## Eon 466 - CI and PS prepare for CR Battle
+
+`⌛ Event`
+
+As the whole Island is waiting for the next, potentially deadly, [Corruption](../refs/corruption.md) strike, [Cybernetics Inc](../refs/cybernetics_inc.md) and [Protectores Silva](../refs/protectores_silva.md) are preparing for the upcoming battle.
+
+They temporarily administrate each other's lands in [Brickland Fortress](../refs/brickland_fortress.md) and [PEBKAC Peak](../refs/pebkac_peak.md), respectively.
+
+Notable events that happened during the short time faction held each other’s lands:
+- CI built a 🔬 Modern CR Research Facility in [Brickland Fortress](../refs/brickland_fortress.md);
+- PS built fortifications in [PEBKAC Peak](../refs/pebkac_peak.md).
+
+![Battle Map](../timeline/map/eon0466.png)
 ## Eon 463 - DC gives Ares Gardens to PS
 
 `⌛ Event`

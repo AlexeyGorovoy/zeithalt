@@ -4,4 +4,3 @@ ${TITLE}
 
 DESCRIPTION
 
-![Battle Map](../timeline/map/eon#.png)

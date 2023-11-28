@@ -4,4 +4,4 @@ ${TITLE}
 
 DESCRIPTION
 
-![Battle Map](map/eonEON.png)
+
