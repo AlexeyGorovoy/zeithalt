@@ -4,4 +4,4 @@ ${TITLE}
 
 DESCRIPTION
 
-![Battle Map](map/eonEON.png) [map legend](../refs/map_legend.md)
+![Battle Map](map/eonEON.png)

@@ -106,7 +106,7 @@
 ### E
 [Eastern Brickland](../refs/brickland_fortress.md)
 
-[Egg Festival](../refs/egg_festival.md)
+[🥚 Egg Festival](../refs/egg_festival.md)
 
 [Eon](../refs/eon.md)
 

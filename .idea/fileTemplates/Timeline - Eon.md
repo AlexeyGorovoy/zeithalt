@@ -3,3 +3,5 @@ ${TITLE}
 `⌛ Event`
 
 DESCRIPTION
+
+![Battle Map](map/eonEON.png)

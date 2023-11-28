@@ -16,6 +16,164 @@ This tactic proves useful again, as the Cybers are able to trigger [CR Mines](..
 However, the battle itself was heavily dominated by [Deltan](../refs/deltans.md) forces helping MT defend, while Cybers and Silvans mostly conserved their forces for the upcoming MT retribution.
 
 ![Battle Map Eon 723](../timeline/map/eon0723.png) [map legend](../refs/map_legend.md)
+## Eon 463 - TITLE
+
+`⌛ Event`
+
+[Delta Collective](../refs/delta_collective.md) gives control over [Ares Gardens](../refs/ares_gardens.md) to [Protectores Silva](../refs/protectores_silva.md) upon their mutual agreement.
+
+![Battle Map](map/eon0463.png)
+## Eon 462 - The 2nd Siege of Neuropolis
+
+`⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md)
+
+Quite surprisingly, in this battle [Delta Collective](../refs/delta_collective.md) - known for their chaotic and warring spirit - seemingly decided to follow [Protectores Silva](../refs/protectores_silva.md) steps, as both these faction stayed neutral.
+
+[Cybernetics Inc](../refs/cybernetics_inc.md) defending effort was good, but well outmatched by [MindTech Institute](../refs/mindtech_institute.md) attacking power.
+
+Important thing to note is that during this battle the deal between [Cybers](../refs/cybers.md) and [Minds](../refs/minds.md) to trade [Paradox Pass](../refs/paradox_pass.md) (becomes CI land) for [Illusion Cliffs](../refs/illusion_cliffs.md) (goes to MT) was uncovered, raising more questions from other factions.
+
+![Battle Map](map/eon0462.png)
+## Eon 452 - Technological advancement - Taxes and Land Income
+
+`⌛ Event`
+
+In the time between battles [Bank of Zeithalt](../refs/bank_of_zeithalt.md) introduces taxes - land income and battle tax:
+- battle tax is imposed upon faction members as a way to fill up faction treasuries;
+- land income is collected by factions from the lands under their control.
+
+Factions immediately started investing into their own economy by building land improvements that earn more income:
+- [Cybernetics Inc](../refs/cybernetics_inc.md) builds `💡SmartHome Tech` in [Neuropolis](../refs/neuropolis.md);
+- [Protectores Silva](../refs/protectores_silva.md) builds `🌿 Photosynthetic Power Station` in [A’as Forest](../refs/aas_forest.md).
+
+## Eon 451 - The Blitz Battle of Peace Death Gorge
+
+`⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md)
+
+[Delta Collective](../refs/delta_collective.md) gather considerable power of own men and hired sellswords to organize a successful blitz attack on [Peace Death Gorge](../refs/peace_death_gorge.md), reclaiming this land back under control.
+
+Both [Cybernetics Inc](../refs/cybernetics_inc.md) (defending side) and [Protectores Silva](../refs/protectores_silva.md) (staying neutral, as usual) keep very low profiles, having almost no effect on the outcome of the battle.
+
+[MindTech Institute](../refs/mindtech_institute.md) quite unexpectedly joins the offensive. It’s unclear if their intervention was an effort to help the [Deltans](../refs/deltans.md), or an attempt of hijacking their attack. Either way, [Minds](../refs/minds.md) power was not enough to contest the confident win by [Delta Collective](../refs/delta_collective.md).
+
+![Battle Map](map/eon0451.png)
+## Eon 441 - The Lakeside Battle of Webified Hills
+
+`⚔️ Battle` won by [Cybernetics Inc](../refs/cybernetics_inc.md)
+
+In a stunning and unexpected attack near the [Lake Corsair](../refs/lake_corsair.md), [Cybers](../refs/cybers.md) reclaim their lands in _The Lakeside Battle of [Webified Hills](../refs/webified_hills.md)_.
+
+[Delta Collective](../refs/delta_collective.md) valiantly attempts to defend the territory but are ultimately unsuccessful due to bad preparation - they clearly were expecting an attack somewhere else, having almost no defense setup in the [Hills](../refs/webified_hills.md).
+
+Notable that [MindTech Institute](../refs/mindtech_institute.md) strongly supported the Cybers’ attack, however some of their members and paid sell-swords did hits helping [Deltan](../refs/deltans.md) defenses too.
+
+[Protectores Silva](../refs/protectores_silva.md) stayed true to their resolve of being a neutral force, hitting equally for both sides to earn some gold.
+
+![Battle Map](map/eon0441.png)
+## Eon 425 - PS passes their attack turn
+
+`⌛ Event`
+
+[Protectores Silva](../refs/protectores_silva.md) passes their tack turn again.
+
+## Eon 432 - The Battle of Corrupted Marshes
+
+`⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md) (combined faction forces)
+
+In this battle factions once again stood strong against the [Corruption](../refs/corruption.md), winning with quite a margin.
+
+However, this battles was not without surprises - [Deltans](../refs/deltans.md) forces were considerable more powerful than other factions, while [MindTech Institute](../refs/mindtech_institute.md) performance was so underwhelming, that [Protectores Silva](../refs/protectores_silva.md) was the second best.
+
+![Battle Map](map/eon0432.png)
+## Eon 425 - PS passes their attack turn
+
+`⌛ Event`
+
+[Protectores Silva](../refs/protectores_silva.md) passes their tack turn with the following message to other factions:
+
+> *PS is happy we see no reason to attack another faction. We're busy with our restorative efforts on Zeithalt and hope all other factions will help us in our important work.*
+
+## Eon 423 - The Foolish Battle of Timeless Desert
+
+`⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md)
+
+In this daring attack [Delta Collective](../refs/delta_collective.md) severely miscalculated and misinterpreted the current situation and launched unsupported attack on [Timeless Desert](../refs/timeless_desert.md).
+
+Met by the defense of all 3 other factions, this attack was destined to fail from the beginning, given this battle its title - _The Foolish Battle of Timeless Desert_.
+
+![Battle Map](map/eon0423.png)
+## Eon 419 - 3-way land exchange between CI, MT and PS
+
+`⌛ Event`
+
+[Cybernetics Inc](../refs/cybernetics_inc.md), [MindTech Institute](../refs/mindtech_institute.md) and [Protectores Silva](../refs/protectores_silva.md) exchange lands in a three-way agreement:
+ - [Brickland Fortress](../refs/brickland_fortress.md) is now under control of [Protectores Silva](../refs/protectores_silva.md);
+ - [Mt. Pickles](../refs/mt_pickles.md) is now under control of [Cybernetics Inc](../refs/cybernetics_inc.md);
+ - [Synaxos Fields](../refs/synaxos_fields.md) is now under control of [MindTech Institute](../refs/mindtech_institute.md).
+
+![Battle Map](../timeline/map/eon0419.png)
+## Eon 418 - CI and DC exchange lands
+
+`⌛ Event`
+
+[Cybernetics Inc](../refs/cybernetics_inc.md) and [Delta Collective](../refs/delta_collective.md) exchange lands upon their mutual agreement:
+- [Peace Death Gorge](../refs/peace_death_gorge.md) is now under control of [Cybernetics Inc](../refs/cybernetics_inc.md);
+- [Webified Hills](../refs/webified_hills.md) are now under control of [Delta Collective](../refs/delta_collective.md).
+
+![Battle Map](../timeline/map/eon0418.png)
+## Eon 413 - The Battle of Legoland Fortress
+
+`⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md)
+
+This battle is dubbed “of Legoland Fortress” my some MT members because after two failed attempts, on the third try the [fortress](../refs/brickland_fortress.md) finally crumbled.
+
+This battle questionably marks the end of [Cybernetics Inc](../refs/cybernetics_inc.md) and [Delta Collective](../refs/delta_collective.md) partnership, as [Deltans](../refs/deltans.md) are left unsatisfied by [Cybers](../refs/cybers.md) underwhelming participation in battle.
+
+On the other hand, only a fraction of Cybers supported MT in this battle, what probably left [Minds](../refs/minds.md) unimpressed too.
+
+The tensions are rising, alliances are shaking. It seems only [Protectores Silva](../refs/protectores_silva.md) manages to not worsen it’s position in this battle, by keeping low profile - a position, understandable for a small and so far a peaceful faction.
+
+![Battle Map](map/eon0413.png)
+## Eon EON - CI and MT exchange lands
+
+`⌛ Event`
+
+[Cybernetics Inc](../refs/cybernetics_inc.md) and [MindTech Institute](../refs/mindtech_institute.md) exchange lands upon their mutual agreement:
+- [Blue Screen Lagoon](../refs/blue_screen_lagoon.md) is now under control of [MindTech Institute](../refs/mindtech_institute.md);
+- [Illusion Cliffs](../refs/illusion_cliffs.md) are now under control of [Cybernetics Inc](../refs/cybernetics_inc.md). 
+
+![Battle Map](../timeline/map/eon0407.png)
+## Eon 402 - The Night Battle of Paradox Pass
+
+`⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md)
+
+[Minds](../refs/minds.md) were able to defend their lands in this battle, with the help of [Protectores Silva](../refs/protectores_silva.md) (and some [Deltan](../refs/deltans.md) involvement in the end of the battle).
+
+Worth noting that both MT garrisons were located in the area, greatly helping with defences - as if Minds wildly gambled or been informed of the attack.
+
+This battle happened at night time for most of the participants and took longer than usual to finish, granting its name - The Night Battle of [Paradox Pass](../refs/paradox_pass.md).
+
+![Battle Map](map/eon0402.png)
+## Eon EON - 2nd Battle of Corrupted Desert
+
+`⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md) (combined faction forces)
+
+The participation was high and battle ended rather quickly.
+
+Due to various factors and the recent spike in activity and commitment, this battle against the [Corruption](../refs/corruption.md) was less intense than the last one and many think it was won much easier this time.
+
+Does it mean that the next time the [Corruption](../refs/corruption.md) will strike harder?
+
+![Battle Map](map/eon0391.png)
+## Eon 386 - DC and CI exchange lands 2 for 2
+
+`⌛ Event`
+
+[Delta Collective](../refs/delta_collective.md) and [Cybernetics Inc](../refs/cybernetics_inc.md) reach an agreement to exchange lands:
+- [Neuropolis](../refs/neuropolis.md) and [Synaxos Fields](../refs/synaxos_fields.md) (captured by Deltans) go to Delta Collective;
+- [Indigo Shore](../refs/indigo_shore.md) and [Dev Null Marsh](../refs/dev_null_marsh.md) got to Cybernetics Inc.
+
+![Battle Map Eon](../timeline/map/eon0386.png)
 ## Eon 384 - The Siege of Neuropolis
 
 `⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md)
@@ -30,7 +188,7 @@ When faced with a choice whether to keep the city or let Neuropolis burn to the 
 
 All the fires remaining after battle were promptly put out, the immediate restoration of city walls began, Deltan officials started the effort to restore peaceful life in the city.
 
-![Battle Map Eon 0384](../timeline/map/eon0384.png)
+![Battle Map Eon](../timeline/map/eon0384.png)
 ## Eon 375 - The 4h Battle of Mt. Pickles
 
 `⚔️ Battle` won by [Protectores Silva](../refs/protectores_silva.md) (military exercise)
