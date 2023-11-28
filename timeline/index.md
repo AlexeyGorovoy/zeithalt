@@ -4,7 +4,8 @@
 
 [Protectores Silva](../refs/protectores_silva.md) gives control over [Blue Screen Lagoon](../refs/blue_screen_lagoon.md) to [Cybernetics Inc](../refs/cybernetics_inc.md) upon their mutual agreement.
 
-![Battle Map](../timeline/map/eon0730.png) [map legend](../refs/map_legend.md)
+![Battle Map](../timeline/map/eon0730.png)
+
 ## Eon 723 - 2nd Sabotage in the Desert
 
 `⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md)
@@ -15,7 +16,7 @@ This tactic proves useful again, as the Cybers are able to trigger [CR Mines](..
 
 However, the battle itself was heavily dominated by [Deltan](../refs/deltans.md) forces helping MT defend, while Cybers and Silvans mostly conserved their forces for the upcoming MT retribution.
 
-![Battle Map Eon 723](../timeline/map/eon0723.png) [map legend](../refs/map_legend.md)
+![Battle Map](../timeline/map/eon0723.png)
 ## Eon 463 - DC gives Ares Gardens to PS
 
 `⌛ Event`
@@ -173,7 +174,7 @@ Does it mean that the next time the [Corruption](../refs/corruption.md) will str
 - [Neuropolis](../refs/neuropolis.md) and [Synaxos Fields](../refs/synaxos_fields.md) (captured by Deltans) go to Delta Collective;
 - [Indigo Shore](../refs/indigo_shore.md) and [Dev Null Marsh](../refs/dev_null_marsh.md) got to Cybernetics Inc.
 
-![Battle Map Eon](../timeline/map/eon0386.png)
+![Battle Map](../timeline/map/eon0386.png)
 ## Eon 384 - The Siege of Neuropolis
 
 `⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md)
@@ -188,7 +189,7 @@ When faced with a choice whether to keep the city or let Neuropolis burn to the 
 
 All the fires remaining after battle were promptly put out, the immediate restoration of city walls began, Deltan officials started the effort to restore peaceful life in the city.
 
-![Battle Map Eon](../timeline/map/eon0384.png)
+![Battle Map](../timeline/map/eon0384.png)
 ## Eon 375 - The 4h Battle of Mt. Pickles
 
 `⚔️ Battle` won by [Protectores Silva](../refs/protectores_silva.md) (military exercise)
@@ -312,7 +313,7 @@ It is believed, however, that some [Delta Collective](../refs/delta_collective.m
 
 During the battle [MindTech Institute](../refs/mindtech_institute.md) members were able to gather enough corrupted matter to synthesize [Corrupted Mines](../refs/cr_mines.md) - powerful defensive weapon, first of its kind on Zeithalt.
 
-![Battle Map](../timeline/map/eon0345.png) [map legend](../refs/map_legend.md)
+![Battle Map](../timeline/map/eon0345.png)
 ## Eon 341 - MT gives Indigo Shore to CI
 
 `⌛ Event`
