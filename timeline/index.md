@@ -1,3 +1,16 @@
+## Eon 733 - The Frantic Battle Over A'as Forest
+
+`⚔️ Battle` won by [Protectores Silva](../refs/protectores_silva.md)
+
+This battle was long anticipated by both sides, but [Loki](../refs/loki.md) took his time to strike at an unexpected time in an unexpected place... 
+
+However, [Protectores Silva](../refs/protectores_silva.md) were ready for that: they had their defenses distributed equally over their lands, and in [A'as Forest](../refs/aas_forest.md) formidable defenses.
+
+With [Cybers](../refs/cybers.md), [Silvan](../refs/silvans.md) and the [Fighters Guild](../refs/fighters_guild.md) on one side and [Deltans](../refs/deltans.md) and [Minds](../refs/minds.md) on the other, this battle was going to be a close one.
+
+However, despite all the chaos that ensued, [Protectores Silva](../refs/protectores_silva.md) managed to keep their heads cold and with a considerable effort and unforeseen amount of resources were able to fend off the attack.
+
+![Battle Map](../timeline/map/eon0733.png)
 ## Eon 730 - PS give Blue Screen Lagoon to CI
 
 `⌛ Event`
