@@ -293,6 +293,8 @@
 
 [🫖 Tea Emporium](../refs/tea_emporium.md)
 
+[Teleport](../refs/teleport.md)
+
 [Temporal Resources](../refs/temporal_resources.md)
 
 [Timeless Desert](../refs/timeless_desert.md)
@@ -329,6 +331,8 @@
 [Weapons](../refs/war_items.md)
 
 [WAR items](../refs/war_items.md)
+
+[Watchtower Ruins](../refs/watchtower_ruins.md)
 
 [🎏 Weather Tower Relay](../refs/weather_tower_relay.md)
 
