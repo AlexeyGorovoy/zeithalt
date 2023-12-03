@@ -30,6 +30,387 @@ This tactic proves useful again, as the Cybers are able to trigger [CR Mines](..
 However, the battle itself was heavily dominated by [Deltan](../refs/deltans.md) forces helping MT defend, while Cybers and Silvans mostly conserved their forces for the upcoming MT retribution.
 
 ![Battle Map](../timeline/map/eon0723.png)
+## Eon 715 - The Unfriendly Battle of Blue Screen Lagoon
+
+`⚔️ Battle` won by [Protectores Silva](../refs/protectores_silva.md)
+
+_Protectores Silva_ attacks [MindTech Institute](../refs/mindtech_institute.md) and captures [Blue Screen Lagoon](../refs/blue_screen_lagoon.md).
+
+This battle seemingly caught _MindTech Institute_ off guard as their performance in the battle was “poor” at best.
+
+Initially meeting a strong defensive action form [Delta Collective](../refs/delta_collective.md), _Protectores Silva_ backed up by _Cybers_ and the [Fighters Guild](../refs/fighters_guild.md) persisted as the battle lasted into the night where its fate was decided.
+
+Due to previously friendly relations between _Minds_ and _Silvans_, this battle was named _The Unfriendly Battle of Blue Screen Lagoon_. 
+
+![Battle Map](../timeline/map/eon0715.png)
+
+## Eon 706 - The Fall of Ares Garden
+
+`⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md)
+
+_Delta Collective_ attacks [Protectores Silva](../refs/protectores_silva.md) to seize control over the [Ares Gardens](../refs/ares_gardens.md) in a battle known as _The Fall of Ares Garden_.
+
+This battle has two remarkable traits:
+- it’s the first ever direct attack by any faction on _Protectores Silva_;
+- it’s the first appearance of [Fighters Guild](../refs/fighters_guild.md) in a cross-factional battle.
+
+[Sellswords](../refs/sellswords.md) in this battle dealt more damage than both [Cybernetics Inc](../refs/cybernetics_inc.md) or [MindTech Institute](../refs/mindtech_institute.md), clearly establishing a new powerful player on the Zeithalt map.
+
+However, their efforts were not enough to help _Silvans_ win this battle.
+
+![Battle Map](../timeline/map/eon0706.png)
+
+## Eon 697 - The Corruption Outbreak in Synaxos Fields
+
+`⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md) (combined faction forces)
+
+[Corruption Outbreak](../refs/corruption.md) in [Synaxos Fields](../refs/synaxos_fields.md) happens, but factions being alert to the danger win by a good margin.
+
+_Zeithalt historian took a break during this time, so there’s little or no written history of this event._
+
+## Eon 687 - The Crash Landing on Indigo Shore
+
+`⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md)
+
+[Cybernetics Inc](../refs/cybernetics_inc.md) decides to retaliate on [Delta Collective](../refs/delta_collective.md) with an unexpected attack on [Indigo Shore](../refs/indigo_shore.md) but fails to capture in the battle known as _Crash Landing on Indigo Shore_.
+
+_Zeithalt historian took a break during this time, so there’s little or no written history of this event._
+
+## Eon 679 - The Defense of Dev Null Marsh
+
+`⚔️ Battle` won by [Cybernetics Inc](../refs/cybernetics_inc.md)
+
+[Delta Collective](../refs/delta_collective.md) attacks [Dev Null Marsh](../refs/dev_null_marsh.md), starting a battle known as _Defense of Dev Null Marsh_.
+
+It was practically won by a clever use of _Special Tactics_ and [resources](../refs/resources.md) by [Cybernetics Inc](../refs/cybernetics_inc.md).
+
+_Zeithalt historian took a break during this time, so there’s little or no written history of this event._
+
+## Eon 666 - The Spooky Battle of Chaotic Plains
+
+`⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md) (combined faction forces)
+
+[Corruption](../refs/corruption.md) strikes [Chaotic Plains](../refs/chaotic_plains.md) causing a _Spooky Battle of Chaotic Plains_, which, however was closely won by collective factions’ effort.
+
+_Zeithalt historian took a break during this time, so there’s little or no written history of this event._
+
+## Eon 656 - The Sabotage in the Desert
+
+`⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md)
+
+[Cybernetics Inc](../refs/cybernetics_inc.md) launches an attack on [Timeless Desert](../refs/timeless_desert.md)’s infrastructure in a battle known as _Sabotage in the Desert_.
+
+As declared by the [Cybers](../refs/cybers.md), the goal of this attack wasn't to conquer the _Desert_, but rather to interrupt its production and weaken its defences.
+
+The initial blow alone achieved both of these objectives. [Corrupted Mines](../refs/cr_mines.md) were triggered in the area, and the first attacks indeed disrupted [Temporal Resource](../refs/temporal_resources.md) production for several eons.
+
+Afterward, the pace of the attacking activity slowed significantly, and the _MindTech Institute_ in a coalition with [Deltan](../refs/delta_collective.md) forces was able to secure victory in the battle, while [Protectores Silva](../refs/protectores_silva.md) remained mostly neutral.
+
+It's difficult to determine a clear "winner" in this battle, as both sides claim to have achieved their goals on the battlefield. What remains certain is that, even after seven battles, the _Desert_ still stands unconquered.
+
+![Battle Map](../timeline/map/eon0656.png)
+
+## Eon 646 - The Unstable Battle of Blue Screen Lagoon
+
+`⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md)
+
+[MindTech Institute](../refs/mindtech_institute.md) attacks and wins [Blue Screen Lagoon](../refs/blue_screen_lagoon.md) in a battle known as _Unstable Battle of Blue Screen Lagoon_.
+
+A streak of unsuccessful battles for [Cybers](../refs/cybers.md) continues once again, with [Minds](../refs/minds.md) attacking and capturing the _Lagoon_. 
+
+Despite the help from [Protectores Silva](../refs/protectores_silva.md) and having the upper hand for most of the battle, combined effort of _Deltans_ and _Minds_ prevailed in this battle.
+
+![Battle Map](../timeline/map/eon0646.png)
+
+## Eon 636 - The Peculiar Battle of Mt. Pickles
+
+`⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md)
+
+[Delta Collective](../refs/delta_collective.md) attacks and wins [Mt. Pickles](../refs/mt_pickles.md) in a battle known as _Peculiar Battle on Mt. Pickles_.
+
+What gave the battle its name, is the fact that the battle seemingly stopped several times and changes into friendly conversations and even picnics between participants.
+
+However, after some time, the fighters remembered their differences and the battle would resume.
+
+In this battle [Cybernetics Inc](../refs/cybernetics_inc.md) were on the defensive side (helped by their allies [Protectores Silva](../refs/protectores_silva.md)), while [Deltans](../refs/deltans.md) lead the assault with help from the [MindTech Institute](../refs/mindtech_institute.md).
+
+![Battle Map](../timeline/map/eon0636.png)
+
+## Eon 626 - The Enduring Defense of Webified Hills
+
+`⚔️ Battle` won by [Cybernetics Inc](../refs/cybernetics_inc.md) (combines faction forces)
+
+Factions collectively stand strong against [Corruption](../refs/corruption.md) in the _Enduring Defence of Webified Hills_.
+
+This time the _Corruption_ wasn’t spreading particularly fast, but the battle was difficult and long.
+
+Once again factions were able to come together and collectively defeat the threat.
+
+![Battle Map](../timeline/map/eon0626.png)
+
+## Eon 619 - The Reclamation of Imperial Swamp
+
+`⚔️ Battle` won by [Protectores Silva](../refs/protectores_silva.md)
+
+[Protectores Silva](../refs/protectores_silva.md) attacks and claims [Imperial Swamp](../refs/imperial_swamp.md) in a battle knows as _Reclamation of the Imperial Swamp_.
+
+After a devastating loss to [Corruption](../refs/corruption.md) and the following [restoration projects](../refs/cr_restoration_project.md) the _Imperial Swamp_ stood as unoccupied and CR-free land - a chance seen and seized by the _Protectores Silva_.
+
+Prompted by [Silvans](../refs/silvans.md), the rush to capture the _Imperial Swamp_ started, but having used the [Corrupted Shards](../refs/cr_shards.md), the _Silvans_ were ahead of others the entire battle and secured the victory.
+
+![Battle Map](../timeline/map/eon0619.png)
+
+## Eon 617 - CI and DC exchange lands
+
+`⌛ Event`
+
+[Cybernetics Inc](../refs/cybernetics_inc.md) and [Delta Collective](../refs/delta_collective.md) exchange lands upon their mutual agreement:
+- [Dev Null Marsh](../refs/dev_null_marsh.md) is now under control of [Cybernetics Inc](../refs/cybernetics_inc.md);
+- [Peace Death Gorge](../refs/peace_death_gorge.md) is now under control of [Delta Collective](../refs/delta_collective.md).
+
+![Battle Map](../timeline/map/eon0617.png)
+
+## Eon 611 - A Picnic near The Purple Deeps
+
+`⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md)
+
+As a late night settles in the _Deltan_ lands, joint forces of [Cybernetics Inc](../refs/cybernetics_inc.md) and [Protectores Silva](../refs/protectores_silva.md) lay a siege to the Deltan capital of [Purple Deeps](../refs/purple_deeps.md).
+
+Interestingly, most _Deltan_ forces were absent or asleep at that time, so their allies from [MindTech Institute](../refs/mindtech_institute.md) had to fend off the first attacks.
+
+In the initial hours heavy fighting breaks out, almost bringing down Deeps’ defences to an equal fight, but in an unexplainable turn of events the fighting stops in its tracks and all factions take a break for several hours.
+
+This sudden break granted the battle its name - _A Picnic near The Purple Deeps_.
+
+Later on, the battle resumes, but by that time full power of _Deltan_ forces were awake, joined by increased numbers of the [Minds](../refs/minds.md)… as a result, defenders had a comfortable lead till the very end of the battle.
+
+![Battle Map](../timeline/map/eon0611.png)
+
+## Eon 596 - The Fall of Imperial Swamp
+
+`⚔️ Battle` won by [Corruption](../refs/corruption.md)
+
+Some say after previous easy victory over _Corruption_ the factions became too reckless. Others say heavy suppression of the _Corruption_ last time caused it being overcharged this time, resulting in uncontrollable violent outburst…
+
+Either way, the collective effort of factions wasn’t enough and [Imperial Swamp](../refs/imperial_swamp.md) falls - the land is currently uninhabitable and man-made structures, such as [Altar of Ctulhu](../refs/altar_of_ctulhu.md) and [Money Factory](../refs/money_factory.md), are destroyed.
+
+[Bank of Zeithalt](../refs/bank_of_zeithalt.md) has declared the Island-wide state of emergency until the necessary [CR Restoration Project](../refs/cr_restoration_project.md) stages are completed to contain the threat.
+
+![Battle Map](../timeline/map/eon0596.png)
+
+## Eon 582 - The Advance on Peace Death Gorge
+
+`⚔️ Battle` won by [Cybernetics Inc](../refs/cybernetics_inc.md)
+
+In an unexpected strategic move, [Cybernetics Inc](../refs/cybernetics_inc.md) were able to make [Deltans](../refs/deltans.md) expect an attack on [Dev Null Marsh](../refs/dev_null_marsh.md) and divert all their defences there, while the actual advance happened in [Peace Death Gorge](../refs/peace_death_gorge.md).
+
+Due to careful planning and good execution, joint forces of [Cybers](../refs/cybers.md) and [Silvans](../refs/silvans.md) were able to dominate the battlefield and win this battle.
+
+![Battle Map](../timeline/map/eon0582.png)
+
+## Eon 573 - The Battle of Corrupted Valley
+
+`⚔️ Battle` won by [Cybernetics Inc](../refs/cybernetics_inc.md) (combined faction forces)
+
+Factions are able to put aside their differences and arguments to fend off [Corruption](../refs/corruption.md) in the [Singularity Valley](../refs/singularity_valley.md).
+
+[Cybernetics Inc](../refs/cybernetics_inc.md) in coordination with other factions did a very good job preparing for the battle - [Corrupted Mines](../refs/cr_mines.md) were installed, defenses strengthened, fortifications built… it all paid off in the end.
+
+As expected after two violent _Corruption_ outbursts, it seems to have released some of its pressure and this battle proved to be easier.
+
+On the other hand, it means the next battle will be harder.
+
+![Battle Map](../timeline/map/eon0573.png)
+
+## Eon 563 - The 5th Battle of Mt. Pickles
+
+`⚔️ Battle` won by [Cybernetics Inc](../refs/cybernetics_inc.md)
+
+[Delta Collective](../refs/delta_collective.md) launches an invasion in [Mt. Pickles](../refs/mt_pickles.md) region - a land that has been peaceful for many eons, but forces of [Cybernetics Inc](../refs/cybernetics_inc.md) and [Protectores Silva](../refs/protectores_silva.md) are able to stop the _Deltan_ army in its tracks.
+
+[MindTech Institute](../refs/mindtech_institute.md) stayed neutral in the first half of the battle, but later joined the full-scale attack on [Cybers](../refs/cybers.md).
+
+This is the first battle on record where both sides of the conflict launched special operations to undermine each other and get tactical advantage in the battle.
+
+Remarkable trivia - _Mt. Pickles_ has now seen more battles than any other region on Zeithalt, but the previous battle happened here almost 200 eons ago.
+
+![Battle Map](../timeline/map/eon0563.png)
+
+## Eon 560 - CI gives Oblivion Mire to PS
+
+`⌛ Event`
+
+[Cybernetics Inc](../refs/cybernetics_inc.md) and [Protectores Silva](../refs/protectores_silva.md) transfer land ownership upon their mutual agreement:
+- [Oblivion Mire](../refs/oblivion_mire.md) is now under control of [Protectores Silva](../refs/protectores_silva.md).
+
+![Battle Map](../timeline/map/eon0560.png)
+
+## Eon 554 - The Race for Oblivion Mire
+
+`⚔️ Battle` won by [Cybernetics Inc](../refs/cybernetics_inc.md)
+
+[Cybers](../refs/cybers.md) attack and then subsequently win the quick battle to claim [Oblivion Mire](../refs/oblivion_mire.md).
+
+This is the first case on record of any faction using [Corrupted Shards](../refs/cr_shards.md) to get an advantage in the battle.
+
+The fast-paced nature of this battle gave it the title _The Race for Oblivion Mire_.
+
+![Battle Map](../timeline/map/eon0554.png)
+
+## Eon 545 - Military exercise in Cerene Vale
+
+`⚔️ Battle` won by [Protectores Silva](../refs/protectores_silva.md) (military exercise)
+
+[MindTech Institute](../refs/mindtech_institute.md) attacks [Protectores Silva](../refs/protectores_silva.md) in [Cerene Vale](../refs/cerene_vale.md) in a joint military exercise.
+
+## Eon 540 - Restoration of Oblivion Mire
+
+`⌛ Event`
+
+Peaceful collaboration between factions made response to corruption swift and timely - [Restoration Project](../refs/cr_restoration_project.md) is completed in [Oblivion Mire](../refs/oblivion_mire.md).
+
+While these lands will forever remain scarred by the disaster and every man-made structure was destroyed while the event unfolded, _Oblivion_ now stands clear from [Corruption](../refs/corruption.md).
+
+Since all population was evacuated previously from _Oblivion Mire_, it is currently a free land, not belonging to any faction.
+
+The immediate danger is gone, but Zeithalt will remember _The Dark Night on the Mire_ and the lessons it taught us.
+
+![Battle Map](../timeline/map/eon0540.png)
+
+## Eon 536 - The Dark Night on the Mire
+
+`⚔️ Battle` won by [Corruption](../refs/corruption.md)
+
+[Oblivion Mire](../refs/oblivion_mire.md) is uninhabitable as factions fail to contain _Corruption_.
+
+[Bank of Zeithalt](../refs/bank_of_zeithalt.md) reinstates its policies that were in order during the previous [Corruption Fallout](../refs/cr_fallout.md) to minimize the damages to the Island’s economy.
+
+Many people suffered exposure to _Corruption_ - luckily with recent developments we know that full recovery is possible, although it will take time to heal.
+
+Most of [Oblivion Mire](../refs/oblivion_mire.md) is currently in uninhabitable state, many places just dangerous to be in due to _Corruption Fallout_.
+
+As the last devastating news to the Islanders, renown [Valhalla Bar](../refs/valhalla_bar.md) is now also destroyed.
+
+This night will be remembered as _The Dark Night on the Mire_.
+
+![Battle Map](../timeline/map/eon0536.png)
+
+## Eon 527 - CI and DC exchange lands
+
+`⌛ Event`
+
+[Cybernetics Inc](../refs/cybernetics_inc.md) and [Delta Collective](../refs/delta_collective.md) exchange lands upon their mutual agreement:
+- [Singularity Valley](../refs/singularity_valley.md) is now back under control of [Cybernetics Inc](../refs/cybernetics_inc.md);
+- [Chaotic Plains](../refs/chaotic_plains.md) is now back under control of [Delta Collective](../refs/delta_collective.md).
+
+![Battle Map](../timeline/map/eon0527.png)
+
+## Eon 526 - The Recapture of Synaxos Fields
+
+`⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md)
+
+This was quite an unusual battle - for the first time in more than 270 eons that passed since the end of [Age of Conquest](../refs/age_of_conquest.md), all faction fought capture a free land.
+
+[Cybers](../refs/cybers.md) and [Deltans](../refs/deltans.md) did not provide a remarkable presence on the battlefield, while [Silvans](../refs/silvans.md) saw this battle as an extension of clearing out the [Synaxos Fields](../refs/synaxos_fields.md) of the [Corruption](../refs/corruption.md) and provided much more noticeable support.
+
+[MindTech Institute](../refs/mindtech_institute.md) had by far the most power in this battle, successfully completing _The Recapture Of Synaxos Fields_.
+
+![Battle Map](../timeline/map/eon0526.png)
+
+## Eon 519 - CI and DC exchange lands
+
+`⌛ Event`
+
+[Cybernetics Inc](../refs/cybernetics_inc.md) and [Delta Collective](../refs/delta_collective.md) exchange lands upon their mutual agreement:
+- [Singularity Valley](../refs/singularity_valley.md) is now under control of [Delta Collective](../refs/delta_collective.md);
+- [Chaotic Plains](../refs/chaotic_plains.md) is now under control of [Cybernetics Inc](../refs/cybernetics_inc.md).
+
+![Battle Map](../timeline/map/eon0519.png)
+
+## Eon 518 - Restoration of Synaxos Fields
+
+`⌛ Event`
+
+After spending enormous amounts of resources and doing extensive research factions collectively complete @[CR Restoration Project](../refs/cr_restoration_project.md) in [Synaxos Fields](../refs/synaxos_fields.md).
+
+While these lands will forever remain scarred by the disaster and every man-made structure was destroyed while the event unfolded, Synaxos now stands clear from [Corruption](../refs/corruption.md).
+
+Since all population was evacuated previously from [Synaxos Fields](../refs/synaxos_fields.md), it is currently a free land, not belonging to any faction.
+
+Many on the Island are wondering of this means a future peaceful collaboration to restore  to former glory…. or a threat of a new bloody conflict for controlling the land is looming over it. 
+
+![Battle Map](../timeline/map/eon0518.png)
+
+## Eon 517 - PS passes their attack turn
+
+`⌛ Event`
+
+[Protectores Silva](../refs/protectores_silva.md) decides to pass their attack turn, releasing the following statement:
+
+> *We're that happy all factions are working together on the restoration of [Synaxos Fields](../refs/synaxos_fields.md).*
+
+
+## Eon 515 - The Sleepy Siege of Cerene Vale
+
+`⚔️ Battle` won by [Protectores Silva](../refs/protectores_silva.md)
+
+It was quite an uneventful battle where [Protectores Silva](../refs/protectores_silva.md) were prepared and [Delta Collective](../refs/delta_collective.md) clearly did a bad job planning out this battle.
+
+[Cybernetics Inc](../refs/cybernetics_inc.md) and [MindTech Institute](../refs/mindtech_institute.md) stayed neutral, while [Deltans](../refs/deltans.md) quickly realised that mistakes were made and that the battle cannot be won.
+
+The slow and frankly quite boring nature of this unsuccessful siege has granted the battle its name - _The Sleepy Siege of Cerene Vale_.
+
+![Battle Map](../timeline/map/eon0515.png)
+
+## Eon 508 - The Disaster of Synaxos Fields
+
+`⚔️ Battle` won by [Corruption](../refs/corruption.md)
+
+[Synaxos Fields](../refs/synaxos_fields.md) is a dead wasteland as factions fail to contain [Corruption](../refs/corruption.md) surge.
+
+Several new [Bank of Zeithalt](../refs/bank_of_zeithalt.md) policies are in order following an attempt to save the economy of the Island.
+
+Many people suffered exposure to [Corruption](../refs/corruption.md) - fate of those with severe cases is unknown at the moment of writing.
+
+Most of [Synaxos Fields](../refs/synaxos_fields.md) is currently in uninhabitable state, many places just dangerous to be in due to [Corruption Fallout](../refs/cr_fallout.md).
+
+For sure, factions will study the phenomenon in the coming eons to see if at least something is recoverable, but for now _Synaxos Fields_ is considered to be a dead land.
+
+![Battle Map](../timeline/map/eon0508.png)
+
+## Eon 506 - Rebellion in the Desert
+
+`⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md)
+
+[MindTech Institute](../refs/mindtech_institute.md) restore the order in the [Timeless Desert](../refs/timeless_desert.md)
+
+The [Rebels](../refs/rebels.md) are driven away and into hideouts after the unsuccessful attempt to install themselves as a new governing power in the desert.
+
+Unfortunately for [Rebels](../refs/rebels.md) they did not find the support of other factions to put up a good enough defence against [MindTech Institute](../refs/mindtech_institute.md).
+
+[Delta Collective](../refs/delta_collective.md) and [Cybernetics Inc](../refs/cybernetics_inc.md) mostly stayed neutral, while [Protectores Silva](../refs/protectores_silva.md) joined the efforts to quell the rebellion. 
+
+![Battle Map](../timeline/map/eon0506.png)
+
+## Eon 505 - Rebels take over Timeless Desert
+
+`⌛ Event`
+
+[Rebels](../refs/rebels.md) take over [Timeless Desert](../refs/timeless_desert.md), battles ensues where [MindTech Institute](../refs/mindtech_institute.md) tries to recapture it!
+
+Rebellion group lead by [Sellswords](../refs/sellswords.md): Just No_name, TheDuckie, Eldar with the help of two inside men in  - [CuriousDino](../refs/curious_dino.md) and timmyrueben capture several administrative buildings and attempt to take [Timeless Desert](../refs/timeless_desert.md) under their control.
+
+Immediately the fighting starts,  members attack back and try to drive rebels away from their lands.
+
+![Battle Map](../timeline/map/eon0505.png)
+## Eon 502 - The Island is getting ready for the next Corruption surge
+
+`⌛ Event`
+
+[MindTech Institute](../refs/mindtech_institute.md)‘s Chamber of Corruption Research detects that the next [Corruption](../refs/corruption.md) surge currently builds up in [Synaxos Fields](../refs/synaxos_fields.md).
+
+[Bank of Zeithalt](../refs/bank_of_zeithalt.md) issues a message that it is well-prepared to face any outcome, including  outburst not being contained in [Synaxos Fields](../refs/synaxos_fields.md). Strict monetary restrictions will be in place if this happens in order to ensure the stability of the Island’s economy.
+
 ## Eon 501 - The Failed Landing near Virtuara Outpost
 
 `⚔️ Battle` won by [Cybernetics Inc](../refs/cybernetics_inc.md)

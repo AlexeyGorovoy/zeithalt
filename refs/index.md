@@ -72,6 +72,8 @@
 
 [CR Mines](../refs/cr_mines.md)
 
+[Corruption Restoration Project](../refs/cr_restoration_project.md)
+
 [CR Shards](../refs/cr_shards.md)
 
 [🏥 CURE](../refs/cure.md)
