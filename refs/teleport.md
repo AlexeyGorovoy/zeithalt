@@ -1,6 +1,6 @@
 ## Teleport
 
-`🪧 Place` in Purple Deeps
+`🪧 Place` in [Purple Deeps](../refs/purple_deeps.md)
 
 Build on eon 736 by [Delta Collective](../refs/delta_collective.md).
 

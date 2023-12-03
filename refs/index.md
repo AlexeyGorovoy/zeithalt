@@ -260,6 +260,8 @@
 
 [Sellswords](../refs/sellswords.md)
 
+[Shaxx](../refs/shaxx.md)
+
 [Silvans](../refs/silvans.md)
 
 [Singularity Valley](../refs/singularity_valley.md)
