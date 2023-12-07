@@ -20,7 +20,7 @@ Timed actions start a new challenge in [actions channel](https://discord.com/cha
 
 During the challenge players can either **support** or **sabotage** the action by playing Influence during the challenge. Players can contribute to a challenge **every 30m** + one more time in **the last 5m** of the challenge.
 
-Support is free, while sabotage has a price attacked to it. Note that **sabotage price is charged from personal balance unless you're a [key member](../discord_battle_rules/rules_07_key_members.md) of your faction**.
+Support is free, while sabotage has a price attacked to it. Note that **sabotage price is charged from personal balance unless you're a [key member](../rules/rules_07_key_members.md) of your faction**.
 
 The challenge result is determined by the following formula:  _(support) / (support + sabotage) = xx% completion._
 

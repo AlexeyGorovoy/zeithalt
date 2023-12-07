@@ -11,7 +11,7 @@ These weapons work a bit like rock-paper-scissors game: `🪨` beats `🧪` beat
 
 When faction uses any of these resources during battle with **/spec_op** command, they start a respective **60m** *Special Operation*.
 
-During the operation all factions' [key members](../discord_battle_rules/rules_07_key_members.md) can support or undermine it by using [raw resources](../discord_battle_rules/rules_16_resources.md) based on the above rock-paper-scissors principle. 
+During the operation all factions' [key members](../rules/rules_07_key_members.md) can support or undermine it by using [raw resources](../rules/rules_16_resources.md) based on the above rock-paper-scissors principle. 
 
 To do that just type "min", "sci" or "erg". Optionally, you can specify the amount of RES to spend: "min 5" (from 1 to 10, 1 is default).
 

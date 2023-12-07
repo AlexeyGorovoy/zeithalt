@@ -3,8 +3,8 @@
 `📑 Battle Rules`
 
 Most of the game is automated by the bot: 
-- players can use **/faction_battle** command to [start a battles](../discord_battle_rules/rules_01_how_battles_start.md);
-- and **/faction_action** to do actions such as [moving units](../discord_battle_rules/rules_06_map_units.md) or [preparing attacks](../discord_battle_rules/rules_14_faction_actions.md);
+- players can use **/faction_battle** command to [start a battles](../rules/rules_01_how_battles_start.md);
+- and **/faction_action** to do actions such as [moving units](../rules/rules_06_map_units.md) or [preparing attacks](../rules/rules_14_faction_actions.md);
 - or multiple other commands such as **/faction_balance**, **/faction_craft** etc.
 
 Most of these commands are only available to **Key faction members** - people who are authorized to have access to sensitive faction info and can perform actions or use resources on faction's behalf.

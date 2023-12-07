@@ -18,7 +18,7 @@ Three bot commands are available during the battles:
 >
 > **How to use:** pure pay to win.
 
-*Power-ups are separate from [combos](../discord_battle_rules/rules_03_general_gameplay.md) and have no effect on them.*
+*Power-ups are separate from [combos](../rules/rules_03_general_gameplay.md) and have no effect on them.*
 *Every player can use each power-up only once per battle.*
 
 <!---

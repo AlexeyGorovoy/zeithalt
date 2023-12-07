@@ -6,9 +6,9 @@ Battles usually start from non-zero score. The following bonuses are applied to 
 
 **Adjacency +10 base bonus**  - for each land of the same color as attacker or a defender, connected by land.
 
-**Garrison and Supports unit bonuses** - explained in a [separate post](../discord_battle_rules/rules_06_map_units.md).
+**Garrison and Supports unit bonuses** - explained in a [separate post](../rules/rules_06_map_units.md).
 
-In case of the *attack on capital region*, some bonuses **are doubled** - rules about that [are located here](../discord_battle_rules/rules_10_sieging_capitals.md).
+In case of the *attack on capital region*, some bonuses **are doubled** - rules about that [are located here](../rules/rules_10_sieging_capitals.md).
 
 **[Here's an example from the actual battle](https://discord.com/channels/562910943848169472/995641432742297731/1179425462208966658)** (discord link)
 

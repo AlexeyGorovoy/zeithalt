@@ -2,7 +2,7 @@
 
 `📑 Term`
 
-Participating in battles yields rewards both in gold and increased [charged bonuses](../discord_battle_rules/rules_04_charged_hits.md) for the next battle.
+Participating in battles yields rewards both in gold and increased [charged bonuses](../rules/rules_04_charged_hits.md) for the next battle.
 
 The gold reward is simply your hits in the battle times 10: **11 hits = 110G**.
 

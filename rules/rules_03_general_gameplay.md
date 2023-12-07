@@ -4,7 +4,7 @@
 
 During the battle, you just send any message containing "attack" or "defend"  in **[#battle](https://discord.com/channels/562910943848169472/995641432742297731)** to generate a **hit point** for your side.
 
-If you're a [sellsword](../discord_battle_rules/rules_08_sellswords.md) - you can also write "hit" command to join the current [Fighters Guild (lore)](../refs/fighters_guild.md) contract.
+If you're a [sellsword](../rules/rules_08_sellswords.md) - you can also write "hit" command to join the current [Fighters Guild (lore)](../refs/fighters_guild.md) contract.
 
 After a successful hit, you're put on a **45m cooldown**. You can act again after this cooldown expires.
 

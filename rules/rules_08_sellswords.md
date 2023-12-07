@@ -4,11 +4,11 @@
 
 **Sellswords** - faction-less people who can too participate in battles - basically, everyone on the server who did not join any faction. 
 
-When playing as a sellsword, you need to [send your commands](../discord_battle_rules/rules_03_general_gameplay.md) with a faction tag you fight for, like this - **CI attack**, **DC defend** etc
+When playing as a sellsword, you need to [send your commands](../rules/rules_03_general_gameplay.md) with a faction tag you fight for, like this - **CI attack**, **DC defend** etc
 
 Alternatively, you can go along with Fighters Guild's active contract by _just typing "hit" during the battle_ - this way the hit will be directed to the correct side automatically.
 
-While fighting as a **sellsword**, to check your [cooldown](../discord_battle_rules/rules_03_general_gameplay.md) or [charged](../discord_battle_rules/rules_04_charged_hits.md) stats - just send **battle:me** command to the _Factions Game Bot_ as a private message.
+While fighting as a **sellsword**, to check your [cooldown](../rules/rules_03_general_gameplay.md) or [charged](../rules/rules_04_charged_hits.md) stats - just send **battle:me** command to the _Factions Game Bot_ as a private message.
 
 **Sellswords** have no access to faction chats, therefore they do not represent anyone nor participate in diplomacy, can't see other people's stats in battle, and essentially missing the most part of this game. 
 
