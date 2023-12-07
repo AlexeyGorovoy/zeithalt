@@ -1,6 +1,6 @@
 ##  🛣️ Axonite Road
 
-`🪧 Place` in [Paradox Pass](../refs/paradox_pass.md
+`🪧 Place` in [Paradox Pass](../refs/paradox_pass.md)
 
 Built on eon 556 by [MindTech Institute](../refs/mindtech_institute.md)
 

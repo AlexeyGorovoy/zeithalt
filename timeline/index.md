@@ -574,7 +574,7 @@ Notable that [MindTech Institute](../refs/mindtech_institute.md) strongly suppor
 [Protectores Silva](../refs/protectores_silva.md) stayed true to their resolve of being a neutral force, hitting equally for both sides to earn some gold.
 
 ![Battle Map](../timeline/map/eon0441.png)
-## Eon 425 - PS passes their attack turn
+## Eon 435 - PS passes their attack turn
 
 `⌛ Event`
 
