@@ -471,7 +471,7 @@ Such forgetfulness of MT officials granted this battle its title - _The Obliviou
 
 `⌛ Event`
 
-[Protectores Silva](../refs/protectores_silva.md) passes their tack turn again.
+[Protectores Silva](../refs/protectores_silva.md) passes their attack turn again.
 
 ## Eon 480 - CI gives Xyrclaox Watch back to MT
 
@@ -578,7 +578,7 @@ Notable that [MindTech Institute](../refs/mindtech_institute.md) strongly suppor
 
 `⌛ Event`
 
-[Protectores Silva](../refs/protectores_silva.md) passes their tack turn again.
+[Protectores Silva](../refs/protectores_silva.md) passes their attack turn again.
 
 ## Eon 432 - The Battle of Corrupted Marshes
 
@@ -593,7 +593,7 @@ However, this battles was not without surprises - [Deltans](../refs/deltans.md) 
 
 `⌛ Event`
 
-[Protectores Silva](../refs/protectores_silva.md) passes their tack turn with the following message to other factions:
+[Protectores Silva](../refs/protectores_silva.md) passes their attack turn with the following message to other factions:
 
 > *PS is happy we see no reason to attack another faction. We're busy with our restorative efforts on Zeithalt and hope all other factions will help us in our important work.*
 
