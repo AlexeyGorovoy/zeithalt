@@ -1,3 +1,18 @@
+## Eon 740 - The Battle Of Corrupted Mountain
+
+`⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md) (combined faction forces)
+
+As it happened many times previously, the existential threat of [Corruption](../refs/corruption.md) is able to unite factions - even if temporarily - to fend off the greater danger.
+
+We see it happen again this time - despite an ongoing war between the [Minds](../refs/minds.md) and [Deltans](../refs/deltans) on one side and [Silvans](../refs/silvans.md) with [Cybers](../refs/cybers.md) on the other.
+
+This was a long an enduring battle though the night, however the factions were able to hold their ground and push back the [Corruption](../refs/corruption.md).
+
+Notably [Delta Collective](../refs/delta_collective.md) had the strongest army on the battlefield, being almost equal to the combined forces of three other factions.
+
+![Battle Map](../timeline/map/eon0740.png)
+
+
 ## Eon 733 - The Frantic Battle over A'as Forest
 
 `⚔️ Battle` won by [Protectores Silva](../refs/protectores_silva.md)
