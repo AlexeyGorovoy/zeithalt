@@ -22,9 +22,9 @@ aliases:
 
 - Factions take turns attempting to capture territories, each cycle the order is random.
 
-- Cycle is a set of battles, one for each faction + a [Corruption](../rules/rules_09_corruption.md) battle.
+- Cycle is a set of battles, one for each faction + a [Corruption](#9-corruption) battle.
 
-- Faction members are free to decide where to attack by voting or any other process agreed in the faction chat, the battle is can be started by any [Key faction member](../rules/rules_07_key_members.md) using **/faction_battle** command.
+- Faction members are free to decide where to attack by voting or any other process agreed in the faction chat, the battle is can be started by any [Key faction member](#7-key-members-and-official-actions) using **/faction_battle** command.
 
 - A faction can only **attack neighbouring territories **(where land connection exists) **+ one over territory by sea.**
 
@@ -34,7 +34,7 @@ aliases:
 
 - Maximum time between battles - **10 days** (240h).
 
-- Same territory can not be attacked twice in a row (does not apply to [Corruption](../rules/rules_09_corruption.md) attacking the land).
+- Same territory can not be attacked twice in a row (does not apply to [Corruption](#9-corruption) attacking the land).
 
 <!---
 keywords:  
@@ -48,9 +48,9 @@ Battles usually start from non-zero score. The following bonuses are applied to 
 
 **Adjacency +10 base bonus**  - for each land of the same color as attacker or a defender, connected by land.
 
-**Garrison and Supports unit bonuses** - explained in a [separate post](../rules/rules_06_map_units.md).
+**Garrison and Supports unit bonuses** - explained in a [separate post](#6-map-units).
 
-In case of the *attack on capital region*, some bonuses **are doubled** - rules about that [are located here](../rules/rules_10_sieging_capitals.md).
+In case of the *attack on capital region*, some bonuses **are doubled** - rules about that [are located here](#10-sieging-capitals).
 
 **[Here's an example from the actual battle](https://discord.com/channels/562910943848169472/995641432742297731/1179425462208966658)** (discord link)
 
@@ -69,7 +69,7 @@ aliases:
 
 During the battle, you just send any message containing "attack" or "defend"  in **[#battle](https://discord.com/channels/562910943848169472/995641432742297731)** to generate a **hit point** for your side.
 
-If you're a [sellsword](../rules/rules_08_sellswords.md) - you can also write "hit" command to join the current [Fighters Guild (lore)](../refs/fighters_guild.md) contract.
+If you're a [sellsword](#8-sellswords) - you can also write "hit" command to join the current [Fighters Guild (lore)](../refs/fighters_guild.md) contract.
 
 After a successful hit, you're put on a **45m cooldown**. You can act again after this cooldown expires.
 
@@ -123,7 +123,7 @@ If you attack within **15m** after your cooldown has expired, your hit is **char
 
 **Charged** hits add +1 bonus point for your team, but this bonus is *erased* when combo is *stolen*.
 
-Each charged hit **during the combo** streak by default increases bonus counter **by 1 point**. However, [based on your performance in the previous battle](../rules/rules_11_battle_rewards.md), you can get a **bonus multiplier** for your charged hits.
+Each charged hit **during the combo** streak by default increases bonus counter **by 1 point**. However, [based on your performance in the previous battle](#11-battle-rewards), you can get a **bonus multiplier** for your charged hits.
 
 If your charged hit **steals** opponent's combo, their bonus points ** are erased**, and your team's bonus points start with 1.
 
@@ -235,7 +235,7 @@ CI successfully defended their own lands.
 
 Each faction has *two* **Garrison** units and *one* of each - **Support** and **Saboteur** units to place on the map. Factions can move their units **between battles** using **/faction_action** bot command.
 
-__**2 Garrisons**__ - defensive units, so they can only be places on the lands that faction owns. If a territory with a *Garrison* stationed on it is attacked, it gets a **+20 base Garrison bonus** at the start of the battle (similarly to *[Adjacency](../rules/rules_02_initial_bonus_points.md)* bonuses). It’s allowed to place both your *Garrison* units on the same territory for a double *Garrison* bonus.
+__**2 Garrisons**__ - defensive units, so they can only be places on the lands that faction owns. If a territory with a *Garrison* stationed on it is attacked, it gets a **+20 base Garrison bonus** at the start of the battle (similarly to *[Adjacency](#2-initial-bonus-points)* bonuses). It’s allowed to place both your *Garrison* units on the same territory for a double *Garrison* bonus.
 
 __**Support**__ - faction places this unit on their own lands to boost *Adjacency* **+10 base bonus** in battles where this faction either attacking or defending. Does not give any bonus when the land with **Support** on it is attacked. 
 
@@ -243,7 +243,7 @@ __**Saboteur**__ - can be deployed on other factions' lands to try and catch the
 
 Units only provide bonuses for factions directly involved in the battle - attacker or a defender. They do not give any bonuses for neutral side in the battle.
 
-Unit bonuses are [doubled in capital sieges](../rules/rules_10_sieging_capitals.md).
+Unit bonuses are [doubled in capital sieges](#10-sieging-capitals).
 
 <!---
 keywords:  
@@ -254,8 +254,8 @@ aliases:
 `📑 Battle Rules`
 
 Most of the game is automated by the bot: 
-- players can use **/faction_battle** command to [start a battles](../rules/rules_01_how_battles_start.md);
-- and **/faction_action** to do actions such as [moving units](../rules/rules_06_map_units.md) or [preparing attacks](../rules/rules_14_faction_actions.md);
+- players can use **/faction_battle** command to [start a battles](#1-how-battles-start);
+- and **/faction_action** to do actions such as [moving units](#6-map-units) or [preparing attacks](#14-faction-actions-in-between-battles);
 - or multiple other commands such as **/faction_balance**, **/faction_craft** etc.
 
 Most of these commands are only available to **Key faction members** - people who are authorized to have access to sensitive faction info and can perform actions or use resources on faction's behalf.
@@ -284,11 +284,11 @@ aliases:
 
 **Sellswords** - faction-less people who can too participate in battles - basically, everyone on the server who did not join any faction. 
 
-When playing as a sellsword, you need to [send your commands](../rules/rules_03_general_gameplay.md) with a faction tag you fight for, like this - **CI attack**, **DC defend** etc
+When playing as a sellsword, you need to [send your commands](#3-general-gameplay) with a faction tag you fight for, like this - **CI attack**, **DC defend** etc
 
 Alternatively, you can go along with Fighters Guild's active contract by _just typing "hit" during the battle_ - this way the hit will be directed to the correct side automatically.
 
-While fighting as a **sellsword**, to check your [cooldown](../rules/rules_03_general_gameplay.md) or [charged](../rules/rules_04_charged_hits.md) stats - just send **battle:me** command to the _Factions Game Bot_ as a private message.
+While fighting as a **sellsword**, to check your [cooldown](#3-general-gameplay) or [charged](#4-charged-hits) stats - just send **battle:me** command to the _Factions Game Bot_ as a private message.
 
 **Sellswords** have no access to faction chats, therefore they do not represent anyone nor participate in diplomacy, can't see other people's stats in battle, and essentially missing the most part of this game. 
 
@@ -324,7 +324,7 @@ To determine the next **Corruption** target, a random roll is performed by GM a 
 
 > *Example: The first corrupted battle happened in Timeless Desert, so all capitals, 6 adjacent lands and the Desert itself were excluded from the next random roll for Corruption attack.*
 
-By participating in battles with Corruption, factions can [earn special items and get useful rewards](../rules/rules_11_battle_rewards.md).
+By participating in battles with Corruption, factions can [earn special items and get useful rewards](#11-battle-rewards).
 
 <!---
 keywords:  
@@ -340,7 +340,7 @@ This double points rule is in favor of original capital owner:
 - If DC attacks MT capital - MT gets double bonus;
 - If DC holds MT capital, and Minds try to take it back - MT gets double bonus.
 
-Double bonus rule **does** apply to [units](../rules/rules_06_map_units.md) and [adjacency points](../rules/rules_02_initial_bonus_points.md), but **does not** apply to [artefacts](../rules/rules_13_corrupted_artefacts.md).
+Double bonus rule **does** apply to [units](#6-map-units) and [adjacency points](#2-initial-bonus-points), but **does not** apply to [artefacts](#13-corrupted-artefacts).
 
 If attack on a capital is successful, the winner has choice to make:
 
@@ -364,7 +364,7 @@ aliases:
 
 `📑 Term`
 
-Participating in battles yields rewards both in gold and increased [charged bonuses](../rules/rules_04_charged_hits.md) for the next battle.
+Participating in battles yields rewards both in gold and increased [charged bonuses](#4-charged-hits) for the next battle.
 
 The gold reward is simply your hits in the battle times 10: **11 hits = 110G**.
 
@@ -407,7 +407,7 @@ Three bot commands are available during the battles:
 >
 > **How to use:** pure pay to win.
 
-*Power-ups are separate from [combos](../rules/rules_03_general_gameplay.md) and have no effect on them.*
+*Power-ups are separate from [combos](#3-general-gameplay) and have no effect on them.*
 *Every player can use each power-up only once per battle.*
 
 <!---
@@ -418,7 +418,7 @@ aliases:
 
 `📑 Battle Rules`
 
-After each *[Corrupted Battle](../rules/rules_09_corruption.md)* factions are able to gather residue *Corrupted Matter* and use it to build powerful artefacts.
+After each *[Corrupted Battle](#9-corruption)* factions are able to gather residue *Corrupted Matter* and use it to build powerful artefacts.
 
 Each faction gets **1 sample** if factions win together. However, if factions lose, only the faction attacked directly by Corruption gets a sample.
 
@@ -432,11 +432,11 @@ These artefacts can be acquired via *Corrupted Research*:
 
 **Corrupted Mines** - can be deployed on any lands the faction owns at the moment. If that land is attacked, **Mines** add to the faction's initial defense bonus. This is a single use artefact.
 
-Bonuses from artefacts are **not** doubled in the [capital sieges](../rules/rules_10_sieging_capitals.md).
+Bonuses from artefacts are **not** doubled in the [capital sieges](#10-sieging-capitals).
 
 **Mines** do **not** have to be deployed immediately, faction can hold the mines without deploying them for as long as needed. Once deployed, mines cannot be moved.
 
-The use of artifacts is not visible to other faction until the battle actually starts and [initial bonuses](../rules/rules_02_initial_bonus_points.md) are applied.
+The use of artifacts is not visible to other faction until the battle actually starts and [initial bonuses](#2-initial-bonus-points) are applied.
 
 > To deploy the **Mines** or **Shards** you should use **/faction_action** command, for more info about these items please use **/faction_action_help**.
 
@@ -466,7 +466,7 @@ Timed actions start a new challenge in [actions channel](https://discord.com/cha
 
 During the challenge players can either **support** or **sabotage** the action by playing Influence during the challenge. Players can contribute to a challenge **every 30m** + one more time in **the last 5m** of the challenge.
 
-Support is free, while sabotage has a price attacked to it. Note that **sabotage price is charged from personal balance unless you're a [key member](../rules/rules_07_key_members.md) of your faction**.
+Support is free, while sabotage has a price attacked to it. Note that **sabotage price is charged from personal balance unless you're a [key member](#7-key-members-and-official-actions) of your faction**.
 
 The challenge result is determined by the following formula:  _(support) / (support + sabotage) = xx% completion._
 
@@ -548,7 +548,7 @@ RES productions is  each land can be halted in the following cases:
 
 **Timeless Desert** produces its own type of resources - `⏳ Temporal Resources [TMP]`. It can be transmuted into 2 units of any other resource, or 1 of each (3 total).
 
-**[Learn how resources are used in battles](../rules/rules_17_spec_ops.md)**
+**[Learn how resources are used in battles](#17-special-operations)**
 
 <!---
 keywords:  
@@ -567,7 +567,7 @@ These weapons work a bit like rock-paper-scissors game: `🪨` beats `🧪` beat
 
 When faction uses any of these resources during battle with **/spec_op** command, they start a respective **60m** *Special Operation*.
 
-During the operation all factions' [key members](../rules/rules_07_key_members.md) can support or undermine it by using [raw resources](../rules/rules_16_resources.md) based on the above rock-paper-scissors principle. 
+During the operation all factions' [key members](#7-key-members-and-official-actions) can support or undermine it by using [raw resources](#16-resources) based on the above rock-paper-scissors principle. 
 
 To do that just type "min", "sci" or "erg". Optionally, you can specify the amount of RES to spend: "min 5" (from 1 to 10, 1 is default).
 
