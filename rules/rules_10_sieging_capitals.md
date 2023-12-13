@@ -8,7 +8,7 @@ This double points rule is in favor of original capital owner:
 - If DC attacks MT capital - MT gets double bonus;
 - If DC holds MT capital, and Minds try to take it back - MT gets double bonus.
 
-Double bonus rule **does** apply to [units](../rules/rules_06_map_units.md) and [adjacency points](../rules/rules_02_initial_bonus_points.md), but **does not** apply to [artefacts](ref_required).
+Double bonus rule **does** apply to [units](../rules/rules_06_map_units.md) and [adjacency points](../rules/rules_02_initial_bonus_points.md), but **does not** apply to [artefacts](../rules/rules_13_corrupted_artefacts.md).
 
 If attack on a capital is successful, the winner has choice to make:
 

@@ -324,7 +324,7 @@ To determine the next **Corruption** target, a random roll is performed by GM a 
 
 > *Example: The first corrupted battle happened in Timeless Desert, so all capitals, 6 adjacent lands and the Desert itself were excluded from the next random roll for Corruption attack.*
 
-By participating in battles with Corruption, factions can [earn special items and get useful rewards](ref_required).
+By participating in battles with Corruption, factions can [earn special items and get useful rewards](../rules/rules_11_battle_rewards.md).
 
 <!---
 keywords:  
@@ -340,7 +340,7 @@ This double points rule is in favor of original capital owner:
 - If DC attacks MT capital - MT gets double bonus;
 - If DC holds MT capital, and Minds try to take it back - MT gets double bonus.
 
-Double bonus rule **does** apply to [units](../rules/rules_06_map_units.md) and [adjacency points](../rules/rules_02_initial_bonus_points.md), but **does not** apply to [artefacts](ref_required).
+Double bonus rule **does** apply to [units](../rules/rules_06_map_units.md) and [adjacency points](../rules/rules_02_initial_bonus_points.md), but **does not** apply to [artefacts](../rules/rules_13_corrupted_artefacts.md).
 
 If attack on a capital is successful, the winner has choice to make:
 
@@ -548,7 +548,7 @@ RES productions is  each land can be halted in the following cases:
 
 **Timeless Desert** produces its own type of resources - `⏳ Temporal Resources [TMP]`. It can be transmuted into 2 units of any other resource, or 1 of each (3 total).
 
-**[Learn how resources are used in battles](ref_required)**
+**[Learn how resources are used in battles](../rules/rules_17_spec_ops.md)**
 
 <!---
 keywords:  
