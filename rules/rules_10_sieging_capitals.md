@@ -12,7 +12,7 @@ Double bonus rule **does** apply to [units](../rules/rules_06_map_units.md) and 
 
 If attack on a capital is successful, the winner has choice to make:
 
-- Burn the city.
+- Burn and loot the city.
 
     In this case the capital is destroyed, meaning no double bonus for original owner if they want to recapture, but they can establish a new capital in their remaining lands.
 
