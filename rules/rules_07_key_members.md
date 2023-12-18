@@ -23,6 +23,10 @@ Just use **/send_gm_action <text>** command and the bot will ping me in a specia
 
 These actions are not binding to other players - they can still betray such the pacts or promises, but they are useful to have a record of what was "officially" agreed and when.
 
+There are two ways of removing the key member role from someone:
+- a majority vote of all key members (including the person in question);
+- a person willingly resigning their own key role.
+
 <!---
 keywords:  
 aliases: 

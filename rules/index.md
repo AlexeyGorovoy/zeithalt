@@ -274,6 +274,10 @@ Just use **/send_gm_action <text>** command and the bot will ping me in a specia
 
 These actions are not binding to other players - they can still betray such the pacts or promises, but they are useful to have a record of what was "officially" agreed and when.
 
+There are two ways of removing the key member role from someone:
+- a majority vote of all key members (including the person in question);
+- a person willingly resigning their own key role.
+
 <!---
 keywords:  
 aliases: 
@@ -344,7 +348,7 @@ Double bonus rule **does** apply to [units](#6-map-units) and [adjacency points]
 
 If attack on a capital is successful, the winner has choice to make:
 
-- Burn the city.
+- Burn and loot the city.
 
     In this case the capital is destroyed, meaning no double bonus for original owner if they want to recapture, but they can establish a new capital in their remaining lands.
 
