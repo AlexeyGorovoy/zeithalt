@@ -6,6 +6,10 @@ Loki is a famous (or some may say infamous) MT member that quickly rose through 
 
 His story includes a range of diverse moments: from being an owner of the [Valhalla Bar](../refs/valhalla_bar.md) to dark allegations of killing the preceding Defense Minister of MindTech.
 
+But it's the [Burning of Cerene Vale](../timeline/eon0749.md) that will forever be associated with his name, as a brutal outburst of unnecessary violence, event for which the full responsibility was taken by Loki himself.
+
+This very same even is quoted to be the sole reason for his downfall and the [restoration of the Council of Minds in MT on eon 755](../timeline/eon0755.md).
+
 <!---
 keywords: character, mt, dictator, valhalla bar
 aliases: 
