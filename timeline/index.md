@@ -223,7 +223,7 @@ Once again factions were able to come together and collectively defeat the threa
 
 `⚔️ Battle` won by [Protectores Silva](../refs/protectores_silva.md)
 
-[Protectores Silva](../refs/protectores_silva.md) attacks and claims [Imperial Swamp](../refs/imperial_swamp.md) in a battle knows as _Reclamation of the Imperial Swamp_.
+[Protectores Silva](../refs/protectores_silva.md) attacks and claims [Imperial Swamp](../refs/imperial_swamp.md) in a battle known as _Reclamation of the Imperial Swamp_.
 
 After a devastating loss to [Corruption](../refs/corruption.md) and the following [restoration projects](../refs/cr_restoration_project.md) the _Imperial Swamp_ stood as unoccupied and CR-free land - a chance seen and seized by the _Protectores Silva_.
 
