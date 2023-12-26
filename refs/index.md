@@ -64,6 +64,8 @@
 
 [Corruption](../refs/corruption.md)
 
+[Council of Minds](../refs/council_of_minds.md)
+
 [Corrupted Artefacts](../refs/cr_artefacts.md)
 
 [CR Fallout](../refs/cr_fallout.md)
