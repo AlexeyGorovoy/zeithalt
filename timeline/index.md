@@ -1,3 +1,59 @@
+## Eon 759 - The Festive Battle on the Marshes
+
+`⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md)
+
+During the holidays celebrated across the Island, but not in the Deltan lands, the [Delta Collective](../refs/delta_collective.md) launch enormous and unexpected attack on [Cybernetics Inc](../refs/cybernetics_inc.md) in [Dev Null Marsh](../refs/dev_null_marsh.md).
+
+The [Cybers](../refs/cybers.md) are caught completely off guard. 
+
+Their defences in the region are crippled by the very first strike, and even their allies [Silvans](../refs/silvans.md) - being worn down and demoralized by [their own recent losses](../timeline/eon0749.md) -  are unable to gather an army to come to the aid.
+
+As the result, [Deltans](../refs/deltans.md) glide through this battle with almost no resistance and reclaim the land that once belonged to them.
+
+The second-best army on the battlefield was surprisingly the [MindTech Institute](../refs/mindtech_institute.md), who were able to put up a good effort towards DC victory, despite [the turbulent times their faction goes through](../timeline/eon0755.md).
+
+The fact that this battle happened during the holiday season granted it a special name - _The Festive Battle on the Marshes_.
+
+![Battle Map](../timeline/map/eon0759.png)
+## Eon 755 - Council of Minds is restored in MT
+
+`⌛ Event`
+
+Following the blatant and brutal [Burning of Cerene Vale](../timeline/eon0749.md), the [Loki](../refs/loki.md)'s fall and simultaneous restoration of democratic institutes in MindTech begin.
+
+At the same time as democratic and inclusive elections are announces in [MindTech Institute](../refs/mindtech_institute.md), the former tyrant leader is detained and held captive in [Prefrenial Prefect](../refs/prefrenial_prefect.md), awaiting a trial. 
+
+The elections result in a landslide victory for [CuriousDino](../refs/curious_dino.md), who immediately assumes office as the MT Head of State and reestablishes the [Council of Minds](../refs/council_of_minds.md) as the governing body of MindTech. 
+
+Following eons become very busy for the newfound government: the new government structure is approved by the absolute majority of the Council; several cross-faction proposals are put forward and voted on; Loki is transferred to [Protectores Silva](../refs/protectores_silva.md) for trial.
+
+While from the outside of the faction these changes are barely noticeable and the faction still struggles to find understanding from other factions, the internal changes seem to be drastic and ambitious. 
+
+Which begs the ultimate question - will it start a new, more peaceful era for MindTech, or will it collapse back into the war and destruction yet again?
+
+
+
+
+## Eon 749 - The Burning of Cerene Vale
+
+`⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md)
+
+A devastating loss for [Protectores Silva](../refs/protectores_silva.md) results in them having to flee their own capital, as it goes up in flames from the approaching [Minds](../refs/minds.md) army attacks.
+
+The MT dictator [Loki](../refs/loki.md) stops at nothing to get his revenge on the [Protectors](../refs/protectores_silva.md) for what he calls a betrayal.
+
+It's a second ever successful siege of a capital, and the first one where the attacking army decides to burn the city to the ground. 
+
+Historians will remember this event as the _Burning of Cerene Vale_, and estimate that it might bear the same significance for the whole island as [Siege of Neuropolis (eon 384)](../timeline/eon0384.md) and the [Disaster of Synaxos Fields (eon 508)](../timeline/eon0508.md).
+
+When the ash settles and the smoke clears, will the [Minds](../refs/minds.md) army march on to their next target? 
+
+Or will the [Silvans](../refs/silvans.md) be able to regroup and fight back?
+
+Whichever way it goes, at the moment it seems the only way forward is through even more bloodshed and destruction. 
+
+![Battle Map](../timeline/map/eon0749.png)
+
 ## Eon 740 - The Battle Of Corrupted Mountain
 
 `⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md) (combined faction forces)
@@ -6,9 +62,9 @@ As it happened many times previously, the existential threat of [Corruption](../
 
 We see it happen again this time - despite an ongoing war between the [Minds](../refs/minds.md) and [Deltans](../refs/deltans) on one side and [Silvans](../refs/silvans.md) with [Cybers](../refs/cybers.md) on the other.
 
-This was a long an enduring battle though the night, however the factions were able to hold their ground and push back the [Corruption](../refs/corruption.md).
+It was a long an enduring battle through the night, however the factions were able to hold their ground and push back the [Corruption](../refs/corruption.md).
 
-Notably [Delta Collective](../refs/delta_collective.md) had the strongest army on the battlefield, being almost equal to the combined forces of three other factions.
+Notably, [Delta Collective](../refs/delta_collective.md) had the strongest army on the battlefield, being almost equal to the combined forces of three other factions.
 
 ![Battle Map](../timeline/map/eon0740.png)
 
@@ -411,11 +467,11 @@ Unfortunately for [Rebels](../refs/rebels.md) they did not find the support of o
 
 `⌛ Event`
 
-[Rebels](../refs/rebels.md) take over [Timeless Desert](../refs/timeless_desert.md), battles ensues where [MindTech Institute](../refs/mindtech_institute.md) tries to recapture it!
+[Rebels](../refs/rebels.md) take over [Timeless Desert](../refs/timeless_desert.md), battle ensues where [MindTech Institute](../refs/mindtech_institute.md) tries to recapture it!
 
-Rebellion group lead by [Sellswords](../refs/sellswords.md): Just No_name, TheDuckie, Eldar with the help of two inside men in  - [CuriousDino](../refs/curious_dino.md) and timmyrueben capture several administrative buildings and attempt to take [Timeless Desert](../refs/timeless_desert.md) under their control.
+Rebellion group lead by [Sellswords](../refs/sellswords.md): _Just No_name_, _TheDuckie_, _Eldar_ with the help of two inside men in [MindTech Institute](../refs/mindtech_institute.md) - [CuriousDino](../refs/curious_dino.md) and _timmyrueben_ capture several administrative buildings and attempt to take [Timeless Desert](../refs/timeless_desert.md) under their control.
 
-Immediately the fighting starts,  members attack back and try to drive rebels away from their lands.
+Immediately the fighting starts, [Minds](../refs/minds.md) attack back and try to drive rebels away from their lands.
 
 ![Battle Map](../timeline/map/eon0505.png)
 ## Eon 502 - The Island is getting ready for the next Corruption surge
