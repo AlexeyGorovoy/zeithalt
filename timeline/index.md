@@ -43,6 +43,12 @@ The second-best army on the battlefield was surprisingly the [MindTech Institute
 The fact that this battle happened during the holiday season granted it a special name - _The Festive Battle on the Marshes_.
 
 ![Battle Map](../timeline/map/eon0759.png)
+
+<!---
+type: battle
+number: 57
+place: dev_null_marsh
+-->
 ## Eon 755 - Council of Minds is restored in MT
 
 `⌛ Event`
@@ -82,6 +88,12 @@ Whichever way it goes, at the moment it seems the only way forward is through ev
 
 ![Battle Map](../timeline/map/eon0749.png)
 
+<!---
+type: battle
+number: 56
+place: cerene_vale
+-->
+
 ## Eon 740 - The Battle Of Corrupted Mountain
 
 `⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md) (combined faction forces)
@@ -95,6 +107,12 @@ It was a long an enduring battle through the night, however the factions were ab
 Notably, [Delta Collective](../refs/delta_collective.md) had the strongest army on the battlefield, being almost equal to the combined forces of three other factions.
 
 ![Battle Map](../timeline/map/eon0740.png)
+
+<!---
+type: battle
+number: 55
+place: mt_pickles
+-->
 
 
 ## Eon 733 - The Frantic Battle over A'as Forest
@@ -110,6 +128,12 @@ With [Cybers](../refs/cybers.md), [Silvan](../refs/silvans.md) and the [Fighters
 Despite quickly losing the initiative and all the chaos that ensued, [Protectores Silva](../refs/protectores_silva.md) managed to keep their heads cool and with a considerable effort and unforeseen amount of resources were able to fend off the attack.
 
 ![Battle Map](../timeline/map/eon0733.png)
+
+<!---
+type: battle
+number: 54
+place: aas_forest
+-->
 ## Eon 730 - PS give Blue Screen Lagoon to CI
 
 `⌛ Event`
@@ -129,6 +153,12 @@ This tactic proves useful again, as the Cybers are able to trigger [CR Mines](..
 However, the battle itself was heavily dominated by [Deltan](../refs/deltans.md) forces helping MT defend, while Cybers and Silvans mostly conserved their forces for the upcoming MT retribution.
 
 ![Battle Map](../timeline/map/eon0723.png)
+
+<!---
+type: battle
+number: 53
+place: timeless_desert
+-->
 ## Eon 715 - The Unfriendly Battle of Blue Screen Lagoon
 
 `⚔️ Battle` won by [Protectores Silva](../refs/protectores_silva.md)
@@ -143,6 +173,11 @@ Due to previously friendly relations between _Minds_ and _Silvans_, this battle 
 
 ![Battle Map](../timeline/map/eon0715.png)
 
+<!---
+type: battle
+number: 52
+place: blue_screen_lagoon
+-->
 ## Eon 706 - The Fall of Ares Garden
 
 `⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md)
@@ -159,6 +194,11 @@ However, their efforts were not enough to help _Silvans_ win this battle.
 
 ![Battle Map](../timeline/map/eon0706.png)
 
+<!---
+type: battle
+number: 51
+place: ares_gardens
+-->
 ## Eon 697 - The Corruption Outbreak in Synaxos Fields
 
 `⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md) (combined faction forces)
@@ -167,6 +207,11 @@ However, their efforts were not enough to help _Silvans_ win this battle.
 
 _Zeithalt historian took a break during this time, so there’s little or no written history of this event._
 
+<!---
+type: battle
+number: 50
+place: synaxos_fields
+-->
 ## Eon 687 - The Crash Landing on Indigo Shore
 
 `⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md)
@@ -175,6 +220,11 @@ _Zeithalt historian took a break during this time, so there’s little or no wri
 
 _Zeithalt historian took a break during this time, so there’s little or no written history of this event._
 
+<!---
+type: battle
+number: 49
+place: indigo_shore
+-->
 ## Eon 679 - The Defense of Dev Null Marsh
 
 `⚔️ Battle` won by [Cybernetics Inc](../refs/cybernetics_inc.md)
@@ -185,6 +235,11 @@ It was practically won by a clever use of _Special Tactics_ and [resources](../r
 
 _Zeithalt historian took a break during this time, so there’s little or no written history of this event._
 
+<!---
+type: battle
+number: 48
+place: dev_null_marsh
+-->
 ## Eon 666 - The Spooky Battle of Chaotic Plains
 
 `⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md) (combined faction forces)
@@ -193,6 +248,11 @@ _Zeithalt historian took a break during this time, so there’s little or no wri
 
 _Zeithalt historian took a break during this time, so there’s little or no written history of this event._
 
+<!---
+type: battle
+number: 47
+place: chaotic_plains
+-->
 ## Eon 656 - The Sabotage in the Desert
 
 `⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md)
@@ -209,6 +269,12 @@ It's difficult to determine a clear "winner" in this battle, as both sides claim
 
 ![Battle Map](../timeline/map/eon0656.png)
 
+<!---
+type: battle
+number: 46
+place: timeless_desert
+-->
+
 ## Eon 646 - The Unstable Battle of Blue Screen Lagoon
 
 `⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md)
@@ -220,6 +286,12 @@ A streak of unsuccessful battles for [Cybers](../refs/cybers.md) continues once 
 Despite the help from [Protectores Silva](../refs/protectores_silva.md) and having the upper hand for most of the battle, combined effort of _Deltans_ and _Minds_ prevailed in this battle.
 
 ![Battle Map](../timeline/map/eon0646.png)
+
+<!---
+type: battle
+number: 45
+place: blue_screen_lagoon
+-->
 
 ## Eon 636 - The Peculiar Battle of Mt. Pickles
 
@@ -235,6 +307,12 @@ In this battle [Cybernetics Inc](../refs/cybernetics_inc.md) were on the defensi
 
 ![Battle Map](../timeline/map/eon0636.png)
 
+<!---
+type: battle
+number: 44
+place: mt_pickles
+-->
+
 ## Eon 626 - The Enduring Defense of Webified Hills
 
 `⚔️ Battle` won by [Cybernetics Inc](../refs/cybernetics_inc.md) (combines faction forces)
@@ -247,6 +325,12 @@ Once again factions were able to come together and collectively defeat the threa
 
 ![Battle Map](../timeline/map/eon0626.png)
 
+<!---
+type: battle
+number: 43
+place: webified_hills
+-->
+
 ## Eon 619 - The Reclamation of Imperial Swamp
 
 `⚔️ Battle` won by [Protectores Silva](../refs/protectores_silva.md)
@@ -258,6 +342,12 @@ After a devastating loss to [Corruption](../refs/corruption.md) and the followin
 Prompted by [Silvans](../refs/silvans.md), the rush to capture the _Imperial Swamp_ started, but having used the [Corrupted Shards](../refs/cr_shards.md), the _Silvans_ were ahead of others the entire battle and secured the victory.
 
 ![Battle Map](../timeline/map/eon0619.png)
+
+<!---
+type: battle
+number: 42
+place: imperial_swamp
+-->
 
 ## Eon 617 - CI and DC exchange lands
 
@@ -285,6 +375,12 @@ Later on, the battle resumes, but by that time full power of _Deltan_ forces wer
 
 ![Battle Map](../timeline/map/eon0611.png)
 
+<!---
+type: battle
+number: 41
+place: purple_deeps
+-->
+
 ## Eon 596 - The Fall of Imperial Swamp
 
 `⚔️ Battle` won by [Corruption](../refs/corruption.md)
@@ -297,6 +393,12 @@ Either way, the collective effort of factions wasn’t enough and [Imperial Swam
 
 ![Battle Map](../timeline/map/eon0596.png)
 
+<!---
+type: battle
+number: 40
+place: imperial_swamp
+-->
+
 ## Eon 582 - The Advance on Peace Death Gorge
 
 `⚔️ Battle` won by [Cybernetics Inc](../refs/cybernetics_inc.md)
@@ -306,6 +408,12 @@ In an unexpected strategic move, [Cybernetics Inc](../refs/cybernetics_inc.md) w
 Due to careful planning and good execution, joint forces of [Cybers](../refs/cybers.md) and [Silvans](../refs/silvans.md) were able to dominate the battlefield and win this battle.
 
 ![Battle Map](../timeline/map/eon0582.png)
+
+<!---
+type: battle
+number: 39
+place: peace_death_gorge
+-->
 
 ## Eon 573 - The Battle of Corrupted Valley
 
@@ -321,6 +429,12 @@ On the other hand, it means the next battle will be harder.
 
 ![Battle Map](../timeline/map/eon0573.png)
 
+<!---
+type: battle
+number: 38
+place: singularity_valley
+-->
+
 ## Eon 563 - The 5th Battle of Mt. Pickles
 
 `⚔️ Battle` won by [Cybernetics Inc](../refs/cybernetics_inc.md)
@@ -334,6 +448,12 @@ This is the first battle on record where both sides of the conflict launched spe
 Remarkable trivia - _Mt. Pickles_ has now seen more battles than any other region on Zeithalt, but the previous battle happened here almost 200 eons ago.
 
 ![Battle Map](../timeline/map/eon0563.png)
+
+<!---
+type: battle
+number: 37
+place: mt_pickles
+-->
 
 ## Eon 560 - CI gives Oblivion Mire to PS
 
@@ -356,12 +476,22 @@ The fast-paced nature of this battle gave it the title _The Race for Oblivion Mi
 
 ![Battle Map](../timeline/map/eon0554.png)
 
+<!---
+type: battle
+number: 36
+place: oblivion_mire
+-->
 ## Eon 545 - Military exercise in Cerene Vale
 
 `⚔️ Battle` won by [Protectores Silva](../refs/protectores_silva.md) (military exercise)
 
 [MindTech Institute](../refs/mindtech_institute.md) attacks [Protectores Silva](../refs/protectores_silva.md) in [Cerene Vale](../refs/cerene_vale.md) in a joint military exercise.
 
+<!---
+type: battle
+number: 35
+place: cerene_vale
+-->
 ## Eon 540 - Restoration of Oblivion Mire
 
 `⌛ Event`
@@ -394,6 +524,12 @@ This night will be remembered as _The Dark Night on the Mire_.
 
 ![Battle Map](../timeline/map/eon0536.png)
 
+<!---
+type: battle
+number: 34
+place: oblivion_mire
+-->
+
 ## Eon 527 - CI and DC exchange lands
 
 `⌛ Event`
@@ -415,6 +551,12 @@ This was quite an unusual battle - for the first time in more than 270 eons that
 [MindTech Institute](../refs/mindtech_institute.md) had by far the most power in this battle, successfully completing _The Recapture Of Synaxos Fields_.
 
 ![Battle Map](../timeline/map/eon0526.png)
+
+<!---
+type: battle
+number: 33
+place: synaxos_fields
+-->
 
 ## Eon 519 - CI and DC exchange lands
 
@@ -461,6 +603,12 @@ The slow and frankly quite boring nature of this unsuccessful siege has granted 
 
 ![Battle Map](../timeline/map/eon0515.png)
 
+<!---
+type: battle
+number: 32
+place: cerene_vale
+-->
+
 ## Eon 508 - The Disaster of Synaxos Fields
 
 `⚔️ Battle` won by [Corruption](../refs/corruption.md)
@@ -490,6 +638,12 @@ Unfortunately for [Rebels](../refs/rebels.md) they did not find the support of o
 [Delta Collective](../refs/delta_collective.md) and [Cybernetics Inc](../refs/cybernetics_inc.md) mostly stayed neutral, while [Protectores Silva](../refs/protectores_silva.md) joined the efforts to quell the rebellion. 
 
 ![Battle Map](../timeline/map/eon0506.png)
+
+<!---
+type: battle
+number: 31
+place: timeless_desert
+-->
 
 ## Eon 505 - Rebels take over Timeless Desert
 
@@ -526,6 +680,12 @@ As a result - [Cybernetics Inc](../refs/cybernetics_inc.md) successfully fends o
 
 ![Battle Map](../timeline/map/eon0501.png)
 
+<!---
+type: battle
+number: 30
+place: virtuara_outpost
+-->
+
 ## Eon 492 - CI and MT exchange lands
 
 `⌛ Event`
@@ -555,6 +715,12 @@ This resulted in some of their forces attacking in the middle of the night, whil
 Such forgetfulness of MT officials granted this battle its title - _The Oblivious Battle on the Mire_ 
 
 ![Battle Map](../timeline/map/eon0491.png)
+
+<!---
+type: battle
+number: 29
+place: oblivion_mire
+-->
 
 ## Eon 487 - CI and MT exchange lands
 
@@ -593,6 +759,12 @@ Since the beginning of the battle, [Cybernetics Inc](../refs/cybernetics_inc.md)
 The careful, slow and intense nature of the battle has granted it its name - _The Crawling Battle of [Xyrclaox Watch](../refs/xyrclaox_watch.md)_.
 
 ![Battle Map](../timeline/map/eon0479.png)
+
+<!---
+type: battle
+number: 28
+place: xyrclaox_watch
+-->
 ## Eon 469 - The Corrupted Battle of PEBKAC Peak
 
 `⚔️ Battle` won by [Cybernetics Inc](../refs/cybernetics_inc.md) (combined faction forces)
@@ -606,6 +778,12 @@ During the battle, [MindTech Institute](../refs/mindtech_institute.md) fought on
 Due to the success in The Corrupted Battle of [PEBKAC Peak](../refs/pebkac_peak.md) factions CR research projects move forward, giving more understanding on the nature of [Corruption](../refs/corruption.md).
 
 ![Battle Map](../timeline/map/eon0469.png)
+
+<!---
+type: battle
+number: 27
+place: pebkac_peak
+-->
 ## Eon 466 - CI and PS prepare for CR Battle
 
 `⌛ Event`
@@ -637,6 +815,12 @@ Quite surprisingly, in this battle [Delta Collective](../refs/delta_collective.m
 Important thing to note is that during this battle the deal between [Cybers](../refs/cybers.md) and [Minds](../refs/minds.md) to trade [Paradox Pass](../refs/paradox_pass.md) (becomes CI land) for [Illusion Cliffs](../refs/illusion_cliffs.md) (goes to MT) was uncovered, raising more questions from other factions.
 
 ![Battle Map](../timeline/map/eon0462.png)
+
+<!---
+type: battle
+number: 26
+place: neuropolis
+-->
 ## Eon 452 - Technological advancement - Taxes and Land Income
 
 `⌛ Event`
@@ -660,6 +844,12 @@ Both [Cybernetics Inc](../refs/cybernetics_inc.md) (defending side) and [Protect
 [MindTech Institute](../refs/mindtech_institute.md) quite unexpectedly joins the offensive. It’s unclear if their intervention was an effort to help the [Deltans](../refs/deltans.md), or an attempt of hijacking their attack. Either way, [Minds](../refs/minds.md) power was not enough to contest the confident win by [Delta Collective](../refs/delta_collective.md).
 
 ![Battle Map](../timeline/map/eon0451.png)
+
+<!---
+type: battle
+number: 25
+place: peace_death_gorge
+-->
 ## Eon 441 - The Lakeside Battle of Webified Hills
 
 `⚔️ Battle` won by [Cybernetics Inc](../refs/cybernetics_inc.md)
@@ -673,6 +863,12 @@ Notable that [MindTech Institute](../refs/mindtech_institute.md) strongly suppor
 [Protectores Silva](../refs/protectores_silva.md) stayed true to their resolve of being a neutral force, hitting equally for both sides to earn some gold.
 
 ![Battle Map](../timeline/map/eon0441.png)
+
+<!---
+type: battle
+number: 24
+place: webified_hills
+-->
 ## Eon 435 - PS passes their attack turn
 
 `⌛ Event`
@@ -688,6 +884,12 @@ In this battle factions once again stood strong against the [Corruption](../refs
 However, this battles was not without surprises - [Deltans](../refs/deltans.md) forces were considerable more powerful than other factions, while [MindTech Institute](../refs/mindtech_institute.md) performance was so underwhelming, that [Protectores Silva](../refs/protectores_silva.md) was the second best.
 
 ![Battle Map](../timeline/map/eon0432.png)
+
+<!---
+type: battle
+number: 23
+place: dev_null_marsh
+-->
 ## Eon 425 - PS passes their attack turn
 
 `⌛ Event`
@@ -705,6 +907,12 @@ In this daring attack [Delta Collective](../refs/delta_collective.md) severely m
 Met by the defense of all 3 other factions, this attack was destined to fail from the beginning, given this battle its title - _The Foolish Battle of Timeless Desert_.
 
 ![Battle Map](../timeline/map/eon0423.png)
+
+<!---
+type: battle
+number: 22
+place: timeless_desert
+-->
 ## Eon 419 - 3-way land exchange between CI, MT and PS
 
 `⌛ Event`
@@ -737,6 +945,12 @@ On the other hand, only a fraction of Cybers supported MT in this battle, what p
 The tensions are rising, alliances are shaking. It seems only [Protectores Silva](../refs/protectores_silva.md) manages to not worsen it’s position in this battle, by keeping low profile - a position, understandable for a small and so far a peaceful faction.
 
 ![Battle Map](../timeline/map/eon0413.png)
+
+<!---
+type: battle
+number: 21
+place: brickland_fortress
+-->
 ## Eon 407 - CI and MT exchange lands
 
 `⌛ Event`
@@ -757,6 +971,12 @@ Worth noting that both MT garrisons were located in the area, greatly helping wi
 This battle happened at night time for most of the participants and took longer than usual to finish, granting its name - The Night Battle of [Paradox Pass](../refs/paradox_pass.md).
 
 ![Battle Map](../timeline/map/eon0402.png)
+
+<!---
+type: battle
+number: 20
+place: paradox_pass
+-->
 ## Eon 391 - 2nd Battle of Corrupted Desert
 
 `⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md) (combined faction forces)
@@ -768,6 +988,12 @@ Due to various factors and the recent spike in activity and commitment, this bat
 Does it mean that the next time the [Corruption](../refs/corruption.md) will strike harder?
 
 ![Battle Map](../timeline/map/eon0391.png)
+
+<!---
+type: battle
+number: 19
+place: time_desert
+-->
 ## Eon 386 - DC and CI exchange lands 2 for 2
 
 `⌛ Event`
@@ -792,6 +1018,12 @@ When faced with a choice whether to keep the city or let Neuropolis burn to the 
 All the fires remaining after battle were promptly put out, the immediate restoration of city walls began, Deltan officials started the effort to restore peaceful life in the city.
 
 ![Battle Map](../timeline/map/eon0384.png)
+
+<!---
+type: battle
+number: 18
+place: neuropolis
+-->
 ## Eon 375 - The 4h Battle of Mt. Pickles
 
 `⚔️ Battle` won by [Protectores Silva](../refs/protectores_silva.md) (military exercise)
@@ -801,6 +1033,12 @@ With the help of [Cybernetics Inc](../refs/cybernetics_inc.md) and [Delta Collec
 However, [MindTech Institute](../refs/mindtech_institute.md) sent out message to let other factions know that this was a joint military exercise with [Protectores Silva](../refs/protectores_silva.md) and their faction is committed to their claimed goal of pursuing peace on the Zeithalt.
 
 ![Battle Map](../timeline/map/eon0375.png)
+
+<!---
+type: battle
+number: 17
+place: mt_pickles
+-->
 ## Eon 370 - CI gives Cybertron Jungle to PS
 
 `⌛ Event`
@@ -845,6 +1083,12 @@ A notable achievement for Cybers - it is their first victory in a battle against
 [MindTech Institute](../refs/mindtech_institute.md) mostly stayed out of it, adhering to their new policy of peacekeeping, although some MT players in pursuit of gold and fame were active during the battle.
 
 ![Battle Map](../timeline/map/eon0367.png)
+
+<!---
+type: battle
+number: 16
+place: imperial_swamp
+-->
 ## Eon 359 - The Battle of Corrupted Forest
 
 `⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md) (combined faction forces)
@@ -861,6 +1105,12 @@ Other notable events include:
 Reports say that [Cybernetics Inc](../refs/cybernetics_inc.md) and  were able to gather enough corrupted matter and complete (separately) their own [CR Research](../refs/cr_artefacts.md) projects.
 
 ![Battle Map](../timeline/map/eon0359.png)
+
+<!---
+type: battle
+number: 15
+place: aas_forest
+-->
 ## Eon 353 - Corruption research in full swing
 
 `⌛ Event`
@@ -916,6 +1166,12 @@ It is believed, however, that some [Delta Collective](../refs/delta_collective.m
 During the battle [MindTech Institute](../refs/mindtech_institute.md) members were able to gather enough corrupted matter to synthesize [Corrupted Mines](../refs/cr_mines.md) - powerful defensive weapon, first of its kind on Zeithalt.
 
 ![Battle Map](../timeline/map/eon0345.png)
+
+<!---
+type: battle
+number: 14
+place: cybertron_jungle
+-->
 ## Eon 341 - MT gives Indigo Shore to CI
 
 `⌛ Event`
@@ -941,6 +1197,12 @@ Two times in a row [Cybers](../refs/cybers.md) help the Minds win new lands from
 With the upcoming [Corruption](../refs/corruption.md) battle, we will see if the factions are able to unite under new circumstances or if the political quarrels mean more to them than the fate of the Zeithalt Island…
 
 ![Battle Map](../timeline/map/eon0338.png)
+
+<!---
+type: battle
+number: 13
+place: mt_pickles
+-->
 ## Eon 330 - The Confusing Battle of Indigo Shore
 
 `⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md)
@@ -954,6 +1216,12 @@ Also, in the epic meme moment [Loki](../refs/loki.md) got confused and defended 
 All this confusion granted the battle its name - The Confusing Battle of [Indigo Shore](../refs/indigo_shore.md).
 
 ![Battle Map](../timeline/map/eon0330.png)
+
+<!---
+type: battle
+number: 12
+place: indigo_shore
+-->
 ## Eon 321 - The Long Battle of Dev Null Marsh
 
 `⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md)
@@ -963,6 +1231,12 @@ The [Delta Collective](../refs/delta_collective.md) attacks [MindTech Institute]
 This battle lasts unexpectedly longer than usual, granting its name - The Long Battle Of Dev Null Marsh.
 
 ![Battle Map](../timeline/map/eon0321.png)
+
+<!---
+type: battle
+number: 11
+place: dev_null_marsh
+-->
 ## Eon 314 - The Battle of Corrupted Desert
 
 `⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md) (combined faction forces)
@@ -974,6 +1248,12 @@ Defense is successful and [Timeless Desert](../refs/timeless_desert.md) stays un
 [HexAgon](../refs/hexagon.md), MT leader at the time and the greatest warrior of this battle, finds a unique artifact - [Corrupted gemstone](../refs/cr_gemstone.md).
 
 ![Battle Map](../timeline/map/eon0314.png)
+
+<!---
+type: battle
+number: 10
+place: timeless_desert
+-->
 ## Eon 310 - Unknown treat appears on the Island
 
 `⌛ Event`
@@ -992,6 +1272,12 @@ All sides of the conflict just agree to cut it short it and give the victory to 
 Due to this unusual even the battle is known as The Boring Battle.
 
 ![Battle Map](../timeline/map/eon0301.png)
+
+<!---
+type: battle
+number: 9
+place: brickland_fortress
+-->
 ## Eon 301 - DC give Synaxos Fields to CI
 
 `⌛ Event`
@@ -1006,6 +1292,12 @@ Due to this unusual even the battle is known as The Boring Battle.
 Deltans join [Cybernetics Inc](../refs/cybernetics_inc.md) attack on [MT](../refs/mindtech_institute.md)'s [Synaxos Fields](../refs/synaxos_fields.md), overtake them and win the battle.
 
 ![Battle Map](../timeline/map/eon0298.png)
+
+<!---
+type: battle
+number: 8
+place: synaxos_fields
+-->
 ## Eon 295 - Technological advancement - Support and Sabotage
 
 `⌛ Event`
@@ -1031,6 +1323,12 @@ The reformation of Delta Collective continues with the renaming of the following
 With newfound strength, Delta Collective attacks [Mt. Pickles](../refs/mt_pickles.md) and reclaims it from [MindTech Institute](../refs/mindtech_institute.md)'s control.
 
 ![Battle Map](../timeline/map/eon0290.png)
+
+<!---
+type: battle
+number: 7
+place: mt_pickles
+-->
 ## Eon 280 - Battle of Brickland Fortress
 
 `⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md)
@@ -1040,6 +1338,12 @@ Having won all previous battles, [MindTech Institute](../refs/mindtech_institute
 However, the influx of new warriors in Delta Collective and their ability to negotiate an alliance with [Cybernetics Inc](../refs/cybernetics_inc.md) despite recent Deltan attack helps to change the tides and win the battle.
 
 ![Battle Map](../timeline/map/eon0280.png)
+
+<!---
+type: battle
+number: 6
+place: brickland_fortress
+-->
 ## Eon 275 - Uprising in the Delta Collective
 
 `⌛ Event`
@@ -1067,6 +1371,12 @@ In the retribution for previous MT actions, the [Cybers](../refs/cybers.md) atta
 It all comes down to the very last minutes of the battle, and could've ended either way, but in the end the [Minds](../refs/minds.md) prevail and narrowly avoid losing their sacred land. 
 
 ![Battle Map](../timeline/map/eon0266.png)
+
+<!---
+type: battle
+number: 5
+place: timeless_desert
+-->
 ## Eon 266 - Battle of Dev Null Marsh
 
 `⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md)
@@ -1080,6 +1390,12 @@ During the battle Minds temporarily start helping Cybers defense, but eventually
 This battle is the starting point of the mutual hatred between Cybers and Minds, that would last for hundreds of Eons to come. 
 
 ![Battle Map](../timeline/map/eon0266.png)
+
+<!---
+type: battle
+number: 4
+place: dev_null_marsh
+-->
 ## Eon 257 - Battle of Mt. Pickles
 
 `⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md)
@@ -1087,6 +1403,13 @@ This battle is the starting point of the mutual hatred between Cybers and Minds,
 MindTech Institute attacks [Delta Collective](../refs/delta_collective.md)'s [Mt. Pickles](../refs/mt_pickles.md) and wins the battle.
 
 ![Battle Map](../timeline/map/eon0257.png)
+
+
+<!---
+type: battle
+number: 3
+place: mt_pickles
+-->
 ## Eon 253 - Start of the Age of Battles
 
 `⌛ Event`
@@ -1103,6 +1426,12 @@ MindTech institute wins this battle and claims Timeless Desert as their homeland
 This battle marks the end of the [Age of Conquest](../refs/age_of_conquest.md) and the start of the [Age of Battles](../refs/age_of_battles.md).
 
 ![Battle Map](../timeline/map/eon0252.png)
+
+<!---
+type: battle
+number: 2
+place: timeless_desert
+-->
 ## Eon 247 - The Forgotten Battle
 
 `⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md)
@@ -1112,6 +1441,11 @@ The place of the battle has been lost in history, therefore the name of the batt
 At this point in time, one last free land remains - [Timeless Desert](../refs/timeless_desert.md).
 
 ![Battle Map](../timeline/map/eon0247.png)
+
+<!---
+type: battle
+number: 1
+-->
 ## Eon 246 - Start of the recorded history
 
 `⌛ Event`
