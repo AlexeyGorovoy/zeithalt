@@ -8,9 +8,9 @@ With that, comes a logical conclusion of the MT-PS war.
 
 The result of this war seems to be [Protectores Silva](../refs/protectores_silva.md) losing a couple of their lands and having to rebuild their capital.
 
-[MindTech Institute](../refs/mindtech_institute.md) were able to reclaim one of their lands, but at a high price of losing vast amounts of resources and putting themselves in a tough political situation; and ended up with a new government to navigate this situation.
+[MindTech Institute](../refs/mindtech_institute.md) were able to reclaim one of their lands at a high cost of losing vast amounts of resources and ended up with a new government to navigate the political situation they put themselves in.
 
-/[Delta Collective](../refs/delta_collective.md) profitted from the war by reclaiming Ares Garden and squeezing out [Protectores Silva](../refs/protectores_silva.md) from the Imperial Swamp.
+/[Delta Collective](../refs/delta_collective.md) profited from the war by reclaiming Ares Garden and squeezing out [Protectores Silva](../refs/protectores_silva.md) from the Imperial Swamp.
 
 [Cybernetics Inc](../refs/cybernetics_inc.md), although being on a losing side, did not really have to pay any price for it.
 
