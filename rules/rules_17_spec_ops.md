@@ -3,9 +3,9 @@
 `📑 Battle Rules`
 
 Factions can start three types of special operations:
-- `🪨 Brutal Force` started from `🪨 Mineral Resources` 
-- `🧪 Special Tactics` started from `🧪 Science Resources`
-- `⚡️ Advanced Weapons` started from `⚡️ Energy Resources`
+- `🪨 Brutal Force` started from `🪨 Mineral Resources`, countered by `⚡️ ERG`
+- `🧪 Special Tactics` started from `🧪 Science Resources`, countered by `🪨 MIN`
+- `⚡️ Advanced Weapons` started from `⚡️ Energy Resources`, countered by `🧪 SCI`
 
 These weapons work a bit like rock-paper-scissors game: `🪨` beats `🧪` beats ️`⚡️` beats `🪨`.
 

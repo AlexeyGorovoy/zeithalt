@@ -48,6 +48,8 @@
 [Bumpus Mackamarus Arbum](../refs/bumps.md)
 
 ### C
+[🌵 Cactus Juice Factory](../refs/cactus_juice_factory.md)
+
 [🏢 Center for Anomaly Control](../refs/center_for_anomaly_control.md)
 
 [Cerene Vale](../refs/cerene_vale.md)
@@ -318,6 +320,8 @@
 
 [⚙️ Underwater Turbine Power Plant](../refs/underwater_power_plant.md)
 
+[🦄 UniCorn™️ Farmlands](../refs/unicorn_farmlands.md)
+
 ### V
 [🥡 Valhalla Bar](../refs/valhalla_bar.md)
 
@@ -348,6 +352,8 @@
 
 ### X
 [🎨 Xiavente's Meme Workshop](../refs/meme_workshop.md)
+
+[Xiavente](../refs/xiavente.md)
 
 [Xyrclaox Watch](../refs/xyrclaox_watch.md)
 
