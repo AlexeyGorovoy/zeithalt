@@ -2,11 +2,17 @@
 
 `🪧 Place` in [Neuropolis](../refs/neuropolis.md)
 
-Built on eon 511 by [MindTech Institute](../refs/mindtech_institute.md)
+Center for Anomaly Control (CAC) was built on eon 511 by [MindTech Institute](../refs/mindtech_institute.md) under supervision of [Xiavente](../refs/xiavente.md), shortly after the [Disaster of Synaxos Fields](../timeline/eon0508.md).
 
-_This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
+With the access to the lands of [Synaxos](../refs/synaxos_fields.md) being extremely dangerous, the Center had to be constructed as close to it as possible, while maintaining the direct connection to [Neuropolis](../refs/neuropolis.md) for better supply lines in the emergency situation.
+
+The Center for Anomaly Control served as a hub of operations during the [CR Restoration Research](../refs/cr_restoration_project.md) and the _Synaxos Restoration Project_ soon after.
+
+However, CAC did not escape its fair share of controversy, as the first weapon-grade [CR Artifacts](../refs/cr_artefacts.md) are believed to have been developed and tested on its grounds.
+
+Later, the resources of the Center were used in Restoration Projects in other lands, including the ones held by other factions and to this day the CAC remains a crucial point of CR Research.
 
 <!---
-keywords:  mt, neuropolis
+keywords:  neuropolis, synaxos fields
 aliases: 
 -->
