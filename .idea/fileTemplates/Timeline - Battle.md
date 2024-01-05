@@ -4,3 +4,8 @@ ${TITLE}
 
 DESCRIPTION
 
+<!---
+type: battle
+number: XX
+place: xxx_xxx
+-->
