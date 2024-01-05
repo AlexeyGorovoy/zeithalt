@@ -123,6 +123,8 @@
 
 [🏢 Fighters Guild, CI Branch](../refs/fighters_guild_ci_branch.md)
 
+[First Capital](../refs/first_capital.md)
+
 [Fortifications](../refs/fortifications.md)
 
 ### G
@@ -195,6 +197,16 @@
 [Mt. Pickles](../refs/mt_pickles.md)
 
 [💾 Museum of Archaic Technology](../refs/museum_of_archaic_tech.md)
+
+[🏛️ Museum of the Old Capital](../refs/museum_of_old_capital.md)
+
+[MindTech Triquetra](../refs/my_symbology.md)
+
+[MindTech Flags](../refs/my_symbology.md)
+
+[MindTech Banners](../refs/my_symbology.md)
+
+[MindTech Symbology](../refs/my_symbology.md)
 
 [--- Mimbot's Index ---](../refs/refs_index.md)
 
