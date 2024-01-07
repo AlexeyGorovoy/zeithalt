@@ -141,12 +141,16 @@
 ### H
 [hexAgon](../refs/hexagon.md)
 
+[🎌️ Hill of 1000 flags](../refs/hill_of_flags.md)
+
 ### I
 [Illusion Cliffs](../refs/illusion_cliffs.md)
 
 [Imperial Swamp](../refs/imperial_swamp.md)
 
 [Indigo Shore](../refs/indigo_shore.md)
+
+[Isynthillicus Cyrciniae](../refs/timeless_waystone.md)
 
 ### J
 [🎊 Jackbox Party Central](../refs/jackbox_party_central.md)
@@ -196,17 +200,17 @@
 
 [Mt. Pickles](../refs/mt_pickles.md)
 
+[MindTech Triquetra](../refs/mt_symbology.md)
+
+[MindTech Flags](../refs/mt_symbology.md)
+
+[MindTech Banners](../refs/mt_symbology.md)
+
+[MindTech Symbology](../refs/mt_symbology.md)
+
 [💾 Museum of Archaic Technology](../refs/museum_of_archaic_tech.md)
 
 [🏛️ Museum of the Old Capital](../refs/museum_of_old_capital.md)
-
-[MindTech Triquetra](../refs/my_symbology.md)
-
-[MindTech Flags](../refs/my_symbology.md)
-
-[MindTech Banners](../refs/my_symbology.md)
-
-[MindTech Symbology](../refs/my_symbology.md)
 
 [--- Mimbot's Index ---](../refs/refs_index.md)
 
@@ -318,6 +322,8 @@
 [Temporal Resources](../refs/temporal_resources.md)
 
 [Timeless Desert](../refs/timeless_desert.md)
+
+[Timeless Waystone](../refs/timeless_waystone.md)
 
 [Timeline](../refs/timeline.md)
 
