@@ -130,6 +130,8 @@
 ### G
 [💿 Gaia Knowledge Database](../refs/gaia_knowledbe_db.md)
 
+[🎮 G.A.M.E. Complex](../refs/game_complex.md)
+
 [Garrisons](../refs/garrisons.md)
 
 [🏹 Giant Slingshot](../refs/giant_slingshot.md)

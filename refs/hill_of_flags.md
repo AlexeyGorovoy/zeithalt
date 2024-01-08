@@ -1,6 +1,6 @@
 ## 🎌️ Hill of 1000 flags
 
-`🖼️ Landmark`
+`🖼️ Landmark` in [Paradox Pass](../refs/paradox_pass.md)
 
 Opened to the public on eon 770, this memorial is primarily dedicated to the [MindTech Institute symbology](../refs/mt_symbology.md) and culture, but also serves as an archive for symbols and signs used anywhere on the Island.
 
