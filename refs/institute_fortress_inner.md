@@ -4,7 +4,7 @@
 
 It is a thirty-storey building with a vaguely triangular plan, surrounded by the [outer walls](../refs/institute_fortress_outer.md). At each corner stands a tower, different from the others in shape and size.
 
-The building houses the seat of government: the Council of the Wise. Many rooms are not open to the public and their use is unknown.
+The building houses the seat of government: the [Council of Minds](../refs/council_of_minds.md). Many rooms are not open to the public and their use is unknown.
 
 The Towers, distinguished by a colour, are: 
 - the *Orange Tower*, which hosts the students, candidates to be part of the Institute.
