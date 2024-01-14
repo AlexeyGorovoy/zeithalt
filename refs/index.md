@@ -64,11 +64,17 @@
 
 [☁️ Cloudy Data Center](../refs/cloudy_co_datacenter.md)
 
+[CO](../refs/cloudy_operatives.md)
+
+[Cloudy Operatives](../refs/cloudy_operatives.md)
+
 [Common language](../refs/common_language.md)
 
 [Corruption](../refs/corruption.md)
 
 [Council of Minds](../refs/council_of_minds.md)
+
+[CrAEX](../refs/craex.md)
 
 [Corrupted Artefacts](../refs/cr_artefacts.md)
 

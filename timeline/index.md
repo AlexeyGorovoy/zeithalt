@@ -1,3 +1,43 @@
+## Eon 779 - Cloudy Operative is founded
+
+`⌛ Event`
+
+After eons of preparations, the founders of the [Cloudy Operatives](../refs/cloudy_operatives.md) finally finish the process of establishing their new faction.
+
+The faction is founded by the three former [MindTech Institute](../refs/mindtech_institute.md) Masters - [Bumps](../refs/bumps.md), [Shaxx](../refs/shaxx.md) and [CrAEX](../refs/craex.md), joined by a Silvan [You](../refs/you.md) and a sellswords [Eldar](../refs/eldar.md) as [Revalx](../refs/revalx.md).
+
+The new faction is able to negotiate a deal with MindTech regarding the [Timeless Desert](../refs/timeless_desert.md) and now has it under their control.
+
+The goal of the Cloudy Operatives is claimed to be the focus on the development of the Desert and its [resources](../refs/temporal_resources.md), as well as trade and economic prosperity. 
+
+In their founding accords, the new faction vows not to take interest in any lands outside the Desert with the goal of achieving neutrality with other factions.
+
+Will this new faction be able to keep their word? 
+
+Will it achieve the promised neutrality with half of their members coming from MT? 
+
+Will the Desert be protected or will it push other factions to see it as a new target?
+
+Only _time_ will tell.
+
+![Battle Map](../timeline/map/eon0779.png)
+## Eon 778 - The 3rd Outbreak in Synaxos Fields
+
+`⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md) (combined faction forces)
+
+After the previous war and the tension it caused between the factions, the defense of [Synaxos Fields](../refs/synaxos_fields.md) promised to be hard. There even were rumours of intentional sabotage against MindTech Institute.
+
+The fact that the faction had been suppressing [Corruption](../refs/corruption.md) for several battles in a row did not help either.
+
+However, the factions were able to gather a united force to aid MindTech Institute in the defense and avoid the global disaster.
+
+![Battle Map](../timeline/map/eon0778.png)
+
+<!---
+type: battle
+number: 59
+place: SYNAXOS_FIELDS
+-->
 ## Eon 768 - Hesitant Battle of Peace Death Gorge
 
 `⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md)
@@ -695,7 +735,7 @@ place: timeless_desert
 
 [Rebels](../refs/rebels.md) take over [Timeless Desert](../refs/timeless_desert.md), battle ensues where [MindTech Institute](../refs/mindtech_institute.md) tries to recapture it!
 
-Rebellion group lead by [Sellswords](../refs/sellswords.md): _Just No_name_, _TheDuckie_, _Eldar_ with the help of two inside men in [MindTech Institute](../refs/mindtech_institute.md) - [CuriousDino](../refs/curious_dino.md) and _timmyrueben_ capture several administrative buildings and attempt to take [Timeless Desert](../refs/timeless_desert.md) under their control.
+Rebellion group lead by [Sellswords](../refs/sellswords.md): _Just No_name_, _TheDuckie_, [Eldar](../refs/eldar.md) with the help of two inside men in [MindTech Institute](../refs/mindtech_institute.md) - [CuriousDino](../refs/curious_dino.md) and _timmyrueben_ capture several administrative buildings and attempt to take [Timeless Desert](../refs/timeless_desert.md) under their control.
 
 Immediately the fighting starts, [Minds](../refs/minds.md) attack back and try to drive rebels away from their lands.
 
