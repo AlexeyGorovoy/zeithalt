@@ -39,6 +39,8 @@
 
 [Blue Screen Lagoon](../refs/blue_screen_lagoon.md)
 
+[Book of Balance](../refs/book_of_balance.md)
+
 [🍺 Brewery](../refs/brewery.md)
 
 [Brickland Fortress](../refs/brickland_fortress.md)
@@ -128,6 +130,8 @@
 [Fortifications](../refs/fortifications.md)
 
 ### G
+[Gift of Balance](../refs/book_of_balance.md)
+
 [💿 Gaia Knowledge Database](../refs/gaia_knowledbe_db.md)
 
 [🎮 G.A.M.E. Complex](../refs/game_complex.md)
@@ -141,6 +145,8 @@
 [GreenOtter](../refs/greenotter.md)
 
 ### H
+[Headmaster of the Institute](../refs/council_of_minds.md)
+
 [hexAgon](../refs/hexagon.md)
 
 [🎌️ Hill of 1000 flags](../refs/hill_of_flags.md)
@@ -170,6 +176,8 @@
 [Loki](../refs/loki.md)
 
 ### M
+[Masters of the Council](../refs/council_of_minds.md)
+
 [MindTech Institute Fortress (inner walls)](../refs/institute_fortress_inner.md)
 
 [MindTech Institute Fortress (outer walls)](../refs/institute_fortress_outer.md)
@@ -309,6 +317,8 @@
 [Synaxos Fields](../refs/synaxos_fields.md)
 
 ### T
+[The Arcanum](../refs/arcanum.md)
+
 [The Algorithms](../refs/great_ai.md)
 
 [Towers of MindTech Institute](../refs/institute_fortress_inner.md)
