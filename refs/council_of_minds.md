@@ -2,7 +2,7 @@
 
 `📑 Term`
 
-A governing body of [MindTech Institute](../refs/mindtech_institute.md), consisting of recognized citizens, skilled warriors and prominent scholars of the faction.
+A governing body of [MindTech Institute](../refs/mindtech_institute.md) that resides in [Cortexian Hall](../refs/cortexian_hall.md), consisting of recognized citizens, skilled warriors and prominent scholars of the faction.
 
 The members of the Council are called _Masters_ and serve for life, or until they resign or are removed from the Council by the other members.
 

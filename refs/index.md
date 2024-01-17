@@ -72,6 +72,8 @@
 
 [Corruption](../refs/corruption.md)
 
+[📖 Cortexian Hall](../refs/cortexian_hall.md)
+
 [Council of Minds](../refs/council_of_minds.md)
 
 [CrAEX](../refs/craex.md)
@@ -104,6 +106,8 @@
 [Deltans](../refs/deltans.md)
 
 [Deltan language](../refs/deltan_language.md)
+
+[💬 Deltan Language School](../refs/deltan_language_school.md)
 
 [DC](../refs/delta_collective.md)
 
@@ -324,6 +328,8 @@
 
 ### T
 [The Arcanum](../refs/arcanum.md)
+
+[The Great Auditorium](../refs/cortexian_hall.md)
 
 [The Algorithms](../refs/great_ai.md)
 
