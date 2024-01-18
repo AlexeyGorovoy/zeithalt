@@ -14,7 +14,7 @@ The following meanings are assigned to these symbols:
 
 **The orange color** is the main color of the faction, derived from the **sands of the [Timeless Desert](../refs/timeless_desert.md)** - sacred MT land.
 
-**The deep red** used exclusively on war flags and banners is the symbol of bravery of MT warriors and their sacrifice, and a reference to [Corruption](../refs/corruption.md) that arose from MT lands.
+**The black color** used exclusively on war flags and banners is the symbol of destruction and sacrifice the war brings, and a reference to [Corruption](../refs/corruption.md) that arose from MT lands.
 
 > **Official MT flag**  
 > (main version, used for diplomatic and ceremonial purposes)
