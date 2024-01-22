@@ -1,14 +1,16 @@
-## CuriousDino
+## Dino Saurex
 
 **🧙‍♂️ Character**
 
-Dino is of a dinoman race - something best described as "an anthropomorphic dinosaur".
+Also known as CuriousDino in his early years is a person of dinoman race - something best described as "an anthropomorphic dinosaur."
 
-Famous for his business ideas such as Gambling Den and Fighters Guild, as well as different cons he participated as a member of several faction.
+He quickly became famous for his business ideas such as Gambling Den and Fighters Guild, different successful cons, as well as being a member of several factions. 
 
-Often speaks of himself in third person, as customary in native dinoman language
+Despite his participation in the [Rebellion in the Desert](https://alexeygorovoy.github.io/zeithalt/timeline/#eon-506---rebellion-in-the-desert), he eventually got elected as a [Headmaster](../refs/council_of_minds.md) of [MindTech Institute](../refs/mindtech_institute.md) after successfully organizing a coup against the [tyrant leader](../refs/loki.md). 
+
+Wields a legendary [Prehistoric Axe](../refs/prehistoric_axe.md) and often speaks of himself in third person, as customary in native dinoman language.
 
 <!---
-keywords: sw, dino, gambling, fighters
+keywords: sw, CuriousDino, gambling, fighters
 aliases: 
 -->

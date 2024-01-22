@@ -10,8 +10,6 @@ Each of these categories have different kinds of bonuses and help factions immen
 
 They also divide into Common and Epic variants. Epic items do what Common items do but better and stronger.
 
-Edit.
-
 <!---
 keywords: battle, common, epic, weapons, armor, relics
 aliases: Weapons, Armor, Relics
