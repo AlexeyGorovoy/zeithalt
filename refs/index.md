@@ -92,8 +92,6 @@
 
 [🏥 CURE](../refs/cure.md)
 
-[CuriousDino](../refs/curious_dino.md)
-
 [CI](../refs/cybernetics_inc.md)
 
 [Cybernetics Inc](../refs/cybernetics_inc.md)
@@ -103,6 +101,10 @@
 [Cybertron Jungle](../refs/cybertron_jungle.md)
 
 ### D
+[Dino Saurex](../refs/curious_dino.md)
+
+[🗡️ Dagger of Elemental Restoration](../refs/dagger_of_elemental_restoration.md)
+
 [Deltans](../refs/deltans.md)
 
 [Deltan language](../refs/deltan_language.md)
@@ -150,6 +152,8 @@
 
 [🏹 Giant Slingshot](../refs/giant_slingshot.md)
 
+[Gold Mines](../refs/gold_mines.md)
+
 [Great AI](../refs/great_ai.md)
 
 [GreenOtter](../refs/greenotter.md)
@@ -160,6 +164,8 @@
 [hexAgon](../refs/hexagon.md)
 
 [🎌️ Hill of 1000 flags](../refs/hill_of_flags.md)
+
+[🛖 House of Craftsmanship](../refs/house_of_craftsmanship.md)
 
 ### I
 [Illusion Cliffs](../refs/illusion_cliffs.md)
@@ -269,6 +275,8 @@
 
 [🚷 Prefrenial Prefect (Prison)](../refs/prefrenial_prefect.md)
 
+[🪓 Prehistoric Axe](../refs/prehistoric_axe.md)
+
 [PS](../refs/protectores_silva.md)
 
 [Protectores Silva](../refs/protectores_silva.md)
@@ -315,6 +323,8 @@
 [👤 SMURF](../refs/smurf.md)
 
 [Something Tacensis Rock](../refs/something.md)
+
+[Somnivale](../refs/somnivale.md)
 
 [Southern Sea](../refs/southern_sea.md)
 
@@ -391,6 +401,8 @@
 [Webified Hills](../refs/webified_hills.md)
 
 [🐅 Wildlife Preservation](../refs/wildlife_preservation.md)
+
+[🌱 World Seed Pendant](../refs/world_seed_pendant.md)
 
 ### X
 [🎨 Xiavente's Meme Workshop](../refs/meme_workshop.md)
