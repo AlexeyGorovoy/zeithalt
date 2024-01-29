@@ -310,6 +310,8 @@
 
 [Sellswords](../refs/sellswords.md)
 
+[🍺 Seven Roads Inn](../refs/seven_roads_inn.md)
+
 [Shaxx](../refs/shaxx.md)
 
 [Silvans](../refs/silvans.md)
@@ -332,9 +334,13 @@
 
 [🗽 Statue of Mimb](../refs/statue_of_mimb.md)
 
+[Stonehavers (family)](../refs/stonehavers.md)
+
 [Support](../refs/support.md)
 
 [Synaxos Fields](../refs/synaxos_fields.md)
+
+[Syncrax Road](../refs/syncrax_road.md)
 
 ### T
 [The Arcanum](../refs/arcanum.md)
