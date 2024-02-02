@@ -70,7 +70,7 @@ fun main() {
         "$sep ### <a id=\"${entry.anchor}\"></a>${entry.title}\n${entry.text}\n$sep"
     }
 
-    val rIndexText = "# Index\n$reference$sep$content$sep$reference$sep$texts"
+    val rIndexText = "# Index\n$reference\n$content$sep$reference$texts"
         .replaceLinks(linkMap)
 
     val output = File("r/index.md")
