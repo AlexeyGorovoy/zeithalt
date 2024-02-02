@@ -71,7 +71,7 @@ fun main() {
     }
 
     val rIndexText = "# Index\n$reference$sep$content$sep$reference$sep$texts"
-//        .replaceLinks(linkMap)
+        .replaceLinks(linkMap)
 
     val output = File("r/index.md")
     output.writeText(rIndexText)
