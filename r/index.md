@@ -1,432 +1,432 @@
-# <a id="top"></a>Zeithalt Lore Book 2
+# <a id="top"></a>Zeithalt Lore Book
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
-### <a id="#top">↑</a> A
-<a id="dd50_s"></a>[↓ Aas Forest](#dd50)
+### <a id="#top"></a>A
+<a id="dd50_s"></a>[Aas Forest](#dd50)
 
-<a id="1a00_s"></a>[↓ Admincity](#1a00)
+<a id="1a00_s"></a>[Admincity](#1a00)
 
-<a id="32e0_s"></a>[↓ Age of Battles](#32e0)
+<a id="32e0_s"></a>[Age of Battles](#32e0)
 
-<a id="0620_s"></a>[↓ Age of Conquest](#0620)
+<a id="0620_s"></a>[Age of Conquest](#0620)
 
-<a id="b750_s"></a>[↓ Age of Darkness](#b750)
+<a id="b750_s"></a>[Age of Darkness](#b750)
 
-<a id="0a70_s"></a>[↓ Airmanon 'Air' Driftwing](#0a70)
+<a id="0a70_s"></a>[Airmanon 'Air' Driftwing](#0a70)
 
-<a id="9a30_s"></a>[↓ Alexx](#9a30)
+<a id="9a30_s"></a>[Alexx](#9a30)
 
-<a id="8270_s"></a>[↓ 🐙 Altar of Ctulhu](#8270)
+<a id="8270_s"></a>[🐙 Altar of Ctulhu](#8270)
 
-<a id="cea0_s"></a>[↓ 📚 Archives of Subconsciousness](#cea0)
+<a id="cea0_s"></a>[📚 Archives of Subconsciousness](#cea0)
 
-<a id="fff0_s"></a>[↓ Ares Gardens](#fff0)
+<a id="fff0_s"></a>[Ares Gardens](#fff0)
 
-<a id="a740_s"></a>[↓ 🛣️ Axonite Road](#a740)
+<a id="a740_s"></a>[🛣️ Axonite Road](#a740)
 
-<a id="9930_s"></a>[↓ Armor](#9930)
+<a id="9930_s"></a>[Armor](#9930)
 
-### <a id="#top">↑</a> B
-<a id="4450_s"></a>[↓ ⚗️ Bioengineered Algae Farm](#4450)
+### <a id="#top"></a>B
+<a id="4450_s"></a>[⚗️ Bioengineered Algae Farm](#4450)
 
-<a id="9640_s"></a>[↓ 🎋 Bamboo Grove](#9640)
+<a id="9640_s"></a>[🎋 Bamboo Grove](#9640)
 
-<a id="ee50_s"></a>[↓ Bank of Zeithalt](#ee50)
+<a id="ee50_s"></a>[Bank of Zeithalt](#ee50)
 
-<a id="3460_s"></a>[↓ 🔱 Beacon for the Sight of Innovation](#3460)
+<a id="3460_s"></a>[🔱 Beacon for the Sight of Innovation](#3460)
 
-<a id="2880_s"></a>[↓ 🕯️ Beacon for the Light of Reason](#2880)
+<a id="2880_s"></a>[🕯️ Beacon for the Light of Reason](#2880)
 
-<a id="8f30_s"></a>[↓ Blue Screen Lagoon](#8f30)
+<a id="8f30_s"></a>[Blue Screen Lagoon](#8f30)
 
-<a id="b710_s"></a>[↓ Book of Balance](#b710)
+<a id="b710_s"></a>[Book of Balance](#b710)
 
-<a id="6a20_s"></a>[↓ 🍺 Brewery](#6a20)
+<a id="6a20_s"></a>[🍺 Brewery](#6a20)
 
-<a id="f6d0_s"></a>[↓ Brickland Fortress](#f6d0)
+<a id="f6d0_s"></a>[Brickland Fortress](#f6d0)
 
-<a id="50d0_s"></a>[↓ Brickspire Mountains](#50d0)
+<a id="50d0_s"></a>[Brickspire Mountains](#50d0)
 
-<a id="8880_s"></a>[↓ Bumpus Mackamarus Arbum](#8880)
+<a id="8880_s"></a>[Bumpus Mackamarus Arbum](#8880)
 
-### <a id="#top">↑</a> C
-<a id="32c0_s"></a>[↓ 🌵 Cactus Juice Factory](#32c0)
+### <a id="#top"></a>C
+<a id="32c0_s"></a>[🌵 Cactus Juice Factory](#32c0)
 
-<a id="0330_s"></a>[↓ 🏢 Center for Anomaly Control](#0330)
+<a id="0330_s"></a>[🏢 Center for Anomaly Control](#0330)
 
-<a id="3850_s"></a>[↓ Cerene Vale](#3850)
+<a id="3850_s"></a>[Cerene Vale](#3850)
 
-<a id="8a30_s"></a>[↓ Chaotic Plains](#8a30)
+<a id="8a30_s"></a>[Chaotic Plains](#8a30)
 
-<a id="e320_s"></a>[↓ Chronoglass](#e320)
+<a id="e320_s"></a>[Chronoglass](#e320)
 
-<a id="29a0_s"></a>[↓ ChronoGlass™️](#29a0)
+<a id="29a0_s"></a>[ChronoGlass™️](#29a0)
 
-<a id="4120_s"></a>[↓ ☁️ Cloudy Data Center](#4120)
+<a id="4120_s"></a>[☁️ Cloudy Data Center](#4120)
 
-<a id="36b0_s"></a>[↓ CO](#36b0)
+<a id="36b0_s"></a>[CO](#36b0)
 
-<a id="36b0_s"></a>[↓ Cloudy Operatives](#36b0)
+<a id="36b0_s"></a>[Cloudy Operatives](#36b0)
 
-<a id="bef0_s"></a>[↓ Common language](#bef0)
+<a id="bef0_s"></a>[Common language](#bef0)
 
-<a id="a2b0_s"></a>[↓ Corruption](#a2b0)
+<a id="a2b0_s"></a>[Corruption](#a2b0)
 
-<a id="a610_s"></a>[↓ 📖 Cortexian Hall](#a610)
+<a id="a610_s"></a>[📖 Cortexian Hall](#a610)
 
-<a id="7c90_s"></a>[↓ Council of Minds](#7c90)
+<a id="7c90_s"></a>[Council of Minds](#7c90)
 
-<a id="45d0_s"></a>[↓ CrAEX](#45d0)
+<a id="45d0_s"></a>[CrAEX](#45d0)
 
-<a id="a1a0_s"></a>[↓ Corrupted Artefacts](#a1a0)
+<a id="a1a0_s"></a>[Corrupted Artefacts](#a1a0)
 
-<a id="17b0_s"></a>[↓ CR Fallout](#17b0)
+<a id="17b0_s"></a>[CR Fallout](#17b0)
 
-<a id="08c0_s"></a>[↓ Corrupted Gemstone](#08c0)
+<a id="08c0_s"></a>[Corrupted Gemstone](#08c0)
 
-<a id="8360_s"></a>[↓ CR Mines](#8360)
+<a id="8360_s"></a>[CR Mines](#8360)
 
-<a id="2390_s"></a>[↓ Corruption Restoration Project](#2390)
+<a id="2390_s"></a>[Corruption Restoration Project](#2390)
 
-<a id="1330_s"></a>[↓ CR Shards](#1330)
+<a id="1330_s"></a>[CR Shards](#1330)
 
-<a id="9670_s"></a>[↓ 🏥 CURE](#9670)
+<a id="9670_s"></a>[🏥 CURE](#9670)
 
-<a id="80b0_s"></a>[↓ CI](#80b0)
+<a id="80b0_s"></a>[CI](#80b0)
 
-<a id="80b0_s"></a>[↓ Cybernetics Inc](#80b0)
+<a id="80b0_s"></a>[Cybernetics Inc](#80b0)
 
-<a id="7b30_s"></a>[↓ Cybers](#7b30)
+<a id="7b30_s"></a>[Cybers](#7b30)
 
-<a id="b9b0_s"></a>[↓ Cybertron Jungle](#b9b0)
+<a id="b9b0_s"></a>[Cybertron Jungle](#b9b0)
 
-### <a id="#top">↑</a> D
-<a id="8f50_s"></a>[↓ Dino Saurex](#8f50)
+### <a id="#top"></a>D
+<a id="8f50_s"></a>[Dino Saurex](#8f50)
 
-<a id="f750_s"></a>[↓ 🗡️ Dagger of Elemental Restoration](#f750)
+<a id="f750_s"></a>[🗡️ Dagger of Elemental Restoration](#f750)
 
-<a id="b730_s"></a>[↓ Deltans](#b730)
+<a id="b730_s"></a>[Deltans](#b730)
 
-<a id="4de0_s"></a>[↓ Deltan language](#4de0)
+<a id="4de0_s"></a>[Deltan language](#4de0)
 
-<a id="b0c0_s"></a>[↓ 💬 Deltan Language School](#b0c0)
+<a id="b0c0_s"></a>[💬 Deltan Language School](#b0c0)
 
-<a id="8bc0_s"></a>[↓ DC](#8bc0)
+<a id="8bc0_s"></a>[DC](#8bc0)
 
-<a id="8bc0_s"></a>[↓ Delta Collective](#8bc0)
+<a id="8bc0_s"></a>[Delta Collective](#8bc0)
 
-<a id="1070_s"></a>[↓ Dev Null Marsh](#1070)
+<a id="1070_s"></a>[Dev Null Marsh](#1070)
 
-<a id="ee20_s"></a>[↓ 🎰 Dino's Gambling Den](#ee20)
+<a id="ee20_s"></a>[🎰 Dino's Gambling Den](#ee20)
 
-<a id="7e10_s"></a>[↓ 🦆 Duck Farm](#7e10)
+<a id="7e10_s"></a>[🦆 Duck Farm](#7e10)
 
-<a id="fad0_s"></a>[↓ Double-Z](#fad0)
+<a id="fad0_s"></a>[Double-Z](#fad0)
 
-### <a id="#top">↑</a> E
-<a id="f6d0_s"></a>[↓ Eastern Brickland](#f6d0)
+### <a id="#top"></a>E
+<a id="f6d0_s"></a>[Eastern Brickland](#f6d0)
 
-<a id="7d50_s"></a>[↓ 🥚 Egg Festival](#7d50)
+<a id="7d50_s"></a>[🥚 Egg Festival](#7d50)
 
-<a id="8730_s"></a>[↓ Eon](#8730)
+<a id="8730_s"></a>[Eon](#8730)
 
-<a id="74f0_s"></a>[↓ Energy Resources](#74f0)
+<a id="74f0_s"></a>[Energy Resources](#74f0)
 
-### <a id="#top">↑</a> F
-<a id="ee30_s"></a>[↓ Fighters Guild](#ee30)
+### <a id="#top"></a>F
+<a id="ee30_s"></a>[Fighters Guild](#ee30)
 
-<a id="ff60_s"></a>[↓ 🏢 Fighters Guild, CI Branch](#ff60)
+<a id="ff60_s"></a>[🏢 Fighters Guild, CI Branch](#ff60)
 
-<a id="5570_s"></a>[↓ First Capital](#5570)
+<a id="5570_s"></a>[First Capital](#5570)
 
-<a id="9ff0_s"></a>[↓ Fortifications](#9ff0)
+<a id="9ff0_s"></a>[Fortifications](#9ff0)
 
-### <a id="#top">↑</a> G
-<a id="b710_s"></a>[↓ Gift of Balance](#b710)
+### <a id="#top"></a>G
+<a id="b710_s"></a>[Gift of Balance](#b710)
 
-<a id="9340_s"></a>[↓ 💿 Gaia Knowledge Database](#9340)
+<a id="9340_s"></a>[💿 Gaia Knowledge Database](#9340)
 
-<a id="6ee0_s"></a>[↓ 🎮 G.A.M.E. Complex](#6ee0)
+<a id="6ee0_s"></a>[🎮 G.A.M.E. Complex](#6ee0)
 
-<a id="6fe0_s"></a>[↓ Garrisons](#6fe0)
+<a id="6fe0_s"></a>[Garrisons](#6fe0)
 
-<a id="ce70_s"></a>[↓ 🏹 Giant Slingshot](#ce70)
+<a id="ce70_s"></a>[🏹 Giant Slingshot](#ce70)
 
-<a id="7210_s"></a>[↓ Gold Mines](#7210)
+<a id="7210_s"></a>[Gold Mines](#7210)
 
-<a id="fd60_s"></a>[↓ Great AI](#fd60)
+<a id="fd60_s"></a>[Great AI](#fd60)
 
-<a id="06a0_s"></a>[↓ GreenOtter](#06a0)
+<a id="06a0_s"></a>[GreenOtter](#06a0)
 
-### <a id="#top">↑</a> H
-<a id="7c90_s"></a>[↓ Headmaster of the Institute](#7c90)
+### <a id="#top"></a>H
+<a id="7c90_s"></a>[Headmaster of the Institute](#7c90)
 
-<a id="f910_s"></a>[↓ hexAgon](#f910)
+<a id="f910_s"></a>[hexAgon](#f910)
 
-<a id="ef90_s"></a>[↓ 🎌️ Hill of 1000 flags](#ef90)
+<a id="ef90_s"></a>[🎌️ Hill of 1000 flags](#ef90)
 
-<a id="1b90_s"></a>[↓ 🛖 House of Craftsmanship](#1b90)
+<a id="1b90_s"></a>[🛖 House of Craftsmanship](#1b90)
 
-### <a id="#top">↑</a> I
-<a id="e630_s"></a>[↓ Illusion Cliffs](#e630)
+### <a id="#top"></a>I
+<a id="e630_s"></a>[Illusion Cliffs](#e630)
 
-<a id="0740_s"></a>[↓ Imperial Swamp](#0740)
+<a id="0740_s"></a>[Imperial Swamp](#0740)
 
-<a id="7a70_s"></a>[↓ Indigo Shore](#7a70)
+<a id="7a70_s"></a>[Indigo Shore](#7a70)
 
-<a id="22a0_s"></a>[↓ Isynthillicus Cyrciniae](#22a0)
+<a id="22a0_s"></a>[Isynthillicus Cyrciniae](#22a0)
 
-### <a id="#top">↑</a> J
-<a id="09e0_s"></a>[↓ 🎊 Jackbox Party Central](#09e0)
+### <a id="#top"></a>J
+<a id="09e0_s"></a>[🎊 Jackbox Party Central](#09e0)
 
-<a id="3760_s"></a>[↓ 🦖 Jurassic Park](#3760)
+<a id="3760_s"></a>[🦖 Jurassic Park](#3760)
 
-### <a id="#top">↑</a> K
-<a id="2dc0_s"></a>[↓ 🕸️ K2 Fibers](#2dc0)
+### <a id="#top"></a>K
+<a id="2dc0_s"></a>[🕸️ K2 Fibers](#2dc0)
 
-### <a id="#top">↑</a> L
-<a id="bca0_s"></a>[↓ Lake Corsair](#bca0)
+### <a id="#top"></a>L
+<a id="bca0_s"></a>[Lake Corsair](#bca0)
 
-<a id="5220_s"></a>[↓ 🗼 Lime Tower](#5220)
+<a id="5220_s"></a>[🗼 Lime Tower](#5220)
 
-<a id="5850_s"></a>[↓ Loki](#5850)
+<a id="5850_s"></a>[Loki](#5850)
 
-### <a id="#top">↑</a> M
-<a id="7c90_s"></a>[↓ Masters of the Council](#7c90)
+### <a id="#top"></a>M
+<a id="7c90_s"></a>[Masters of the Council](#7c90)
 
-<a id="ea90_s"></a>[↓ MindTech Institute Fortress (inner walls)](#ea90)
+<a id="ea90_s"></a>[MindTech Institute Fortress (inner walls)](#ea90)
 
-<a id="8a90_s"></a>[↓ MindTech Institute Fortress (outer walls)](#8a90)
+<a id="8a90_s"></a>[MindTech Institute Fortress (outer walls)](#8a90)
 
-<a id="e850_s"></a>[↓ Map Legend](#e850)
+<a id="e850_s"></a>[Map Legend](#e850)
 
-<a id="b751_s"></a>[↓ 🪆 Matryoshka Idoll](#b751)
+<a id="b751_s"></a>[🪆 Matryoshka Idoll](#b751)
 
-<a id="c860_s"></a>[↓ Meadowridge](#c860)
+<a id="c860_s"></a>[Meadowridge](#c860)
 
-<a id="be90_s"></a>[↓ 🏯 Military Academy](#be90)
+<a id="be90_s"></a>[🏯 Military Academy](#be90)
 
-<a id="34f0_s"></a>[↓ Mimb](#34f0)
+<a id="34f0_s"></a>[Mimb](#34f0)
 
-<a id="1670_s"></a>[↓ Mimbot, the Lore Keeper](#1670)
+<a id="1670_s"></a>[Mimbot, the Lore Keeper](#1670)
 
-<a id="a4e0_s"></a>[↓ Mimps Virus](#a4e0)
+<a id="a4e0_s"></a>[Mimps Virus](#a4e0)
 
-<a id="7c50_s"></a>[↓ Minds](#7c50)
+<a id="7c50_s"></a>[Minds](#7c50)
 
-<a id="6550_s"></a>[↓ MT](#6550)
+<a id="6550_s"></a>[MT](#6550)
 
-<a id="6550_s"></a>[↓ MindTech Institute](#6550)
+<a id="6550_s"></a>[MindTech Institute](#6550)
 
-<a id="9f60_s"></a>[↓ 🔬 Modern CR Research Facility](#9f60)
+<a id="9f60_s"></a>[🔬 Modern CR Research Facility](#9f60)
 
-<a id="18c0_s"></a>[↓ 🏦 Money Factory](#18c0)
+<a id="18c0_s"></a>[🏦 Money Factory](#18c0)
 
-<a id="74a0_s"></a>[↓ 🎲 Monument to Chaos](#74a0)
+<a id="74a0_s"></a>[🎲 Monument to Chaos](#74a0)
 
-<a id="7490_s"></a>[↓ Mt. Pickles](#7490)
+<a id="7490_s"></a>[Mt. Pickles](#7490)
 
-<a id="cbe0_s"></a>[↓ MindTech Triquetra](#cbe0)
+<a id="cbe0_s"></a>[MindTech Triquetra](#cbe0)
 
-<a id="cbe0_s"></a>[↓ MindTech Flags](#cbe0)
+<a id="cbe0_s"></a>[MindTech Flags](#cbe0)
 
-<a id="cbe0_s"></a>[↓ MindTech Banners](#cbe0)
+<a id="cbe0_s"></a>[MindTech Banners](#cbe0)
 
-<a id="cbe0_s"></a>[↓ MindTech Symbology](#cbe0)
+<a id="cbe0_s"></a>[MindTech Symbology](#cbe0)
 
-<a id="50e0_s"></a>[↓ 💾 Museum of Archaic Technology](#50e0)
+<a id="50e0_s"></a>[💾 Museum of Archaic Technology](#50e0)
 
-<a id="6c20_s"></a>[↓ 🏛️ Museum of the Old Capital](#6c20)
+<a id="6c20_s"></a>[🏛️ Museum of the Old Capital](#6c20)
 
-<a id="6d30_s"></a>[↓ --- Mimbot's Index ---](#6d30)
+<a id="6d30_s"></a>[--- Mimbot's Index ---](#6d30)
 
-<a id="74f0_s"></a>[↓ Mineral Resources](#74f0)
+<a id="74f0_s"></a>[Mineral Resources](#74f0)
 
-### <a id="#top">↑</a> N
-<a id="b870_s"></a>[↓ Neuropolis](#b870)
+### <a id="#top"></a>N
+<a id="b870_s"></a>[Neuropolis](#b870)
 
-<a id="3820_s"></a>[↓ 📰 News HQ](#3820)
+<a id="3820_s"></a>[📰 News HQ](#3820)
 
-### <a id="#top">↑</a> O
-<a id="8840_s"></a>[↓ Oblivion Mire](#8840)
+### <a id="#top"></a>O
+<a id="8840_s"></a>[Oblivion Mire](#8840)
 
-<a id="e810_s"></a>[↓ Ogrodnik](#e810)
+<a id="e810_s"></a>[Ogrodnik](#e810)
 
-<a id="c080_s"></a>[↓ Ozimud](#c080)
+<a id="c080_s"></a>[Ozimud](#c080)
 
-### <a id="#top">↑</a> P
-<a id="cb50_s"></a>[↓ Paradox PAss](#cb50)
+### <a id="#top"></a>P
+<a id="cb50_s"></a>[Paradox PAss](#cb50)
 
-<a id="3910_s"></a>[↓ 🎡 Particle Collitionist](#3910)
+<a id="3910_s"></a>[🎡 Particle Collitionist](#3910)
 
-<a id="db50_s"></a>[↓ Peace Death Gorge](#db50)
+<a id="db50_s"></a>[Peace Death Gorge](#db50)
 
-<a id="f6f0_s"></a>[↓ PEBKAC Peak](#f6f0)
+<a id="f6f0_s"></a>[PEBKAC Peak](#f6f0)
 
-<a id="e470_s"></a>[↓ 🌿 Photosynthetic Power Station](#e470)
+<a id="e470_s"></a>[🌿 Photosynthetic Power Station](#e470)
 
-<a id="ae70_s"></a>[↓ ⛽️ Pickled Ooblek Deli](#ae70)
+<a id="ae70_s"></a>[⛽️ Pickled Ooblek Deli](#ae70)
 
-<a id="a810_s"></a>[↓ 🏴‍☠️ Pirate Harbor](#a810)
+<a id="a810_s"></a>[🏴‍☠️ Pirate Harbor](#a810)
 
-<a id="b910_s"></a>[↓ 🍕 PIZZA](#b910)
+<a id="b910_s"></a>[🍕 PIZZA](#b910)
 
-<a id="fc70_s"></a>[↓ Pierre's Porous Pickle Porch](#fc70)
+<a id="fc70_s"></a>[Pierre's Porous Pickle Porch](#fc70)
 
-<a id="9850_s"></a>[↓ 🚷 Prefrenial Prefect (Prison)](#9850)
+<a id="9850_s"></a>[🚷 Prefrenial Prefect (Prison)](#9850)
 
-<a id="e4e0_s"></a>[↓ 🪓 Prehistoric Axe](#e4e0)
+<a id="e4e0_s"></a>[🪓 Prehistoric Axe](#e4e0)
 
-<a id="7a60_s"></a>[↓ PS](#7a60)
+<a id="7a60_s"></a>[PS](#7a60)
 
-<a id="7a60_s"></a>[↓ Protectores Silva](#7a60)
+<a id="7a60_s"></a>[Protectores Silva](#7a60)
 
-<a id="e4f0_s"></a>[↓ PTSD](#e4f0)
+<a id="e4f0_s"></a>[PTSD](#e4f0)
 
-<a id="aaf0_s"></a>[↓ 💰 PTSD Office](#aaf0)
+<a id="aaf0_s"></a>[💰 PTSD Office](#aaf0)
 
-<a id="3911_s"></a>[↓ Purple Deeps](#3911)
+<a id="3911_s"></a>[Purple Deeps](#3911)
 
-### <a id="#top">↑</a> Q
-<a id="f880_s"></a>[↓ 🛰️ Quantum Nexus Laboratory](#f880)
+### <a id="#top"></a>Q
+<a id="f880_s"></a>[🛰️ Quantum Nexus Laboratory](#f880)
 
-### <a id="#top">↑</a> R
-<a id="4270_s"></a>[↓ Rebels](#4270)
+### <a id="#top"></a>R
+<a id="4270_s"></a>[Rebels](#4270)
 
-<a id="74f0_s"></a>[↓ Resources (RES)](#74f0)
+<a id="74f0_s"></a>[Resources (RES)](#74f0)
 
-<a id="7a61_s"></a>[↓ 🏭 Resource Management Facility](#7a61)
+<a id="7a61_s"></a>[🏭 Resource Management Facility](#7a61)
 
-<a id="9ff1_s"></a>[↓ Revalx](#9ff1)
+<a id="9ff1_s"></a>[Revalx](#9ff1)
 
-<a id="9930_s"></a>[↓ Relics](#9930)
+<a id="9930_s"></a>[Relics](#9930)
 
-### <a id="#top">↑</a> S
-<a id="74f0_s"></a>[↓ Science Resources](#74f0)
+### <a id="#top"></a>S
+<a id="74f0_s"></a>[Science Resources](#74f0)
 
-<a id="0090_s"></a>[↓ Saboteur](#0090)
+<a id="0090_s"></a>[Saboteur](#0090)
 
-<a id="7e11_s"></a>[↓ Sazhra](#7e11)
+<a id="7e11_s"></a>[Sazhra](#7e11)
 
-<a id="3ec0_s"></a>[↓ Sellswords](#3ec0)
+<a id="3ec0_s"></a>[Sellswords](#3ec0)
 
-<a id="1780_s"></a>[↓ 🍺 Seven Roads Inn](#1780)
+<a id="1780_s"></a>[🍺 Seven Roads Inn](#1780)
 
-<a id="f4e0_s"></a>[↓ Shaxx](#f4e0)
+<a id="f4e0_s"></a>[Shaxx](#f4e0)
 
-<a id="3480_s"></a>[↓ Silvans](#3480)
+<a id="3480_s"></a>[Silvans](#3480)
 
-<a id="dd30_s"></a>[↓ Singularity Valley](#dd30)
+<a id="dd30_s"></a>[Singularity Valley](#dd30)
 
-<a id="c210_s"></a>[↓ 🧜‍♀️ Siren's Lighthouse](#c210)
+<a id="c210_s"></a>[🧜‍♀️ Siren's Lighthouse](#c210)
 
-<a id="39b0_s"></a>[↓ 💡 SmartHome Tech](#39b0)
+<a id="39b0_s"></a>[💡 SmartHome Tech](#39b0)
 
-<a id="6760_s"></a>[↓ 👤 SMURF](#6760)
+<a id="6760_s"></a>[👤 SMURF](#6760)
 
-<a id="53e0_s"></a>[↓ Something Tacensis Rock](#53e0)
+<a id="53e0_s"></a>[Something Tacensis Rock](#53e0)
 
-<a id="7850_s"></a>[↓ Somnivale](#7850)
+<a id="7850_s"></a>[Somnivale](#7850)
 
-<a id="bda0_s"></a>[↓ Southern Sea](#bda0)
+<a id="bda0_s"></a>[Southern Sea](#bda0)
 
-<a id="6690_s"></a>[↓ 🛸 Spaceport](#6690)
+<a id="6690_s"></a>[🛸 Spaceport](#6690)
 
-<a id="25b0_s"></a>[↓ 🗽 Statue of Mimb](#25b0)
+<a id="25b0_s"></a>[🗽 Statue of Mimb](#25b0)
 
-<a id="3d30_s"></a>[↓ Stonehavers (family)](#3d30)
+<a id="3d30_s"></a>[Stonehavers (family)](#3d30)
 
-<a id="e390_s"></a>[↓ Support](#e390)
+<a id="e390_s"></a>[Support](#e390)
 
-<a id="7cc0_s"></a>[↓ Synaxos Fields](#7cc0)
+<a id="7cc0_s"></a>[Synaxos Fields](#7cc0)
 
-<a id="7d60_s"></a>[↓ Syncrax Road](#7d60)
+<a id="7d60_s"></a>[Syncrax Road](#7d60)
 
-### <a id="#top">↑</a> T
-<a id="5480_s"></a>[↓ The Arcanum](#5480)
+### <a id="#top"></a>T
+<a id="5480_s"></a>[The Arcanum](#5480)
 
-<a id="a610_s"></a>[↓ The Great Auditorium](#a610)
+<a id="a610_s"></a>[The Great Auditorium](#a610)
 
-<a id="fd60_s"></a>[↓ The Algorithms](#fd60)
+<a id="fd60_s"></a>[The Algorithms](#fd60)
 
-<a id="ea90_s"></a>[↓ Towers of MindTech Institute](#ea90)
+<a id="ea90_s"></a>[Towers of MindTech Institute](#ea90)
 
-<a id="7a60_s"></a>[↓ Tree Huggers](#7a60)
+<a id="7a60_s"></a>[Tree Huggers](#7a60)
 
-<a id="f840_s"></a>[↓ 🪩 The Sacred Sphere](#f840)
+<a id="f840_s"></a>[🪩 The Sacred Sphere](#f840)
 
-<a id="02e0_s"></a>[↓ 🫖 Tea Emporium](#02e0)
+<a id="02e0_s"></a>[🫖 Tea Emporium](#02e0)
 
-<a id="c980_s"></a>[↓ Teleport](#c980)
+<a id="c980_s"></a>[Teleport](#c980)
 
-<a id="6590_s"></a>[↓ Temporal Resources](#6590)
+<a id="6590_s"></a>[Temporal Resources](#6590)
 
-<a id="0130_s"></a>[↓ Timeless Desert](#0130)
+<a id="0130_s"></a>[Timeless Desert](#0130)
 
-<a id="22a0_s"></a>[↓ Timeless Waystone](#22a0)
+<a id="22a0_s"></a>[Timeless Waystone](#22a0)
 
-<a id="1e30_s"></a>[↓ Timeline](#1e30)
+<a id="1e30_s"></a>[Timeline](#1e30)
 
-<a id="a310_s"></a>[↓ To do "a Bumps"](#a310)
+<a id="a310_s"></a>[To do "a Bumps"](#a310)
 
-<a id="0680_s"></a>[↓ To do "a Loki"](#0680)
+<a id="0680_s"></a>[To do "a Loki"](#0680)
 
-<a id="64c0_s"></a>[↓ 🌳 Tree of Many Inquiries](#64c0)
+<a id="64c0_s"></a>[🌳 Tree of Many Inquiries](#64c0)
 
-### <a id="#top">↑</a> U
-<a id="1fa0_s"></a>[↓ 🌺 Underground Botanical Garden](#1fa0)
+### <a id="#top"></a>U
+<a id="1fa0_s"></a>[🌺 Underground Botanical Garden](#1fa0)
 
-<a id="e851_s"></a>[↓ ⚙️ Underwater Turbine Power Plant](#e851)
+<a id="e851_s"></a>[⚙️ Underwater Turbine Power Plant](#e851)
 
-<a id="6ad0_s"></a>[↓ 🦄 UniCorn™️ Farmlands](#6ad0)
+<a id="6ad0_s"></a>[🦄 UniCorn™️ Farmlands](#6ad0)
 
-### <a id="#top">↑</a> V
-<a id="8de0_s"></a>[↓ 🥡 Valhalla Bar](#8de0)
+### <a id="#top"></a>V
+<a id="8de0_s"></a>[🥡 Valhalla Bar](#8de0)
 
-<a id="3660_s"></a>[↓ Valkyrie Spec Ops](#3660)
+<a id="3660_s"></a>[Valkyrie Spec Ops](#3660)
 
-<a id="6e00_s"></a>[↓ Virtuara Outpost](#6e00)
+<a id="6e00_s"></a>[Virtuara Outpost](#6e00)
 
-<a id="3e80_s"></a>[↓ 🦈 Void Shark Hatchery](#3e80)
+<a id="3e80_s"></a>[🦈 Void Shark Hatchery](#3e80)
 
-<a id="16d0_s"></a>[↓ ♨️ Volcanic Jacuzzi](#16d0)
+<a id="16d0_s"></a>[♨️ Volcanic Jacuzzi](#16d0)
 
-<a id="0780_s"></a>[↓ 🌋 Volcano Influeno](#0780)
+<a id="0780_s"></a>[🌋 Volcano Influeno](#0780)
 
-### <a id="#top">↑</a> W
-<a id="f6d0_s"></a>[↓ Western Brickland](#f6d0)
+### <a id="#top"></a>W
+<a id="f6d0_s"></a>[Western Brickland](#f6d0)
 
-<a id="9930_s"></a>[↓ Weapons](#9930)
+<a id="9930_s"></a>[Weapons](#9930)
 
-<a id="9930_s"></a>[↓ WAR items](#9930)
+<a id="9930_s"></a>[WAR items](#9930)
 
-<a id="60b0_s"></a>[↓ Watchtower Ruins](#60b0)
+<a id="60b0_s"></a>[Watchtower Ruins](#60b0)
 
-<a id="a1d0_s"></a>[↓ 🎏 Weather Tower Relay](#a1d0)
+<a id="a1d0_s"></a>[🎏 Weather Tower Relay](#a1d0)
 
-<a id="ada0_s"></a>[↓ Webified Hills](#ada0)
+<a id="ada0_s"></a>[Webified Hills](#ada0)
 
-<a id="ca80_s"></a>[↓ 🐅 Wildlife Preservation](#ca80)
+<a id="ca80_s"></a>[🐅 Wildlife Preservation](#ca80)
 
-<a id="0fd0_s"></a>[↓ 🌱 World Seed Pendant](#0fd0)
+<a id="0fd0_s"></a>[🌱 World Seed Pendant](#0fd0)
 
-### <a id="#top">↑</a> X
-<a id="4d00_s"></a>[↓ 🎨 Xiavente's Meme Workshop](#4d00)
+### <a id="#top"></a>X
+<a id="4d00_s"></a>[🎨 Xiavente's Meme Workshop](#4d00)
 
-<a id="40a0_s"></a>[↓ Xiavente](#40a0)
+<a id="40a0_s"></a>[Xiavente](#40a0)
 
-<a id="b9a0_s"></a>[↓ Xyrclaox Watch](#b9a0)
+<a id="b9a0_s"></a>[Xyrclaox Watch](#b9a0)
 
-### <a id="#top">↑</a> Y
-<a id="c480_s"></a>[↓ You](#c480)
+### <a id="#top"></a>Y
+<a id="c480_s"></a>[You](#c480)
 
-### <a id="#top">↑</a> Z
-<a id="2e80_s"></a>[↓ 🦁 Zeithalt Pet Zoo and Animal Shelter](#2e80)
+### <a id="#top"></a>Z
+<a id="2e80_s"></a>[🦁 Zeithalt Pet Zoo and Animal Shelter](#2e80)
 
-<a id="fad0_s"></a>[↓ Zeithalt Zeitgeist newspaper](#fad0)
+<a id="fad0_s"></a>[Zeithalt Zeitgeist newspaper](#fad0)
 
-<a id="e480_s"></a>[↓ 🗼 Zikkurat](#e480)
+<a id="e480_s"></a>[🗼 Zikkurat](#e480)
 
-<a id="4d60_s"></a>[↓ 🌟 ZIPP Lines](#4d60)
+<a id="4d60_s"></a>[🌟 ZIPP Lines](#4d60)
 
 
 ----------

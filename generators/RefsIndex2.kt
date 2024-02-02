@@ -50,8 +50,8 @@ fun main() {
             letters.add(entry.letter)
 
             listOfNotNull(
-                if (newLetter) "### <a id=\"#$topAnchor\">↑</a> ${entry.letter}" else null,
-                "<a id=\"${entry.upAnchor}\"></a>[↓ ${entry.title}](#${entry.anchor})",
+                if (newLetter) "### <a id=\"#$topAnchor\"></a>${entry.letter}" else null,
+                "<a id=\"${entry.upAnchor}\"></a>[${entry.title}](#${entry.anchor})",
                 ""
             )
         }
@@ -72,7 +72,7 @@ fun main() {
         "$sep### <a id=\"${entry.anchor}\" href=\"#${entry.letter.lowercase()}\">↑</a> ${entry.title}\n${entry.text}\n"
     }
 
-    val rIndexText = "# <a id=\"$topAnchor\"></a>Zeithalt Lore Book 2\n$reference\n$content\n$texts"
+    val rIndexText = "# <a id=\"$topAnchor\"></a>Zeithalt Lore Book\n$reference\n$content\n$texts"
         .replaceLinks(linkMap)
 
     val output = File("r/index.md")
