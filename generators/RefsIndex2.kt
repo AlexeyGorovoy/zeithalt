@@ -49,7 +49,7 @@ fun main() {
 
             listOfNotNull(
                 if (newLetter) "### ${entry.letter}" else null,
-                "[${entry.title}](#${entry.anchor})",
+                "<a id=\"${entry.upAnchor}\"></a>[${entry.title}](#${entry.anchor})",
                 ""
             )
         }
@@ -67,7 +67,7 @@ fun main() {
     val sep = "\n----------\n"
 
     val texts = entries?.joinToString("\n") { entry ->
-        "$sep### <a id=\"${entry.anchor}\"></a>${entry.title}\n${entry.text}\n"
+        "$sep### <a id=\"${entry.anchor}\" href=\"${entry.anchor}\">↑</a> ${entry.title}\n${entry.text}\n"
     }
 
     val rIndexText = "# Index\n$reference\n$content$sep$reference$texts"
@@ -122,6 +122,7 @@ private fun buildEntries(
                 letter = letter,
                 title = title,
                 anchor = anchor,
+                upAnchor = "${anchor}_s",
                 text = text
             )
         } else {
@@ -140,5 +141,6 @@ data class Entry2(
     val letter: String,
     val title: String,
     val anchor: String,
+    val upAnchor: String,
     val text: String
 )
