@@ -46,9 +46,11 @@ fun main() {
             lastLetter = entry.letter
             letters.add(entry.letter)
 
+            val anchor = linkMap[entry.link] ?: ""
+
             listOfNotNull(
                 if (newLetter) "### ${entry.letter}" else null,
-                "[${entry.title}](${entry.link})",
+                "[${entry.title}](#$anchor)",
                 ""
             )
         }
@@ -63,13 +65,13 @@ fun main() {
             "[$letter](#${letter.lowercase()})"
         }
 
-    val separator = "----------"
+    val sep = "\n----------\n"
 
     val texts = entries?.joinToString("\n") { entry ->
-        "### <a id=\"${entry.link}\"></a> ${entry.title}\n${entry.text}\n$separator"
+        "<a id=\"${entry.link}\"></a> $sep ###  ${entry.title}\n${entry.text}\n$sep"
     }
 
-    val rIndexText = "# Index\n$reference\n$separator\n$content\n$separator\n$texts"
+    val rIndexText = "# Index\n$reference$sep$reference$sep$content$sep\n$texts"
         .replaceLinks(linkMap)
 
     val output = File("r/index.md")

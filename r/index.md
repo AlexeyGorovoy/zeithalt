@@ -1,4 +1,6 @@
-# Index
+# Index 2
+[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
+----------
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 ----------
 ### A
@@ -430,7 +432,10 @@
 [🌟 ZIPP Lines](#4d60)
 
 ----------
-### <a id="#dd50"></a> Aas Forest
+
+<a id="#dd50"></a> 
+----------
+ ###  Aas Forest
 
 `🖼️ Landmark`
 
@@ -450,8 +455,12 @@ keywords: mt, landmark, ps
 aliases: 
 hash: bba
 -->
+
 ----------
-### <a id="#1a00"></a> Admincity
+
+<a id="#1a00"></a> 
+----------
+ ###  Admincity
 
 `📃 To-do list`
 
@@ -467,8 +476,12 @@ tag: todo
 keywords:  
 aliases: 
 -->
+
 ----------
-### <a id="#32e0"></a> Age of Battles
+
+<a id="#32e0"></a> 
+----------
+ ###  Age of Battles
 
 **📅 Time period**
 
@@ -480,8 +493,12 @@ It started at Eon 258 with the ***Battle of Mt. Pickles*** - the first ever batt
 keywords:
 aliases:
 -->
+
 ----------
-### <a id="#0620"></a> Age of Conquest
+
+<a id="#0620"></a> 
+----------
+ ###  Age of Conquest
 
 **📅 Time period**
 
@@ -495,8 +512,12 @@ The Age of Conquest started at Eon 0 and ended at Eon 253 with the ***Battle of 
 keywords:
 aliases:
 -->
+
 ----------
-### <a id="#b750"></a> Age of Darkness
+
+<a id="#b750"></a> 
+----------
+ ###  Age of Darkness
 
 **📅 Time period**
 
@@ -508,8 +529,12 @@ Eon 0 is the end of Age of Darkness and start of Age of Conquest.
 keywords:
 aliases:
 -->
+
 ----------
-### <a id="#0a70"></a> Airmanon 'Air' Driftwing
+
+<a id="#0a70"></a> 
+----------
+ ###  Airmanon 'Air' Driftwing
 
 **🧙‍♂️ Character**
 
@@ -521,8 +546,12 @@ She has some skills with computers, but found her calling in trying to research 
 keywords: ps, desert
 aliases: 
 -->
+
 ----------
-### <a id="#9a30"></a> Alexx
+
+<a id="#9a30"></a> 
+----------
+ ###  Alexx
 
 **🧙‍♂️ Character**
 
@@ -534,8 +563,12 @@ A journalist, a historian, a political consultant for factions and an owner of Z
 keywords: gm, sw
 aliases: 
 -->
+
 ----------
-### <a id="#8270"></a> 🐙 Altar of Ctulhu
+
+<a id="#8270"></a> 
+----------
+ ###  🐙 Altar of Ctulhu
 
 `🪧 Place` in [Imperial Swamp](#0740)
 
@@ -549,8 +582,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  dc, imperial swamp
 aliases: 
 -->
+
 ----------
-### <a id="#cea0"></a> 📚 Archives of Subconsciousness
+
+<a id="#cea0"></a> 
+----------
+ ###  📚 Archives of Subconsciousness
 
 `🪧 Place` in [Illusion Cliffs](#e630)
 
@@ -562,8 +599,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  mt, illusion cliffs
 aliases: 
 -->
+
 ----------
-### <a id="#fff0"></a> Ares Gardens
+
+<a id="#fff0"></a> 
+----------
+ ###  Ares Gardens
 
 `📃 To-do list`
 
@@ -579,8 +620,12 @@ tag: todo
 keywords:  
 aliases: 
 -->
+
 ----------
-### <a id="#a740"></a> 🛣️ Axonite Road
+
+<a id="#a740"></a> 
+----------
+ ###  🛣️ Axonite Road
 
 `🪧 Place` in [Paradox Pass](#cb50)
 
@@ -592,8 +637,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  mt, paradox pass
 aliases: 
 -->
+
 ----------
-### <a id="#9930"></a> Armor
+
+<a id="#9930"></a> 
+----------
+ ###  Armor
 
 **📑 Term**
 
@@ -610,8 +659,12 @@ keywords: battle, common, epic, weapons, armor, relics
 aliases: Weapons, Armor, Relics
 -->
 
+
 ----------
-### <a id="#4450"></a> ⚗️ Bioengineered Algae Farm
+
+<a id="#4450"></a> 
+----------
+ ###  ⚗️ Bioengineered Algae Farm
 
 `🪧 Place` in [Blue Screen Lagoon](#8f30)
 
@@ -623,8 +676,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  ci, blue screen lagoon
 aliases: 
 -->
+
 ----------
-### <a id="#9640"></a> 🎋 Bamboo Grove
+
+<a id="#9640"></a> 
+----------
+ ###  🎋 Bamboo Grove
 
 `🪧 Place` in [Cybertron Jungle](#b9b0)
 
@@ -636,8 +693,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  ps, cybertron jungle
 aliases: 
 -->
+
 ----------
-### <a id="#ee50"></a> Bank of Zeithalt
+
+<a id="#ee50"></a> 
+----------
+ ###  Bank of Zeithalt
 
 **🪪 Entity**
 
@@ -650,8 +711,12 @@ It’s assumed to be by far the richest organisation on the island, being the ow
 <!---
 keywords: money, gold, economy
 -->
+
 ----------
-### <a id="#3460"></a> 🔱 Beacon for the Sight of Innovation
+
+<a id="#3460"></a> 
+----------
+ ###  🔱 Beacon for the Sight of Innovation
 
 `🪧 Place` in [Singularity Valley](#dd30)
 
@@ -663,8 +728,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  mt, singularity valley
 aliases: 
 -->
+
 ----------
-### <a id="#2880"></a> 🕯️ Beacon for the Light of Reason
+
+<a id="#2880"></a> 
+----------
+ ###  🕯️ Beacon for the Light of Reason
 
 `🪧 Place` in [Neuropolis](#b870)
 
@@ -678,8 +747,12 @@ The beacon is not a dominant structure of the [Neuropolis](#b870) skyline during
 keywords:  neuropolis, lighthouse
 aliases: 
 -->
+
 ----------
-### <a id="#8f30"></a> Blue Screen Lagoon
+
+<a id="#8f30"></a> 
+----------
+ ###  Blue Screen Lagoon
 
 `📃 To-do list`
 
@@ -695,8 +768,12 @@ tag: todo
 keywords:  
 aliases: 
 -->
+
 ----------
-### <a id="#b710"></a> Book of Balance
+
+<a id="#b710"></a> 
+----------
+ ###  Book of Balance
 
 `📑 Term`
 
@@ -714,8 +791,12 @@ It is customary among MindTech followers to give out copies of this book to frie
 keywords: 
 aliases: Gift of Balance
 -->
+
 ----------
-### <a id="#6a20"></a> 🍺 Brewery
+
+<a id="#6a20"></a> 
+----------
+ ###  🍺 Brewery
 
 `🪧 Place` in [Purple Deeps](#3911)
 
@@ -727,8 +808,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  dc, purple deeps
 aliases: 
 -->
+
 ----------
-### <a id="#f6d0"></a> Brickland Fortress
+
+<a id="#f6d0"></a> 
+----------
+ ###  Brickland Fortress
 
 `🖼️ Landmark`
 
@@ -759,8 +844,12 @@ keywords: ci, dc, landmark
 aliases: Western Brickland, Eastern Brickland
 -->
 
+
 ----------
-### <a id="#50d0"></a> Brickspire Mountains
+
+<a id="#50d0"></a> 
+----------
+ ###  Brickspire Mountains
 
 `🪧 Landmark`
 
@@ -770,8 +859,12 @@ A mountain range that is located in [Brickland Fortress](#f6d0) region and divid
 keywords: brickland
 aliases: 
 -->
+
 ----------
-### <a id="#8880"></a> Bumpus Mackamarus Arbum
+
+<a id="#8880"></a> 
+----------
+ ###  Bumpus Mackamarus Arbum
 
 **🧙‍♂️ Character**
 
@@ -783,8 +876,12 @@ Head researcher, intrepid explorer, permanent resident, and resource exploiter o
 keywords: bumps, desert
 aliases: 
 -->
+
 ----------
-### <a id="#32c0"></a> 🌵 Cactus Juice Factory
+
+<a id="#32c0"></a> 
+----------
+ ###  🌵 Cactus Juice Factory
 
 `🖼️ Landmark`
 
@@ -800,8 +897,12 @@ The factory provides a steady supply of cactus-related produce to the [Neuropoli
 keywords:  mccactusson, synaxos fields
 aliases: 
 -->
+
 ----------
-### <a id="#0330"></a> 🏢 Center for Anomaly Control
+
+<a id="#0330"></a> 
+----------
+ ###  🏢 Center for Anomaly Control
 
 `🪧 Place` in [Neuropolis](#b870)
 
@@ -819,8 +920,12 @@ Later, the resources of the Center were used in Restoration Projects in other la
 keywords:  neuropolis, synaxos fields
 aliases: 
 -->
+
 ----------
-### <a id="#3850"></a> Cerene Vale
+
+<a id="#3850"></a> 
+----------
+ ###  Cerene Vale
 
 `🖼️ Landmark`
 
@@ -836,8 +941,12 @@ The region's capital, Silent Gulf, is famous for having its seasonal festivals e
 keywords: mt, landmark, ps
 aliases: 
 -->
+
 ----------
-### <a id="#8a30"></a> Chaotic Plains
+
+<a id="#8a30"></a> 
+----------
+ ###  Chaotic Plains
 
 `📃 To-do list`
 
@@ -853,8 +962,12 @@ You can write or request lore [on discord](<https://discord.com/channels/5629109
 keywords: todo
 aliases: 
 -->
+
 ----------
-### <a id="#e320"></a> Chronoglass
+
+<a id="#e320"></a> 
+----------
+ ###  Chronoglass
 
 **📑 Term**
 
@@ -871,8 +984,12 @@ People new to the chronoglass concept, can often be riddled by the question:
 keywords: mt, glass, timeless, desert, sand, time, past
 aliases: 
 -->
+
 ----------
-### <a id="#29a0"></a> ChronoGlass™️
+
+<a id="#29a0"></a> 
+----------
+ ###  ChronoGlass™️
 
 **📑 Term**
 
@@ -886,8 +1003,12 @@ A commercial product made from the [chronoglass](#e320) by the Cloudy Co. corpor
 keywords:  chronoglass, cloudy co, bumps
 aliases: 
 -->
+
 ----------
-### <a id="#4120"></a> ☁️ Cloudy Data Center
+
+<a id="#4120"></a> 
+----------
+ ###  ☁️ Cloudy Data Center
 
 `🪧 Place` in [Timeless Desert](#0130)
 
@@ -899,8 +1020,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  mt, timeless desert
 aliases: 
 -->
+
 ----------
-### <a id="#36b0"></a> CO
+
+<a id="#36b0"></a> 
+----------
+ ###  CO
 
 `🪪 Faction`
 
@@ -913,8 +1038,12 @@ Synopsis:
 keywords: co
 aliases: CO
 -->
+
 ----------
-### <a id="#36b0"></a> Cloudy Operatives
+
+<a id="#36b0"></a> 
+----------
+ ###  Cloudy Operatives
 
 `🪪 Faction`
 
@@ -927,8 +1056,12 @@ Synopsis:
 keywords: co
 aliases: CO
 -->
+
 ----------
-### <a id="#bef0"></a> Common language
+
+<a id="#bef0"></a> 
+----------
+ ###  Common language
 
 **📑 Term**
 
@@ -938,8 +1071,12 @@ Main language of Zeithalt, universally used by everyone on the Island.
 keywords:
 aliases:
 -->
+
 ----------
-### <a id="#a2b0"></a> Corruption
+
+<a id="#a2b0"></a> 
+----------
+ ###  Corruption
 
 **🪪 Entity**
 
@@ -953,8 +1090,12 @@ If not contained properly, it can result in an event called Corruption Fallout, 
 keywords:
 aliases:
 -->
+
 ----------
-### <a id="#a610"></a> 📖 Cortexian Hall
+
+<a id="#a610"></a> 
+----------
+ ###  📖 Cortexian Hall
 
 `🖼️ Landmark` in [Neuropolis](#b870)
 
@@ -972,8 +1113,12 @@ Often regarded as "the most important building on the Island" by MT followers, C
 keywords: neuropolis, council, cerebrime peak
 aliases: The Great Auditorium
 -->
+
 ----------
-### <a id="#7c90"></a> Council of Minds
+
+<a id="#7c90"></a> 
+----------
+ ###  Council of Minds
 
 `📑 Term`
 
@@ -991,8 +1136,12 @@ The Council was restored on [Eon 755](../timeline/eon0755.md) following the fall
 keywords:  headmaster, masters
 aliases: Masters of the Council, Headmaster of the Institute
 -->
+
 ----------
-### <a id="#45d0"></a> CrAEX
+
+<a id="#45d0"></a> 
+----------
+ ###  CrAEX
 
 **🧙‍♂️ Character**
 
@@ -1010,8 +1159,12 @@ Head Researcher of The [Timeless Sands](#6590).
 keywords: master, desert
 aliases: 
 -->
+
 ----------
-### <a id="#a1a0"></a> Corrupted Artefacts
+
+<a id="#a1a0"></a> 
+----------
+ ###  Corrupted Artefacts
 
 **📜 Item**
 
@@ -1025,8 +1178,12 @@ There are three two types of Corrupted Artefacts: CR Mines and CR Shards.
 keywords: cr, artifact, samples
 aliases:
 -->
+
 ----------
-### <a id="#17b0"></a> CR Fallout
+
+<a id="#17b0"></a> 
+----------
+ ###  CR Fallout
 
 **📑 Term**
 
@@ -1038,8 +1195,12 @@ It covers vast land areas, destroying everything it touches and making lands pra
 keywords: corrupted
 aliases:
 -->
+
 ----------
-### <a id="#08c0"></a> Corrupted Gemstone
+
+<a id="#08c0"></a> 
+----------
+ ###  Corrupted Gemstone
 
 **📜 Item**
 
@@ -1065,8 +1226,12 @@ It seems that the gemstone has bonded with **hexAgon** in some special way.
 keywords: cr, artifact, artefact, hexagon
 aliases:
 -->
+
 ----------
-### <a id="#8360"></a> CR Mines
+
+<a id="#8360"></a> 
+----------
+ ###  CR Mines
 
 **📜 Item**
 
@@ -1076,8 +1241,12 @@ CR Mines - a powerful artefact constructed from CR samples. Can be used as a def
 keywords: corrupted, battle
 aliases:
 -->
+
 ----------
-### <a id="#2390"></a> Corruption Restoration Project
+
+<a id="#2390"></a> 
+----------
+ ###  Corruption Restoration Project
 
 `📑 Term`
 
@@ -1089,8 +1258,12 @@ Since then, it has been reviewed and adapted to be used in other areas of the Is
 keywords:  cr, synaxos
 aliases: 
 -->
+
 ----------
-### <a id="#1330"></a> CR Shards
+
+<a id="#1330"></a> 
+----------
+ ###  CR Shards
 
 **📜 Item**
 
@@ -1100,8 +1273,12 @@ CR Shards - a powerful artefact constructed from CR samples. Can be used as an o
 keywords: corrupted, battle
 aliases:
 -->
+
 ----------
-### <a id="#9670"></a> 🏥 CURE
+
+<a id="#9670"></a> 
+----------
+ ###  🏥 CURE
 
 **🪧 Place** in [Brickland Fortress](#f6d0)
 
@@ -1111,8 +1288,12 @@ Built in Eon 540 during the `🦠 Mimps Virus` pandemic, CURE (Central Universit
 keywords: ps, brickland, fortress, mimps, epidemiology, hospital, viral, pandemic
 aliases: 
 -->
+
 ----------
-### <a id="#80b0"></a> CI
+
+<a id="#80b0"></a> 
+----------
+ ###  CI
 
 **🪪 Faction**
 
@@ -1125,8 +1306,12 @@ Synopsis:
 keywords: ci
 aliases: CI
 -->
+
 ----------
-### <a id="#80b0"></a> Cybernetics Inc
+
+<a id="#80b0"></a> 
+----------
+ ###  Cybernetics Inc
 
 **🪪 Faction**
 
@@ -1139,8 +1324,12 @@ Synopsis:
 keywords: ci
 aliases: CI
 -->
+
 ----------
-### <a id="#7b30"></a> Cybers
+
+<a id="#7b30"></a> 
+----------
+ ###  Cybers
 
 **📑 Term**
 
@@ -1150,8 +1339,12 @@ A collective term to refer to Cybernetics Inc members or the faction in general.
 keywords: ci
 aliases:
 -->
+
 ----------
-### <a id="#b9b0"></a> Cybertron Jungle
+
+<a id="#b9b0"></a> 
+----------
+ ###  Cybertron Jungle
 
 `📃 To-do list`
 
@@ -1167,8 +1360,12 @@ You can write or request lore [on discord](<https://discord.com/channels/5629109
 keywords: todo
 aliases: 
 -->
+
 ----------
-### <a id="#8f50"></a> Dino Saurex
+
+<a id="#8f50"></a> 
+----------
+ ###  Dino Saurex
 
 **🧙‍♂️ Character**
 
@@ -1184,8 +1381,12 @@ Wields a legendary [Prehistoric Axe](#e4e0) and often speaks of himself in third
 keywords: sw, CuriousDino, gambling, fighters
 aliases: 
 -->
+
 ----------
-### <a id="#f750"></a> 🗡️ Dagger of Elemental Restoration
+
+<a id="#f750"></a> 
+----------
+ ###  🗡️ Dagger of Elemental Restoration
 
 `📜 Item`
 
@@ -1199,8 +1400,12 @@ Airmanon has seen that the dagger has been effective in cutting down fungal grow
 keywords: airmanon
 aliases: 
 -->
+
 ----------
-### <a id="#b730"></a> Deltans
+
+<a id="#b730"></a> 
+----------
+ ###  Deltans
 
 **📑 Term**
 
@@ -1210,8 +1415,12 @@ A collective term to refer to Delta Collective's members or the faction in gener
 keywords:
 aliases:
 -->
+
 ----------
-### <a id="#4de0"></a> Deltan language
+
+<a id="#4de0"></a> 
+----------
+ ###  Deltan language
 
 **📑 Term**
 
@@ -1221,8 +1430,12 @@ The language predominantly used by the Deltans.
 keywords: dc
 aliases:
 -->
+
 ----------
-### <a id="#b0c0"></a> 💬 Deltan Language School
+
+<a id="#b0c0"></a> 
+----------
+ ###  💬 Deltan Language School
 
 `🖼️ Landmark` in [Oblivion Mire](#8840)
 
@@ -1234,8 +1447,12 @@ This establishment, nonetheless, becomes the first physical evidence of the once
 keywords: landmark
 aliases: 
 -->
+
 ----------
-### <a id="#8bc0"></a> DC
+
+<a id="#8bc0"></a> 
+----------
+ ###  DC
 
 **🪪 Faction**
 
@@ -1250,8 +1467,12 @@ Synopsis:
 keywords: dc
 aliases: DC
 -->
+
 ----------
-### <a id="#8bc0"></a> Delta Collective
+
+<a id="#8bc0"></a> 
+----------
+ ###  Delta Collective
 
 **🪪 Faction**
 
@@ -1266,8 +1487,12 @@ Synopsis:
 keywords: dc
 aliases: DC
 -->
+
 ----------
-### <a id="#1070"></a> Dev Null Marsh
+
+<a id="#1070"></a> 
+----------
+ ###  Dev Null Marsh
 
 `📃 To-do list`
 
@@ -1283,8 +1508,12 @@ You can write or request lore [on discord](<https://discord.com/channels/5629109
 keywords: todo
 aliases: 
 -->
+
 ----------
-### <a id="#ee20"></a> 🎰 Dino's Gambling Den
+
+<a id="#ee20"></a> 
+----------
+ ###  🎰 Dino's Gambling Den
 
 **🪧 Place** in [Ares Gardens](#fff0)
 
@@ -1296,8 +1525,12 @@ Despite multiple allegations of illicit activities happening in the Den, the pla
 keywords: ps, ares, gardens, dino, gambling, den, bookie, vip, lounge
 aliases: 
 -->
+
 ----------
-### <a id="#7e10"></a> 🦆 Duck Farm
+
+<a id="#7e10"></a> 
+----------
+ ###  🦆 Duck Farm
 
 `🪧 Place` in [Indigo Shore](#7a70)
 
@@ -1309,8 +1542,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords: dc, indigo shore
 aliases: 
 -->
+
 ----------
-### <a id="#fad0"></a> Double-Z
+
+<a id="#fad0"></a> 
+----------
+ ###  Double-Z
 
 **📑 Term**
 
@@ -1320,8 +1557,12 @@ Also known as "double-Z", the newspaper is the main source of news for all Zeith
 keywords: newspaper, zz, double-z
 aliases: Double-Z
 -->
+
 ----------
-### <a id="#f6d0"></a> Eastern Brickland
+
+<a id="#f6d0"></a> 
+----------
+ ###  Eastern Brickland
 
 `🖼️ Landmark`
 
@@ -1352,8 +1593,12 @@ keywords: ci, dc, landmark
 aliases: Western Brickland, Eastern Brickland
 -->
 
+
 ----------
-### <a id="#7d50"></a> 🥚 Egg Festival
+
+<a id="#7d50"></a> 
+----------
+ ###  🥚 Egg Festival
 
 `🪧 Place` in [Cerene Vale](#3850)
 
@@ -1365,8 +1610,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  ps, cerene vale
 aliases: 
 -->
+
 ----------
-### <a id="#8730"></a> Eon
+
+<a id="#8730"></a> 
+----------
+ ###  Eon
 
 **📑 Term**
 
@@ -1376,8 +1625,12 @@ A unit of time used on Zeithalt Island, as the perception of time on the island 
 keywords:
 aliases:
 -->
+
 ----------
-### <a id="#74f0"></a> Energy Resources
+
+<a id="#74f0"></a> 
+----------
+ ###  Energy Resources
 
 **📑 Term**
 
@@ -1395,8 +1648,12 @@ There's also a fourth category of resources - [Temporal Resources](#6590) or (TM
 keywords: sci, min, erg, tmp, science, mineral, energy, temporal
 aliases: Science Resources, Mineral Resources, Energy Resources
 -->
+
 ----------
-### <a id="#ee30"></a> Fighters Guild
+
+<a id="#ee30"></a> 
+----------
+ ###  Fighters Guild
 
 **🪪 Group**
 
@@ -1409,8 +1666,12 @@ Fighters Guild sees its goal in allowing sellswords of all kinds get support bot
 <!---
 keywords: battle, dino, sw
 -->
+
 ----------
-### <a id="#ff60"></a> 🏢 Fighters Guild, CI Branch
+
+<a id="#ff60"></a> 
+----------
+ ###  🏢 Fighters Guild, CI Branch
 
 `🪧 Place` in [Virtuara Outpost](#6e00)
 
@@ -1420,8 +1681,12 @@ Built on eon 612 by [Cybernetics Inc](#80b0) as the first office of the [Fighter
 keywords:  ci, virtuara outpost
 aliases: 
 -->
+
 ----------
-### <a id="#5570"></a> First Capital
+
+<a id="#5570"></a> 
+----------
+ ###  First Capital
 
 `📑 Term`
 
@@ -1433,8 +1698,12 @@ See also: [Museum of the Old Capital](#6c20)
 keywords:  mt, aas
 aliases: 
 -->
+
 ----------
-### <a id="#9ff0"></a> Fortifications
+
+<a id="#9ff0"></a> 
+----------
+ ###  Fortifications
 
 **📑 Term**
 
@@ -1443,8 +1712,12 @@ A group term for all kinds of permanent defensive structures factions can build 
 <!---
 keywords: battle, unit
 -->
+
 ----------
-### <a id="#b710"></a> Gift of Balance
+
+<a id="#b710"></a> 
+----------
+ ###  Gift of Balance
 
 `📑 Term`
 
@@ -1462,8 +1735,12 @@ It is customary among MindTech followers to give out copies of this book to frie
 keywords: 
 aliases: Gift of Balance
 -->
+
 ----------
-### <a id="#9340"></a> 💿 Gaia Knowledge Database
+
+<a id="#9340"></a> 
+----------
+ ###  💿 Gaia Knowledge Database
 
 `🪧 Place` in [Webified Hills](#ada0)
 
@@ -1475,8 +1752,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  ci, webified hills
 aliases: 
 -->
+
 ----------
-### <a id="#6ee0"></a> 🎮 G.A.M.E. Complex
+
+<a id="#6ee0"></a> 
+----------
+ ###  🎮 G.A.M.E. Complex
 
 `🖼️ Landmark` in [PEBKAC Peak](#f6f0)
 
@@ -1494,8 +1775,12 @@ The data will be used to imbue future humans with efficient, optimized pruning a
 keywords: game complex, ci, pebkac peak 
 aliases: 
 -->
+
 ----------
-### <a id="#6fe0"></a> Garrisons
+
+<a id="#6fe0"></a> 
+----------
+ ###  Garrisons
 
 **📑 Term**
 
@@ -1504,8 +1789,12 @@ Defensive military regiments, that can be stationed in a territory to increase i
 <!---
 keywords: battle, unit
 -->
+
 ----------
-### <a id="#ce70"></a> 🏹 Giant Slingshot
+
+<a id="#ce70"></a> 
+----------
+ ###  🏹 Giant Slingshot
 
 `🪧 Place` in [Indigo Shore](#7a70)
 
@@ -1517,8 +1806,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  dc, indigo shore
 aliases: 
 -->
+
 ----------
-### <a id="#7210"></a> Gold Mines
+
+<a id="#7210"></a> 
+----------
+ ###  Gold Mines
 
 `📃 To-do list`
 
@@ -1534,8 +1827,12 @@ tag: todo
 keywords:  
 aliases: 
 -->
+
 ----------
-### <a id="#fd60"></a> Great AI
+
+<a id="#fd60"></a> 
+----------
+ ###  Great AI
 
 `📃 To-do list`
 
@@ -1551,8 +1848,12 @@ tag: todo
 keywords:  
 aliases: The Algorithms
 -->
+
 ----------
-### <a id="#06a0"></a> GreenOtter
+
+<a id="#06a0"></a> 
+----------
+ ###  GreenOtter
 
 `📃 To-do list`
 
@@ -1568,8 +1869,12 @@ You can write or request lore [on discord](<https://discord.com/channels/5629109
 keywords: todo
 aliases: 
 -->
+
 ----------
-### <a id="#7c90"></a> Headmaster of the Institute
+
+<a id="#7c90"></a> 
+----------
+ ###  Headmaster of the Institute
 
 `📑 Term`
 
@@ -1587,8 +1892,12 @@ The Council was restored on [Eon 755](../timeline/eon0755.md) following the fall
 keywords:  headmaster, masters
 aliases: Masters of the Council, Headmaster of the Institute
 -->
+
 ----------
-### <a id="#f910"></a> hexAgon
+
+<a id="#f910"></a> 
+----------
+ ###  hexAgon
 
 `🧙‍♂️ Character`
 
@@ -1611,8 +1920,12 @@ At some point [Double-Z](#fad0) was hyping rumours that hexAgon might be addicte
 keywords:  
 aliases: 
 -->
+
 ----------
-### <a id="#ef90"></a> 🎌️ Hill of 1000 flags
+
+<a id="#ef90"></a> 
+----------
+ ###  🎌️ Hill of 1000 flags
 
 `🖼️ Landmark` in [Paradox Pass](#cb50)
 
@@ -1630,8 +1943,12 @@ From the symbols of the other factions, to the replica of the welcome sign of th
 keywords: mt, paradox pass, triquetra, flag, banner, symbology, archives 
 aliases: 
 -->
+
 ----------
-### <a id="#1b90"></a> 🛖 House of Craftsmanship
+
+<a id="#1b90"></a> 
+----------
+ ###  🛖 House of Craftsmanship
 
 `🖼️ Landmark` in [Synaxos Fields](#7cc0).
 
@@ -1647,8 +1964,12 @@ The forge is traditionally used for students graduating from the school, with th
 keywords:  somnivale, synaxos fields
 aliases: 
 -->
+
 ----------
-### <a id="#e630"></a> Illusion Cliffs
+
+<a id="#e630"></a> 
+----------
+ ###  Illusion Cliffs
 
 `🖼️ Landmark`
 
@@ -1667,8 +1988,12 @@ This phenomena happens every winter solstice and is when most of the tourists co
 keywords: mt, landmark 
 aliases: 
 -->
+
 ----------
-### <a id="#0740"></a> Imperial Swamp
+
+<a id="#0740"></a> 
+----------
+ ###  Imperial Swamp
 
 `📃 To-do list`
 
@@ -1684,8 +2009,12 @@ You can write or request lore [on discord](<https://discord.com/channels/5629109
 keywords: todo
 aliases: 
 -->
+
 ----------
-### <a id="#7a70"></a> Indigo Shore
+
+<a id="#7a70"></a> 
+----------
+ ###  Indigo Shore
 
 `📃 To-do list`
 
@@ -1701,8 +2030,12 @@ You can write or request lore [on discord](<https://discord.com/channels/5629109
 keywords: todo
 aliases: 
 -->
+
 ----------
-### <a id="#22a0"></a> Isynthillicus Cyrciniae
+
+<a id="#22a0"></a> 
+----------
+ ###  Isynthillicus Cyrciniae
 
 `📜 Item`
 
@@ -1720,8 +2053,12 @@ These stones, though, are very rare due to it taking hundreds of years to form a
 keywords: timeless desert, mt 
 aliases: Isynthillicus Cyrciniae
 -->
+
 ----------
-### <a id="#09e0"></a> 🎊 Jackbox Party Central
+
+<a id="#09e0"></a> 
+----------
+ ###  🎊 Jackbox Party Central
 
 **🪧 Place** in [Oblivion Mire](#8840)
 
@@ -1735,8 +2072,12 @@ Using a natural clearing as the site of construction, the plaza was made using S
 keywords: oblivion, mire, brickland, fortress, airmanon, driftwing, silvan, ci, party, plaza
 aliases: 
 -->
+
 ----------
-### <a id="#3760"></a> 🦖 Jurassic Park
+
+<a id="#3760"></a> 
+----------
+ ###  🦖 Jurassic Park
 
 `🪧 Place` in [Peace Death Gorge](#db50)
 
@@ -1748,8 +2089,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  dc, peace death gorge
 aliases: 
 -->
+
 ----------
-### <a id="#2dc0"></a> 🕸️ K2 Fibers
+
+<a id="#2dc0"></a> 
+----------
+ ###  🕸️ K2 Fibers
 
 `🪧 Place` in [Webified Hills](#ada0)
 
@@ -1761,8 +2106,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  ci, webified hills
 aliases: 
 -->
+
 ----------
-### <a id="#bca0"></a> Lake Corsair
+
+<a id="#bca0"></a> 
+----------
+ ###  Lake Corsair
 
 `🖼️ Landmark`
 
@@ -1772,8 +2121,12 @@ A picturesque lake in the middle of traditionally [Cyber](#7b30) lands, at the m
 keywords: todo
 aliases: 
 -->
+
 ----------
-### <a id="#5220"></a> 🗼 Lime Tower
+
+<a id="#5220"></a> 
+----------
+ ###  🗼 Lime Tower
 
 `🪧 Place` in [Synaxos Fields](#7cc0)
 
@@ -1785,8 +2138,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  mt, synaxos fields
 aliases: 
 -->
+
 ----------
-### <a id="#5850"></a> Loki
+
+<a id="#5850"></a> 
+----------
+ ###  Loki
 
 `🧙‍♂️ Character`
 
@@ -1802,8 +2159,12 @@ This very same event is quoted to be the sole reason for his downfall and the [r
 keywords: character, mt, dictator, valhalla bar
 aliases: 
 -->
+
 ----------
-### <a id="#7c90"></a> Masters of the Council
+
+<a id="#7c90"></a> 
+----------
+ ###  Masters of the Council
 
 `📑 Term`
 
@@ -1821,8 +2182,12 @@ The Council was restored on [Eon 755](../timeline/eon0755.md) following the fall
 keywords:  headmaster, masters
 aliases: Masters of the Council, Headmaster of the Institute
 -->
+
 ----------
-### <a id="#ea90"></a> MindTech Institute Fortress (inner walls)
+
+<a id="#ea90"></a> 
+----------
+ ###  MindTech Institute Fortress (inner walls)
 
 `🪧 Place`
 
@@ -1847,8 +2212,12 @@ There is no evidence that it actually exists.
 keywords: mt, blue, green, orange, red, tower, neuropolis
 aliases: Towers of MindTech Institute
 -->
+
 ----------
-### <a id="#8a90"></a> MindTech Institute Fortress (outer walls)
+
+<a id="#8a90"></a> 
+----------
+ ###  MindTech Institute Fortress (outer walls)
 
 `🪧 Place`
 
@@ -1872,8 +2241,12 @@ Trees and fog hide the view of the structure built in the center of the perimete
 keywords: mt, neuropolis
 aliases: 
 -->
+
 ----------
-### <a id="#e850"></a> Map Legend
+
+<a id="#e850"></a> 
+----------
+ ###  Map Legend
 
 Icons used on the timeline maps: 
 - `🏰` [Fortifications](#9ff0)
@@ -1888,8 +2261,12 @@ Apart from those, the map contains icons for various building / landmarks found 
 keywords: 
 aliases: 
 -->
+
 ----------
-### <a id="#b751"></a> 🪆 Matryoshka Idoll
+
+<a id="#b751"></a> 
+----------
+ ###  🪆 Matryoshka Idoll
 
 `🪧 Place` in [Singularity Valley](#dd30)
 
@@ -1899,8 +2276,12 @@ Built on eon 526 by [Delta Collective](#8bc0)
 keywords:  dc, singularity valley
 aliases: 
 -->
+
 ----------
-### <a id="#c860"></a> Meadowridge
+
+<a id="#c860"></a> 
+----------
+ ###  Meadowridge
 
 `🪧 Place`
 
@@ -1910,8 +2291,12 @@ A town located in the [Eastern Brickland](#f6d0). It is the largest town of the 
 keywords: brickland
 aliases: 
 -->
+
 ----------
-### <a id="#be90"></a> 🏯 Military Academy
+
+<a id="#be90"></a> 
+----------
+ ###  🏯 Military Academy
 
 `🪧 Place` in [Xyrclaox Watch](#b9a0)
 
@@ -1927,8 +2312,12 @@ At the center of the academy is the _[Revalx](#9ff1) Memorial Park_, named after
 keywords: mt, xyrclaox watch 
 aliases: 
 -->
+
 ----------
-### <a id="#34f0"></a> Mimb
+
+<a id="#34f0"></a> 
+----------
+ ###  Mimb
 
 `📃 To-do list`
 
@@ -1944,8 +2333,12 @@ You can write or request lore [on discord](<https://discord.com/channels/5629109
 keywords: todo
 aliases: 
 -->
+
 ----------
-### <a id="#1670"></a> Mimbot, the Lore Keeper
+
+<a id="#1670"></a> 
+----------
+ ###  Mimbot, the Lore Keeper
 
 **🧙‍♂️ Character**
 
@@ -1959,8 +2352,12 @@ Feel free to ask me about anything!
 keywords: you, bot, help
 aliases:
 -->
+
 ----------
-### <a id="#a4e0"></a> Mimps Virus
+
+<a id="#a4e0"></a> 
+----------
+ ###  Mimps Virus
 
 **📑 Term**
 
@@ -1973,8 +2370,12 @@ The virus was named in honor of the first two researchers who studied it Mimb an
 <!---
 keywords: virus, yes, mimb, bumps
 -->
+
 ----------
-### <a id="#7c50"></a> Minds
+
+<a id="#7c50"></a> 
+----------
+ ###  Minds
 
 **📑 Term**
 
@@ -1984,8 +2385,12 @@ A collective term to refer to MindTech Institute's members or the faction in gen
 keywords: mt
 aliases:
 -->
+
 ----------
-### <a id="#6550"></a> MT
+
+<a id="#6550"></a> 
+----------
+ ###  MT
 
 **🪪 Faction**
 
@@ -2000,8 +2405,12 @@ Synopsis:
 keywords: mt
 aliases: MT
 -->
+
 ----------
-### <a id="#6550"></a> MindTech Institute
+
+<a id="#6550"></a> 
+----------
+ ###  MindTech Institute
 
 **🪪 Faction**
 
@@ -2016,8 +2425,12 @@ Synopsis:
 keywords: mt
 aliases: MT
 -->
+
 ----------
-### <a id="#9f60"></a> 🔬 Modern CR Research Facility
+
+<a id="#9f60"></a> 
+----------
+ ###  🔬 Modern CR Research Facility
 
 **🪧 Place** in [Brickland Fortress](#f6d0)
 
@@ -2029,8 +2442,12 @@ Solar run and with networking backed by the Admincity power grid in the heart of
 keywords: ps, brickland, fortress, ci, containment, observation, center, solar
 aliases: 
 -->
+
 ----------
-### <a id="#18c0"></a> 🏦 Money Factory
+
+<a id="#18c0"></a> 
+----------
+ ###  🏦 Money Factory
 
 `🪧 Place` in [Imperial Swamp](#0740)
 
@@ -2042,8 +2459,12 @@ Destroyed during the The Fall of Imperial Swamp on eon 596.
 keywords:  dc, imperial swamp
 aliases: 
 -->
+
 ----------
-### <a id="#74a0"></a> 🎲 Monument to Chaos
+
+<a id="#74a0"></a> 
+----------
+ ###  🎲 Monument to Chaos
 
 `🪧 Place` in [Chaotic Plains](#8a30)
 
@@ -2055,8 +2476,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  dc, chaotic plains
 aliases: 
 -->
+
 ----------
-### <a id="#7490"></a> Mt. Pickles
+
+<a id="#7490"></a> 
+----------
+ ###  Mt. Pickles
 
 `📃 To-do list`
 
@@ -2072,8 +2497,12 @@ You can write or request lore [on discord](<https://discord.com/channels/5629109
 keywords: todo
 aliases: 
 -->
+
 ----------
-### <a id="#cbe0"></a> MindTech Triquetra
+
+<a id="#cbe0"></a> 
+----------
+ ###  MindTech Triquetra
 
 `📑 Term`
 
@@ -2106,8 +2535,12 @@ The following meanings are assigned to these symbols:
 keywords:  mt, flag, banner, triquetra
 aliases: MindTech Triquetra, MindTech Flags, MindTech Banners
 -->
+
 ----------
-### <a id="#cbe0"></a> MindTech Flags
+
+<a id="#cbe0"></a> 
+----------
+ ###  MindTech Flags
 
 `📑 Term`
 
@@ -2140,8 +2573,12 @@ The following meanings are assigned to these symbols:
 keywords:  mt, flag, banner, triquetra
 aliases: MindTech Triquetra, MindTech Flags, MindTech Banners
 -->
+
 ----------
-### <a id="#cbe0"></a> MindTech Banners
+
+<a id="#cbe0"></a> 
+----------
+ ###  MindTech Banners
 
 `📑 Term`
 
@@ -2174,8 +2611,12 @@ The following meanings are assigned to these symbols:
 keywords:  mt, flag, banner, triquetra
 aliases: MindTech Triquetra, MindTech Flags, MindTech Banners
 -->
+
 ----------
-### <a id="#cbe0"></a> MindTech Symbology
+
+<a id="#cbe0"></a> 
+----------
+ ###  MindTech Symbology
 
 `📑 Term`
 
@@ -2208,8 +2649,12 @@ The following meanings are assigned to these symbols:
 keywords:  mt, flag, banner, triquetra
 aliases: MindTech Triquetra, MindTech Flags, MindTech Banners
 -->
+
 ----------
-### <a id="#50e0"></a> 💾 Museum of Archaic Technology
+
+<a id="#50e0"></a> 
+----------
+ ###  💾 Museum of Archaic Technology
 
 `🪧 Place` in [Singularity Valley](#dd30)
 
@@ -2219,8 +2664,12 @@ Built on eon 504 by [Cybernetics Inc](#80b0) in honour of the [Great AI](#fd60).
 keywords:  ci, singularity valley
 aliases: 
 -->
+
 ----------
-### <a id="#6c20"></a> 🏛️ Museum of the Old Capital
+
+<a id="#6c20"></a> 
+----------
+ ###  🏛️ Museum of the Old Capital
 
 `🖼️ Landmark`
 
@@ -2234,12 +2683,20 @@ From the Shaushka runes describing the foundation of the [First Capital](#5570),
 keywords: neuropolis, mt, aas
 aliases: 
 -->
+
 ----------
-### <a id="#6d30"></a> --- Mimbot's Index ---
+
+<a id="#6d30"></a> 
+----------
+ ###  --- Mimbot's Index ---
 
 You can access the full alphabetized list of all Mimbot's pages [via this link](#d680).
+
 ----------
-### <a id="#74f0"></a> Mineral Resources
+
+<a id="#74f0"></a> 
+----------
+ ###  Mineral Resources
 
 **📑 Term**
 
@@ -2257,8 +2714,12 @@ There's also a fourth category of resources - [Temporal Resources](#6590) or (TM
 keywords: sci, min, erg, tmp, science, mineral, energy, temporal
 aliases: Science Resources, Mineral Resources, Energy Resources
 -->
+
 ----------
-### <a id="#b870"></a> Neuropolis
+
+<a id="#b870"></a> 
+----------
+ ###  Neuropolis
 
 `🖼️ Landmark`
 
@@ -2278,8 +2739,12 @@ It contains many ancient books and scrolls that dates back to when the capital w
 keywords: mt, capital, landmark
 aliases: 
 -->
+
 ----------
-### <a id="#3820"></a> 📰 News HQ
+
+<a id="#3820"></a> 
+----------
+ ###  📰 News HQ
 
 **🪧 Place** in [Admincity](#1a00)
 
@@ -2291,8 +2756,12 @@ Located in a scenic location near [Lake Corsair](#bca0), in Admincity area.
 keywords: ci, admincity, zeithalt, zeitgeist, newspaper, alexx, lake, corsair
 aliases: 
 -->
+
 ----------
-### <a id="#8840"></a> Oblivion Mire
+
+<a id="#8840"></a> 
+----------
+ ###  Oblivion Mire
 
 `🖼️ Landmark`
 
@@ -2309,8 +2778,12 @@ Although barren and wastes, the region is still filled with many things yet to b
 keywords: mt, landmark, ps
 aliases: 
 -->
+
 ----------
-### <a id="#e810"></a> Ogrodnik
+
+<a id="#e810"></a> 
+----------
+ ###  Ogrodnik
 
 `📃 To-do list`
 
@@ -2326,8 +2799,12 @@ You can write or request lore [on discord](<https://discord.com/channels/5629109
 keywords: todo
 aliases: 
 -->
+
 ----------
-### <a id="#c080"></a> Ozimud
+
+<a id="#c080"></a> 
+----------
+ ###  Ozimud
 
 **🧙‍♂️ Character**
 
@@ -2339,8 +2816,12 @@ Even though he seems like an egg himself he has been seen on multiple occasions 
 keywords: ps, egg
 aliases: 
 -->
+
 ----------
-### <a id="#cb50"></a> Paradox PAss
+
+<a id="#cb50"></a> 
+----------
+ ###  Paradox PAss
 
 `🖼️ Landmark`
 
@@ -2357,8 +2838,12 @@ The main and busiest road, Axonite Road, is also the biggest out of all the 7 ma
 keywords: mt, landmark
 aliases: 
 -->
+
 ----------
-### <a id="#3910"></a> 🎡 Particle Collitionist
+
+<a id="#3910"></a> 
+----------
+ ###  🎡 Particle Collitionist
 
 **🪧 Place** in [Timeless Desert](#0130)
 
@@ -2372,8 +2857,12 @@ It lies in a tunnel 34 kilometres (which in miles is 21) in circumference and as
 keywords: mt, timeless, desert, abode, particle, collider, mindtech, institute
 aliases: 
 -->
+
 ----------
-### <a id="#db50"></a> Peace Death Gorge
+
+<a id="#db50"></a> 
+----------
+ ###  Peace Death Gorge
 
 `📃 To-do list`
 
@@ -2389,8 +2878,12 @@ You can write or request lore [on discord](<https://discord.com/channels/5629109
 keywords: todo
 aliases: 
 -->
+
 ----------
-### <a id="#f6f0"></a> PEBKAC Peak
+
+<a id="#f6f0"></a> 
+----------
+ ###  PEBKAC Peak
 
 `📃 To-do list`
 
@@ -2406,8 +2899,12 @@ tag: todo
 keywords:  
 aliases: 
 -->
+
 ----------
-### <a id="#e470"></a> 🌿 Photosynthetic Power Station
+
+<a id="#e470"></a> 
+----------
+ ###  🌿 Photosynthetic Power Station
 
 **🪧 Place** in [A'as Forest](#dd50)
 
@@ -2421,8 +2918,12 @@ The project involves trees from over 150.000 hectares of A'as forests and suppli
 keywords: ps, pps, aas, a'as, forest, ares, flora, fauna
 aliases: 
 -->
+
 ----------
-### <a id="#ae70"></a> ⛽️ Pickled Ooblek Deli
+
+<a id="#ae70"></a> 
+----------
+ ###  ⛽️ Pickled Ooblek Deli
 
 `🪧 Place` in [Mt. Pickles](#7490)
 
@@ -2434,8 +2935,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  ci, dev null marsh
 aliases: 
 -->
+
 ----------
-### <a id="#a810"></a> 🏴‍☠️ Pirate Harbor
+
+<a id="#a810"></a> 
+----------
+ ###  🏴‍☠️ Pirate Harbor
 
 `🪧 Place` in [Purple Deeps](#3911)
 
@@ -2447,8 +2952,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  dc, purple deeps
 aliases: 
 -->
+
 ----------
-### <a id="#b910"></a> 🍕 PIZZA
+
+<a id="#b910"></a> 
+----------
+ ###  🍕 PIZZA
 
 **🪧 Place** in [Brickland Fortress](#f6d0)
 
@@ -2460,8 +2969,12 @@ Besides offering delicious pizzas it also has arcade games and serves as a cente
 keywords: ps, brickland, fortress, pizza, zesty, zahrada, arena, arcade, games, freedom, speech  
 aliases: 
 -->
+
 ----------
-### <a id="#fc70"></a> Pierre's Porous Pickle Porch
+
+<a id="#fc70"></a> 
+----------
+ ###  Pierre's Porous Pickle Porch
 
 **📑 Term**
 
@@ -2473,8 +2986,12 @@ Pierre Porph Pickleson, the owner of 4P has been running 4P for the majority of 
 keywords: mt, bumps, picles, bumps, pppp, 4p
 aliases: 
 -->
+
 ----------
-### <a id="#9850"></a> 🚷 Prefrenial Prefect (Prison)
+
+<a id="#9850"></a> 
+----------
+ ###  🚷 Prefrenial Prefect (Prison)
 
 `🪧 Place` in [Xyrclaox Watch](#b9a0)
 
@@ -2488,8 +3005,12 @@ Modernized by [MindTech Institute](#6550) on eon 735.
 keywords:  mt, xyrclaox watch, prison
 aliases: 
 -->
+
 ----------
-### <a id="#e4e0"></a> 🪓 Prehistoric Axe
+
+<a id="#e4e0"></a> 
+----------
+ ###  🪓 Prehistoric Axe
 
 `📜 Item`
 
@@ -2507,8 +3028,12 @@ That's when the axe was finally transformed into a weapon worthy to be wielded b
 keywords: dino, CuriousDino
 aliases: 
 -->
+
 ----------
-### <a id="#7a60"></a> PS
+
+<a id="#7a60"></a> 
+----------
+ ###  PS
 
 **🪪 Faction**
 
@@ -2523,8 +3048,12 @@ Synopsis:
 keywords: ps
 aliases: PS, Tree Huggers
 -->
+
 ----------
-### <a id="#7a60"></a> Protectores Silva
+
+<a id="#7a60"></a> 
+----------
+ ###  Protectores Silva
 
 **🪪 Faction**
 
@@ -2539,8 +3068,12 @@ Synopsis:
 keywords: ps
 aliases: PS, Tree Huggers
 -->
+
 ----------
-### <a id="#e4f0"></a> PTSD
+
+<a id="#e4f0"></a> 
+----------
+ ###  PTSD
 
 **📑 Term**
 
@@ -2554,8 +3087,12 @@ This includes but is not limited to taxing business from non PS members who has 
 keywords: ps, taxes, treasury
 aliases:
 -->
+
 ----------
-### <a id="#aaf0"></a> 💰 PTSD Office
+
+<a id="#aaf0"></a> 
+----------
+ ###  💰 PTSD Office
 
 **🪧 Place** in [Cerene Vale](#3850)
 
@@ -2565,8 +3102,12 @@ The main administrative building of PS Taxes & Stuff Department ([PTSD](#e4f0)),
 keywords: ps, cerene, vale, taxes, stuff, department, ptsd
 aliases: 
 -->
+
 ----------
-### <a id="#3911"></a> Purple Deeps
+
+<a id="#3911"></a> 
+----------
+ ###  Purple Deeps
 
 `🖼️ Landmark`
 
@@ -2583,8 +3124,12 @@ The ruling structure is **The Chaos Council** consists of people marked by **Cha
 keywords: dc, capital, landmark
 aliases: 
 -->
+
 ----------
-### <a id="#f880"></a> 🛰️ Quantum Nexus Laboratory
+
+<a id="#f880"></a> 
+----------
+ ###  🛰️ Quantum Nexus Laboratory
 
 `🪧 Place` in [Illusion Cliffs](#e630)
 
@@ -2596,8 +3141,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  mt, illusion cliffs
 aliases: 
 -->
+
 ----------
-### <a id="#4270"></a> Rebels
+
+<a id="#4270"></a> 
+----------
+ ###  Rebels
 
 **🪪 Group**
 
@@ -2607,8 +3156,12 @@ Various anti-faction military groups around the island, some of them seeking to 
 keywords: sw
 aliases:
 -->
+
 ----------
-### <a id="#74f0"></a> Resources (RES)
+
+<a id="#74f0"></a> 
+----------
+ ###  Resources (RES)
 
 **📑 Term**
 
@@ -2626,8 +3179,12 @@ There's also a fourth category of resources - [Temporal Resources](#6590) or (TM
 keywords: sci, min, erg, tmp, science, mineral, energy, temporal
 aliases: Science Resources, Mineral Resources, Energy Resources
 -->
+
 ----------
-### <a id="#7a61"></a> 🏭 Resource Management Facility
+
+<a id="#7a61"></a> 
+----------
+ ###  🏭 Resource Management Facility
 
 **🪧 Place** in [Admincity](#1a00)
 
@@ -2639,8 +3196,12 @@ The Resource Management Facility is also responsible for managing all the resour
 keywords: ci, admincity, gaia, biosphere 
 aliases: 
 -->
+
 ----------
-### <a id="#9ff1"></a> Revalx
+
+<a id="#9ff1"></a> 
+----------
+ ###  Revalx
 
 `🧙‍♂️ Character`
 
@@ -2655,8 +3216,12 @@ He co-founded the [Fighters Guild](#ee30) with other prominent sellswords and ac
 keywords: revalx, valkyrie, mercenary, mt, character
 aliases: 
 -->
+
 ----------
-### <a id="#9930"></a> Relics
+
+<a id="#9930"></a> 
+----------
+ ###  Relics
 
 **📑 Term**
 
@@ -2673,8 +3238,12 @@ keywords: battle, common, epic, weapons, armor, relics
 aliases: Weapons, Armor, Relics
 -->
 
+
 ----------
-### <a id="#74f0"></a> Science Resources
+
+<a id="#74f0"></a> 
+----------
+ ###  Science Resources
 
 **📑 Term**
 
@@ -2692,8 +3261,12 @@ There's also a fourth category of resources - [Temporal Resources](#6590) or (TM
 keywords: sci, min, erg, tmp, science, mineral, energy, temporal
 aliases: Science Resources, Mineral Resources, Energy Resources
 -->
+
 ----------
-### <a id="#0090"></a> Saboteur
+
+<a id="#0090"></a> 
+----------
+ ###  Saboteur
 
 **📑 Term**
 
@@ -2702,8 +3275,12 @@ Special military operations unit that is used by factions to locate and neutrali
 <!---
 keywords: battle, unit
 -->
+
 ----------
-### <a id="#7e11"></a> Sazhra
+
+<a id="#7e11"></a> 
+----------
+ ###  Sazhra
 
 **🧙‍♂️ Character**
 
@@ -2715,8 +3292,12 @@ Their symbiotic relationship with the nanotechnology of the region allowed him t
 keywords: ci, dev, null, marsh
 aliases: 
 -->
+
 ----------
-### <a id="#3ec0"></a> Sellswords
+
+<a id="#3ec0"></a> 
+----------
+ ###  Sellswords
 
 **🪪 Group**
 
@@ -2728,8 +3309,12 @@ Usually they sell their services for gold to the attacking or the defending side
 keywords: sw, battle, mercenary
 aliases:
 -->
+
 ----------
-### <a id="#1780"></a> 🍺 Seven Roads Inn
+
+<a id="#1780"></a> 
+----------
+ ###  🍺 Seven Roads Inn
 
 `🖼️ Landmark` in [Paradox Pass](#cb50)
 
@@ -2744,8 +3329,12 @@ Due to this clever location, the Seven Roads Inn became a preferred resting plac
 keywords:  
 aliases: 
 -->
+
 ----------
-### <a id="#f4e0"></a> Shaxx
+
+<a id="#f4e0"></a> 
+----------
+ ###  Shaxx
 
 `🧙‍♂️ Character`
 
@@ -2757,8 +3346,12 @@ His eccentric lifestyle sets him apart, embracing the unknown with unwavering fa
 keywords:  mt, corruption
 aliases: 
 -->
+
 ----------
-### <a id="#3480"></a> Silvans
+
+<a id="#3480"></a> 
+----------
+ ###  Silvans
 
 **📑 Term**
 
@@ -2768,8 +3361,12 @@ A collective term to refer to (Protectores Silva's)[/protectores_silva.md] membe
 keywords: ps
 aliases:
 -->
+
 ----------
-### <a id="#dd30"></a> Singularity Valley
+
+<a id="#dd30"></a> 
+----------
+ ###  Singularity Valley
 
 `🖼️ Landmark`
 
@@ -2785,8 +3382,12 @@ In recent eons the Great AI has been encouraging all CI citizenry to learn more 
 keywords: ci, landmark, great ai
 aliases: 
 -->
+
 ----------
-### <a id="#c210"></a> 🧜‍♀️ Siren's Lighthouse
+
+<a id="#c210"></a> 
+----------
+ ###  🧜‍♀️ Siren's Lighthouse
 
 `🪧 Place` in [Dev Null Marsh](#1070)
 
@@ -2798,8 +3399,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  dc, dev null marsh
 aliases: 
 -->
+
 ----------
-### <a id="#39b0"></a> 💡 SmartHome Tech
+
+<a id="#39b0"></a> 
+----------
+ ###  💡 SmartHome Tech
 
 `🪧 Place` in [Neuropolis](#b870)
 
@@ -2813,8 +3418,12 @@ However, at the same time it is vastly criticised as a project enforced by [Cybe
 keywords: neuropolis 
 aliases: 
 -->
+
 ----------
-### <a id="#6760"></a> 👤 SMURF
+
+<a id="#6760"></a> 
+----------
+ ###  👤 SMURF
 
 **🪧 Place** in [Ares Gardens](#fff0)
 
@@ -2826,8 +3435,12 @@ SMURFs primary goal is to make sure mineral resources harvested from forest area
 keywords: ps, ares, gardens, sustainable, mineral, usage, regarding, forests
 aliases: 
 -->
+
 ----------
-### <a id="#53e0"></a> Something Tacensis Rock
+
+<a id="#53e0"></a> 
+----------
+ ###  Something Tacensis Rock
 
 **🧙‍♂️ Character**
 
@@ -2839,8 +3452,12 @@ A curious and adventurous lore writer with diplomat work on the side. He prides 
 keywords: mt, sus, silent gulf
 aliases: 
 -->
+
 ----------
-### <a id="#7850"></a> Somnivale
+
+<a id="#7850"></a> 
+----------
+ ###  Somnivale
 
 `📃 To-do list`
 
@@ -2856,8 +3473,12 @@ tag: todo
 keywords:  
 aliases: 
 -->
+
 ----------
-### <a id="#bda0"></a> Southern Sea
+
+<a id="#bda0"></a> 
+----------
+ ###  Southern Sea
 
 `📃 To-do list`
 
@@ -2872,8 +3493,12 @@ You can write or request lore [on discord](<https://discord.com/channels/5629109
 keywords: todo
 aliases: 
 -->
+
 ----------
-### <a id="#6690"></a> 🛸 Spaceport
+
+<a id="#6690"></a> 
+----------
+ ###  🛸 Spaceport
 
 `🪧 Place` in [Chaotic Plains](#8a30)
 
@@ -2885,8 +3510,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  dc, chaotic plains
 aliases: 
 -->
+
 ----------
-### <a id="#25b0"></a> 🗽 Statue of Mimb
+
+<a id="#25b0"></a> 
+----------
+ ###  🗽 Statue of Mimb
 
 `🪧 Place` in [Cerene Vale](#3850)
 
@@ -2898,8 +3527,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  ps, cerene vale
 aliases: 
 -->
+
 ----------
-### <a id="#3d30"></a> Stonehavers (family)
+
+<a id="#3d30"></a> 
+----------
+ ###  Stonehavers (family)
 
 `🪪 Family`
 
@@ -2913,8 +3546,12 @@ After Old Olly's death, his son Oliver "Young Olly" Stonehaver inherited the Inn
 keywords:  
 aliases: 
 -->
+
 ----------
-### <a id="#e390"></a> Support
+
+<a id="#e390"></a> 
+----------
+ ###  Support
 
 **📑 Term**
 
@@ -2924,8 +3561,12 @@ Military unit that helps its faction in battles by providing additional fighting
 keywords: battle, unit
 aliases:
 -->
+
 ----------
-### <a id="#7cc0"></a> Synaxos Fields
+
+<a id="#7cc0"></a> 
+----------
+ ###  Synaxos Fields
 
 `🖼️ Landmark`
 
@@ -2947,8 +3588,12 @@ The people who come here are either businessmen or merchants who came to buy the
 keywords: mt, landmark
 aliases: 
 -->
+
 ----------
-### <a id="#7d60"></a> Syncrax Road
+
+<a id="#7d60"></a> 
+----------
+ ###  Syncrax Road
 
 `🪧 Place`
 
@@ -2958,8 +3603,12 @@ The second-largest road in [Paradox Pass](#cb50) - that connects the northern re
 keywords:  
 aliases: 
 -->
+
 ----------
-### <a id="#5480"></a> The Arcanum
+
+<a id="#5480"></a> 
+----------
+ ###  The Arcanum
 
 `📑 Term`
 
@@ -2981,8 +3630,12 @@ However, the most prevalent theory is actually a running joke that the book is i
 keywords: masters, council
 aliases: 
 -->
+
 ----------
-### <a id="#a610"></a> The Great Auditorium
+
+<a id="#a610"></a> 
+----------
+ ###  The Great Auditorium
 
 `🖼️ Landmark` in [Neuropolis](#b870)
 
@@ -3000,8 +3653,12 @@ Often regarded as "the most important building on the Island" by MT followers, C
 keywords: neuropolis, council, cerebrime peak
 aliases: The Great Auditorium
 -->
+
 ----------
-### <a id="#fd60"></a> The Algorithms
+
+<a id="#fd60"></a> 
+----------
+ ###  The Algorithms
 
 `📃 To-do list`
 
@@ -3017,8 +3674,12 @@ tag: todo
 keywords:  
 aliases: The Algorithms
 -->
+
 ----------
-### <a id="#ea90"></a> Towers of MindTech Institute
+
+<a id="#ea90"></a> 
+----------
+ ###  Towers of MindTech Institute
 
 `🪧 Place`
 
@@ -3043,8 +3704,12 @@ There is no evidence that it actually exists.
 keywords: mt, blue, green, orange, red, tower, neuropolis
 aliases: Towers of MindTech Institute
 -->
+
 ----------
-### <a id="#7a60"></a> Tree Huggers
+
+<a id="#7a60"></a> 
+----------
+ ###  Tree Huggers
 
 **🪪 Faction**
 
@@ -3059,8 +3724,12 @@ Synopsis:
 keywords: ps
 aliases: PS, Tree Huggers
 -->
+
 ----------
-### <a id="#f840"></a> 🪩 The Sacred Sphere
+
+<a id="#f840"></a> 
+----------
+ ###  🪩 The Sacred Sphere
 
 `🪧 Place` in [Indigo Shore](#7a70)
 
@@ -3072,8 +3741,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  dc, indigo shore
 aliases: 
 -->
+
 ----------
-### <a id="#02e0"></a> 🫖 Tea Emporium
+
+<a id="#02e0"></a> 
+----------
+ ###  🫖 Tea Emporium
 
 `🪧 Place` in [PEBKAC Peak](#f6f0)
 
@@ -3085,8 +3758,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  ci, pebkac peak
 aliases: 
 -->
+
 ----------
-### <a id="#c980"></a> Teleport
+
+<a id="#c980"></a> 
+----------
+ ###  Teleport
 
 `🪧 Place` in [Purple Deeps](#3911)
 
@@ -3098,8 +3775,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  dc, purple deeps
 aliases: 
 -->
+
 ----------
-### <a id="#6590"></a> Temporal Resources
+
+<a id="#6590"></a> 
+----------
+ ###  Temporal Resources
 
 **📑 Term**
 
@@ -3111,8 +3792,12 @@ For example, TMP can be transmuted into any other kind of resources and is known
 keywords: tmp, timeless, desert, sands, chronoglass
 aliases: 
 -->
+
 ----------
-### <a id="#0130"></a> Timeless Desert
+
+<a id="#0130"></a> 
+----------
+ ###  Timeless Desert
 
 `🖼️ Landmark`
 
@@ -3128,8 +3813,12 @@ There are cases of people wandering the desert for months only to find they ther
 keywords: mt, chronoglass, landmark
 aliases: 
 -->
+
 ----------
-### <a id="#22a0"></a> Timeless Waystone
+
+<a id="#22a0"></a> 
+----------
+ ###  Timeless Waystone
 
 `📜 Item`
 
@@ -3147,8 +3836,12 @@ These stones, though, are very rare due to it taking hundreds of years to form a
 keywords: timeless desert, mt 
 aliases: Isynthillicus Cyrciniae
 -->
+
 ----------
-### <a id="#1e30"></a> Timeline
+
+<a id="#1e30"></a> 
+----------
+ ###  Timeline
 
 `📑 Term`
 
@@ -3160,8 +3853,12 @@ You can access the full timeline on a single page [via this link](../timeline/in
 keywords:  
 aliases: 
 -->
+
 ----------
-### <a id="#a310"></a> To do "a Bumps"
+
+<a id="#a310"></a> 
+----------
+ ###  To do "a Bumps"
 
 `📃 To-do list`
 
@@ -3177,8 +3874,12 @@ You can write or request lore [on discord](<https://discord.com/channels/5629109
 keywords: todo
 aliases: 
 -->
+
 ----------
-### <a id="#0680"></a> To do "a Loki"
+
+<a id="#0680"></a> 
+----------
+ ###  To do "a Loki"
 
 `📃 To-do list`
 
@@ -3194,8 +3895,12 @@ You can write or request lore [on discord](<https://discord.com/channels/5629109
 keywords: todo
 aliases: 
 -->
+
 ----------
-### <a id="#64c0"></a> 🌳 Tree of Many Inquiries
+
+<a id="#64c0"></a> 
+----------
+ ###  🌳 Tree of Many Inquiries
 
 **🪧 Place** in [Cybertron Jungle](#b9b0)
 
@@ -3211,8 +3916,12 @@ It is believed that Mimb gets many of her questions from The Tree of Many Inquir
 keywords: ps, cybertron, jungle, tree, many, inquiries, tmi, mimb
 aliases: 
 -->
+
 ----------
-### <a id="#1fa0"></a> 🌺 Underground Botanical Garden
+
+<a id="#1fa0"></a> 
+----------
+ ###  🌺 Underground Botanical Garden
 
 **🪧 Place** in [A'as Forest](#dd50)
 
@@ -3226,8 +3935,12 @@ While not being comparable to Wildlife Preservation in Ares Gardens in terms of 
 keywords: ps, aas, a'as, ares, flora, fauna
 aliases: 
 -->
+
 ----------
-### <a id="#e851"></a> ⚙️ Underwater Turbine Power Plant
+
+<a id="#e851"></a> 
+----------
+ ###  ⚙️ Underwater Turbine Power Plant
 
 `🪧 Place` in [Virtuara Outpost](#6e00)
 
@@ -3239,8 +3952,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  ci, virtuara outpost
 aliases: 
 -->
+
 ----------
-### <a id="#6ad0"></a> 🦄 UniCorn™️ Farmlands
+
+<a id="#6ad0"></a> 
+----------
+ ###  🦄 UniCorn™️ Farmlands
 
 `🖼️ Landmark`
 
@@ -3256,8 +3973,12 @@ Even though there were no huge successes since then, it's still considered a bus
 keywords:  synaxos fields
 aliases: 
 -->
+
 ----------
-### <a id="#8de0"></a> 🥡 Valhalla Bar
+
+<a id="#8de0"></a> 
+----------
+ ###  🥡 Valhalla Bar
 
 `🪧 Place` in [Oblivion Mire](#8840)
 
@@ -3267,8 +3988,12 @@ Build on eon 480 by [MindTech Institute](#6550)
 keywords:  mt, oblivion mire
 aliases: 
 -->
+
 ----------
-### <a id="#3660"></a> Valkyrie Spec Ops
+
+<a id="#3660"></a> 
+----------
+ ###  Valkyrie Spec Ops
 
 `📑 Term`
 
@@ -3280,8 +4005,12 @@ Initially, there were no proper pricing scheme, only running on opinion-based di
 keywords: revalx, valkyrie, mercenary, fighters guild
 aliases: 
 -->
+
 ----------
-### <a id="#6e00"></a> Virtuara Outpost
+
+<a id="#6e00"></a> 
+----------
+ ###  Virtuara Outpost
 
 `📃 To-do list`
 
@@ -3297,8 +4026,12 @@ tag: todo
 keywords:  
 aliases: 
 -->
+
 ----------
-### <a id="#3e80"></a> 🦈 Void Shark Hatchery
+
+<a id="#3e80"></a> 
+----------
+ ###  🦈 Void Shark Hatchery
 
 `🪧 Place` in [Dev Null Marsh](#1070)
 
@@ -3310,8 +4043,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  dc, dev null marsh
 aliases: 
 -->
+
 ----------
-### <a id="#16d0"></a> ♨️ Volcanic Jacuzzi
+
+<a id="#16d0"></a> 
+----------
+ ###  ♨️ Volcanic Jacuzzi
 
 `🪧 Place` in [Peace Death Gorge](#db50)
 
@@ -3323,8 +4060,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  dc, peace death gorge, influeno
 aliases: 
 -->
+
 ----------
-### <a id="#0780"></a> 🌋 Volcano Influeno
+
+<a id="#0780"></a> 
+----------
+ ###  🌋 Volcano Influeno
 
 `🪧 Place` in [Peace Death Gorge](#db50)
 
@@ -3336,8 +4077,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  dc, peace death gorge
 aliases: 
 -->
+
 ----------
-### <a id="#f6d0"></a> Western Brickland
+
+<a id="#f6d0"></a> 
+----------
+ ###  Western Brickland
 
 `🖼️ Landmark`
 
@@ -3368,8 +4113,12 @@ keywords: ci, dc, landmark
 aliases: Western Brickland, Eastern Brickland
 -->
 
+
 ----------
-### <a id="#9930"></a> Weapons
+
+<a id="#9930"></a> 
+----------
+ ###  Weapons
 
 **📑 Term**
 
@@ -3386,8 +4135,12 @@ keywords: battle, common, epic, weapons, armor, relics
 aliases: Weapons, Armor, Relics
 -->
 
+
 ----------
-### <a id="#9930"></a> WAR items
+
+<a id="#9930"></a> 
+----------
+ ###  WAR items
 
 **📑 Term**
 
@@ -3404,8 +4157,12 @@ keywords: battle, common, epic, weapons, armor, relics
 aliases: Weapons, Armor, Relics
 -->
 
+
 ----------
-### <a id="#60b0"></a> Watchtower Ruins
+
+<a id="#60b0"></a> 
+----------
+ ###  Watchtower Ruins
 
 `🪧 Place` in [Xyrclaox Watch](#b9a0)
 
@@ -3421,8 +4178,12 @@ Ruins reconstructed by [MindTech Institute](#6550) into a tourist attraction on 
 keywords:  mt, xyrclaox watch
 aliases: 
 -->
+
 ----------
-### <a id="#a1d0"></a> 🎏 Weather Tower Relay
+
+<a id="#a1d0"></a> 
+----------
+ ###  🎏 Weather Tower Relay
 
 `🪧 Place` in [Synaxos Fields](#7cc0)
 
@@ -3434,8 +4195,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  ci, synaxos fields
 aliases: 
 -->
+
 ----------
-### <a id="#ada0"></a> Webified Hills
+
+<a id="#ada0"></a> 
+----------
+ ###  Webified Hills
 
 `📃 To-do list`
 
@@ -3451,8 +4216,12 @@ tag: todo
 keywords:  
 aliases: 
 -->
+
 ----------
-### <a id="#ca80"></a> 🐅 Wildlife Preservation
+
+<a id="#ca80"></a> 
+----------
+ ###  🐅 Wildlife Preservation
 
 `🪧 Place` in [Ares Gardens](#fff0)
 
@@ -3464,8 +4233,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  ps, are gardens
 aliases: 
 -->
+
 ----------
-### <a id="#0fd0"></a> 🌱 World Seed Pendant
+
+<a id="#0fd0"></a> 
+----------
+ ###  🌱 World Seed Pendant
 
 `📜 Item`
 
@@ -3477,8 +4250,12 @@ The _World Seed Pendant_ was made with a seed that, according to local legend, w
 keywords: airmanon, ozimud
 aliases: 
 -->
+
 ----------
-### <a id="#4d00"></a> 🎨 Xiavente's Meme Workshop
+
+<a id="#4d00"></a> 
+----------
+ ###  🎨 Xiavente's Meme Workshop
 
 `🪧 Place` in [Paradox Pass](#cb50)
 
@@ -3490,8 +4267,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  mt, paradox pass
 aliases: 
 -->
+
 ----------
-### <a id="#40a0"></a> Xiavente
+
+<a id="#40a0"></a> 
+----------
+ ###  Xiavente
 
 `📃 To-do list`
 
@@ -3507,8 +4288,12 @@ tag: todo
 keywords:  
 aliases: 
 -->
+
 ----------
-### <a id="#b9a0"></a> Xyrclaox Watch
+
+<a id="#b9a0"></a> 
+----------
+ ###  Xyrclaox Watch
 
 `🖼️ Landmark`
 
@@ -3524,8 +4309,12 @@ It also holds many places where those who break the law gets sentenced or punish
 keywords: mt, landmark
 aliases: 
 -->
+
 ----------
-### <a id="#c480"></a> You
+
+<a id="#c480"></a> 
+----------
+ ###  You
 
 **🧙‍♂️ Character**
 
@@ -3537,8 +4326,12 @@ Fortunately, after over half a thousand eons of sleep, he was able to get healed
 keywords: ci, virtuara
 aliases: 
 -->
+
 ----------
-### <a id="#2e80"></a> 🦁 Zeithalt Pet Zoo and Animal Shelter
+
+<a id="#2e80"></a> 
+----------
+ ###  🦁 Zeithalt Pet Zoo and Animal Shelter
 
 `🪧 Place` in [Paradox Pass](#cb50)
 
@@ -3550,8 +4343,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  mt, paradox pass
 aliases: 
 -->
+
 ----------
-### <a id="#fad0"></a> Zeithalt Zeitgeist newspaper
+
+<a id="#fad0"></a> 
+----------
+ ###  Zeithalt Zeitgeist newspaper
 
 **📑 Term**
 
@@ -3561,8 +4358,12 @@ Also known as "double-Z", the newspaper is the main source of news for all Zeith
 keywords: newspaper, zz, double-z
 aliases: Double-Z
 -->
+
 ----------
-### <a id="#e480"></a> 🗼 Zikkurat
+
+<a id="#e480"></a> 
+----------
+ ###  🗼 Zikkurat
 
 `🪧 Place` in [Purple Deeps](#3911)
 
@@ -3574,8 +4375,12 @@ _This entry is considered incomplete - you can request more info for it [on disc
 keywords:  dc, purple deeps
 aliases: 
 -->
+
 ----------
-### <a id="#4d60"></a> 🌟 ZIPP Lines
+
+<a id="#4d60"></a> 
+----------
+ ###  🌟 ZIPP Lines
 
 **🪧 Place** in [Chaotic Plains](#8a30)
 
@@ -3587,4 +4392,5 @@ ZIPP Lines or Zeithalt Industry Protection Protocol Starline is a Safety Service
 keywords: ci, chaotic, planes, starline
 aliases: 
 -->
+
 ----------
