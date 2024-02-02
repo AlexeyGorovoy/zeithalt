@@ -63,19 +63,13 @@ fun main() {
             "[$letter](#${letter.lowercase()})"
         }
 
+    val separator = "----------"
+
     val texts = entries?.joinToString("\n") { entry ->
-        "### <a name=\"${entry.link}\"></a> ${entry.title}\n${entry.text}\n----------"
+        "### <a id=\"${entry.link}\"></a> ${entry.title}\n${entry.text}\n$separator"
     }
 
-    val rIndexText = """
-# Index 
-$reference
-----------
-$content
-----------
-$texts
-    """
-        .trimIndent()
+    val rIndexText = "# Index\n$reference\n$separator\n$content\n$separator\n$texts"
         .replaceLinks(linkMap)
 
     val output = File("r/index.md")
