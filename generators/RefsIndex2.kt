@@ -34,7 +34,7 @@ fun main() {
             val aliases = extractAliases(text)
 
             val titles = if (title != null) {
-                aliases + title
+                listOf(title) + aliases
             } else {
                 aliases
             }
@@ -69,7 +69,7 @@ fun main() {
     val sep = "\n----------\n"
 
     val texts = entries?.joinToString("\n") { entry ->
-        "$sep### <a id=\"${entry.anchor}\" href=\"#${entry.letter.lowercase()}\">↑</a> ${entry.title}\n${entry.text}\n"
+        "$sep### <a id=\"${entry.anchor}\"></a>${entry.title}\n${entry.text}\n<a href=\"#${entry.letter.lowercase()}\">↑ Scroll up</a>"
     }
 
     val rIndexText = "# <a id=\"$topAnchor\"></a>Zeithalt Lore Book\n$reference\n$content\n$texts"
@@ -114,10 +114,17 @@ private fun buildEntries(
     text: String,
     anchor: String
 ): List<Entry2> {
-    return titles.mapNotNull { title ->
+    val firstTitle = titles.firstOrNull()
+    return titles.mapIndexedNotNull { index, title ->
         val letter = title.firstOrNull {
             it in 'a'..'z' || it in 'A'..'Z' || it in '0' .. '9'
         }?.uppercase()
+
+        val actualText = if (index == 0) {
+            text
+        } else {
+            "Refers to <a href=\"#$anchor\">$firstTitle</a>"
+        }
 
         if (letter != null) {
             Entry2(
@@ -125,7 +132,7 @@ private fun buildEntries(
                 title = title,
                 anchor = anchor,
                 upAnchor = "${anchor}_s",
-                text = text
+                text = actualText
             )
         } else {
             null
