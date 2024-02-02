@@ -75,7 +75,7 @@ fun main() {
     val rIndexText = "# <a id=\"$topAnchor\"></a>Zeithalt Lore Book\n$reference\n$content\n$texts"
         .replaceLinks(linkMap)
 
-    val output = File("r/index.md")
+    val output = File("public_refs/index.md")
     output.writeText(rIndexText)
 
     val endTime = System.currentTimeMillis()
