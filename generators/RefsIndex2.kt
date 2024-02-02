@@ -67,7 +67,7 @@ fun main() {
     val sep = "\n----------\n"
 
     val texts = entries?.joinToString("\n") { entry ->
-        "$sep ### <a id=\"${entry.anchor}\"></a>${entry.title}\n${entry.text}\n$sep"
+        "$sep### <a id=\"${entry.anchor}\"></a>${entry.title}\n${entry.text}\n"
     }
 
     val rIndexText = "# Index\n$reference\n$content$sep$reference$texts"
