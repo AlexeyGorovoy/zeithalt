@@ -11,6 +11,8 @@ fun main() {
 
     println("Found files: ${files?.size ?: "none"}")
 
+    val topAnchor = "top"
+
     val linkMap = rebuildLinkMap()
 
     val letters = mutableSetOf<String>()
@@ -48,7 +50,7 @@ fun main() {
             letters.add(entry.letter)
 
             listOfNotNull(
-                if (newLetter) "### ${entry.letter}" else null,
+                if (newLetter) "### <a id=\"#$topAnchor\"></a>${entry.letter}" else null,
                 "<a id=\"${entry.upAnchor}\"></a>[${entry.title}](#${entry.anchor})",
                 ""
             )
@@ -67,10 +69,10 @@ fun main() {
     val sep = "\n----------\n"
 
     val texts = entries?.joinToString("\n") { entry ->
-        "$sep### <a id=\"${entry.anchor}\" href=\"#${entry.letter}\">↑ ${entry.title}</a>\n${entry.text}\n"
+        "$sep### <a id=\"${entry.anchor}\" href=\"#${entry.letter.lowercase()}\">↑ ${entry.title}</a>\n${entry.text}\n"
     }
 
-    val rIndexText = "# Zeithalt Lore Book\n$reference\n$content$sep$reference$texts"
+    val rIndexText = "# <a id=\"$topAnchor\"></a>Zeithalt Lore Book 2\n$reference\n$content\n$texts"
         .replaceLinks(linkMap)
 
     val output = File("r/index.md")

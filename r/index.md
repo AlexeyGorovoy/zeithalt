@@ -1,6 +1,6 @@
-# Zeithalt Lore Book
+# <a id="top"></a>Zeithalt Lore Book 2
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
-### A
+### <a id="#top"></a>A
 <a id="dd50_s"></a>[Aas Forest](#dd50)
 
 <a id="1a00_s"></a>[Admincity](#1a00)
@@ -25,7 +25,7 @@
 
 <a id="9930_s"></a>[Armor](#9930)
 
-### B
+### <a id="#top"></a>B
 <a id="4450_s"></a>[⚗️ Bioengineered Algae Farm](#4450)
 
 <a id="9640_s"></a>[🎋 Bamboo Grove](#9640)
@@ -48,7 +48,7 @@
 
 <a id="8880_s"></a>[Bumpus Mackamarus Arbum](#8880)
 
-### C
+### <a id="#top"></a>C
 <a id="32c0_s"></a>[🌵 Cactus Juice Factory](#32c0)
 
 <a id="0330_s"></a>[🏢 Center for Anomaly Control](#0330)
@@ -99,7 +99,7 @@
 
 <a id="b9b0_s"></a>[Cybertron Jungle](#b9b0)
 
-### D
+### <a id="#top"></a>D
 <a id="8f50_s"></a>[Dino Saurex](#8f50)
 
 <a id="f750_s"></a>[🗡️ Dagger of Elemental Restoration](#f750)
@@ -122,7 +122,7 @@
 
 <a id="fad0_s"></a>[Double-Z](#fad0)
 
-### E
+### <a id="#top"></a>E
 <a id="f6d0_s"></a>[Eastern Brickland](#f6d0)
 
 <a id="7d50_s"></a>[🥚 Egg Festival](#7d50)
@@ -131,7 +131,7 @@
 
 <a id="74f0_s"></a>[Energy Resources](#74f0)
 
-### F
+### <a id="#top"></a>F
 <a id="ee30_s"></a>[Fighters Guild](#ee30)
 
 <a id="ff60_s"></a>[🏢 Fighters Guild, CI Branch](#ff60)
@@ -140,7 +140,7 @@
 
 <a id="9ff0_s"></a>[Fortifications](#9ff0)
 
-### G
+### <a id="#top"></a>G
 <a id="b710_s"></a>[Gift of Balance](#b710)
 
 <a id="9340_s"></a>[💿 Gaia Knowledge Database](#9340)
@@ -157,7 +157,7 @@
 
 <a id="06a0_s"></a>[GreenOtter](#06a0)
 
-### H
+### <a id="#top"></a>H
 <a id="7c90_s"></a>[Headmaster of the Institute](#7c90)
 
 <a id="f910_s"></a>[hexAgon](#f910)
@@ -166,7 +166,7 @@
 
 <a id="1b90_s"></a>[🛖 House of Craftsmanship](#1b90)
 
-### I
+### <a id="#top"></a>I
 <a id="e630_s"></a>[Illusion Cliffs](#e630)
 
 <a id="0740_s"></a>[Imperial Swamp](#0740)
@@ -175,22 +175,22 @@
 
 <a id="22a0_s"></a>[Isynthillicus Cyrciniae](#22a0)
 
-### J
+### <a id="#top"></a>J
 <a id="09e0_s"></a>[🎊 Jackbox Party Central](#09e0)
 
 <a id="3760_s"></a>[🦖 Jurassic Park](#3760)
 
-### K
+### <a id="#top"></a>K
 <a id="2dc0_s"></a>[🕸️ K2 Fibers](#2dc0)
 
-### L
+### <a id="#top"></a>L
 <a id="bca0_s"></a>[Lake Corsair](#bca0)
 
 <a id="5220_s"></a>[🗼 Lime Tower](#5220)
 
 <a id="5850_s"></a>[Loki](#5850)
 
-### M
+### <a id="#top"></a>M
 <a id="7c90_s"></a>[Masters of the Council](#7c90)
 
 <a id="ea90_s"></a>[MindTech Institute Fortress (inner walls)](#ea90)
@@ -241,19 +241,19 @@
 
 <a id="74f0_s"></a>[Mineral Resources](#74f0)
 
-### N
+### <a id="#top"></a>N
 <a id="b870_s"></a>[Neuropolis](#b870)
 
 <a id="3820_s"></a>[📰 News HQ](#3820)
 
-### O
+### <a id="#top"></a>O
 <a id="8840_s"></a>[Oblivion Mire](#8840)
 
 <a id="e810_s"></a>[Ogrodnik](#e810)
 
 <a id="c080_s"></a>[Ozimud](#c080)
 
-### P
+### <a id="#top"></a>P
 <a id="cb50_s"></a>[Paradox PAss](#cb50)
 
 <a id="3910_s"></a>[🎡 Particle Collitionist](#3910)
@@ -286,10 +286,10 @@
 
 <a id="3911_s"></a>[Purple Deeps](#3911)
 
-### Q
+### <a id="#top"></a>Q
 <a id="f880_s"></a>[🛰️ Quantum Nexus Laboratory](#f880)
 
-### R
+### <a id="#top"></a>R
 <a id="4270_s"></a>[Rebels](#4270)
 
 <a id="74f0_s"></a>[Resources (RES)](#74f0)
@@ -300,7 +300,7 @@
 
 <a id="9930_s"></a>[Relics](#9930)
 
-### S
+### <a id="#top"></a>S
 <a id="74f0_s"></a>[Science Resources](#74f0)
 
 <a id="0090_s"></a>[Saboteur](#0090)
@@ -341,7 +341,7 @@
 
 <a id="7d60_s"></a>[Syncrax Road](#7d60)
 
-### T
+### <a id="#top"></a>T
 <a id="5480_s"></a>[The Arcanum](#5480)
 
 <a id="a610_s"></a>[The Great Auditorium](#a610)
@@ -372,14 +372,14 @@
 
 <a id="64c0_s"></a>[🌳 Tree of Many Inquiries](#64c0)
 
-### U
+### <a id="#top"></a>U
 <a id="1fa0_s"></a>[🌺 Underground Botanical Garden](#1fa0)
 
 <a id="e851_s"></a>[⚙️ Underwater Turbine Power Plant](#e851)
 
 <a id="6ad0_s"></a>[🦄 UniCorn™️ Farmlands](#6ad0)
 
-### V
+### <a id="#top"></a>V
 <a id="8de0_s"></a>[🥡 Valhalla Bar](#8de0)
 
 <a id="3660_s"></a>[Valkyrie Spec Ops](#3660)
@@ -392,7 +392,7 @@
 
 <a id="0780_s"></a>[🌋 Volcano Influeno](#0780)
 
-### W
+### <a id="#top"></a>W
 <a id="f6d0_s"></a>[Western Brickland](#f6d0)
 
 <a id="9930_s"></a>[Weapons](#9930)
@@ -409,17 +409,17 @@
 
 <a id="0fd0_s"></a>[🌱 World Seed Pendant](#0fd0)
 
-### X
+### <a id="#top"></a>X
 <a id="4d00_s"></a>[🎨 Xiavente's Meme Workshop](#4d00)
 
 <a id="40a0_s"></a>[Xiavente](#40a0)
 
 <a id="b9a0_s"></a>[Xyrclaox Watch](#b9a0)
 
-### Y
+### <a id="#top"></a>Y
 <a id="c480_s"></a>[You](#c480)
 
-### Z
+### <a id="#top"></a>Z
 <a id="2e80_s"></a>[🦁 Zeithalt Pet Zoo and Animal Shelter](#2e80)
 
 <a id="fad0_s"></a>[Zeithalt Zeitgeist newspaper](#fad0)
@@ -428,10 +428,9 @@
 
 <a id="4d60_s"></a>[🌟 ZIPP Lines](#4d60)
 
+
 ----------
-[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
-----------
-### <a id="dd50" href="#A">↑ Aas Forest</a>
+### <a id="dd50" href="#a">↑ Aas Forest</a>
 
 `🖼️ Landmark`
 
@@ -454,7 +453,7 @@ hash: bba
 
 
 ----------
-### <a id="1a00" href="#A">↑ Admincity</a>
+### <a id="1a00" href="#a">↑ Admincity</a>
 
 `📃 To-do list`
 
@@ -473,7 +472,7 @@ aliases:
 
 
 ----------
-### <a id="32e0" href="#A">↑ Age of Battles</a>
+### <a id="32e0" href="#a">↑ Age of Battles</a>
 
 **📅 Time period**
 
@@ -488,7 +487,7 @@ aliases:
 
 
 ----------
-### <a id="0620" href="#A">↑ Age of Conquest</a>
+### <a id="0620" href="#a">↑ Age of Conquest</a>
 
 **📅 Time period**
 
@@ -505,7 +504,7 @@ aliases:
 
 
 ----------
-### <a id="b750" href="#A">↑ Age of Darkness</a>
+### <a id="b750" href="#a">↑ Age of Darkness</a>
 
 **📅 Time period**
 
@@ -520,7 +519,7 @@ aliases:
 
 
 ----------
-### <a id="0a70" href="#A">↑ Airmanon 'Air' Driftwing</a>
+### <a id="0a70" href="#a">↑ Airmanon 'Air' Driftwing</a>
 
 **🧙‍♂️ Character**
 
@@ -535,7 +534,7 @@ aliases:
 
 
 ----------
-### <a id="9a30" href="#A">↑ Alexx</a>
+### <a id="9a30" href="#a">↑ Alexx</a>
 
 **🧙‍♂️ Character**
 
@@ -550,7 +549,7 @@ aliases:
 
 
 ----------
-### <a id="8270" href="#A">↑ 🐙 Altar of Ctulhu</a>
+### <a id="8270" href="#a">↑ 🐙 Altar of Ctulhu</a>
 
 `🪧 Place` in [Imperial Swamp](#0740)
 
@@ -567,7 +566,7 @@ aliases:
 
 
 ----------
-### <a id="cea0" href="#A">↑ 📚 Archives of Subconsciousness</a>
+### <a id="cea0" href="#a">↑ 📚 Archives of Subconsciousness</a>
 
 `🪧 Place` in [Illusion Cliffs](#e630)
 
@@ -582,7 +581,7 @@ aliases:
 
 
 ----------
-### <a id="fff0" href="#A">↑ Ares Gardens</a>
+### <a id="fff0" href="#a">↑ Ares Gardens</a>
 
 `📃 To-do list`
 
@@ -601,7 +600,7 @@ aliases:
 
 
 ----------
-### <a id="a740" href="#A">↑ 🛣️ Axonite Road</a>
+### <a id="a740" href="#a">↑ 🛣️ Axonite Road</a>
 
 `🪧 Place` in [Paradox Pass](#cb50)
 
@@ -616,7 +615,7 @@ aliases:
 
 
 ----------
-### <a id="9930" href="#A">↑ Armor</a>
+### <a id="9930" href="#a">↑ Armor</a>
 
 **📑 Term**
 
@@ -636,7 +635,7 @@ aliases: Weapons, Armor, Relics
 
 
 ----------
-### <a id="4450" href="#B">↑ ⚗️ Bioengineered Algae Farm</a>
+### <a id="4450" href="#b">↑ ⚗️ Bioengineered Algae Farm</a>
 
 `🪧 Place` in [Blue Screen Lagoon](#8f30)
 
@@ -651,7 +650,7 @@ aliases:
 
 
 ----------
-### <a id="9640" href="#B">↑ 🎋 Bamboo Grove</a>
+### <a id="9640" href="#b">↑ 🎋 Bamboo Grove</a>
 
 `🪧 Place` in [Cybertron Jungle](#b9b0)
 
@@ -666,7 +665,7 @@ aliases:
 
 
 ----------
-### <a id="ee50" href="#B">↑ Bank of Zeithalt</a>
+### <a id="ee50" href="#b">↑ Bank of Zeithalt</a>
 
 **🪪 Entity**
 
@@ -682,7 +681,7 @@ keywords: money, gold, economy
 
 
 ----------
-### <a id="3460" href="#B">↑ 🔱 Beacon for the Sight of Innovation</a>
+### <a id="3460" href="#b">↑ 🔱 Beacon for the Sight of Innovation</a>
 
 `🪧 Place` in [Singularity Valley](#dd30)
 
@@ -697,7 +696,7 @@ aliases:
 
 
 ----------
-### <a id="2880" href="#B">↑ 🕯️ Beacon for the Light of Reason</a>
+### <a id="2880" href="#b">↑ 🕯️ Beacon for the Light of Reason</a>
 
 `🪧 Place` in [Neuropolis](#b870)
 
@@ -714,7 +713,7 @@ aliases:
 
 
 ----------
-### <a id="8f30" href="#B">↑ Blue Screen Lagoon</a>
+### <a id="8f30" href="#b">↑ Blue Screen Lagoon</a>
 
 `📃 To-do list`
 
@@ -733,7 +732,7 @@ aliases:
 
 
 ----------
-### <a id="b710" href="#B">↑ Book of Balance</a>
+### <a id="b710" href="#b">↑ Book of Balance</a>
 
 `📑 Term`
 
@@ -754,7 +753,7 @@ aliases: Gift of Balance
 
 
 ----------
-### <a id="6a20" href="#B">↑ 🍺 Brewery</a>
+### <a id="6a20" href="#b">↑ 🍺 Brewery</a>
 
 `🪧 Place` in [Purple Deeps](#3911)
 
@@ -769,7 +768,7 @@ aliases:
 
 
 ----------
-### <a id="f6d0" href="#B">↑ Brickland Fortress</a>
+### <a id="f6d0" href="#b">↑ Brickland Fortress</a>
 
 `🖼️ Landmark`
 
@@ -803,7 +802,7 @@ aliases: Western Brickland, Eastern Brickland
 
 
 ----------
-### <a id="50d0" href="#B">↑ Brickspire Mountains</a>
+### <a id="50d0" href="#b">↑ Brickspire Mountains</a>
 
 `🪧 Landmark`
 
@@ -816,7 +815,7 @@ aliases:
 
 
 ----------
-### <a id="8880" href="#B">↑ Bumpus Mackamarus Arbum</a>
+### <a id="8880" href="#b">↑ Bumpus Mackamarus Arbum</a>
 
 **🧙‍♂️ Character**
 
@@ -831,7 +830,7 @@ aliases:
 
 
 ----------
-### <a id="32c0" href="#C">↑ 🌵 Cactus Juice Factory</a>
+### <a id="32c0" href="#c">↑ 🌵 Cactus Juice Factory</a>
 
 `🖼️ Landmark`
 
@@ -850,7 +849,7 @@ aliases:
 
 
 ----------
-### <a id="0330" href="#C">↑ 🏢 Center for Anomaly Control</a>
+### <a id="0330" href="#c">↑ 🏢 Center for Anomaly Control</a>
 
 `🪧 Place` in [Neuropolis](#b870)
 
@@ -871,7 +870,7 @@ aliases:
 
 
 ----------
-### <a id="3850" href="#C">↑ Cerene Vale</a>
+### <a id="3850" href="#c">↑ Cerene Vale</a>
 
 `🖼️ Landmark`
 
@@ -890,7 +889,7 @@ aliases:
 
 
 ----------
-### <a id="8a30" href="#C">↑ Chaotic Plains</a>
+### <a id="8a30" href="#c">↑ Chaotic Plains</a>
 
 `📃 To-do list`
 
@@ -909,7 +908,7 @@ aliases:
 
 
 ----------
-### <a id="e320" href="#C">↑ Chronoglass</a>
+### <a id="e320" href="#c">↑ Chronoglass</a>
 
 **📑 Term**
 
@@ -929,7 +928,7 @@ aliases:
 
 
 ----------
-### <a id="29a0" href="#C">↑ ChronoGlass™️</a>
+### <a id="29a0" href="#c">↑ ChronoGlass™️</a>
 
 **📑 Term**
 
@@ -946,7 +945,7 @@ aliases:
 
 
 ----------
-### <a id="4120" href="#C">↑ ☁️ Cloudy Data Center</a>
+### <a id="4120" href="#c">↑ ☁️ Cloudy Data Center</a>
 
 `🪧 Place` in [Timeless Desert](#0130)
 
@@ -961,7 +960,7 @@ aliases:
 
 
 ----------
-### <a id="36b0" href="#C">↑ CO</a>
+### <a id="36b0" href="#c">↑ CO</a>
 
 `🪪 Faction`
 
@@ -977,7 +976,7 @@ aliases: CO
 
 
 ----------
-### <a id="36b0" href="#C">↑ Cloudy Operatives</a>
+### <a id="36b0" href="#c">↑ Cloudy Operatives</a>
 
 `🪪 Faction`
 
@@ -993,7 +992,7 @@ aliases: CO
 
 
 ----------
-### <a id="bef0" href="#C">↑ Common language</a>
+### <a id="bef0" href="#c">↑ Common language</a>
 
 **📑 Term**
 
@@ -1006,7 +1005,7 @@ aliases:
 
 
 ----------
-### <a id="a2b0" href="#C">↑ Corruption</a>
+### <a id="a2b0" href="#c">↑ Corruption</a>
 
 **🪪 Entity**
 
@@ -1023,7 +1022,7 @@ aliases:
 
 
 ----------
-### <a id="a610" href="#C">↑ 📖 Cortexian Hall</a>
+### <a id="a610" href="#c">↑ 📖 Cortexian Hall</a>
 
 `🖼️ Landmark` in [Neuropolis](#b870)
 
@@ -1044,7 +1043,7 @@ aliases: The Great Auditorium
 
 
 ----------
-### <a id="7c90" href="#C">↑ Council of Minds</a>
+### <a id="7c90" href="#c">↑ Council of Minds</a>
 
 `📑 Term`
 
@@ -1065,7 +1064,7 @@ aliases: Masters of the Council, Headmaster of the Institute
 
 
 ----------
-### <a id="45d0" href="#C">↑ CrAEX</a>
+### <a id="45d0" href="#c">↑ CrAEX</a>
 
 **🧙‍♂️ Character**
 
@@ -1086,7 +1085,7 @@ aliases:
 
 
 ----------
-### <a id="a1a0" href="#C">↑ Corrupted Artefacts</a>
+### <a id="a1a0" href="#c">↑ Corrupted Artefacts</a>
 
 **📜 Item**
 
@@ -1103,7 +1102,7 @@ aliases:
 
 
 ----------
-### <a id="17b0" href="#C">↑ CR Fallout</a>
+### <a id="17b0" href="#c">↑ CR Fallout</a>
 
 **📑 Term**
 
@@ -1118,7 +1117,7 @@ aliases:
 
 
 ----------
-### <a id="08c0" href="#C">↑ Corrupted Gemstone</a>
+### <a id="08c0" href="#c">↑ Corrupted Gemstone</a>
 
 **📜 Item**
 
@@ -1147,7 +1146,7 @@ aliases:
 
 
 ----------
-### <a id="8360" href="#C">↑ CR Mines</a>
+### <a id="8360" href="#c">↑ CR Mines</a>
 
 **📜 Item**
 
@@ -1160,7 +1159,7 @@ aliases:
 
 
 ----------
-### <a id="2390" href="#C">↑ Corruption Restoration Project</a>
+### <a id="2390" href="#c">↑ Corruption Restoration Project</a>
 
 `📑 Term`
 
@@ -1175,7 +1174,7 @@ aliases:
 
 
 ----------
-### <a id="1330" href="#C">↑ CR Shards</a>
+### <a id="1330" href="#c">↑ CR Shards</a>
 
 **📜 Item**
 
@@ -1188,7 +1187,7 @@ aliases:
 
 
 ----------
-### <a id="9670" href="#C">↑ 🏥 CURE</a>
+### <a id="9670" href="#c">↑ 🏥 CURE</a>
 
 **🪧 Place** in [Brickland Fortress](#f6d0)
 
@@ -1201,7 +1200,7 @@ aliases:
 
 
 ----------
-### <a id="80b0" href="#C">↑ CI</a>
+### <a id="80b0" href="#c">↑ CI</a>
 
 **🪪 Faction**
 
@@ -1217,7 +1216,7 @@ aliases: CI
 
 
 ----------
-### <a id="80b0" href="#C">↑ Cybernetics Inc</a>
+### <a id="80b0" href="#c">↑ Cybernetics Inc</a>
 
 **🪪 Faction**
 
@@ -1233,7 +1232,7 @@ aliases: CI
 
 
 ----------
-### <a id="7b30" href="#C">↑ Cybers</a>
+### <a id="7b30" href="#c">↑ Cybers</a>
 
 **📑 Term**
 
@@ -1246,7 +1245,7 @@ aliases:
 
 
 ----------
-### <a id="b9b0" href="#C">↑ Cybertron Jungle</a>
+### <a id="b9b0" href="#c">↑ Cybertron Jungle</a>
 
 `📃 To-do list`
 
@@ -1265,7 +1264,7 @@ aliases:
 
 
 ----------
-### <a id="8f50" href="#D">↑ Dino Saurex</a>
+### <a id="8f50" href="#d">↑ Dino Saurex</a>
 
 **🧙‍♂️ Character**
 
@@ -1284,7 +1283,7 @@ aliases:
 
 
 ----------
-### <a id="f750" href="#D">↑ 🗡️ Dagger of Elemental Restoration</a>
+### <a id="f750" href="#d">↑ 🗡️ Dagger of Elemental Restoration</a>
 
 `📜 Item`
 
@@ -1301,7 +1300,7 @@ aliases:
 
 
 ----------
-### <a id="b730" href="#D">↑ Deltans</a>
+### <a id="b730" href="#d">↑ Deltans</a>
 
 **📑 Term**
 
@@ -1314,7 +1313,7 @@ aliases:
 
 
 ----------
-### <a id="4de0" href="#D">↑ Deltan language</a>
+### <a id="4de0" href="#d">↑ Deltan language</a>
 
 **📑 Term**
 
@@ -1327,7 +1326,7 @@ aliases:
 
 
 ----------
-### <a id="b0c0" href="#D">↑ 💬 Deltan Language School</a>
+### <a id="b0c0" href="#d">↑ 💬 Deltan Language School</a>
 
 `🖼️ Landmark` in [Oblivion Mire](#8840)
 
@@ -1342,7 +1341,7 @@ aliases:
 
 
 ----------
-### <a id="8bc0" href="#D">↑ DC</a>
+### <a id="8bc0" href="#d">↑ DC</a>
 
 **🪪 Faction**
 
@@ -1360,7 +1359,7 @@ aliases: DC
 
 
 ----------
-### <a id="8bc0" href="#D">↑ Delta Collective</a>
+### <a id="8bc0" href="#d">↑ Delta Collective</a>
 
 **🪪 Faction**
 
@@ -1378,7 +1377,7 @@ aliases: DC
 
 
 ----------
-### <a id="1070" href="#D">↑ Dev Null Marsh</a>
+### <a id="1070" href="#d">↑ Dev Null Marsh</a>
 
 `📃 To-do list`
 
@@ -1397,7 +1396,7 @@ aliases:
 
 
 ----------
-### <a id="ee20" href="#D">↑ 🎰 Dino's Gambling Den</a>
+### <a id="ee20" href="#d">↑ 🎰 Dino's Gambling Den</a>
 
 **🪧 Place** in [Ares Gardens](#fff0)
 
@@ -1412,7 +1411,7 @@ aliases:
 
 
 ----------
-### <a id="7e10" href="#D">↑ 🦆 Duck Farm</a>
+### <a id="7e10" href="#d">↑ 🦆 Duck Farm</a>
 
 `🪧 Place` in [Indigo Shore](#7a70)
 
@@ -1427,7 +1426,7 @@ aliases:
 
 
 ----------
-### <a id="fad0" href="#D">↑ Double-Z</a>
+### <a id="fad0" href="#d">↑ Double-Z</a>
 
 **📑 Term**
 
@@ -1440,7 +1439,7 @@ aliases: Double-Z
 
 
 ----------
-### <a id="f6d0" href="#E">↑ Eastern Brickland</a>
+### <a id="f6d0" href="#e">↑ Eastern Brickland</a>
 
 `🖼️ Landmark`
 
@@ -1474,7 +1473,7 @@ aliases: Western Brickland, Eastern Brickland
 
 
 ----------
-### <a id="7d50" href="#E">↑ 🥚 Egg Festival</a>
+### <a id="7d50" href="#e">↑ 🥚 Egg Festival</a>
 
 `🪧 Place` in [Cerene Vale](#3850)
 
@@ -1489,7 +1488,7 @@ aliases:
 
 
 ----------
-### <a id="8730" href="#E">↑ Eon</a>
+### <a id="8730" href="#e">↑ Eon</a>
 
 **📑 Term**
 
@@ -1502,7 +1501,7 @@ aliases:
 
 
 ----------
-### <a id="74f0" href="#E">↑ Energy Resources</a>
+### <a id="74f0" href="#e">↑ Energy Resources</a>
 
 **📑 Term**
 
@@ -1523,7 +1522,7 @@ aliases: Science Resources, Mineral Resources, Energy Resources
 
 
 ----------
-### <a id="ee30" href="#F">↑ Fighters Guild</a>
+### <a id="ee30" href="#f">↑ Fighters Guild</a>
 
 **🪪 Group**
 
@@ -1539,7 +1538,7 @@ keywords: battle, dino, sw
 
 
 ----------
-### <a id="ff60" href="#F">↑ 🏢 Fighters Guild, CI Branch</a>
+### <a id="ff60" href="#f">↑ 🏢 Fighters Guild, CI Branch</a>
 
 `🪧 Place` in [Virtuara Outpost](#6e00)
 
@@ -1552,7 +1551,7 @@ aliases:
 
 
 ----------
-### <a id="5570" href="#F">↑ First Capital</a>
+### <a id="5570" href="#f">↑ First Capital</a>
 
 `📑 Term`
 
@@ -1567,7 +1566,7 @@ aliases:
 
 
 ----------
-### <a id="9ff0" href="#F">↑ Fortifications</a>
+### <a id="9ff0" href="#f">↑ Fortifications</a>
 
 **📑 Term**
 
@@ -1579,7 +1578,7 @@ keywords: battle, unit
 
 
 ----------
-### <a id="b710" href="#G">↑ Gift of Balance</a>
+### <a id="b710" href="#g">↑ Gift of Balance</a>
 
 `📑 Term`
 
@@ -1600,7 +1599,7 @@ aliases: Gift of Balance
 
 
 ----------
-### <a id="9340" href="#G">↑ 💿 Gaia Knowledge Database</a>
+### <a id="9340" href="#g">↑ 💿 Gaia Knowledge Database</a>
 
 `🪧 Place` in [Webified Hills](#ada0)
 
@@ -1615,7 +1614,7 @@ aliases:
 
 
 ----------
-### <a id="6ee0" href="#G">↑ 🎮 G.A.M.E. Complex</a>
+### <a id="6ee0" href="#g">↑ 🎮 G.A.M.E. Complex</a>
 
 `🖼️ Landmark` in [PEBKAC Peak](#f6f0)
 
@@ -1636,7 +1635,7 @@ aliases:
 
 
 ----------
-### <a id="6fe0" href="#G">↑ Garrisons</a>
+### <a id="6fe0" href="#g">↑ Garrisons</a>
 
 **📑 Term**
 
@@ -1648,7 +1647,7 @@ keywords: battle, unit
 
 
 ----------
-### <a id="ce70" href="#G">↑ 🏹 Giant Slingshot</a>
+### <a id="ce70" href="#g">↑ 🏹 Giant Slingshot</a>
 
 `🪧 Place` in [Indigo Shore](#7a70)
 
@@ -1663,7 +1662,7 @@ aliases:
 
 
 ----------
-### <a id="7210" href="#G">↑ Gold Mines</a>
+### <a id="7210" href="#g">↑ Gold Mines</a>
 
 `📃 To-do list`
 
@@ -1682,7 +1681,7 @@ aliases:
 
 
 ----------
-### <a id="fd60" href="#G">↑ Great AI</a>
+### <a id="fd60" href="#g">↑ Great AI</a>
 
 `📃 To-do list`
 
@@ -1701,7 +1700,7 @@ aliases: The Algorithms
 
 
 ----------
-### <a id="06a0" href="#G">↑ GreenOtter</a>
+### <a id="06a0" href="#g">↑ GreenOtter</a>
 
 `📃 To-do list`
 
@@ -1720,7 +1719,7 @@ aliases:
 
 
 ----------
-### <a id="7c90" href="#H">↑ Headmaster of the Institute</a>
+### <a id="7c90" href="#h">↑ Headmaster of the Institute</a>
 
 `📑 Term`
 
@@ -1741,7 +1740,7 @@ aliases: Masters of the Council, Headmaster of the Institute
 
 
 ----------
-### <a id="f910" href="#H">↑ hexAgon</a>
+### <a id="f910" href="#h">↑ hexAgon</a>
 
 `🧙‍♂️ Character`
 
@@ -1767,7 +1766,7 @@ aliases:
 
 
 ----------
-### <a id="ef90" href="#H">↑ 🎌️ Hill of 1000 flags</a>
+### <a id="ef90" href="#h">↑ 🎌️ Hill of 1000 flags</a>
 
 `🖼️ Landmark` in [Paradox Pass](#cb50)
 
@@ -1788,7 +1787,7 @@ aliases:
 
 
 ----------
-### <a id="1b90" href="#H">↑ 🛖 House of Craftsmanship</a>
+### <a id="1b90" href="#h">↑ 🛖 House of Craftsmanship</a>
 
 `🖼️ Landmark` in [Synaxos Fields](#7cc0).
 
@@ -1807,7 +1806,7 @@ aliases:
 
 
 ----------
-### <a id="e630" href="#I">↑ Illusion Cliffs</a>
+### <a id="e630" href="#i">↑ Illusion Cliffs</a>
 
 `🖼️ Landmark`
 
@@ -1829,7 +1828,7 @@ aliases:
 
 
 ----------
-### <a id="0740" href="#I">↑ Imperial Swamp</a>
+### <a id="0740" href="#i">↑ Imperial Swamp</a>
 
 `📃 To-do list`
 
@@ -1848,7 +1847,7 @@ aliases:
 
 
 ----------
-### <a id="7a70" href="#I">↑ Indigo Shore</a>
+### <a id="7a70" href="#i">↑ Indigo Shore</a>
 
 `📃 To-do list`
 
@@ -1867,7 +1866,7 @@ aliases:
 
 
 ----------
-### <a id="22a0" href="#I">↑ Isynthillicus Cyrciniae</a>
+### <a id="22a0" href="#i">↑ Isynthillicus Cyrciniae</a>
 
 `📜 Item`
 
@@ -1888,7 +1887,7 @@ aliases: Isynthillicus Cyrciniae
 
 
 ----------
-### <a id="09e0" href="#J">↑ 🎊 Jackbox Party Central</a>
+### <a id="09e0" href="#j">↑ 🎊 Jackbox Party Central</a>
 
 **🪧 Place** in [Oblivion Mire](#8840)
 
@@ -1905,7 +1904,7 @@ aliases:
 
 
 ----------
-### <a id="3760" href="#J">↑ 🦖 Jurassic Park</a>
+### <a id="3760" href="#j">↑ 🦖 Jurassic Park</a>
 
 `🪧 Place` in [Peace Death Gorge](#db50)
 
@@ -1920,7 +1919,7 @@ aliases:
 
 
 ----------
-### <a id="2dc0" href="#K">↑ 🕸️ K2 Fibers</a>
+### <a id="2dc0" href="#k">↑ 🕸️ K2 Fibers</a>
 
 `🪧 Place` in [Webified Hills](#ada0)
 
@@ -1935,7 +1934,7 @@ aliases:
 
 
 ----------
-### <a id="bca0" href="#L">↑ Lake Corsair</a>
+### <a id="bca0" href="#l">↑ Lake Corsair</a>
 
 `🖼️ Landmark`
 
@@ -1948,7 +1947,7 @@ aliases:
 
 
 ----------
-### <a id="5220" href="#L">↑ 🗼 Lime Tower</a>
+### <a id="5220" href="#l">↑ 🗼 Lime Tower</a>
 
 `🪧 Place` in [Synaxos Fields](#7cc0)
 
@@ -1963,7 +1962,7 @@ aliases:
 
 
 ----------
-### <a id="5850" href="#L">↑ Loki</a>
+### <a id="5850" href="#l">↑ Loki</a>
 
 `🧙‍♂️ Character`
 
@@ -1982,7 +1981,7 @@ aliases:
 
 
 ----------
-### <a id="7c90" href="#M">↑ Masters of the Council</a>
+### <a id="7c90" href="#m">↑ Masters of the Council</a>
 
 `📑 Term`
 
@@ -2003,7 +2002,7 @@ aliases: Masters of the Council, Headmaster of the Institute
 
 
 ----------
-### <a id="ea90" href="#M">↑ MindTech Institute Fortress (inner walls)</a>
+### <a id="ea90" href="#m">↑ MindTech Institute Fortress (inner walls)</a>
 
 `🪧 Place`
 
@@ -2031,7 +2030,7 @@ aliases: Towers of MindTech Institute
 
 
 ----------
-### <a id="8a90" href="#M">↑ MindTech Institute Fortress (outer walls)</a>
+### <a id="8a90" href="#m">↑ MindTech Institute Fortress (outer walls)</a>
 
 `🪧 Place`
 
@@ -2058,7 +2057,7 @@ aliases:
 
 
 ----------
-### <a id="e850" href="#M">↑ Map Legend</a>
+### <a id="e850" href="#m">↑ Map Legend</a>
 
 Icons used on the timeline maps: 
 - `🏰` [Fortifications](#9ff0)
@@ -2076,7 +2075,7 @@ aliases:
 
 
 ----------
-### <a id="b751" href="#M">↑ 🪆 Matryoshka Idoll</a>
+### <a id="b751" href="#m">↑ 🪆 Matryoshka Idoll</a>
 
 `🪧 Place` in [Singularity Valley](#dd30)
 
@@ -2089,7 +2088,7 @@ aliases:
 
 
 ----------
-### <a id="c860" href="#M">↑ Meadowridge</a>
+### <a id="c860" href="#m">↑ Meadowridge</a>
 
 `🪧 Place`
 
@@ -2102,7 +2101,7 @@ aliases:
 
 
 ----------
-### <a id="be90" href="#M">↑ 🏯 Military Academy</a>
+### <a id="be90" href="#m">↑ 🏯 Military Academy</a>
 
 `🪧 Place` in [Xyrclaox Watch](#b9a0)
 
@@ -2121,7 +2120,7 @@ aliases:
 
 
 ----------
-### <a id="34f0" href="#M">↑ Mimb</a>
+### <a id="34f0" href="#m">↑ Mimb</a>
 
 `📃 To-do list`
 
@@ -2140,7 +2139,7 @@ aliases:
 
 
 ----------
-### <a id="1670" href="#M">↑ Mimbot, the Lore Keeper</a>
+### <a id="1670" href="#m">↑ Mimbot, the Lore Keeper</a>
 
 **🧙‍♂️ Character**
 
@@ -2157,7 +2156,7 @@ aliases:
 
 
 ----------
-### <a id="a4e0" href="#M">↑ Mimps Virus</a>
+### <a id="a4e0" href="#m">↑ Mimps Virus</a>
 
 **📑 Term**
 
@@ -2173,7 +2172,7 @@ keywords: virus, yes, mimb, bumps
 
 
 ----------
-### <a id="7c50" href="#M">↑ Minds</a>
+### <a id="7c50" href="#m">↑ Minds</a>
 
 **📑 Term**
 
@@ -2186,7 +2185,7 @@ aliases:
 
 
 ----------
-### <a id="6550" href="#M">↑ MT</a>
+### <a id="6550" href="#m">↑ MT</a>
 
 **🪪 Faction**
 
@@ -2204,7 +2203,7 @@ aliases: MT
 
 
 ----------
-### <a id="6550" href="#M">↑ MindTech Institute</a>
+### <a id="6550" href="#m">↑ MindTech Institute</a>
 
 **🪪 Faction**
 
@@ -2222,7 +2221,7 @@ aliases: MT
 
 
 ----------
-### <a id="9f60" href="#M">↑ 🔬 Modern CR Research Facility</a>
+### <a id="9f60" href="#m">↑ 🔬 Modern CR Research Facility</a>
 
 **🪧 Place** in [Brickland Fortress](#f6d0)
 
@@ -2237,7 +2236,7 @@ aliases:
 
 
 ----------
-### <a id="18c0" href="#M">↑ 🏦 Money Factory</a>
+### <a id="18c0" href="#m">↑ 🏦 Money Factory</a>
 
 `🪧 Place` in [Imperial Swamp](#0740)
 
@@ -2252,7 +2251,7 @@ aliases:
 
 
 ----------
-### <a id="74a0" href="#M">↑ 🎲 Monument to Chaos</a>
+### <a id="74a0" href="#m">↑ 🎲 Monument to Chaos</a>
 
 `🪧 Place` in [Chaotic Plains](#8a30)
 
@@ -2267,7 +2266,7 @@ aliases:
 
 
 ----------
-### <a id="7490" href="#M">↑ Mt. Pickles</a>
+### <a id="7490" href="#m">↑ Mt. Pickles</a>
 
 `📃 To-do list`
 
@@ -2286,7 +2285,7 @@ aliases:
 
 
 ----------
-### <a id="cbe0" href="#M">↑ MindTech Triquetra</a>
+### <a id="cbe0" href="#m">↑ MindTech Triquetra</a>
 
 `📑 Term`
 
@@ -2322,7 +2321,7 @@ aliases: MindTech Triquetra, MindTech Flags, MindTech Banners
 
 
 ----------
-### <a id="cbe0" href="#M">↑ MindTech Flags</a>
+### <a id="cbe0" href="#m">↑ MindTech Flags</a>
 
 `📑 Term`
 
@@ -2358,7 +2357,7 @@ aliases: MindTech Triquetra, MindTech Flags, MindTech Banners
 
 
 ----------
-### <a id="cbe0" href="#M">↑ MindTech Banners</a>
+### <a id="cbe0" href="#m">↑ MindTech Banners</a>
 
 `📑 Term`
 
@@ -2394,7 +2393,7 @@ aliases: MindTech Triquetra, MindTech Flags, MindTech Banners
 
 
 ----------
-### <a id="cbe0" href="#M">↑ MindTech Symbology</a>
+### <a id="cbe0" href="#m">↑ MindTech Symbology</a>
 
 `📑 Term`
 
@@ -2430,7 +2429,7 @@ aliases: MindTech Triquetra, MindTech Flags, MindTech Banners
 
 
 ----------
-### <a id="50e0" href="#M">↑ 💾 Museum of Archaic Technology</a>
+### <a id="50e0" href="#m">↑ 💾 Museum of Archaic Technology</a>
 
 `🪧 Place` in [Singularity Valley](#dd30)
 
@@ -2443,7 +2442,7 @@ aliases:
 
 
 ----------
-### <a id="6c20" href="#M">↑ 🏛️ Museum of the Old Capital</a>
+### <a id="6c20" href="#m">↑ 🏛️ Museum of the Old Capital</a>
 
 `🖼️ Landmark`
 
@@ -2460,13 +2459,13 @@ aliases:
 
 
 ----------
-### <a id="6d30" href="#M">↑ --- Mimbot's Index ---</a>
+### <a id="6d30" href="#m">↑ --- Mimbot's Index ---</a>
 
 You can access the full alphabetized list of all Mimbot's pages [via this link](#d680).
 
 
 ----------
-### <a id="74f0" href="#M">↑ Mineral Resources</a>
+### <a id="74f0" href="#m">↑ Mineral Resources</a>
 
 **📑 Term**
 
@@ -2487,7 +2486,7 @@ aliases: Science Resources, Mineral Resources, Energy Resources
 
 
 ----------
-### <a id="b870" href="#N">↑ Neuropolis</a>
+### <a id="b870" href="#n">↑ Neuropolis</a>
 
 `🖼️ Landmark`
 
@@ -2510,7 +2509,7 @@ aliases:
 
 
 ----------
-### <a id="3820" href="#N">↑ 📰 News HQ</a>
+### <a id="3820" href="#n">↑ 📰 News HQ</a>
 
 **🪧 Place** in [Admincity](#1a00)
 
@@ -2525,7 +2524,7 @@ aliases:
 
 
 ----------
-### <a id="8840" href="#O">↑ Oblivion Mire</a>
+### <a id="8840" href="#o">↑ Oblivion Mire</a>
 
 `🖼️ Landmark`
 
@@ -2545,7 +2544,7 @@ aliases:
 
 
 ----------
-### <a id="e810" href="#O">↑ Ogrodnik</a>
+### <a id="e810" href="#o">↑ Ogrodnik</a>
 
 `📃 To-do list`
 
@@ -2564,7 +2563,7 @@ aliases:
 
 
 ----------
-### <a id="c080" href="#O">↑ Ozimud</a>
+### <a id="c080" href="#o">↑ Ozimud</a>
 
 **🧙‍♂️ Character**
 
@@ -2579,7 +2578,7 @@ aliases:
 
 
 ----------
-### <a id="cb50" href="#P">↑ Paradox PAss</a>
+### <a id="cb50" href="#p">↑ Paradox PAss</a>
 
 `🖼️ Landmark`
 
@@ -2599,7 +2598,7 @@ aliases:
 
 
 ----------
-### <a id="3910" href="#P">↑ 🎡 Particle Collitionist</a>
+### <a id="3910" href="#p">↑ 🎡 Particle Collitionist</a>
 
 **🪧 Place** in [Timeless Desert](#0130)
 
@@ -2616,7 +2615,7 @@ aliases:
 
 
 ----------
-### <a id="db50" href="#P">↑ Peace Death Gorge</a>
+### <a id="db50" href="#p">↑ Peace Death Gorge</a>
 
 `📃 To-do list`
 
@@ -2635,7 +2634,7 @@ aliases:
 
 
 ----------
-### <a id="f6f0" href="#P">↑ PEBKAC Peak</a>
+### <a id="f6f0" href="#p">↑ PEBKAC Peak</a>
 
 `📃 To-do list`
 
@@ -2654,7 +2653,7 @@ aliases:
 
 
 ----------
-### <a id="e470" href="#P">↑ 🌿 Photosynthetic Power Station</a>
+### <a id="e470" href="#p">↑ 🌿 Photosynthetic Power Station</a>
 
 **🪧 Place** in [A'as Forest](#dd50)
 
@@ -2671,7 +2670,7 @@ aliases:
 
 
 ----------
-### <a id="ae70" href="#P">↑ ⛽️ Pickled Ooblek Deli</a>
+### <a id="ae70" href="#p">↑ ⛽️ Pickled Ooblek Deli</a>
 
 `🪧 Place` in [Mt. Pickles](#7490)
 
@@ -2686,7 +2685,7 @@ aliases:
 
 
 ----------
-### <a id="a810" href="#P">↑ 🏴‍☠️ Pirate Harbor</a>
+### <a id="a810" href="#p">↑ 🏴‍☠️ Pirate Harbor</a>
 
 `🪧 Place` in [Purple Deeps](#3911)
 
@@ -2701,7 +2700,7 @@ aliases:
 
 
 ----------
-### <a id="b910" href="#P">↑ 🍕 PIZZA</a>
+### <a id="b910" href="#p">↑ 🍕 PIZZA</a>
 
 **🪧 Place** in [Brickland Fortress](#f6d0)
 
@@ -2716,7 +2715,7 @@ aliases:
 
 
 ----------
-### <a id="fc70" href="#P">↑ Pierre's Porous Pickle Porch</a>
+### <a id="fc70" href="#p">↑ Pierre's Porous Pickle Porch</a>
 
 **📑 Term**
 
@@ -2731,7 +2730,7 @@ aliases:
 
 
 ----------
-### <a id="9850" href="#P">↑ 🚷 Prefrenial Prefect (Prison)</a>
+### <a id="9850" href="#p">↑ 🚷 Prefrenial Prefect (Prison)</a>
 
 `🪧 Place` in [Xyrclaox Watch](#b9a0)
 
@@ -2748,7 +2747,7 @@ aliases:
 
 
 ----------
-### <a id="e4e0" href="#P">↑ 🪓 Prehistoric Axe</a>
+### <a id="e4e0" href="#p">↑ 🪓 Prehistoric Axe</a>
 
 `📜 Item`
 
@@ -2769,7 +2768,7 @@ aliases:
 
 
 ----------
-### <a id="7a60" href="#P">↑ PS</a>
+### <a id="7a60" href="#p">↑ PS</a>
 
 **🪪 Faction**
 
@@ -2787,7 +2786,7 @@ aliases: PS, Tree Huggers
 
 
 ----------
-### <a id="7a60" href="#P">↑ Protectores Silva</a>
+### <a id="7a60" href="#p">↑ Protectores Silva</a>
 
 **🪪 Faction**
 
@@ -2805,7 +2804,7 @@ aliases: PS, Tree Huggers
 
 
 ----------
-### <a id="e4f0" href="#P">↑ PTSD</a>
+### <a id="e4f0" href="#p">↑ PTSD</a>
 
 **📑 Term**
 
@@ -2822,7 +2821,7 @@ aliases:
 
 
 ----------
-### <a id="aaf0" href="#P">↑ 💰 PTSD Office</a>
+### <a id="aaf0" href="#p">↑ 💰 PTSD Office</a>
 
 **🪧 Place** in [Cerene Vale](#3850)
 
@@ -2835,7 +2834,7 @@ aliases:
 
 
 ----------
-### <a id="3911" href="#P">↑ Purple Deeps</a>
+### <a id="3911" href="#p">↑ Purple Deeps</a>
 
 `🖼️ Landmark`
 
@@ -2855,7 +2854,7 @@ aliases:
 
 
 ----------
-### <a id="f880" href="#Q">↑ 🛰️ Quantum Nexus Laboratory</a>
+### <a id="f880" href="#q">↑ 🛰️ Quantum Nexus Laboratory</a>
 
 `🪧 Place` in [Illusion Cliffs](#e630)
 
@@ -2870,7 +2869,7 @@ aliases:
 
 
 ----------
-### <a id="4270" href="#R">↑ Rebels</a>
+### <a id="4270" href="#r">↑ Rebels</a>
 
 **🪪 Group**
 
@@ -2883,7 +2882,7 @@ aliases:
 
 
 ----------
-### <a id="74f0" href="#R">↑ Resources (RES)</a>
+### <a id="74f0" href="#r">↑ Resources (RES)</a>
 
 **📑 Term**
 
@@ -2904,7 +2903,7 @@ aliases: Science Resources, Mineral Resources, Energy Resources
 
 
 ----------
-### <a id="7a61" href="#R">↑ 🏭 Resource Management Facility</a>
+### <a id="7a61" href="#r">↑ 🏭 Resource Management Facility</a>
 
 **🪧 Place** in [Admincity](#1a00)
 
@@ -2919,7 +2918,7 @@ aliases:
 
 
 ----------
-### <a id="9ff1" href="#R">↑ Revalx</a>
+### <a id="9ff1" href="#r">↑ Revalx</a>
 
 `🧙‍♂️ Character`
 
@@ -2937,7 +2936,7 @@ aliases:
 
 
 ----------
-### <a id="9930" href="#R">↑ Relics</a>
+### <a id="9930" href="#r">↑ Relics</a>
 
 **📑 Term**
 
@@ -2957,7 +2956,7 @@ aliases: Weapons, Armor, Relics
 
 
 ----------
-### <a id="74f0" href="#S">↑ Science Resources</a>
+### <a id="74f0" href="#s">↑ Science Resources</a>
 
 **📑 Term**
 
@@ -2978,7 +2977,7 @@ aliases: Science Resources, Mineral Resources, Energy Resources
 
 
 ----------
-### <a id="0090" href="#S">↑ Saboteur</a>
+### <a id="0090" href="#s">↑ Saboteur</a>
 
 **📑 Term**
 
@@ -2990,7 +2989,7 @@ keywords: battle, unit
 
 
 ----------
-### <a id="7e11" href="#S">↑ Sazhra</a>
+### <a id="7e11" href="#s">↑ Sazhra</a>
 
 **🧙‍♂️ Character**
 
@@ -3005,7 +3004,7 @@ aliases:
 
 
 ----------
-### <a id="3ec0" href="#S">↑ Sellswords</a>
+### <a id="3ec0" href="#s">↑ Sellswords</a>
 
 **🪪 Group**
 
@@ -3020,7 +3019,7 @@ aliases:
 
 
 ----------
-### <a id="1780" href="#S">↑ 🍺 Seven Roads Inn</a>
+### <a id="1780" href="#s">↑ 🍺 Seven Roads Inn</a>
 
 `🖼️ Landmark` in [Paradox Pass](#cb50)
 
@@ -3038,7 +3037,7 @@ aliases:
 
 
 ----------
-### <a id="f4e0" href="#S">↑ Shaxx</a>
+### <a id="f4e0" href="#s">↑ Shaxx</a>
 
 `🧙‍♂️ Character`
 
@@ -3053,7 +3052,7 @@ aliases:
 
 
 ----------
-### <a id="3480" href="#S">↑ Silvans</a>
+### <a id="3480" href="#s">↑ Silvans</a>
 
 **📑 Term**
 
@@ -3066,7 +3065,7 @@ aliases:
 
 
 ----------
-### <a id="dd30" href="#S">↑ Singularity Valley</a>
+### <a id="dd30" href="#s">↑ Singularity Valley</a>
 
 `🖼️ Landmark`
 
@@ -3085,7 +3084,7 @@ aliases:
 
 
 ----------
-### <a id="c210" href="#S">↑ 🧜‍♀️ Siren's Lighthouse</a>
+### <a id="c210" href="#s">↑ 🧜‍♀️ Siren's Lighthouse</a>
 
 `🪧 Place` in [Dev Null Marsh](#1070)
 
@@ -3100,7 +3099,7 @@ aliases:
 
 
 ----------
-### <a id="39b0" href="#S">↑ 💡 SmartHome Tech</a>
+### <a id="39b0" href="#s">↑ 💡 SmartHome Tech</a>
 
 `🪧 Place` in [Neuropolis](#b870)
 
@@ -3117,7 +3116,7 @@ aliases:
 
 
 ----------
-### <a id="6760" href="#S">↑ 👤 SMURF</a>
+### <a id="6760" href="#s">↑ 👤 SMURF</a>
 
 **🪧 Place** in [Ares Gardens](#fff0)
 
@@ -3132,7 +3131,7 @@ aliases:
 
 
 ----------
-### <a id="53e0" href="#S">↑ Something Tacensis Rock</a>
+### <a id="53e0" href="#s">↑ Something Tacensis Rock</a>
 
 **🧙‍♂️ Character**
 
@@ -3147,7 +3146,7 @@ aliases:
 
 
 ----------
-### <a id="7850" href="#S">↑ Somnivale</a>
+### <a id="7850" href="#s">↑ Somnivale</a>
 
 `📃 To-do list`
 
@@ -3166,7 +3165,7 @@ aliases:
 
 
 ----------
-### <a id="bda0" href="#S">↑ Southern Sea</a>
+### <a id="bda0" href="#s">↑ Southern Sea</a>
 
 `📃 To-do list`
 
@@ -3184,7 +3183,7 @@ aliases:
 
 
 ----------
-### <a id="6690" href="#S">↑ 🛸 Spaceport</a>
+### <a id="6690" href="#s">↑ 🛸 Spaceport</a>
 
 `🪧 Place` in [Chaotic Plains](#8a30)
 
@@ -3199,7 +3198,7 @@ aliases:
 
 
 ----------
-### <a id="25b0" href="#S">↑ 🗽 Statue of Mimb</a>
+### <a id="25b0" href="#s">↑ 🗽 Statue of Mimb</a>
 
 `🪧 Place` in [Cerene Vale](#3850)
 
@@ -3214,7 +3213,7 @@ aliases:
 
 
 ----------
-### <a id="3d30" href="#S">↑ Stonehavers (family)</a>
+### <a id="3d30" href="#s">↑ Stonehavers (family)</a>
 
 `🪪 Family`
 
@@ -3231,7 +3230,7 @@ aliases:
 
 
 ----------
-### <a id="e390" href="#S">↑ Support</a>
+### <a id="e390" href="#s">↑ Support</a>
 
 **📑 Term**
 
@@ -3244,7 +3243,7 @@ aliases:
 
 
 ----------
-### <a id="7cc0" href="#S">↑ Synaxos Fields</a>
+### <a id="7cc0" href="#s">↑ Synaxos Fields</a>
 
 `🖼️ Landmark`
 
@@ -3269,7 +3268,7 @@ aliases:
 
 
 ----------
-### <a id="7d60" href="#S">↑ Syncrax Road</a>
+### <a id="7d60" href="#s">↑ Syncrax Road</a>
 
 `🪧 Place`
 
@@ -3282,7 +3281,7 @@ aliases:
 
 
 ----------
-### <a id="5480" href="#T">↑ The Arcanum</a>
+### <a id="5480" href="#t">↑ The Arcanum</a>
 
 `📑 Term`
 
@@ -3307,7 +3306,7 @@ aliases:
 
 
 ----------
-### <a id="a610" href="#T">↑ The Great Auditorium</a>
+### <a id="a610" href="#t">↑ The Great Auditorium</a>
 
 `🖼️ Landmark` in [Neuropolis](#b870)
 
@@ -3328,7 +3327,7 @@ aliases: The Great Auditorium
 
 
 ----------
-### <a id="fd60" href="#T">↑ The Algorithms</a>
+### <a id="fd60" href="#t">↑ The Algorithms</a>
 
 `📃 To-do list`
 
@@ -3347,7 +3346,7 @@ aliases: The Algorithms
 
 
 ----------
-### <a id="ea90" href="#T">↑ Towers of MindTech Institute</a>
+### <a id="ea90" href="#t">↑ Towers of MindTech Institute</a>
 
 `🪧 Place`
 
@@ -3375,7 +3374,7 @@ aliases: Towers of MindTech Institute
 
 
 ----------
-### <a id="7a60" href="#T">↑ Tree Huggers</a>
+### <a id="7a60" href="#t">↑ Tree Huggers</a>
 
 **🪪 Faction**
 
@@ -3393,7 +3392,7 @@ aliases: PS, Tree Huggers
 
 
 ----------
-### <a id="f840" href="#T">↑ 🪩 The Sacred Sphere</a>
+### <a id="f840" href="#t">↑ 🪩 The Sacred Sphere</a>
 
 `🪧 Place` in [Indigo Shore](#7a70)
 
@@ -3408,7 +3407,7 @@ aliases:
 
 
 ----------
-### <a id="02e0" href="#T">↑ 🫖 Tea Emporium</a>
+### <a id="02e0" href="#t">↑ 🫖 Tea Emporium</a>
 
 `🪧 Place` in [PEBKAC Peak](#f6f0)
 
@@ -3423,7 +3422,7 @@ aliases:
 
 
 ----------
-### <a id="c980" href="#T">↑ Teleport</a>
+### <a id="c980" href="#t">↑ Teleport</a>
 
 `🪧 Place` in [Purple Deeps](#3911)
 
@@ -3438,7 +3437,7 @@ aliases:
 
 
 ----------
-### <a id="6590" href="#T">↑ Temporal Resources</a>
+### <a id="6590" href="#t">↑ Temporal Resources</a>
 
 **📑 Term**
 
@@ -3453,7 +3452,7 @@ aliases:
 
 
 ----------
-### <a id="0130" href="#T">↑ Timeless Desert</a>
+### <a id="0130" href="#t">↑ Timeless Desert</a>
 
 `🖼️ Landmark`
 
@@ -3472,7 +3471,7 @@ aliases:
 
 
 ----------
-### <a id="22a0" href="#T">↑ Timeless Waystone</a>
+### <a id="22a0" href="#t">↑ Timeless Waystone</a>
 
 `📜 Item`
 
@@ -3493,7 +3492,7 @@ aliases: Isynthillicus Cyrciniae
 
 
 ----------
-### <a id="1e30" href="#T">↑ Timeline</a>
+### <a id="1e30" href="#t">↑ Timeline</a>
 
 `📑 Term`
 
@@ -3508,7 +3507,7 @@ aliases:
 
 
 ----------
-### <a id="a310" href="#T">↑ To do "a Bumps"</a>
+### <a id="a310" href="#t">↑ To do "a Bumps"</a>
 
 `📃 To-do list`
 
@@ -3527,7 +3526,7 @@ aliases:
 
 
 ----------
-### <a id="0680" href="#T">↑ To do "a Loki"</a>
+### <a id="0680" href="#t">↑ To do "a Loki"</a>
 
 `📃 To-do list`
 
@@ -3546,7 +3545,7 @@ aliases:
 
 
 ----------
-### <a id="64c0" href="#T">↑ 🌳 Tree of Many Inquiries</a>
+### <a id="64c0" href="#t">↑ 🌳 Tree of Many Inquiries</a>
 
 **🪧 Place** in [Cybertron Jungle](#b9b0)
 
@@ -3565,7 +3564,7 @@ aliases:
 
 
 ----------
-### <a id="1fa0" href="#U">↑ 🌺 Underground Botanical Garden</a>
+### <a id="1fa0" href="#u">↑ 🌺 Underground Botanical Garden</a>
 
 **🪧 Place** in [A'as Forest](#dd50)
 
@@ -3582,7 +3581,7 @@ aliases:
 
 
 ----------
-### <a id="e851" href="#U">↑ ⚙️ Underwater Turbine Power Plant</a>
+### <a id="e851" href="#u">↑ ⚙️ Underwater Turbine Power Plant</a>
 
 `🪧 Place` in [Virtuara Outpost](#6e00)
 
@@ -3597,7 +3596,7 @@ aliases:
 
 
 ----------
-### <a id="6ad0" href="#U">↑ 🦄 UniCorn™️ Farmlands</a>
+### <a id="6ad0" href="#u">↑ 🦄 UniCorn™️ Farmlands</a>
 
 `🖼️ Landmark`
 
@@ -3616,7 +3615,7 @@ aliases:
 
 
 ----------
-### <a id="8de0" href="#V">↑ 🥡 Valhalla Bar</a>
+### <a id="8de0" href="#v">↑ 🥡 Valhalla Bar</a>
 
 `🪧 Place` in [Oblivion Mire](#8840)
 
@@ -3629,7 +3628,7 @@ aliases:
 
 
 ----------
-### <a id="3660" href="#V">↑ Valkyrie Spec Ops</a>
+### <a id="3660" href="#v">↑ Valkyrie Spec Ops</a>
 
 `📑 Term`
 
@@ -3644,7 +3643,7 @@ aliases:
 
 
 ----------
-### <a id="6e00" href="#V">↑ Virtuara Outpost</a>
+### <a id="6e00" href="#v">↑ Virtuara Outpost</a>
 
 `📃 To-do list`
 
@@ -3663,7 +3662,7 @@ aliases:
 
 
 ----------
-### <a id="3e80" href="#V">↑ 🦈 Void Shark Hatchery</a>
+### <a id="3e80" href="#v">↑ 🦈 Void Shark Hatchery</a>
 
 `🪧 Place` in [Dev Null Marsh](#1070)
 
@@ -3678,7 +3677,7 @@ aliases:
 
 
 ----------
-### <a id="16d0" href="#V">↑ ♨️ Volcanic Jacuzzi</a>
+### <a id="16d0" href="#v">↑ ♨️ Volcanic Jacuzzi</a>
 
 `🪧 Place` in [Peace Death Gorge](#db50)
 
@@ -3693,7 +3692,7 @@ aliases:
 
 
 ----------
-### <a id="0780" href="#V">↑ 🌋 Volcano Influeno</a>
+### <a id="0780" href="#v">↑ 🌋 Volcano Influeno</a>
 
 `🪧 Place` in [Peace Death Gorge](#db50)
 
@@ -3708,7 +3707,7 @@ aliases:
 
 
 ----------
-### <a id="f6d0" href="#W">↑ Western Brickland</a>
+### <a id="f6d0" href="#w">↑ Western Brickland</a>
 
 `🖼️ Landmark`
 
@@ -3742,7 +3741,7 @@ aliases: Western Brickland, Eastern Brickland
 
 
 ----------
-### <a id="9930" href="#W">↑ Weapons</a>
+### <a id="9930" href="#w">↑ Weapons</a>
 
 **📑 Term**
 
@@ -3762,7 +3761,7 @@ aliases: Weapons, Armor, Relics
 
 
 ----------
-### <a id="9930" href="#W">↑ WAR items</a>
+### <a id="9930" href="#w">↑ WAR items</a>
 
 **📑 Term**
 
@@ -3782,7 +3781,7 @@ aliases: Weapons, Armor, Relics
 
 
 ----------
-### <a id="60b0" href="#W">↑ Watchtower Ruins</a>
+### <a id="60b0" href="#w">↑ Watchtower Ruins</a>
 
 `🪧 Place` in [Xyrclaox Watch](#b9a0)
 
@@ -3801,7 +3800,7 @@ aliases:
 
 
 ----------
-### <a id="a1d0" href="#W">↑ 🎏 Weather Tower Relay</a>
+### <a id="a1d0" href="#w">↑ 🎏 Weather Tower Relay</a>
 
 `🪧 Place` in [Synaxos Fields](#7cc0)
 
@@ -3816,7 +3815,7 @@ aliases:
 
 
 ----------
-### <a id="ada0" href="#W">↑ Webified Hills</a>
+### <a id="ada0" href="#w">↑ Webified Hills</a>
 
 `📃 To-do list`
 
@@ -3835,7 +3834,7 @@ aliases:
 
 
 ----------
-### <a id="ca80" href="#W">↑ 🐅 Wildlife Preservation</a>
+### <a id="ca80" href="#w">↑ 🐅 Wildlife Preservation</a>
 
 `🪧 Place` in [Ares Gardens](#fff0)
 
@@ -3850,7 +3849,7 @@ aliases:
 
 
 ----------
-### <a id="0fd0" href="#W">↑ 🌱 World Seed Pendant</a>
+### <a id="0fd0" href="#w">↑ 🌱 World Seed Pendant</a>
 
 `📜 Item`
 
@@ -3865,7 +3864,7 @@ aliases:
 
 
 ----------
-### <a id="4d00" href="#X">↑ 🎨 Xiavente's Meme Workshop</a>
+### <a id="4d00" href="#x">↑ 🎨 Xiavente's Meme Workshop</a>
 
 `🪧 Place` in [Paradox Pass](#cb50)
 
@@ -3880,7 +3879,7 @@ aliases:
 
 
 ----------
-### <a id="40a0" href="#X">↑ Xiavente</a>
+### <a id="40a0" href="#x">↑ Xiavente</a>
 
 `📃 To-do list`
 
@@ -3899,7 +3898,7 @@ aliases:
 
 
 ----------
-### <a id="b9a0" href="#X">↑ Xyrclaox Watch</a>
+### <a id="b9a0" href="#x">↑ Xyrclaox Watch</a>
 
 `🖼️ Landmark`
 
@@ -3918,7 +3917,7 @@ aliases:
 
 
 ----------
-### <a id="c480" href="#Y">↑ You</a>
+### <a id="c480" href="#y">↑ You</a>
 
 **🧙‍♂️ Character**
 
@@ -3933,7 +3932,7 @@ aliases:
 
 
 ----------
-### <a id="2e80" href="#Z">↑ 🦁 Zeithalt Pet Zoo and Animal Shelter</a>
+### <a id="2e80" href="#z">↑ 🦁 Zeithalt Pet Zoo and Animal Shelter</a>
 
 `🪧 Place` in [Paradox Pass](#cb50)
 
@@ -3948,7 +3947,7 @@ aliases:
 
 
 ----------
-### <a id="fad0" href="#Z">↑ Zeithalt Zeitgeist newspaper</a>
+### <a id="fad0" href="#z">↑ Zeithalt Zeitgeist newspaper</a>
 
 **📑 Term**
 
@@ -3961,7 +3960,7 @@ aliases: Double-Z
 
 
 ----------
-### <a id="e480" href="#Z">↑ 🗼 Zikkurat</a>
+### <a id="e480" href="#z">↑ 🗼 Zikkurat</a>
 
 `🪧 Place` in [Purple Deeps](#3911)
 
@@ -3976,7 +3975,7 @@ aliases:
 
 
 ----------
-### <a id="4d60" href="#Z">↑ 🌟 ZIPP Lines</a>
+### <a id="4d60" href="#z">↑ 🌟 ZIPP Lines</a>
 
 **🪧 Place** in [Chaotic Plains](#8a30)
 
