@@ -1,6 +1,4 @@
-# Index 2
-[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
-----------
+# Index 3
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 ----------
 ### A
@@ -432,10 +430,11 @@
 [🌟 ZIPP Lines](#4d60)
 
 ----------
-
-<a id="#dd50"></a> 
+[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 ----------
- ###  Aas Forest
+
+----------
+ ### <a id="dd50"></a>Aas Forest
 
 `🖼️ Landmark`
 
@@ -458,9 +457,9 @@ hash: bba
 
 ----------
 
-<a id="#1a00"></a> 
+
 ----------
- ###  Admincity
+ ### <a id="1a00"></a>Admincity
 
 `📃 To-do list`
 
@@ -479,9 +478,9 @@ aliases:
 
 ----------
 
-<a id="#32e0"></a> 
+
 ----------
- ###  Age of Battles
+ ### <a id="32e0"></a>Age of Battles
 
 **📅 Time period**
 
@@ -496,9 +495,9 @@ aliases:
 
 ----------
 
-<a id="#0620"></a> 
+
 ----------
- ###  Age of Conquest
+ ### <a id="0620"></a>Age of Conquest
 
 **📅 Time period**
 
@@ -515,9 +514,9 @@ aliases:
 
 ----------
 
-<a id="#b750"></a> 
+
 ----------
- ###  Age of Darkness
+ ### <a id="b750"></a>Age of Darkness
 
 **📅 Time period**
 
@@ -532,9 +531,9 @@ aliases:
 
 ----------
 
-<a id="#0a70"></a> 
+
 ----------
- ###  Airmanon 'Air' Driftwing
+ ### <a id="0a70"></a>Airmanon 'Air' Driftwing
 
 **🧙‍♂️ Character**
 
@@ -549,9 +548,9 @@ aliases:
 
 ----------
 
-<a id="#9a30"></a> 
+
 ----------
- ###  Alexx
+ ### <a id="9a30"></a>Alexx
 
 **🧙‍♂️ Character**
 
@@ -566,13 +565,13 @@ aliases:
 
 ----------
 
-<a id="#8270"></a> 
+
 ----------
- ###  🐙 Altar of Ctulhu
+ ### <a id="8270"></a>🐙 Altar of Ctulhu
 
-`🪧 Place` in [Imperial Swamp](#0740)
+`🪧 Place` in [Imperial Swamp](../refs/imperial_swamp.md)
 
-Build on eon 506 by [Delta Collective](#8bc0)
+Build on eon 506 by [Delta Collective](../refs/delta_collective.md)
 
 Destroyed during the The Fall of Imperial Swamp on eon 596.
 
@@ -585,13 +584,13 @@ aliases:
 
 ----------
 
-<a id="#cea0"></a> 
+
 ----------
- ###  📚 Archives of Subconsciousness
+ ### <a id="cea0"></a>📚 Archives of Subconsciousness
 
-`🪧 Place` in [Illusion Cliffs](#e630)
+`🪧 Place` in [Illusion Cliffs](../refs/illusion_cliffs.md)
 
-Build on eon 520 by [MindTech Institute](#6550)
+Build on eon 520 by [MindTech Institute](../refs/mindtech_institute.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -602,9 +601,9 @@ aliases:
 
 ----------
 
-<a id="#fff0"></a> 
+
 ----------
- ###  Ares Gardens
+ ### <a id="fff0"></a>Ares Gardens
 
 `📃 To-do list`
 
@@ -623,13 +622,13 @@ aliases:
 
 ----------
 
-<a id="#a740"></a> 
+
 ----------
- ###  🛣️ Axonite Road
+ ### <a id="a740"></a>🛣️ Axonite Road
 
-`🪧 Place` in [Paradox Pass](#cb50)
+`🪧 Place` in [Paradox Pass](../refs/paradox_pass.md)
 
-Built on eon 556 by [MindTech Institute](#6550)
+Built on eon 556 by [MindTech Institute](../refs/mindtech_institute.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -640,9 +639,9 @@ aliases:
 
 ----------
 
-<a id="#9930"></a> 
+
 ----------
- ###  Armor
+ ### <a id="9930"></a>Armor
 
 **📑 Term**
 
@@ -662,13 +661,13 @@ aliases: Weapons, Armor, Relics
 
 ----------
 
-<a id="#4450"></a> 
+
 ----------
- ###  ⚗️ Bioengineered Algae Farm
+ ### <a id="4450"></a>⚗️ Bioengineered Algae Farm
 
-`🪧 Place` in [Blue Screen Lagoon](#8f30)
+`🪧 Place` in [Blue Screen Lagoon](../refs/blue_screen_lagoon.md)
 
-Built on eon 497 by [Cybernetics Inc](#80b0)
+Built on eon 497 by [Cybernetics Inc](../refs/cybernetics_inc.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -679,13 +678,13 @@ aliases:
 
 ----------
 
-<a id="#9640"></a> 
+
 ----------
- ###  🎋 Bamboo Grove
+ ### <a id="9640"></a>🎋 Bamboo Grove
 
-`🪧 Place` in [Cybertron Jungle](#b9b0)
+`🪧 Place` in [Cybertron Jungle](../refs/cybertron_jungle.md)
 
-Build on eon 494 by [Protectores Silva](#7a60)
+Build on eon 494 by [Protectores Silva](../refs/protectores_silva.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -696,9 +695,9 @@ aliases:
 
 ----------
 
-<a id="#ee50"></a> 
+
 ----------
- ###  Bank of Zeithalt
+ ### <a id="ee50"></a>Bank of Zeithalt
 
 **🪪 Entity**
 
@@ -714,13 +713,13 @@ keywords: money, gold, economy
 
 ----------
 
-<a id="#3460"></a> 
+
 ----------
- ###  🔱 Beacon for the Sight of Innovation
+ ### <a id="3460"></a>🔱 Beacon for the Sight of Innovation
 
-`🪧 Place` in [Singularity Valley](#dd30)
+`🪧 Place` in [Singularity Valley](../refs/singularity_valley.md)
 
-Built on eon 594 by [MindTech Institute](#6550)
+Built on eon 594 by [MindTech Institute](../refs/mindtech_institute.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -731,17 +730,17 @@ aliases:
 
 ----------
 
-<a id="#2880"></a> 
+
 ----------
- ###  🕯️ Beacon for the Light of Reason
+ ### <a id="2880"></a>🕯️ Beacon for the Light of Reason
 
-`🪧 Place` in [Neuropolis](#b870)
+`🪧 Place` in [Neuropolis](../refs/neuropolis.md)
 
-Built on eon 495 by [MindTech Institute](#6550) - a few eons after the [Oblivious Battle on the Mire](<https://alexeygorovoy.github.io/zeithalt/timeline/#eon-491---the-oblivious-battle-on-the-mire>) that showed the MT planning and foresight department at arguably the lowest point.
+Built on eon 495 by [MindTech Institute](../refs/mindtech_institute.md) - a few eons after the [Oblivious Battle on the Mire](<https://alexeygorovoy.github.io/zeithalt/timeline/#eon-491---the-oblivious-battle-on-the-mire>) that showed the MT planning and foresight department at arguably the lowest point.
 
 This, essentially a lighthouse, served as a wake-up call to the MindTech citizens and simultaneously a reminder of where a clouded mind could lead even the brightest of people.
 
-The beacon is not a dominant structure of the [Neuropolis](#b870) skyline during the day, but due to the clever positioning on the highest point, at night it can be seen from virtually anywhere in the capital.
+The beacon is not a dominant structure of the [Neuropolis](../refs/neuropolis.md) skyline during the day, but due to the clever positioning on the highest point, at night it can be seen from virtually anywhere in the capital.
 
 <!---
 keywords:  neuropolis, lighthouse
@@ -750,9 +749,9 @@ aliases:
 
 ----------
 
-<a id="#8f30"></a> 
+
 ----------
- ###  Blue Screen Lagoon
+ ### <a id="8f30"></a>Blue Screen Lagoon
 
 `📃 To-do list`
 
@@ -771,15 +770,15 @@ aliases:
 
 ----------
 
-<a id="#b710"></a> 
+
 ----------
- ###  Book of Balance
+ ### <a id="b710"></a>Book of Balance
 
 `📑 Term`
 
-**Book of Balance** is a traditional book for the [MindTech Institute](#6550), which, however, does not have a direct connection to the Institute and presumably was written long before the Institute was even founded.
+**Book of Balance** is a traditional book for the [MindTech Institute](../refs/mindtech_institute.md), which, however, does not have a direct connection to the Institute and presumably was written long before the Institute was even founded.
 
-This is one of the few known books originating from the [Age of Darkness](#b750), the author (or likely multiple authors) of the book are unknown.
+This is one of the few known books originating from the [Age of Darkness](../refs/age_of_darkness.md), the author (or likely multiple authors) of the book are unknown.
 
 The Book of Balance teaches readers the topics of mindfulness and meditation, the importance of emotional awareness and self-control, and is generally directed towards improving one's cognitive abilities and decision-making skills.
 
@@ -794,13 +793,13 @@ aliases: Gift of Balance
 
 ----------
 
-<a id="#6a20"></a> 
+
 ----------
- ###  🍺 Brewery
+ ### <a id="6a20"></a>🍺 Brewery
 
-`🪧 Place` in [Purple Deeps](#3911)
+`🪧 Place` in [Purple Deeps](../refs/purple_deeps.md)
 
-Built on eon 576 by [Delta Collective](#8bc0)
+Built on eon 576 by [Delta Collective](../refs/delta_collective.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -811,17 +810,17 @@ aliases:
 
 ----------
 
-<a id="#f6d0"></a> 
+
 ----------
- ###  Brickland Fortress
+ ### <a id="f6d0"></a>Brickland Fortress
 
 `🖼️ Landmark`
 
 Brickland Fortress is a harsh, mostly mountainous region acting as a buffer between the lands of the east and west.
 
-It features huge mountain ranges that start on the south-easternmost border with the [Chaotic Plains](#8a30), extend into the middle part of the region, and then slowly bend in a U-shape toward [Mt. Pickles](#7490) as they divide the land into two parts: Eastern and Western Brickland.
+It features huge mountain ranges that start on the south-easternmost border with the [Chaotic Plains](../refs/chaotic_plains.md), extend into the middle part of the region, and then slowly bend in a U-shape toward [Mt. Pickles](../refs/mt_pickles.md) as they divide the land into two parts: Eastern and Western Brickland.
 
-The mountain ranges, which are named as [Brickspire Mountains](#50d0), house small amounts of gold and iron mines. However they also house the main economic source of the entire region - its numerous stone quarries.
+The mountain ranges, which are named as [Brickspire Mountains](../refs/brickspire_mountains.md), house small amounts of gold and iron mines. However they also house the main economic source of the entire region - its numerous stone quarries.
 
 The high quality stones are mined from quarries used both locally, as well as exported into different regions to supply a factions' demand for building materials.
 
@@ -829,15 +828,15 @@ There are numerous small fortifications scattered all around the Brickspire Moun
 
 However, the main force that defends the entire region and acts as a one giant gate between the Western and Eastern parts is the Brickland Fortress itself. It is located in the tallest mountain of the entire region, has an enormous size and equally gorgeous appearance.
 
-Although nowadays this fortress gives the name to the whole region, it is believed that during the [Age of Darkness](#b750) nomadic people had a different name for their home. Sadly that name is now forgotten and lost in time.
+Although nowadays this fortress gives the name to the whole region, it is believed that during the [Age of Darkness](../refs/age_of_darkness.md) nomadic people had a different name for their home. Sadly that name is now forgotten and lost in time.
 
 Western Brickland is a smaller part of the region. 
 
 It consists of mostly hills and small mountains with the exception of small flat area shaped like a triangle connecting to the vast expanses of Chaotic Plains. While not many people reside here compared to its eastern counterpart, there are still a few small villages scattered around the area.
 
-Eastern Brickland, in addition to being a larger part, has much more life and greenery. The number of mountains and the overall height of the region starts decreasing as it gets closer to Oblivion Mire and Cerene Vale. The mountains and hills are eventually replaced by a number of small forests along the borders with Cerene Vale and the [Southern Sea](#bda0).
+Eastern Brickland, in addition to being a larger part, has much more life and greenery. The number of mountains and the overall height of the region starts decreasing as it gets closer to Oblivion Mire and Cerene Vale. The mountains and hills are eventually replaced by a number of small forests along the borders with Cerene Vale and the [Southern Sea](../refs/southern_sea.md).
 
-The majority of Brickland Fortress's population lives in the Eastern Part - in its villages, but mainly in [Meadowridge](#c860) - the largest town of the entire region.
+The majority of Brickland Fortress's population lives in the Eastern Part - in its villages, but mainly in [Meadowridge](../refs/meadowridge.md) - the largest town of the entire region.
 
 <!---
 keywords: ci, dc, landmark
@@ -847,13 +846,13 @@ aliases: Western Brickland, Eastern Brickland
 
 ----------
 
-<a id="#50d0"></a> 
+
 ----------
- ###  Brickspire Mountains
+ ### <a id="50d0"></a>Brickspire Mountains
 
 `🪧 Landmark`
 
-A mountain range that is located in [Brickland Fortress](#f6d0) region and divides it into two unequal parts - Western and Eastern Brickland.
+A mountain range that is located in [Brickland Fortress](../refs/brickland_fortress.md) region and divides it into two unequal parts - Western and Eastern Brickland.
 
 <!---
 keywords: brickland
@@ -862,9 +861,9 @@ aliases:
 
 ----------
 
-<a id="#8880"></a> 
+
 ----------
- ###  Bumpus Mackamarus Arbum
+ ### <a id="8880"></a>Bumpus Mackamarus Arbum
 
 **🧙‍♂️ Character**
 
@@ -879,19 +878,19 @@ aliases:
 
 ----------
 
-<a id="#32c0"></a> 
+
 ----------
- ###  🌵 Cactus Juice Factory
+ ### <a id="32c0"></a>🌵 Cactus Juice Factory
 
 `🖼️ Landmark`
 
 Started production on eon 761.
 
-It is a life-long project and the place of eventual retirement of  _MCCACTUSSON_ esteemed member of the [Council of Minds](#7c90).
+It is a life-long project and the place of eventual retirement of  _MCCACTUSSON_ esteemed member of the [Council of Minds](../refs/council_of_minds.md).
 
-Despite the climate of Synaxos Fields not being well-fitted to the flora imported from the [Timeless Desert](#0130), the ingenius climate-altering contraptions designed and built by _MCCACTUSSON_ allowed for a striving business.
+Despite the climate of Synaxos Fields not being well-fitted to the flora imported from the [Timeless Desert](../refs/timeless_desert.md), the ingenius climate-altering contraptions designed and built by _MCCACTUSSON_ allowed for a striving business.
 
-The factory provides a steady supply of cactus-related produce to the [Neuropolis](#b870) and nearby lands, eliminating the dangers and uncertainty that arise when such products are delivered from the Desert itself.
+The factory provides a steady supply of cactus-related produce to the [Neuropolis](../refs/neuropolis.md) and nearby lands, eliminating the dangers and uncertainty that arise when such products are delivered from the Desert itself.
 
 <!---
 keywords:  mccactusson, synaxos fields
@@ -900,19 +899,19 @@ aliases:
 
 ----------
 
-<a id="#0330"></a> 
+
 ----------
- ###  🏢 Center for Anomaly Control
+ ### <a id="0330"></a>🏢 Center for Anomaly Control
 
-`🪧 Place` in [Neuropolis](#b870)
+`🪧 Place` in [Neuropolis](../refs/neuropolis.md)
 
-Center for Anomaly Control (CAC) was built on eon 511 by [MindTech Institute](#6550) under supervision of [Xiavente](#40a0), shortly after the [Disaster of Synaxos Fields](../timeline/eon0508.md).
+Center for Anomaly Control (CAC) was built on eon 511 by [MindTech Institute](../refs/mindtech_institute.md) under supervision of [Xiavente](../refs/xiavente.md), shortly after the [Disaster of Synaxos Fields](../timeline/eon0508.md).
 
-With the access to the lands of [Synaxos](#7cc0) being extremely dangerous, the Center had to be constructed as close to it as possible, while maintaining the direct connection to [Neuropolis](#b870) for better supply lines in the emergency situation.
+With the access to the lands of [Synaxos](../refs/synaxos_fields.md) being extremely dangerous, the Center had to be constructed as close to it as possible, while maintaining the direct connection to [Neuropolis](../refs/neuropolis.md) for better supply lines in the emergency situation.
 
-The Center for Anomaly Control served as a hub of operations during the [CR Restoration Research](#2390) and the _Synaxos Restoration Project_ soon after.
+The Center for Anomaly Control served as a hub of operations during the [CR Restoration Research](../refs/cr_restoration_project.md) and the _Synaxos Restoration Project_ soon after.
 
-However, CAC did not escape its fair share of controversy, as the first weapon-grade [CR Artifacts](#a1a0) are believed to have been developed and tested on its grounds.
+However, CAC did not escape its fair share of controversy, as the first weapon-grade [CR Artifacts](../refs/cr_artefacts.md) are believed to have been developed and tested on its grounds.
 
 Later, the resources of the Center were used in Restoration Projects in other lands, including the ones held by other factions and to this day the CAC remains a crucial point of CR Research.
 
@@ -923,9 +922,9 @@ aliases:
 
 ----------
 
-<a id="#3850"></a> 
+
 ----------
- ###  Cerene Vale
+ ### <a id="3850"></a>Cerene Vale
 
 `🖼️ Landmark`
 
@@ -944,9 +943,9 @@ aliases:
 
 ----------
 
-<a id="#8a30"></a> 
+
 ----------
- ###  Chaotic Plains
+ ### <a id="8a30"></a>Chaotic Plains
 
 `📃 To-do list`
 
@@ -965,9 +964,9 @@ aliases:
 
 ----------
 
-<a id="#e320"></a> 
+
 ----------
- ###  Chronoglass
+ ### <a id="e320"></a>Chronoglass
 
 **📑 Term**
 
@@ -987,13 +986,13 @@ aliases:
 
 ----------
 
-<a id="#29a0"></a> 
+
 ----------
- ###  ChronoGlass™️
+ ### <a id="29a0"></a>ChronoGlass™️
 
 **📑 Term**
 
-A commercial product made from the [chronoglass](#e320) by the Cloudy Co. corporation lead by Bumps The Businessman. 
+A commercial product made from the [chronoglass](../refs/chronoglass.md) by the Cloudy Co. corporation lead by Bumps The Businessman. 
 
 > _See the Past through the Glass!_
 
@@ -1006,13 +1005,13 @@ aliases:
 
 ----------
 
-<a id="#4120"></a> 
+
 ----------
- ###  ☁️ Cloudy Data Center
+ ### <a id="4120"></a>☁️ Cloudy Data Center
 
-`🪧 Place` in [Timeless Desert](#0130)
+`🪧 Place` in [Timeless Desert](../refs/timeless_desert.md)
 
-Built on eon 507 by [MindTech Institute](#6550)
+Built on eon 507 by [MindTech Institute](../refs/mindtech_institute.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -1023,9 +1022,9 @@ aliases:
 
 ----------
 
-<a id="#36b0"></a> 
+
 ----------
- ###  CO
+ ### <a id="36b0"></a>CO
 
 `🪪 Faction`
 
@@ -1041,9 +1040,9 @@ aliases: CO
 
 ----------
 
-<a id="#36b0"></a> 
+
 ----------
- ###  Cloudy Operatives
+ ### <a id="36b0"></a>Cloudy Operatives
 
 `🪪 Faction`
 
@@ -1059,9 +1058,9 @@ aliases: CO
 
 ----------
 
-<a id="#bef0"></a> 
+
 ----------
- ###  Common language
+ ### <a id="bef0"></a>Common language
 
 **📑 Term**
 
@@ -1074,9 +1073,9 @@ aliases:
 
 ----------
 
-<a id="#a2b0"></a> 
+
 ----------
- ###  Corruption
+ ### <a id="a2b0"></a>Corruption
 
 **🪪 Entity**
 
@@ -1093,17 +1092,17 @@ aliases:
 
 ----------
 
-<a id="#a610"></a> 
+
 ----------
- ###  📖 Cortexian Hall
+ ### <a id="a610"></a>📖 Cortexian Hall
 
-`🖼️ Landmark` in [Neuropolis](#b870)
+`🖼️ Landmark` in [Neuropolis](../refs/neuropolis.md)
 
-A complex of administrative buildings situated at the center point of the Cerebrime Peak in [Neuropolis](#b870).
+A complex of administrative buildings situated at the center point of the Cerebrime Peak in [Neuropolis](../refs/neuropolis.md).
 
-Cortexian Hall servers as a permanent residence for the [Council of Minds](#7c90), as well as the greatest archive of official documents in MT lands, and a living quarters for the Masters of the Council.
+Cortexian Hall servers as a permanent residence for the [Council of Minds](../refs/council_of_minds.md), as well as the greatest archive of official documents in MT lands, and a living quarters for the Masters of the Council.
 
-It contains many ancient books and scrolls that date back to when the capital was still in the [A'as Forest](#dd50).
+It contains many ancient books and scrolls that date back to when the capital was still in the [A'as Forest](../refs/aas_forest.md).
 
 The Great Auditorium where the Council holds their meetings is one of the biggest indoor spaces of the island.
 
@@ -1116,19 +1115,19 @@ aliases: The Great Auditorium
 
 ----------
 
-<a id="#7c90"></a> 
+
 ----------
- ###  Council of Minds
+ ### <a id="7c90"></a>Council of Minds
 
 `📑 Term`
 
-A governing body of [MindTech Institute](#6550) that resides in [Cortexian Hall](#a610), consisting of recognized citizens, skilled warriors and prominent scholars of the faction.
+A governing body of [MindTech Institute](../refs/mindtech_institute.md) that resides in [Cortexian Hall](../refs/cortexian_hall.md), consisting of recognized citizens, skilled warriors and prominent scholars of the faction.
 
 The members of the Council are called _Masters_ and serve for life, or until they resign or are removed from the Council by the other members.
 
 The leader of the Council is called the _Headmaster_, who also acts as a Headmaster of the Institute. Headmaster is elected among the Masters of the Council by the MindTech Institute followers (not limited to Masters).
 
-The Council is as old as the faction itself, and its history ranges from the ultimate power on the island during the times it was led by [hexAgon](#f910) to the complete dissolution during the times of [Loki](#5850)'s dictatorship.
+The Council is as old as the faction itself, and its history ranges from the ultimate power on the island during the times it was led by [hexAgon](../refs/hexagon.md) to the complete dissolution during the times of [Loki](../refs/loki.md)'s dictatorship.
 
 The Council was restored on [Eon 755](../timeline/eon0755.md) following the fall of the ruthless dictator.
 
@@ -1139,21 +1138,21 @@ aliases: Masters of the Council, Headmaster of the Institute
 
 ----------
 
-<a id="#45d0"></a> 
+
 ----------
- ###  CrAEX
+ ### <a id="45d0"></a>CrAEX
 
 **🧙‍♂️ Character**
 
 One of the Elder, Respected Inhabitants of Zeithalt.
 
-Previously Green [Towerkeep](#ea90), and honored [MindTech Institute](#6550) member of the [Council of Minds](#7c90).
+Previously Green [Towerkeep](../refs/institute_fortress_inner.md), and honored [MindTech Institute](../refs/mindtech_institute.md) member of the [Council of Minds](../refs/council_of_minds.md).
 
-Shifted factions twice, from Cybers to Minds *Pursue the Mind*, and to Oversee the formation of the [Cloudy Operatives](#36b0) in the Desert.
+Shifted factions twice, from Cybers to Minds *Pursue the Mind*, and to Oversee the formation of the [Cloudy Operatives](../refs/cloudy_operatives.md) in the Desert.
 
 Owns 4 Felines (as of archive).
 
-Head Researcher of The [Timeless Sands](#6590).
+Head Researcher of The [Timeless Sands](../refs/temporal_resources.md).
 
 <!---
 keywords: master, desert
@@ -1162,9 +1161,9 @@ aliases:
 
 ----------
 
-<a id="#a1a0"></a> 
+
 ----------
- ###  Corrupted Artefacts
+ ### <a id="a1a0"></a>Corrupted Artefacts
 
 **📜 Item**
 
@@ -1181,9 +1180,9 @@ aliases:
 
 ----------
 
-<a id="#17b0"></a> 
+
 ----------
- ###  CR Fallout
+ ### <a id="17b0"></a>CR Fallout
 
 **📑 Term**
 
@@ -1198,9 +1197,9 @@ aliases:
 
 ----------
 
-<a id="#08c0"></a> 
+
 ----------
- ###  Corrupted Gemstone
+ ### <a id="08c0"></a>Corrupted Gemstone
 
 **📜 Item**
 
@@ -1229,9 +1228,9 @@ aliases:
 
 ----------
 
-<a id="#8360"></a> 
+
 ----------
- ###  CR Mines
+ ### <a id="8360"></a>CR Mines
 
 **📜 Item**
 
@@ -1244,13 +1243,13 @@ aliases:
 
 ----------
 
-<a id="#2390"></a> 
+
 ----------
- ###  Corruption Restoration Project
+ ### <a id="2390"></a>Corruption Restoration Project
 
 `📑 Term`
 
-A project initially developed to recover [Synaxos Fields](#7cc0) from [Corruption](#a2b0) surge that happened in [Eon 508](../timeline/eon0508.md).
+A project initially developed to recover [Synaxos Fields](../refs/synaxos_fields.md) from [Corruption](../refs/corruption.md) surge that happened in [Eon 508](../timeline/eon0508.md).
 
 Since then, it has been reviewed and adapted to be used in other areas of the Island affected by _Corruption_.
 
@@ -1261,9 +1260,9 @@ aliases:
 
 ----------
 
-<a id="#1330"></a> 
+
 ----------
- ###  CR Shards
+ ### <a id="1330"></a>CR Shards
 
 **📜 Item**
 
@@ -1276,11 +1275,11 @@ aliases:
 
 ----------
 
-<a id="#9670"></a> 
-----------
- ###  🏥 CURE
 
-**🪧 Place** in [Brickland Fortress](#f6d0)
+----------
+ ### <a id="9670"></a>🏥 CURE
+
+**🪧 Place** in [Brickland Fortress](../refs/brickland_fortress.md)
 
 Built in Eon 540 during the `🦠 Mimps Virus` pandemic, CURE (Central University for Research in Epidemiology) is a hospital and research center to study and cure viral epidemics plaguing the island.
 
@@ -1291,9 +1290,9 @@ aliases:
 
 ----------
 
-<a id="#80b0"></a> 
+
 ----------
- ###  CI
+ ### <a id="80b0"></a>CI
 
 **🪪 Faction**
 
@@ -1309,9 +1308,9 @@ aliases: CI
 
 ----------
 
-<a id="#80b0"></a> 
+
 ----------
- ###  Cybernetics Inc
+ ### <a id="80b0"></a>Cybernetics Inc
 
 **🪪 Faction**
 
@@ -1327,9 +1326,9 @@ aliases: CI
 
 ----------
 
-<a id="#7b30"></a> 
+
 ----------
- ###  Cybers
+ ### <a id="7b30"></a>Cybers
 
 **📑 Term**
 
@@ -1342,9 +1341,9 @@ aliases:
 
 ----------
 
-<a id="#b9b0"></a> 
+
 ----------
- ###  Cybertron Jungle
+ ### <a id="b9b0"></a>Cybertron Jungle
 
 `📃 To-do list`
 
@@ -1363,9 +1362,9 @@ aliases:
 
 ----------
 
-<a id="#8f50"></a> 
+
 ----------
- ###  Dino Saurex
+ ### <a id="8f50"></a>Dino Saurex
 
 **🧙‍♂️ Character**
 
@@ -1373,9 +1372,9 @@ Also known as CuriousDino in his early years is a person of dinoman race - somet
 
 He quickly became famous for his business ideas such as Gambling Den and Fighters Guild, different successful cons, as well as being a member of several factions. 
 
-Despite his participation in the [Rebellion in the Desert](https://alexeygorovoy.github.io/zeithalt/timeline/#eon-506---rebellion-in-the-desert), he eventually got elected as a [Headmaster](#7c90) of [MindTech Institute](#6550) after successfully organizing a coup against the [tyrant leader](#5850). 
+Despite his participation in the [Rebellion in the Desert](https://alexeygorovoy.github.io/zeithalt/timeline/#eon-506---rebellion-in-the-desert), he eventually got elected as a [Headmaster](../refs/council_of_minds.md) of [MindTech Institute](../refs/mindtech_institute.md) after successfully organizing a coup against the [tyrant leader](../refs/loki.md). 
 
-Wields a legendary [Prehistoric Axe](#e4e0) and often speaks of himself in third person, as customary in native dinoman language.
+Wields a legendary [Prehistoric Axe](../refs/prehistoric_axe.md) and often speaks of himself in third person, as customary in native dinoman language.
 
 <!---
 keywords: sw, CuriousDino, gambling, fighters
@@ -1384,13 +1383,13 @@ aliases:
 
 ----------
 
-<a id="#f750"></a> 
+
 ----------
- ###  🗡️ Dagger of Elemental Restoration
+ ### <a id="f750"></a>🗡️ Dagger of Elemental Restoration
 
 `📜 Item`
 
-A legendary weapon discovered by [Airmanon](#0a70) in the [mines](../refs/gold_mines).
+A legendary weapon discovered by [Airmanon](../refs/airmanon.md) in the [mines](../refs/gold_mines).
 
 A dagger made with some of the very same gems found in the mines, the _Dagger of Elemental Restoration_ seems to be imbued with the powers of the elements themselves. At least, that's what local legend claims. Those same legends claim that the dagger was forged long ago with the purpose of restoring the natural balance, particularly after Corruption strikes.
 
@@ -1403,9 +1402,9 @@ aliases:
 
 ----------
 
-<a id="#b730"></a> 
+
 ----------
- ###  Deltans
+ ### <a id="b730"></a>Deltans
 
 **📑 Term**
 
@@ -1418,9 +1417,9 @@ aliases:
 
 ----------
 
-<a id="#4de0"></a> 
+
 ----------
- ###  Deltan language
+ ### <a id="4de0"></a>Deltan language
 
 **📑 Term**
 
@@ -1433,11 +1432,11 @@ aliases:
 
 ----------
 
-<a id="#b0c0"></a> 
-----------
- ###  💬 Deltan Language School
 
-`🖼️ Landmark` in [Oblivion Mire](#8840)
+----------
+ ### <a id="b0c0"></a>💬 Deltan Language School
+
+`🖼️ Landmark` in [Oblivion Mire](../refs/oblivion_mire.md)
 
 Built on eon 780 in Oblivion Mire, rather out of practical necessity than appreciation of Deltan culture.
 
@@ -1450,9 +1449,9 @@ aliases:
 
 ----------
 
-<a id="#8bc0"></a> 
+
 ----------
- ###  DC
+ ### <a id="8bc0"></a>DC
 
 **🪪 Faction**
 
@@ -1470,9 +1469,9 @@ aliases: DC
 
 ----------
 
-<a id="#8bc0"></a> 
+
 ----------
- ###  Delta Collective
+ ### <a id="8bc0"></a>Delta Collective
 
 **🪪 Faction**
 
@@ -1490,9 +1489,9 @@ aliases: DC
 
 ----------
 
-<a id="#1070"></a> 
+
 ----------
- ###  Dev Null Marsh
+ ### <a id="1070"></a>Dev Null Marsh
 
 `📃 To-do list`
 
@@ -1511,15 +1510,15 @@ aliases:
 
 ----------
 
-<a id="#ee20"></a> 
-----------
- ###  🎰 Dino's Gambling Den
 
-**🪧 Place** in [Ares Gardens](#fff0)
+----------
+ ### <a id="ee20"></a>🎰 Dino's Gambling Den
+
+**🪧 Place** in [Ares Gardens](../refs/ares_gardens.md)
 
 The only place on Zeithalt where islanders can find an active bookie, bet on outcomes of the battles, attend cocktail parties in VIP Lounge and indulge in various gambling activities.
 
-Despite multiple allegations of illicit activities happening in the Den, the place operates openly and occasionally is being subjected to inspections by [PTSD](#e4f0) and other [PS](#7a60) authorities.
+Despite multiple allegations of illicit activities happening in the Den, the place operates openly and occasionally is being subjected to inspections by [PTSD](../refs/ptsd.md) and other [PS](../refs/protectores_silva.md) authorities.
 
 <!---
 keywords: ps, ares, gardens, dino, gambling, den, bookie, vip, lounge
@@ -1528,13 +1527,13 @@ aliases:
 
 ----------
 
-<a id="#7e10"></a> 
+
 ----------
- ###  🦆 Duck Farm
+ ### <a id="7e10"></a>🦆 Duck Farm
 
-`🪧 Place` in [Indigo Shore](#7a70)
+`🪧 Place` in [Indigo Shore](../refs/indigo_shore.md)
 
-Built by [Delta Collective](#8bc0) on eon 470.
+Built by [Delta Collective](../refs/delta_collective.md) on eon 470.
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -1545,9 +1544,9 @@ aliases:
 
 ----------
 
-<a id="#fad0"></a> 
+
 ----------
- ###  Double-Z
+ ### <a id="fad0"></a>Double-Z
 
 **📑 Term**
 
@@ -1560,17 +1559,17 @@ aliases: Double-Z
 
 ----------
 
-<a id="#f6d0"></a> 
+
 ----------
- ###  Eastern Brickland
+ ### <a id="f6d0"></a>Eastern Brickland
 
 `🖼️ Landmark`
 
 Brickland Fortress is a harsh, mostly mountainous region acting as a buffer between the lands of the east and west.
 
-It features huge mountain ranges that start on the south-easternmost border with the [Chaotic Plains](#8a30), extend into the middle part of the region, and then slowly bend in a U-shape toward [Mt. Pickles](#7490) as they divide the land into two parts: Eastern and Western Brickland.
+It features huge mountain ranges that start on the south-easternmost border with the [Chaotic Plains](../refs/chaotic_plains.md), extend into the middle part of the region, and then slowly bend in a U-shape toward [Mt. Pickles](../refs/mt_pickles.md) as they divide the land into two parts: Eastern and Western Brickland.
 
-The mountain ranges, which are named as [Brickspire Mountains](#50d0), house small amounts of gold and iron mines. However they also house the main economic source of the entire region - its numerous stone quarries.
+The mountain ranges, which are named as [Brickspire Mountains](../refs/brickspire_mountains.md), house small amounts of gold and iron mines. However they also house the main economic source of the entire region - its numerous stone quarries.
 
 The high quality stones are mined from quarries used both locally, as well as exported into different regions to supply a factions' demand for building materials.
 
@@ -1578,15 +1577,15 @@ There are numerous small fortifications scattered all around the Brickspire Moun
 
 However, the main force that defends the entire region and acts as a one giant gate between the Western and Eastern parts is the Brickland Fortress itself. It is located in the tallest mountain of the entire region, has an enormous size and equally gorgeous appearance.
 
-Although nowadays this fortress gives the name to the whole region, it is believed that during the [Age of Darkness](#b750) nomadic people had a different name for their home. Sadly that name is now forgotten and lost in time.
+Although nowadays this fortress gives the name to the whole region, it is believed that during the [Age of Darkness](../refs/age_of_darkness.md) nomadic people had a different name for their home. Sadly that name is now forgotten and lost in time.
 
 Western Brickland is a smaller part of the region. 
 
 It consists of mostly hills and small mountains with the exception of small flat area shaped like a triangle connecting to the vast expanses of Chaotic Plains. While not many people reside here compared to its eastern counterpart, there are still a few small villages scattered around the area.
 
-Eastern Brickland, in addition to being a larger part, has much more life and greenery. The number of mountains and the overall height of the region starts decreasing as it gets closer to Oblivion Mire and Cerene Vale. The mountains and hills are eventually replaced by a number of small forests along the borders with Cerene Vale and the [Southern Sea](#bda0).
+Eastern Brickland, in addition to being a larger part, has much more life and greenery. The number of mountains and the overall height of the region starts decreasing as it gets closer to Oblivion Mire and Cerene Vale. The mountains and hills are eventually replaced by a number of small forests along the borders with Cerene Vale and the [Southern Sea](../refs/southern_sea.md).
 
-The majority of Brickland Fortress's population lives in the Eastern Part - in its villages, but mainly in [Meadowridge](#c860) - the largest town of the entire region.
+The majority of Brickland Fortress's population lives in the Eastern Part - in its villages, but mainly in [Meadowridge](../refs/meadowridge.md) - the largest town of the entire region.
 
 <!---
 keywords: ci, dc, landmark
@@ -1596,13 +1595,13 @@ aliases: Western Brickland, Eastern Brickland
 
 ----------
 
-<a id="#7d50"></a> 
+
 ----------
- ###  🥚 Egg Festival
+ ### <a id="7d50"></a>🥚 Egg Festival
 
-`🪧 Place` in [Cerene Vale](#3850)
+`🪧 Place` in [Cerene Vale](../refs/cerene_vale.md)
 
-Built on eon 527 by [Protectores Silva](#7a60)
+Built on eon 527 by [Protectores Silva](../refs/protectores_silva.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -1613,13 +1612,13 @@ aliases:
 
 ----------
 
-<a id="#8730"></a> 
+
 ----------
- ###  Eon
+ ### <a id="8730"></a>Eon
 
 **📑 Term**
 
-A unit of time used on Zeithalt Island, as the perception of time on the island is affected by the [Timeless Desert](#0130), one Eon may last from several hours to several months.
+A unit of time used on Zeithalt Island, as the perception of time on the island is affected by the [Timeless Desert](../refs/timeless_desert.md), one Eon may last from several hours to several months.
 
 <!---
 keywords:
@@ -1628,9 +1627,9 @@ aliases:
 
 ----------
 
-<a id="#74f0"></a> 
+
 ----------
- ###  Energy Resources
+ ### <a id="74f0"></a>Energy Resources
 
 **📑 Term**
 
@@ -1643,7 +1642,7 @@ They're divided into 3 broad categories:
 
 Factions have learned to use these resources to their advantage in battles in Special Operations.
 
-There's also a fourth category of resources - [Temporal Resources](#6590) or (TMP), exclusively found in the [Timeless Desert](#0130).
+There's also a fourth category of resources - [Temporal Resources](../refs/temporal_resources.md) or (TMP), exclusively found in the [Timeless Desert](../refs/timeless_desert.md).
 <!---
 keywords: sci, min, erg, tmp, science, mineral, energy, temporal
 aliases: Science Resources, Mineral Resources, Energy Resources
@@ -1651,9 +1650,9 @@ aliases: Science Resources, Mineral Resources, Energy Resources
 
 ----------
 
-<a id="#ee30"></a> 
+
 ----------
- ###  Fighters Guild
+ ### <a id="ee30"></a>Fighters Guild
 
 **🪪 Group**
 
@@ -1669,13 +1668,13 @@ keywords: battle, dino, sw
 
 ----------
 
-<a id="#ff60"></a> 
+
 ----------
- ###  🏢 Fighters Guild, CI Branch
+ ### <a id="ff60"></a>🏢 Fighters Guild, CI Branch
 
-`🪧 Place` in [Virtuara Outpost](#6e00)
+`🪧 Place` in [Virtuara Outpost](../refs/virtuara_outpost.md)
 
-Built on eon 612 by [Cybernetics Inc](#80b0) as the first office of the [Fighters Guild](#ee30) 
+Built on eon 612 by [Cybernetics Inc](../refs/cybernetics_inc.md) as the first office of the [Fighters Guild](../refs/fighters_guild.md) 
 
 <!---
 keywords:  ci, virtuara outpost
@@ -1684,15 +1683,15 @@ aliases:
 
 ----------
 
-<a id="#5570"></a> 
+
 ----------
- ###  First Capital
+ ### <a id="5570"></a>First Capital
 
 `📑 Term`
 
-Refers to [MindTech Institute](#6550) first capital - [A'as Forest](#dd50), which was destroyed during the Age of Darkness, before the recorded history began.
+Refers to [MindTech Institute](../refs/mindtech_institute.md) first capital - [A'as Forest](../refs/aas_forest.md), which was destroyed during the Age of Darkness, before the recorded history began.
 
-See also: [Museum of the Old Capital](#6c20)
+See also: [Museum of the Old Capital](../refs/museum_of_old_capital.md)
 
 <!---
 keywords:  mt, aas
@@ -1701,9 +1700,9 @@ aliases:
 
 ----------
 
-<a id="#9ff0"></a> 
+
 ----------
- ###  Fortifications
+ ### <a id="9ff0"></a>Fortifications
 
 **📑 Term**
 
@@ -1715,15 +1714,15 @@ keywords: battle, unit
 
 ----------
 
-<a id="#b710"></a> 
+
 ----------
- ###  Gift of Balance
+ ### <a id="b710"></a>Gift of Balance
 
 `📑 Term`
 
-**Book of Balance** is a traditional book for the [MindTech Institute](#6550), which, however, does not have a direct connection to the Institute and presumably was written long before the Institute was even founded.
+**Book of Balance** is a traditional book for the [MindTech Institute](../refs/mindtech_institute.md), which, however, does not have a direct connection to the Institute and presumably was written long before the Institute was even founded.
 
-This is one of the few known books originating from the [Age of Darkness](#b750), the author (or likely multiple authors) of the book are unknown.
+This is one of the few known books originating from the [Age of Darkness](../refs/age_of_darkness.md), the author (or likely multiple authors) of the book are unknown.
 
 The Book of Balance teaches readers the topics of mindfulness and meditation, the importance of emotional awareness and self-control, and is generally directed towards improving one's cognitive abilities and decision-making skills.
 
@@ -1738,13 +1737,13 @@ aliases: Gift of Balance
 
 ----------
 
-<a id="#9340"></a> 
+
 ----------
- ###  💿 Gaia Knowledge Database
+ ### <a id="9340"></a>💿 Gaia Knowledge Database
 
-`🪧 Place` in [Webified Hills](#ada0)
+`🪧 Place` in [Webified Hills](../refs/webified_hills.md)
 
-Built on eon 606 by [Cybernetics Inc](#80b0)
+Built on eon 606 by [Cybernetics Inc](../refs/cybernetics_inc.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -1755,13 +1754,13 @@ aliases:
 
 ----------
 
-<a id="#6ee0"></a> 
+
 ----------
- ###  🎮 G.A.M.E. Complex
+ ### <a id="6ee0"></a>🎮 G.A.M.E. Complex
 
-`🖼️ Landmark` in [PEBKAC Peak](#f6f0)
+`🖼️ Landmark` in [PEBKAC Peak](../refs/pebkac_peak.md)
 
-The great minds at [Cybernetics Inc](#80b0) have come up with a new way to improve future human digital enhancement – video games.
+The great minds at [Cybernetics Inc](../refs/cybernetics_inc.md) have come up with a new way to improve future human digital enhancement – video games.
 
 Humans are notoriously inept at objectivity and have a remarkable ability to ignore or discard information that is inconvenient. Removing bias and enhancing information intake and processing capabilities is a key component of human improvement.
 
@@ -1778,9 +1777,9 @@ aliases:
 
 ----------
 
-<a id="#6fe0"></a> 
+
 ----------
- ###  Garrisons
+ ### <a id="6fe0"></a>Garrisons
 
 **📑 Term**
 
@@ -1792,13 +1791,13 @@ keywords: battle, unit
 
 ----------
 
-<a id="#ce70"></a> 
+
 ----------
- ###  🏹 Giant Slingshot
+ ### <a id="ce70"></a>🏹 Giant Slingshot
 
-`🪧 Place` in [Indigo Shore](#7a70)
+`🪧 Place` in [Indigo Shore](../refs/indigo_shore.md)
 
-Built on eon 587 by [Delta Collective](#8bc0)
+Built on eon 587 by [Delta Collective](../refs/delta_collective.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -1809,9 +1808,9 @@ aliases:
 
 ----------
 
-<a id="#7210"></a> 
+
 ----------
- ###  Gold Mines
+ ### <a id="7210"></a>Gold Mines
 
 `📃 To-do list`
 
@@ -1830,9 +1829,9 @@ aliases:
 
 ----------
 
-<a id="#fd60"></a> 
+
 ----------
- ###  Great AI
+ ### <a id="fd60"></a>Great AI
 
 `📃 To-do list`
 
@@ -1851,9 +1850,9 @@ aliases: The Algorithms
 
 ----------
 
-<a id="#06a0"></a> 
+
 ----------
- ###  GreenOtter
+ ### <a id="06a0"></a>GreenOtter
 
 `📃 To-do list`
 
@@ -1872,19 +1871,19 @@ aliases:
 
 ----------
 
-<a id="#7c90"></a> 
+
 ----------
- ###  Headmaster of the Institute
+ ### <a id="7c90"></a>Headmaster of the Institute
 
 `📑 Term`
 
-A governing body of [MindTech Institute](#6550) that resides in [Cortexian Hall](#a610), consisting of recognized citizens, skilled warriors and prominent scholars of the faction.
+A governing body of [MindTech Institute](../refs/mindtech_institute.md) that resides in [Cortexian Hall](../refs/cortexian_hall.md), consisting of recognized citizens, skilled warriors and prominent scholars of the faction.
 
 The members of the Council are called _Masters_ and serve for life, or until they resign or are removed from the Council by the other members.
 
 The leader of the Council is called the _Headmaster_, who also acts as a Headmaster of the Institute. Headmaster is elected among the Masters of the Council by the MindTech Institute followers (not limited to Masters).
 
-The Council is as old as the faction itself, and its history ranges from the ultimate power on the island during the times it was led by [hexAgon](#f910) to the complete dissolution during the times of [Loki](#5850)'s dictatorship.
+The Council is as old as the faction itself, and its history ranges from the ultimate power on the island during the times it was led by [hexAgon](../refs/hexagon.md) to the complete dissolution during the times of [Loki](../refs/loki.md)'s dictatorship.
 
 The Council was restored on [Eon 755](../timeline/eon0755.md) following the fall of the ruthless dictator.
 
@@ -1895,9 +1894,9 @@ aliases: Masters of the Council, Headmaster of the Institute
 
 ----------
 
-<a id="#f910"></a> 
+
 ----------
- ###  hexAgon
+ ### <a id="f910"></a>hexAgon
 
 `🧙‍♂️ Character`
 
@@ -1910,11 +1909,11 @@ Opinions about him are conflicting: for some he is the spiritual guide of the In
 
 Those who studied in the Fortress describe him as the headmaster of the Institute as well as a teacher of Ancient Runes. His lessons are judged by everyone to be "*extremely boring*".
 
-It seems that he is in possession of [a rare artifact](#08c0) found in the dunes of the [Timeless Desert](#0130) after the first battle against Corruption (eon 272): there is not much information about it.
+It seems that he is in possession of [a rare artifact](../refs/cr_gemstone.md) found in the dunes of the [Timeless Desert](../refs/timeless_desert.md) after the first battle against Corruption (eon 272): there is not much information about it.
 
 They say he has a weakness for chocolate cookies.
 
-At some point [Double-Z](#fad0) was hyping rumours that hexAgon might be addicted to drinking baby unicorn blood, however that story remains unconfirmed and is believed to be a newspaper hoax
+At some point [Double-Z](../refs/zeithalt_zeitgeist.md) was hyping rumours that hexAgon might be addicted to drinking baby unicorn blood, however that story remains unconfirmed and is believed to be a newspaper hoax
 
 <!---
 keywords:  
@@ -1923,21 +1922,21 @@ aliases:
 
 ----------
 
-<a id="#ef90"></a> 
+
 ----------
- ###  🎌️ Hill of 1000 flags
+ ### <a id="ef90"></a>🎌️ Hill of 1000 flags
 
-`🖼️ Landmark` in [Paradox Pass](#cb50)
+`🖼️ Landmark` in [Paradox Pass](../refs/paradox_pass.md)
 
-Opened to the public on eon 770, this memorial is primarily dedicated to the [MindTech Institute symbology](#cbe0) and culture, but also serves as an archive for symbols and signs used anywhere on the Island.
+Opened to the public on eon 770, this memorial is primarily dedicated to the [MindTech Institute symbology](../refs/mt_symbology.md) and culture, but also serves as an archive for symbols and signs used anywhere on the Island.
 
 The main features of the Hill are the 100m flagpole of the [Official MT Flag](../refs/img/mt_peace_flag.png), and a smaller - 3/4 of that height - [Wartime MT flag](../refs/img/mt_war_flag.png).
 
-What surround the main exposition, are rows and rows of flags and crests and banners for different departments of [MindTech Institute](#6550), MT regions, towns, villages, families, and even specific people.
+What surround the main exposition, are rows and rows of flags and crests and banners for different departments of [MindTech Institute](../refs/mindtech_institute.md), MT regions, towns, villages, families, and even specific people.
 
 At the foot of the Hill, there are several buildings belonging to the *Symbology Archives* - these are dedicated to storing and categorizing the symbology of the whole Zeithalt Island. 
 
-From the symbols of the other factions, to the replica of the welcome sign of the famous [Valhalla Bar](#8de0), and to the corporate brand books of the [Cloudy Corporation](#4120) - the Archives are rumored to host truly *all* known symbols and signs of the Island.
+From the symbols of the other factions, to the replica of the welcome sign of the famous [Valhalla Bar](../refs/valhalla_bar.md), and to the corporate brand books of the [Cloudy Corporation](../refs/cloudy_co_datacenter.md) - the Archives are rumored to host truly *all* known symbols and signs of the Island.
 
 <!---
 keywords: mt, paradox pass, triquetra, flag, banner, symbology, archives 
@@ -1946,13 +1945,13 @@ aliases:
 
 ----------
 
-<a id="#1b90"></a> 
+
 ----------
- ###  🛖 House of Craftsmanship
+ ### <a id="1b90"></a>🛖 House of Craftsmanship
 
-`🖼️ Landmark` in [Synaxos Fields](#7cc0).
+`🖼️ Landmark` in [Synaxos Fields](../refs/synaxos_fields.md).
 
-Commonly known as the *Artifice School of Crafts*, the House of Craftsmanship is situated at [Somnivale](#7850), [Synaxos Fields](#7cc0). It is famed for creating weapons and tools nigh-impossible to scratch nor break with forging practices dating back to the [MT](#6550)'s Age of Enlightenment.
+Commonly known as the *Artifice School of Crafts*, the House of Craftsmanship is situated at [Somnivale](../refs/somnivale.md), [Synaxos Fields](../refs/synaxos_fields.md). It is famed for creating weapons and tools nigh-impossible to scratch nor break with forging practices dating back to the [MT](../refs/mindtech_institute.md)'s Age of Enlightenment.
 
 The weapons created are not the highlight of this place but the students that study here. It is the third ranking school in the lands of MT and first in the field of craftsmanship. With their motto *"With the burning heat of our will, we forge our mind the path to zenith."*
 
@@ -1967,9 +1966,9 @@ aliases:
 
 ----------
 
-<a id="#e630"></a> 
+
 ----------
- ###  Illusion Cliffs
+ ### <a id="e630"></a>Illusion Cliffs
 
 `🖼️ Landmark`
 
@@ -1991,9 +1990,9 @@ aliases:
 
 ----------
 
-<a id="#0740"></a> 
+
 ----------
- ###  Imperial Swamp
+ ### <a id="0740"></a>Imperial Swamp
 
 `📃 To-do list`
 
@@ -2012,9 +2011,9 @@ aliases:
 
 ----------
 
-<a id="#7a70"></a> 
+
 ----------
- ###  Indigo Shore
+ ### <a id="7a70"></a>Indigo Shore
 
 `📃 To-do list`
 
@@ -2033,19 +2032,19 @@ aliases:
 
 ----------
 
-<a id="#22a0"></a> 
+
 ----------
- ###  Isynthillicus Cyrciniae
+ ### <a id="22a0"></a>Isynthillicus Cyrciniae
 
 `📜 Item`
 
 > (Scientific Name: *Isynthillicus Cyrciniae*)
 
-Also known as the "Pathfinder Stone", this ancient gemstone is created at the [center-point](#0130) of the lands of Zeithalt by the continuous pressure given by the physical and mystical force above and below the land.
+Also known as the "Pathfinder Stone", this ancient gemstone is created at the [center-point](../refs/timeless_desert.md) of the lands of Zeithalt by the continuous pressure given by the physical and mystical force above and below the land.
 
 The stone emanates a bright white light when first seen that will make the beholder temporarily immune or lengthen any illusionary and temporal effects, depending on the will of the holder. Although the quality of the stone may affect how strong the effectivity would be.
 
-These stones, though, are very rare due to it taking hundreds of years to form and being very difficult to find as the [Desert](#0130) where they are made are famous for being a place where you can easily get lost or lose your way, leading to many adventurers never coming back.
+These stones, though, are very rare due to it taking hundreds of years to form and being very difficult to find as the [Desert](../refs/timeless_desert.md) where they are made are famous for being a place where you can easily get lost or lose your way, leading to many adventurers never coming back.
 
 ![Timeless Waystone](../refs/img/timeless_waystone.png)
 
@@ -2056,15 +2055,15 @@ aliases: Isynthillicus Cyrciniae
 
 ----------
 
-<a id="#09e0"></a> 
+
 ----------
- ###  🎊 Jackbox Party Central
+ ### <a id="09e0"></a>🎊 Jackbox Party Central
 
-**🪧 Place** in [Oblivion Mire](#8840)
+**🪧 Place** in [Oblivion Mire](../refs/oblivion_mire.md)
 
-The Jackbox Party Central is a plaza created by [Airmanon Driftwing](#0a70) as a place where people can gather and party together. 
+The Jackbox Party Central is a plaza created by [Airmanon Driftwing](../refs/airmanon.md) as a place where people can gather and party together. 
 
-It is located in Oblivion Mire, close to the border with [Brickland Fortress](#f6d0).
+It is located in Oblivion Mire, close to the border with [Brickland Fortress](../refs/brickland_fortress.md).
 
 Using a natural clearing as the site of construction, the plaza was made using Silvan architectural design to coexist with the environment. Support from CI allowed for ease of maintenance, which helps make this coexistence easier.
 
@@ -2075,13 +2074,13 @@ aliases:
 
 ----------
 
-<a id="#3760"></a> 
+
 ----------
- ###  🦖 Jurassic Park
+ ### <a id="3760"></a>🦖 Jurassic Park
 
-`🪧 Place` in [Peace Death Gorge](#db50)
+`🪧 Place` in [Peace Death Gorge](../refs/peace_death_gorge.md)
 
-Built on eon 515 by [Delta Collective](#8bc0)
+Built on eon 515 by [Delta Collective](../refs/delta_collective.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -2092,13 +2091,13 @@ aliases:
 
 ----------
 
-<a id="#2dc0"></a> 
+
 ----------
- ###  🕸️ K2 Fibers
+ ### <a id="2dc0"></a>🕸️ K2 Fibers
 
-`🪧 Place` in [Webified Hills](#ada0)
+`🪧 Place` in [Webified Hills](../refs/webified_hills.md)
 
-Built on eon 507 by [Cybernetics Inc](#80b0)
+Built on eon 507 by [Cybernetics Inc](../refs/cybernetics_inc.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -2109,13 +2108,13 @@ aliases:
 
 ----------
 
-<a id="#bca0"></a> 
+
 ----------
- ###  Lake Corsair
+ ### <a id="bca0"></a>Lake Corsair
 
 `🖼️ Landmark`
 
-A picturesque lake in the middle of traditionally [Cyber](#7b30) lands, at the meeting point of three lands: [Admincity](#1a00), [Webified Hills](#ada0) and [Singularity Valley](#dd30).
+A picturesque lake in the middle of traditionally [Cyber](../refs/cybers.md) lands, at the meeting point of three lands: [Admincity](../refs/admincity.md), [Webified Hills](../refs/webified_hills.md) and [Singularity Valley](../refs/singularity_valley.md).
 
 <!---
 keywords: todo
@@ -2124,13 +2123,13 @@ aliases:
 
 ----------
 
-<a id="#5220"></a> 
+
 ----------
- ###  🗼 Lime Tower
+ ### <a id="5220"></a>🗼 Lime Tower
 
-`🪧 Place` in [Synaxos Fields](#7cc0)
+`🪧 Place` in [Synaxos Fields](../refs/synaxos_fields.md)
 
-Built on eon 575 by [MindTech Institute](#6550)
+Built on eon 575 by [MindTech Institute](../refs/mindtech_institute.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -2141,15 +2140,15 @@ aliases:
 
 ----------
 
-<a id="#5850"></a> 
+
 ----------
- ###  Loki
+ ### <a id="5850"></a>Loki
 
 `🧙‍♂️ Character`
 
-Loki is a famous (or some may say infamous) MT member that quickly rose through the ranks to the position of Defense Minister and eventually became a [MindTech Institute](#6550) dictator.
+Loki is a famous (or some may say infamous) MT member that quickly rose through the ranks to the position of Defense Minister and eventually became a [MindTech Institute](../refs/mindtech_institute.md) dictator.
 
-His story includes a range of diverse moments: from being a humble owner of the [Valhalla Bar](#8de0) to dark allegations of killing the preceding Defense Minister of MindTech.
+His story includes a range of diverse moments: from being a humble owner of the [Valhalla Bar](../refs/valhalla_bar.md) to dark allegations of killing the preceding Defense Minister of MindTech.
 
 But it's the [Burning of Cerene Vale](../timeline/eon0749.md) that will forever be associated with his name, as a brutal outburst of unnecessary violence, event for which the full responsibility was taken by Loki himself.
 
@@ -2162,19 +2161,19 @@ aliases:
 
 ----------
 
-<a id="#7c90"></a> 
+
 ----------
- ###  Masters of the Council
+ ### <a id="7c90"></a>Masters of the Council
 
 `📑 Term`
 
-A governing body of [MindTech Institute](#6550) that resides in [Cortexian Hall](#a610), consisting of recognized citizens, skilled warriors and prominent scholars of the faction.
+A governing body of [MindTech Institute](../refs/mindtech_institute.md) that resides in [Cortexian Hall](../refs/cortexian_hall.md), consisting of recognized citizens, skilled warriors and prominent scholars of the faction.
 
 The members of the Council are called _Masters_ and serve for life, or until they resign or are removed from the Council by the other members.
 
 The leader of the Council is called the _Headmaster_, who also acts as a Headmaster of the Institute. Headmaster is elected among the Masters of the Council by the MindTech Institute followers (not limited to Masters).
 
-The Council is as old as the faction itself, and its history ranges from the ultimate power on the island during the times it was led by [hexAgon](#f910) to the complete dissolution during the times of [Loki](#5850)'s dictatorship.
+The Council is as old as the faction itself, and its history ranges from the ultimate power on the island during the times it was led by [hexAgon](../refs/hexagon.md) to the complete dissolution during the times of [Loki](../refs/loki.md)'s dictatorship.
 
 The Council was restored on [Eon 755](../timeline/eon0755.md) following the fall of the ruthless dictator.
 
@@ -2185,20 +2184,20 @@ aliases: Masters of the Council, Headmaster of the Institute
 
 ----------
 
-<a id="#ea90"></a> 
+
 ----------
- ###  MindTech Institute Fortress (inner walls)
+ ### <a id="ea90"></a>MindTech Institute Fortress (inner walls)
 
 `🪧 Place`
 
-It is a thirty-storey building with a vaguely triangular plan, surrounded by the [outer walls](#8a90). At each corner stands a tower, different from the others in shape and size.
+It is a thirty-storey building with a vaguely triangular plan, surrounded by the [outer walls](../refs/institute_fortress_outer.md). At each corner stands a tower, different from the others in shape and size.
 
-The building houses the seat of government: the [Council of Minds](#7c90). Many rooms are not open to the public and their use is unknown.
+The building houses the seat of government: the [Council of Minds](../refs/council_of_minds.md). Many rooms are not open to the public and their use is unknown.
 
 The Towers, distinguished by a colour, are: 
 - the *Orange Tower*, which hosts the students, candidates to be part of the Institute.
-- the *Blue Tower* is reserved for members of the Institute who study the culture of the southwestern faction, [Delta Collective](#8bc0).
-- finally, the *Green Tower* hosts the members who deal with everything related to the northern faction, [Cybernetics Inc](#80b0).
+- the *Blue Tower* is reserved for members of the Institute who study the culture of the southwestern faction, [Delta Collective](../refs/delta_collective.md).
+- finally, the *Green Tower* hosts the members who deal with everything related to the northern faction, [Cybernetics Inc](../refs/cybernetics_inc.md).
 
 - Lessons relating to the faction being studied take place in the Blue and Green Towers.
 
@@ -2215,9 +2214,9 @@ aliases: Towers of MindTech Institute
 
 ----------
 
-<a id="#8a90"></a> 
+
 ----------
- ###  MindTech Institute Fortress (outer walls)
+ ### <a id="8a90"></a>MindTech Institute Fortress (outer walls)
 
 `🪧 Place`
 
@@ -2244,16 +2243,16 @@ aliases:
 
 ----------
 
-<a id="#e850"></a> 
+
 ----------
- ###  Map Legend
+ ### <a id="e850"></a>Map Legend
 
 Icons used on the timeline maps: 
-- `🏰` [Fortifications](#9ff0)
-- `🛡️` [Garrison Units](#6fe0)
-- `🛠️` [Support Units](#e390)
-- `🥷` [Saboteur Units](#0090)
-- `⚡ 🪨 🧪 ⌛` [Resources](#74f0)
+- `🏰` [Fortifications](../refs/fortifications.md)
+- `🛡️` [Garrison Units](../refs/garrisons.md)
+- `🛠️` [Support Units](../refs/support.md)
+- `🥷` [Saboteur Units](../refs/saboteur.md)
+- `⚡ 🪨 🧪 ⌛` [Resources](../refs/resources.md)
 
 Apart from those, the map contains icons for various building / landmarks found on the island. 
 
@@ -2264,13 +2263,13 @@ aliases:
 
 ----------
 
-<a id="#b751"></a> 
+
 ----------
- ###  🪆 Matryoshka Idoll
+ ### <a id="b751"></a>🪆 Matryoshka Idoll
 
-`🪧 Place` in [Singularity Valley](#dd30)
+`🪧 Place` in [Singularity Valley](../refs/singularity_valley.md)
 
-Built on eon 526 by [Delta Collective](#8bc0)
+Built on eon 526 by [Delta Collective](../refs/delta_collective.md)
 
 <!---
 keywords:  dc, singularity valley
@@ -2279,13 +2278,13 @@ aliases:
 
 ----------
 
-<a id="#c860"></a> 
+
 ----------
- ###  Meadowridge
+ ### <a id="c860"></a>Meadowridge
 
 `🪧 Place`
 
-A town located in the [Eastern Brickland](#f6d0). It is the largest town of the entire region and its main economic hub.
+A town located in the [Eastern Brickland](../refs/brickland_fortress.md). It is the largest town of the entire region and its main economic hub.
 
 <!---
 keywords: brickland
@@ -2294,19 +2293,19 @@ aliases:
 
 ----------
 
-<a id="#be90"></a> 
+
 ----------
- ###  🏯 Military Academy
+ ### <a id="be90"></a>🏯 Military Academy
 
-`🪧 Place` in [Xyrclaox Watch](#b9a0)
+`🪧 Place` in [Xyrclaox Watch](../refs/xyrclaox_watch.md)
 
-Build on Eon 471 by [MindTech Institute](#6550), the complex known under the full name **Academy of Military Tactics and Defense Intelligence**.
+Build on Eon 471 by [MindTech Institute](../refs/mindtech_institute.md), the complex known under the full name **Academy of Military Tactics and Defense Intelligence**.
 
 It was founded to train tough and brave warriors for battle as well as develop intelligent informants, clever strategists and tacticians. The complex also serves as a central war room and military headquarters. The academy trains soldiers to defend their lands and fight for MT's righteous values.
 
-At the center of the academy is the _[Revalx](#9ff1) Memorial Park_, named after the former Ministry of Defense who founded the place. He is considered one of the outstanding leaders of his time. The infrastructure of the academy is further enhanced with the technology provided by [Cybernetics Inc](#80b0).
+At the center of the academy is the _[Revalx](../refs/revalx.md) Memorial Park_, named after the former Ministry of Defense who founded the place. He is considered one of the outstanding leaders of his time. The infrastructure of the academy is further enhanced with the technology provided by [Cybernetics Inc](../refs/cybernetics_inc.md).
 
-[`🐙`](#8270)
+[`🐙`](../refs/altar_of_ctulhu.md)
 
 <!---
 keywords: mt, xyrclaox watch 
@@ -2315,9 +2314,9 @@ aliases:
 
 ----------
 
-<a id="#34f0"></a> 
+
 ----------
- ###  Mimb
+ ### <a id="34f0"></a>Mimb
 
 `📃 To-do list`
 
@@ -2336,9 +2335,9 @@ aliases:
 
 ----------
 
-<a id="#1670"></a> 
+
 ----------
- ###  Mimbot, the Lore Keeper
+ ### <a id="1670"></a>Mimbot, the Lore Keeper
 
 **🧙‍♂️ Character**
 
@@ -2355,9 +2354,9 @@ aliases:
 
 ----------
 
-<a id="#a4e0"></a> 
+
 ----------
- ###  Mimps Virus
+ ### <a id="a4e0"></a>Mimps Virus
 
 **📑 Term**
 
@@ -2373,9 +2372,9 @@ keywords: virus, yes, mimb, bumps
 
 ----------
 
-<a id="#7c50"></a> 
+
 ----------
- ###  Minds
+ ### <a id="7c50"></a>Minds
 
 **📑 Term**
 
@@ -2388,9 +2387,9 @@ aliases:
 
 ----------
 
-<a id="#6550"></a> 
+
 ----------
- ###  MT
+ ### <a id="6550"></a>MT
 
 **🪪 Faction**
 
@@ -2408,9 +2407,9 @@ aliases: MT
 
 ----------
 
-<a id="#6550"></a> 
+
 ----------
- ###  MindTech Institute
+ ### <a id="6550"></a>MindTech Institute
 
 **🪪 Faction**
 
@@ -2428,13 +2427,13 @@ aliases: MT
 
 ----------
 
-<a id="#9f60"></a> 
+
 ----------
- ###  🔬 Modern CR Research Facility
+ ### <a id="9f60"></a>🔬 Modern CR Research Facility
 
-**🪧 Place** in [Brickland Fortress](#f6d0)
+**🪧 Place** in [Brickland Fortress](../refs/brickland_fortress.md)
 
-A massive collaborative undertaking by the top engineers from [Cybernetics Inc](#80b0) and the best scientists of [Protectores Silva](#7a60) to create a multi-phasic containment and observation center. 
+A massive collaborative undertaking by the top engineers from [Cybernetics Inc](../refs/cybernetics_inc.md) and the best scientists of [Protectores Silva](../refs/protectores_silva.md) to create a multi-phasic containment and observation center. 
 
 Solar run and with networking backed by the Admincity power grid in the heart of the ruins of brickland fortress.
 
@@ -2445,13 +2444,13 @@ aliases:
 
 ----------
 
-<a id="#18c0"></a> 
+
 ----------
- ###  🏦 Money Factory
+ ### <a id="18c0"></a>🏦 Money Factory
 
-`🪧 Place` in [Imperial Swamp](#0740)
+`🪧 Place` in [Imperial Swamp](../refs/imperial_swamp.md)
 
-Built by [Delta Collective](#8bc0) on eon 465.
+Built by [Delta Collective](../refs/delta_collective.md) on eon 465.
 
 Destroyed during the The Fall of Imperial Swamp on eon 596.
 
@@ -2462,13 +2461,13 @@ aliases:
 
 ----------
 
-<a id="#74a0"></a> 
+
 ----------
- ###  🎲 Monument to Chaos
+ ### <a id="74a0"></a>🎲 Monument to Chaos
 
-`🪧 Place` in [Chaotic Plains](#8a30)
+`🪧 Place` in [Chaotic Plains](../refs/chaotic_plains.md)
 
-Built on eon 565 by [Delta Collective](#8bc0)
+Built on eon 565 by [Delta Collective](../refs/delta_collective.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -2479,9 +2478,9 @@ aliases:
 
 ----------
 
-<a id="#7490"></a> 
+
 ----------
- ###  Mt. Pickles
+ ### <a id="7490"></a>Mt. Pickles
 
 `📃 To-do list`
 
@@ -2500,25 +2499,25 @@ aliases:
 
 ----------
 
-<a id="#cbe0"></a> 
+
 ----------
- ###  MindTech Triquetra
+ ### <a id="cbe0"></a>MindTech Triquetra
 
 `📑 Term`
 
-Officially adopted on eon 768 by the [Council of Minds](#7c90), these symbols are derived from the ancient [MindTech](#6550) symbols used in the times of the [First Capital](#5570).
+Officially adopted on eon 768 by the [Council of Minds](../refs/council_of_minds.md), these symbols are derived from the ancient [MindTech](../refs/mindtech_institute.md) symbols used in the times of the [First Capital](../refs/first_capital.md).
 
 The following meanings are assigned to these symbols:
 
-**The triquetra** the main symbol of the faction, symbolizes the tree [towers of MindTech Institute](#ea90).
+**The triquetra** the main symbol of the faction, symbolizes the tree [towers of MindTech Institute](../refs/institute_fortress_inner.md).
 
 **The surrounding circle** - for the control _MindTech_ has over the towers, and a reference to the mystic 4th tower.
 
 **The triangle** further emphasises the unity of the towers, as well as the movement forward and forms the letter "M" with the white side-bands.
 
-**The orange color** is the main color of the faction, derived from the **sands of the [Timeless Desert](#0130)** - sacred MT land.
+**The orange color** is the main color of the faction, derived from the **sands of the [Timeless Desert](../refs/timeless_desert.md)** - sacred MT land.
 
-**The black color** used exclusively on war flags and banners is the symbol of destruction and sacrifice the war brings, and a reference to [Corruption](#a2b0) that arose from MT lands.
+**The black color** used exclusively on war flags and banners is the symbol of destruction and sacrifice the war brings, and a reference to [Corruption](../refs/corruption.md) that arose from MT lands.
 
 > **Official MT flag**  
 > (main version, used for diplomatic and ceremonial purposes)
@@ -2538,25 +2537,25 @@ aliases: MindTech Triquetra, MindTech Flags, MindTech Banners
 
 ----------
 
-<a id="#cbe0"></a> 
+
 ----------
- ###  MindTech Flags
+ ### <a id="cbe0"></a>MindTech Flags
 
 `📑 Term`
 
-Officially adopted on eon 768 by the [Council of Minds](#7c90), these symbols are derived from the ancient [MindTech](#6550) symbols used in the times of the [First Capital](#5570).
+Officially adopted on eon 768 by the [Council of Minds](../refs/council_of_minds.md), these symbols are derived from the ancient [MindTech](../refs/mindtech_institute.md) symbols used in the times of the [First Capital](../refs/first_capital.md).
 
 The following meanings are assigned to these symbols:
 
-**The triquetra** the main symbol of the faction, symbolizes the tree [towers of MindTech Institute](#ea90).
+**The triquetra** the main symbol of the faction, symbolizes the tree [towers of MindTech Institute](../refs/institute_fortress_inner.md).
 
 **The surrounding circle** - for the control _MindTech_ has over the towers, and a reference to the mystic 4th tower.
 
 **The triangle** further emphasises the unity of the towers, as well as the movement forward and forms the letter "M" with the white side-bands.
 
-**The orange color** is the main color of the faction, derived from the **sands of the [Timeless Desert](#0130)** - sacred MT land.
+**The orange color** is the main color of the faction, derived from the **sands of the [Timeless Desert](../refs/timeless_desert.md)** - sacred MT land.
 
-**The black color** used exclusively on war flags and banners is the symbol of destruction and sacrifice the war brings, and a reference to [Corruption](#a2b0) that arose from MT lands.
+**The black color** used exclusively on war flags and banners is the symbol of destruction and sacrifice the war brings, and a reference to [Corruption](../refs/corruption.md) that arose from MT lands.
 
 > **Official MT flag**  
 > (main version, used for diplomatic and ceremonial purposes)
@@ -2576,25 +2575,25 @@ aliases: MindTech Triquetra, MindTech Flags, MindTech Banners
 
 ----------
 
-<a id="#cbe0"></a> 
+
 ----------
- ###  MindTech Banners
+ ### <a id="cbe0"></a>MindTech Banners
 
 `📑 Term`
 
-Officially adopted on eon 768 by the [Council of Minds](#7c90), these symbols are derived from the ancient [MindTech](#6550) symbols used in the times of the [First Capital](#5570).
+Officially adopted on eon 768 by the [Council of Minds](../refs/council_of_minds.md), these symbols are derived from the ancient [MindTech](../refs/mindtech_institute.md) symbols used in the times of the [First Capital](../refs/first_capital.md).
 
 The following meanings are assigned to these symbols:
 
-**The triquetra** the main symbol of the faction, symbolizes the tree [towers of MindTech Institute](#ea90).
+**The triquetra** the main symbol of the faction, symbolizes the tree [towers of MindTech Institute](../refs/institute_fortress_inner.md).
 
 **The surrounding circle** - for the control _MindTech_ has over the towers, and a reference to the mystic 4th tower.
 
 **The triangle** further emphasises the unity of the towers, as well as the movement forward and forms the letter "M" with the white side-bands.
 
-**The orange color** is the main color of the faction, derived from the **sands of the [Timeless Desert](#0130)** - sacred MT land.
+**The orange color** is the main color of the faction, derived from the **sands of the [Timeless Desert](../refs/timeless_desert.md)** - sacred MT land.
 
-**The black color** used exclusively on war flags and banners is the symbol of destruction and sacrifice the war brings, and a reference to [Corruption](#a2b0) that arose from MT lands.
+**The black color** used exclusively on war flags and banners is the symbol of destruction and sacrifice the war brings, and a reference to [Corruption](../refs/corruption.md) that arose from MT lands.
 
 > **Official MT flag**  
 > (main version, used for diplomatic and ceremonial purposes)
@@ -2614,25 +2613,25 @@ aliases: MindTech Triquetra, MindTech Flags, MindTech Banners
 
 ----------
 
-<a id="#cbe0"></a> 
+
 ----------
- ###  MindTech Symbology
+ ### <a id="cbe0"></a>MindTech Symbology
 
 `📑 Term`
 
-Officially adopted on eon 768 by the [Council of Minds](#7c90), these symbols are derived from the ancient [MindTech](#6550) symbols used in the times of the [First Capital](#5570).
+Officially adopted on eon 768 by the [Council of Minds](../refs/council_of_minds.md), these symbols are derived from the ancient [MindTech](../refs/mindtech_institute.md) symbols used in the times of the [First Capital](../refs/first_capital.md).
 
 The following meanings are assigned to these symbols:
 
-**The triquetra** the main symbol of the faction, symbolizes the tree [towers of MindTech Institute](#ea90).
+**The triquetra** the main symbol of the faction, symbolizes the tree [towers of MindTech Institute](../refs/institute_fortress_inner.md).
 
 **The surrounding circle** - for the control _MindTech_ has over the towers, and a reference to the mystic 4th tower.
 
 **The triangle** further emphasises the unity of the towers, as well as the movement forward and forms the letter "M" with the white side-bands.
 
-**The orange color** is the main color of the faction, derived from the **sands of the [Timeless Desert](#0130)** - sacred MT land.
+**The orange color** is the main color of the faction, derived from the **sands of the [Timeless Desert](../refs/timeless_desert.md)** - sacred MT land.
 
-**The black color** used exclusively on war flags and banners is the symbol of destruction and sacrifice the war brings, and a reference to [Corruption](#a2b0) that arose from MT lands.
+**The black color** used exclusively on war flags and banners is the symbol of destruction and sacrifice the war brings, and a reference to [Corruption](../refs/corruption.md) that arose from MT lands.
 
 > **Official MT flag**  
 > (main version, used for diplomatic and ceremonial purposes)
@@ -2652,13 +2651,13 @@ aliases: MindTech Triquetra, MindTech Flags, MindTech Banners
 
 ----------
 
-<a id="#50e0"></a> 
+
 ----------
- ###  💾 Museum of Archaic Technology
+ ### <a id="50e0"></a>💾 Museum of Archaic Technology
 
-`🪧 Place` in [Singularity Valley](#dd30)
+`🪧 Place` in [Singularity Valley](../refs/singularity_valley.md)
 
-Built on eon 504 by [Cybernetics Inc](#80b0) in honour of the [Great AI](#fd60).
+Built on eon 504 by [Cybernetics Inc](../refs/cybernetics_inc.md) in honour of the [Great AI](../refs/great_ai.md).
 
 <!---
 keywords:  ci, singularity valley
@@ -2667,17 +2666,17 @@ aliases:
 
 ----------
 
-<a id="#6c20"></a> 
+
 ----------
- ###  🏛️ Museum of the Old Capital
+ ### <a id="6c20"></a>🏛️ Museum of the Old Capital
 
 `🖼️ Landmark`
 
-Constructed on eon 761, the Museum contains the ancient [MindTech Institute](#6550) artifacts retrieved from the place of its first capital - [A'as Forest](#dd50), such as scrolls, archives, book, art and much more.
+Constructed on eon 761, the Museum contains the ancient [MindTech Institute](../refs/mindtech_institute.md) artifacts retrieved from the place of its first capital - [A'as Forest](../refs/aas_forest.md), such as scrolls, archives, book, art and much more.
 
 This museum is believed to host the greatest collection of historical artifacts and knowledge on the whole Zeithalt Island, as it presents the results of meticulous work done by generations of MindTech scholars.
 
-From the Shaushka runes describing the foundation of the [First Capital](#5570), to the detailed maps of the old ruins of [A'as Forest](#dd50) created ceonturies after its fall - the museum hosts it all, while the work to restore and rediscover the secrets of the _First Capital_ continues within its walls.
+From the Shaushka runes describing the foundation of the [First Capital](../refs/first_capital.md), to the detailed maps of the old ruins of [A'as Forest](../refs/aas_forest.md) created ceonturies after its fall - the museum hosts it all, while the work to restore and rediscover the secrets of the _First Capital_ continues within its walls.
 
 <!---
 keywords: neuropolis, mt, aas
@@ -2686,17 +2685,17 @@ aliases:
 
 ----------
 
-<a id="#6d30"></a> 
-----------
- ###  --- Mimbot's Index ---
-
-You can access the full alphabetized list of all Mimbot's pages [via this link](#d680).
 
 ----------
+ ### <a id="6d30"></a>--- Mimbot's Index ---
 
-<a id="#74f0"></a> 
+You can access the full alphabetized list of all Mimbot's pages [via this link](../refs/index.md).
+
 ----------
- ###  Mineral Resources
+
+
+----------
+ ### <a id="74f0"></a>Mineral Resources
 
 **📑 Term**
 
@@ -2709,7 +2708,7 @@ They're divided into 3 broad categories:
 
 Factions have learned to use these resources to their advantage in battles in Special Operations.
 
-There's also a fourth category of resources - [Temporal Resources](#6590) or (TMP), exclusively found in the [Timeless Desert](#0130).
+There's also a fourth category of resources - [Temporal Resources](../refs/temporal_resources.md) or (TMP), exclusively found in the [Timeless Desert](../refs/timeless_desert.md).
 <!---
 keywords: sci, min, erg, tmp, science, mineral, energy, temporal
 aliases: Science Resources, Mineral Resources, Energy Resources
@@ -2717,9 +2716,9 @@ aliases: Science Resources, Mineral Resources, Energy Resources
 
 ----------
 
-<a id="#b870"></a> 
+
 ----------
- ###  Neuropolis
+ ### <a id="b870"></a>Neuropolis
 
 `🖼️ Landmark`
 
@@ -2728,9 +2727,9 @@ The famed "house of wisdom and intelligence", the capital region of the Mindtech
 What they hold most importance of is their universities, libraries, museums, research centers, et cetera. All of which contains knowledge of the past and present, which help make a better future for the faction.
 
 The two giant bronze statues near the river entrance depicting the ancient and forgotten kings is one of the great landmarks they have to offer, which also tells those who travel by water that they have reached Neuropolis.
-It is said that these statues were hundreds of years old and was build by the previous mental brotherhood when they moved the capital from the [A’as Forest](#dd50).
+It is said that these statues were hundreds of years old and was build by the previous mental brotherhood when they moved the capital from the [A’as Forest](../refs/aas_forest.md).
 
-But what holds the greatest importance to them is the [Cortexian Hall](#a610), situated at the center point of the Cerebrime Peak.
+But what holds the greatest importance to them is the [Cortexian Hall](../refs/cortexian_hall.md), situated at the center point of the Cerebrime Peak.
 
 In here, many of the greatest minds come and tell what they have found from researches and expeditions, and talk about problems that the country is and may be facing to find the solution in the best manner possible.
 It contains many ancient books and scrolls that dates back to when the capital was still in the A'as Forest. It's also where the current leaders of the faction are staying.
@@ -2742,15 +2741,15 @@ aliases:
 
 ----------
 
-<a id="#3820"></a> 
+
 ----------
- ###  📰 News HQ
+ ### <a id="3820"></a>📰 News HQ
 
-**🪧 Place** in [Admincity](#1a00)
+**🪧 Place** in [Admincity](../refs/admincity.md)
 
-The headquarters of [Zeithalt Zeitgeist](#fad0) newspaper and primary residence of its owner and editor [Alexx](#9a30).
+The headquarters of [Zeithalt Zeitgeist](../refs/zeithalt_zeitgeist.md) newspaper and primary residence of its owner and editor [Alexx](../refs/alexx.md).
 
-Located in a scenic location near [Lake Corsair](#bca0), in Admincity area.
+Located in a scenic location near [Lake Corsair](../refs/lake_corsair.md), in Admincity area.
 
 <!---
 keywords: ci, admincity, zeithalt, zeitgeist, newspaper, alexx, lake, corsair
@@ -2759,9 +2758,9 @@ aliases:
 
 ----------
 
-<a id="#8840"></a> 
+
 ----------
- ###  Oblivion Mire
+ ### <a id="8840"></a>Oblivion Mire
 
 `🖼️ Landmark`
 
@@ -2781,9 +2780,9 @@ aliases:
 
 ----------
 
-<a id="#e810"></a> 
+
 ----------
- ###  Ogrodnik
+ ### <a id="e810"></a>Ogrodnik
 
 `📃 To-do list`
 
@@ -2802,9 +2801,9 @@ aliases:
 
 ----------
 
-<a id="#c080"></a> 
+
 ----------
- ###  Ozimud
+ ### <a id="c080"></a>Ozimud
 
 **🧙‍♂️ Character**
 
@@ -2819,9 +2818,9 @@ aliases:
 
 ----------
 
-<a id="#cb50"></a> 
+
 ----------
- ###  Paradox PAss
+ ### <a id="cb50"></a>Paradox PAss
 
 `🖼️ Landmark`
 
@@ -2841,15 +2840,15 @@ aliases:
 
 ----------
 
-<a id="#3910"></a> 
-----------
- ###  🎡 Particle Collitionist
 
-**🪧 Place** in [Timeless Desert](#0130)
+----------
+ ### <a id="3910"></a>🎡 Particle Collitionist
+
+**🪧 Place** in [Timeless Desert](../refs/timeless_desert.md)
 
 The Particle Collider Of Little Light Items To Include Occupation Nonsense In Sands of Time (Particle COLLITIONIST) is the island's largest and only high-energy particle collider.
 
-It was built by the Arcology Building for Operators of Desert Experiments (ABODE)  under supervision of [MindTech Institute](#6550) and with the help of other factions. Construction took place between E454 and E463.
+It was built by the Arcology Building for Operators of Desert Experiments (ABODE)  under supervision of [MindTech Institute](../refs/mindtech_institute.md) and with the help of other factions. Construction took place between E454 and E463.
 
 It lies in a tunnel 34 kilometres (which in miles is 21) in circumference and as deep as 150 metres (which in inches is a different number) beneath the Timeless-Pickles border.
 
@@ -2860,9 +2859,9 @@ aliases:
 
 ----------
 
-<a id="#db50"></a> 
+
 ----------
- ###  Peace Death Gorge
+ ### <a id="db50"></a>Peace Death Gorge
 
 `📃 To-do list`
 
@@ -2881,9 +2880,9 @@ aliases:
 
 ----------
 
-<a id="#f6f0"></a> 
+
 ----------
- ###  PEBKAC Peak
+ ### <a id="f6f0"></a>PEBKAC Peak
 
 `📃 To-do list`
 
@@ -2902,13 +2901,13 @@ aliases:
 
 ----------
 
-<a id="#e470"></a> 
+
 ----------
- ###  🌿 Photosynthetic Power Station
+ ### <a id="e470"></a>🌿 Photosynthetic Power Station
 
-**🪧 Place** in [A'as Forest](#dd50)
+**🪧 Place** in [A'as Forest](../refs/aas_forest.md)
 
-PPS in short, this building was one of the first construction and scientific projects completed by [Protectores Silva](#7a60), in Eon 457.
+PPS in short, this building was one of the first construction and scientific projects completed by [Protectores Silva](../refs/protectores_silva.md), in Eon 457.
 
 As the name itself suggests, the installation uses trees to transform solar energy into chemical, and then, thanks to technology specially developed as part of this project, into electricity.
 
@@ -2921,13 +2920,13 @@ aliases:
 
 ----------
 
-<a id="#ae70"></a> 
+
 ----------
- ###  ⛽️ Pickled Ooblek Deli
+ ### <a id="ae70"></a>⛽️ Pickled Ooblek Deli
 
-`🪧 Place` in [Mt. Pickles](#7490)
+`🪧 Place` in [Mt. Pickles](../refs/mt_pickles.md)
 
-Built on eon 555 by [Cybernetics Inc](#80b0)
+Built on eon 555 by [Cybernetics Inc](../refs/cybernetics_inc.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -2938,13 +2937,13 @@ aliases:
 
 ----------
 
-<a id="#a810"></a> 
+
 ----------
- ###  🏴‍☠️ Pirate Harbor
+ ### <a id="a810"></a>🏴‍☠️ Pirate Harbor
 
-`🪧 Place` in [Purple Deeps](#3911)
+`🪧 Place` in [Purple Deeps](../refs/purple_deeps.md)
 
-Build on eon 479 by [Delta Collective](#8bc0)
+Build on eon 479 by [Delta Collective](../refs/delta_collective.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -2955,13 +2954,13 @@ aliases:
 
 ----------
 
-<a id="#b910"></a> 
+
 ----------
- ###  🍕 PIZZA
+ ### <a id="b910"></a>🍕 PIZZA
 
-**🪧 Place** in [Brickland Fortress](#f6d0)
+**🪧 Place** in [Brickland Fortress](../refs/brickland_fortress.md)
 
-Pizza Installation Zesty Zahrada Arena (PIZZA for short) is a pizza place in Brickland Fortress built by [Protectores Silva](#7a60) in Eon 506.
+Pizza Installation Zesty Zahrada Arena (PIZZA for short) is a pizza place in Brickland Fortress built by [Protectores Silva](../refs/protectores_silva.md) in Eon 506.
 
 Besides offering delicious pizzas it also has arcade games and serves as a center for freedom of speech in Zeithalt.
 
@@ -2972,13 +2971,13 @@ aliases:
 
 ----------
 
-<a id="#fc70"></a> 
+
 ----------
- ###  Pierre's Porous Pickle Porch
+ ### <a id="fc70"></a>Pierre's Porous Pickle Porch
 
 **📑 Term**
 
-Pierre's Porous Pickle Porch (also known as PPPP or 4P) is a business formerly owned by Cloudy Co. made to exploit and sell pickle-related products from [Mt. Pickles](#7490) ranging from fun merchandise and gifts, but the majority of the income comes from pickle-related culinary products, this includes the famous Pierre's Fried Pickles and the Emergent Picklette, a pickle-mixed omelette made during the Peculiar Battle on Mt. Pickles
+Pierre's Porous Pickle Porch (also known as PPPP or 4P) is a business formerly owned by Cloudy Co. made to exploit and sell pickle-related products from [Mt. Pickles](../refs/mt_pickles.md) ranging from fun merchandise and gifts, but the majority of the income comes from pickle-related culinary products, this includes the famous Pierre's Fried Pickles and the Emergent Picklette, a pickle-mixed omelette made during the Peculiar Battle on Mt. Pickles
 
 Pierre Porph Pickleson, the owner of 4P has been running 4P for the majority of his life with his now-late wife Pamela Pickleson, throughout his life he was always fond of pickles and to be able to find land that is named after Pickle was his dream come true, he now resides on Mt. Pickles where he runs his business.
 
@@ -2989,17 +2988,17 @@ aliases:
 
 ----------
 
-<a id="#9850"></a> 
+
 ----------
- ###  🚷 Prefrenial Prefect (Prison)
+ ### <a id="9850"></a>🚷 Prefrenial Prefect (Prison)
 
-`🪧 Place` in [Xyrclaox Watch](#b9a0)
+`🪧 Place` in [Xyrclaox Watch](../refs/xyrclaox_watch.md)
 
-The biggest and the most guarded prison built by [MindTech Institute](#6550). 
+The biggest and the most guarded prison built by [MindTech Institute](../refs/mindtech_institute.md). 
 
 It is said that once you get in here, it would take you days to get out, even if you're not a prisoner.
 
-Modernized by [MindTech Institute](#6550) on eon 735.
+Modernized by [MindTech Institute](../refs/mindtech_institute.md) on eon 735.
 
 <!---
 keywords:  mt, xyrclaox watch, prison
@@ -3008,17 +3007,17 @@ aliases:
 
 ----------
 
-<a id="#e4e0"></a> 
+
 ----------
- ###  🪓 Prehistoric Axe
+ ### <a id="e4e0"></a>🪓 Prehistoric Axe
 
 `📜 Item`
 
-A crude battleaxe wielded by [Dino Saurex](#8f50).
+A crude battleaxe wielded by [Dino Saurex](../refs/curious_dino.md).
 
 It is crafted from the very same meteorite that destroyed Dino's hometown. An event, after which the dinoman vowed to "fight the space back and avenge his family" - a promise which, 9-year-old Dino at the time, would later in life find very hard to keep.
 
-Started just as a piece of iron ore tied to a stick; this axe underwent many transformations made by numerous dubious smiths over its lifespan, until it eventually ended up in the masterful hands of the Chief Smith of the MindTech [House of Craftsmanship](#1b90).
+Started just as a piece of iron ore tied to a stick; this axe underwent many transformations made by numerous dubious smiths over its lifespan, until it eventually ended up in the masterful hands of the Chief Smith of the MindTech [House of Craftsmanship](../refs/house_of_craftsmanship.md).
 
 That's when the axe was finally transformed into a weapon worthy to be wielded by a faction leader.
 
@@ -3031,9 +3030,9 @@ aliases:
 
 ----------
 
-<a id="#7a60"></a> 
+
 ----------
- ###  PS
+ ### <a id="7a60"></a>PS
 
 **🪪 Faction**
 
@@ -3042,7 +3041,7 @@ Protectores Silva (PS) - a newer faction on the island, founded in former MT lan
 Capital city - **Cerene Vale**.
 
 Synopsis:
-> *Zeithalt is changing, under threat from unnatural disturbances and behavior (see [Corruption](#a2b0)). We must protect her and live in balance with nature to thrive long-term.*
+> *Zeithalt is changing, under threat from unnatural disturbances and behavior (see [Corruption](../refs/corruption.md)). We must protect her and live in balance with nature to thrive long-term.*
 
 <!---
 keywords: ps
@@ -3051,9 +3050,9 @@ aliases: PS, Tree Huggers
 
 ----------
 
-<a id="#7a60"></a> 
+
 ----------
- ###  Protectores Silva
+ ### <a id="7a60"></a>Protectores Silva
 
 **🪪 Faction**
 
@@ -3062,7 +3061,7 @@ Protectores Silva (PS) - a newer faction on the island, founded in former MT lan
 Capital city - **Cerene Vale**.
 
 Synopsis:
-> *Zeithalt is changing, under threat from unnatural disturbances and behavior (see [Corruption](#a2b0)). We must protect her and live in balance with nature to thrive long-term.*
+> *Zeithalt is changing, under threat from unnatural disturbances and behavior (see [Corruption](../refs/corruption.md)). We must protect her and live in balance with nature to thrive long-term.*
 
 <!---
 keywords: ps
@@ -3071,9 +3070,9 @@ aliases: PS, Tree Huggers
 
 ----------
 
-<a id="#e4f0"></a> 
+
 ----------
- ###  PTSD
+ ### <a id="e4f0"></a>PTSD
 
 **📑 Term**
 
@@ -3090,13 +3089,13 @@ aliases:
 
 ----------
 
-<a id="#aaf0"></a> 
+
 ----------
- ###  💰 PTSD Office
+ ### <a id="aaf0"></a>💰 PTSD Office
 
-**🪧 Place** in [Cerene Vale](#3850)
+**🪧 Place** in [Cerene Vale](../refs/cerene_vale.md)
 
-The main administrative building of PS Taxes & Stuff Department ([PTSD](#e4f0)), built Eon 468 in Cerene Vale.
+The main administrative building of PS Taxes & Stuff Department ([PTSD](../refs/ptsd.md)), built Eon 468 in Cerene Vale.
 
 <!---
 keywords: ps, cerene, vale, taxes, stuff, department, ptsd
@@ -3105,9 +3104,9 @@ aliases:
 
 ----------
 
-<a id="#3911"></a> 
+
 ----------
- ###  Purple Deeps
+ ### <a id="3911"></a>Purple Deeps
 
 `🖼️ Landmark`
 
@@ -3127,13 +3126,13 @@ aliases:
 
 ----------
 
-<a id="#f880"></a> 
+
 ----------
- ###  🛰️ Quantum Nexus Laboratory
+ ### <a id="f880"></a>🛰️ Quantum Nexus Laboratory
 
-`🪧 Place` in [Illusion Cliffs](#e630)
+`🪧 Place` in [Illusion Cliffs](../refs/illusion_cliffs.md)
 
-Built on eon 503 by [MindTech Institute](#6550)
+Built on eon 503 by [MindTech Institute](../refs/mindtech_institute.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -3144,9 +3143,9 @@ aliases:
 
 ----------
 
-<a id="#4270"></a> 
+
 ----------
- ###  Rebels
+ ### <a id="4270"></a>Rebels
 
 **🪪 Group**
 
@@ -3159,9 +3158,9 @@ aliases:
 
 ----------
 
-<a id="#74f0"></a> 
+
 ----------
- ###  Resources (RES)
+ ### <a id="74f0"></a>Resources (RES)
 
 **📑 Term**
 
@@ -3174,7 +3173,7 @@ They're divided into 3 broad categories:
 
 Factions have learned to use these resources to their advantage in battles in Special Operations.
 
-There's also a fourth category of resources - [Temporal Resources](#6590) or (TMP), exclusively found in the [Timeless Desert](#0130).
+There's also a fourth category of resources - [Temporal Resources](../refs/temporal_resources.md) or (TMP), exclusively found in the [Timeless Desert](../refs/timeless_desert.md).
 <!---
 keywords: sci, min, erg, tmp, science, mineral, energy, temporal
 aliases: Science Resources, Mineral Resources, Energy Resources
@@ -3182,13 +3181,13 @@ aliases: Science Resources, Mineral Resources, Energy Resources
 
 ----------
 
-<a id="#7a61"></a> 
+
 ----------
- ###  🏭 Resource Management Facility
+ ### <a id="7a61"></a>🏭 Resource Management Facility
 
-**🪧 Place** in [Admincity](#1a00)
+**🪧 Place** in [Admincity](../refs/admincity.md)
 
-The operational center of Gaia Biosphere Project. It is HQ of Chief Engineer in [Cybernetics Inc](#80b0), an authority that oversees all resources, funding, building, and organisation needed to build and maintain the Gaia Biosphere Project.
+The operational center of Gaia Biosphere Project. It is HQ of Chief Engineer in [Cybernetics Inc](../refs/cybernetics_inc.md), an authority that oversees all resources, funding, building, and organisation needed to build and maintain the Gaia Biosphere Project.
 
 The Resource Management Facility is also responsible for managing all the resources in CI-controlled lands, and serves as a control center and basis of operations for other construction projects.
 
@@ -3199,17 +3198,17 @@ aliases:
 
 ----------
 
-<a id="#9ff1"></a> 
+
 ----------
- ###  Revalx
+ ### <a id="9ff1"></a>Revalx
 
 `🧙‍♂️ Character`
 
 Reticula Valxion (/Reh-ti-cyu-lah Valk-see-on/), or Revalx (/Reh-valks/), is a strategist and field tactician who leads multiple squads of various members in the battlefield. 
 
-A former Minister of Defense during his time in MindTech Institute, he assumes the position as a Tactical Field Commander of the [Valkyrie Spec Ops](#3660), an independent mercenary service.
+A former Minister of Defense during his time in MindTech Institute, he assumes the position as a Tactical Field Commander of the [Valkyrie Spec Ops](../refs/valkyrie_specops.md), an independent mercenary service.
 
-He co-founded the [Fighters Guild](#ee30) with other prominent sellswords and act as a proxy on the behalf of his squads to fund their combat operations.
+He co-founded the [Fighters Guild](../refs/fighters_guild.md) with other prominent sellswords and act as a proxy on the behalf of his squads to fund their combat operations.
 
 
 <!---
@@ -3219,9 +3218,9 @@ aliases:
 
 ----------
 
-<a id="#9930"></a> 
+
 ----------
- ###  Relics
+ ### <a id="9930"></a>Relics
 
 **📑 Term**
 
@@ -3241,9 +3240,9 @@ aliases: Weapons, Armor, Relics
 
 ----------
 
-<a id="#74f0"></a> 
+
 ----------
- ###  Science Resources
+ ### <a id="74f0"></a>Science Resources
 
 **📑 Term**
 
@@ -3256,7 +3255,7 @@ They're divided into 3 broad categories:
 
 Factions have learned to use these resources to their advantage in battles in Special Operations.
 
-There's also a fourth category of resources - [Temporal Resources](#6590) or (TMP), exclusively found in the [Timeless Desert](#0130).
+There's also a fourth category of resources - [Temporal Resources](../refs/temporal_resources.md) or (TMP), exclusively found in the [Timeless Desert](../refs/timeless_desert.md).
 <!---
 keywords: sci, min, erg, tmp, science, mineral, energy, temporal
 aliases: Science Resources, Mineral Resources, Energy Resources
@@ -3264,9 +3263,9 @@ aliases: Science Resources, Mineral Resources, Energy Resources
 
 ----------
 
-<a id="#0090"></a> 
+
 ----------
- ###  Saboteur
+ ### <a id="0090"></a>Saboteur
 
 **📑 Term**
 
@@ -3278,9 +3277,9 @@ keywords: battle, unit
 
 ----------
 
-<a id="#7e11"></a> 
+
 ----------
- ###  Sazhra
+ ### <a id="7e11"></a>Sazhra
 
 **🧙‍♂️ Character**
 
@@ -3295,9 +3294,9 @@ aliases:
 
 ----------
 
-<a id="#3ec0"></a> 
+
 ----------
- ###  Sellswords
+ ### <a id="3ec0"></a>Sellswords
 
 **🪪 Group**
 
@@ -3312,17 +3311,17 @@ aliases:
 
 ----------
 
-<a id="#1780"></a> 
-----------
- ###  🍺 Seven Roads Inn
 
-`🖼️ Landmark` in [Paradox Pass](#cb50)
+----------
+ ### <a id="1780"></a>🍺 Seven Roads Inn
+
+`🖼️ Landmark` in [Paradox Pass](../refs/paradox_pass.md)
 
 Seven Roads is an inn and a tavern in Paradox Pass owned by the [Stonehaver](../refs/stonehavers) family and currently run by Young Olly Stonehaver.
 
-It sits near the crossroads where a lesser known, but important [Syncrax Road](#7d60) branches off from the famous [Axonite Road](#a740) in a nearly perfect place for a tavern: no matter from which direction the traveler is arriving, as long as they set off at the break of dawn - they would reach the Seven Road Inn shortly before nightfall.
+It sits near the crossroads where a lesser known, but important [Syncrax Road](../refs/syncrax_road.md) branches off from the famous [Axonite Road](../refs/axonite_road.md) in a nearly perfect place for a tavern: no matter from which direction the traveler is arriving, as long as they set off at the break of dawn - they would reach the Seven Road Inn shortly before nightfall.
 
-Due to this clever location, the Seven Roads Inn became a preferred resting place for generations of people travelling the [MindTech](#6550) lands, and rightfully evokes many warn feelings in the hearts of travelers.
+Due to this clever location, the Seven Roads Inn became a preferred resting place for generations of people travelling the [MindTech](../refs/mindtech_institute.md) lands, and rightfully evokes many warn feelings in the hearts of travelers.
 
 ![Seven Roads Inn](../refs/img/seven_roads_inn.png)
 <!---
@@ -3332,9 +3331,9 @@ aliases:
 
 ----------
 
-<a id="#f4e0"></a> 
+
 ----------
- ###  Shaxx
+ ### <a id="f4e0"></a>Shaxx
 
 `🧙‍♂️ Character`
 
@@ -3349,9 +3348,9 @@ aliases:
 
 ----------
 
-<a id="#3480"></a> 
+
 ----------
- ###  Silvans
+ ### <a id="3480"></a>Silvans
 
 **📑 Term**
 
@@ -3364,19 +3363,19 @@ aliases:
 
 ----------
 
-<a id="#dd30"></a> 
+
 ----------
- ###  Singularity Valley
+ ### <a id="dd30"></a>Singularity Valley
 
 `🖼️ Landmark`
 
-Singularity Valley is so named because it is the birthplace of the [Great AI](#fd60). 
+Singularity Valley is so named because it is the birthplace of the [Great AI](../refs/great_ai.md). 
 
 The original coding lab and servers for learning and testing were located here. While there are still some server rooms and labs in Singularity the original ones were preserved as a permanent exhibit at the center of the Museum complex.
 
-This museum complex is the single most culturally significant structure to to [Cybernetics Inc](#80b0) and while certainly not all, many young engineers make a pilgrimage journey to see and learn about the technology that brought us to where we are now.
+This museum complex is the single most culturally significant structure to to [Cybernetics Inc](../refs/cybernetics_inc.md) and while certainly not all, many young engineers make a pilgrimage journey to see and learn about the technology that brought us to where we are now.
 
-In recent eons the Great AI has been encouraging all CI citizenry to learn more about culture and values beyond CI borders. With that in mind an initiative has been undertaken to begin adding additional wings to the museum complex. The hope is that one day any of CI engineers who will be helping shape and train [the Algorithms](#fd60) of our future will be better equipped to do so with a universal mindset for the good of all who live in Zeithalt.
+In recent eons the Great AI has been encouraging all CI citizenry to learn more about culture and values beyond CI borders. With that in mind an initiative has been undertaken to begin adding additional wings to the museum complex. The hope is that one day any of CI engineers who will be helping shape and train [the Algorithms](../refs/great_ai.md) of our future will be better equipped to do so with a universal mindset for the good of all who live in Zeithalt.
 
 <!---
 keywords: ci, landmark, great ai
@@ -3385,13 +3384,13 @@ aliases:
 
 ----------
 
-<a id="#c210"></a> 
+
 ----------
- ###  🧜‍♀️ Siren's Lighthouse
+ ### <a id="c210"></a>🧜‍♀️ Siren's Lighthouse
 
-`🪧 Place` in [Dev Null Marsh](#1070)
+`🪧 Place` in [Dev Null Marsh](../refs/dev_null_marsh.md)
 
-Built on eon 509 by [Delta Collective](#8bc0)
+Built on eon 509 by [Delta Collective](../refs/delta_collective.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -3402,17 +3401,17 @@ aliases:
 
 ----------
 
-<a id="#39b0"></a> 
+
 ----------
- ###  💡 SmartHome Tech
+ ### <a id="39b0"></a>💡 SmartHome Tech
 
-`🪧 Place` in [Neuropolis](#b870)
+`🪧 Place` in [Neuropolis](../refs/neuropolis.md)
 
-Built by [Cybernetics Inc](#80b0) on eon 457 during restoration of MT capital soon after [the siege](../timeline/eon0384.md).
+Built by [Cybernetics Inc](../refs/cybernetics_inc.md) on eon 457 during restoration of MT capital soon after [the siege](../timeline/eon0384.md).
 
-This project brought the whole districts of [Neuropolis](#b870) up to the modern standard of infrastructure, greatly increasing the living conditions of lower-class citizens.
+This project brought the whole districts of [Neuropolis](../refs/neuropolis.md) up to the modern standard of infrastructure, greatly increasing the living conditions of lower-class citizens.
 
-However, at the same time it is vastly criticised as a project enforced by [Cybernetics Inc](#80b0) against [MindTech Institute](#6550) will, and even partially aimed at diluting the unique culture of the MindTech capital.
+However, at the same time it is vastly criticised as a project enforced by [Cybernetics Inc](../refs/cybernetics_inc.md) against [MindTech Institute](../refs/mindtech_institute.md) will, and even partially aimed at diluting the unique culture of the MindTech capital.
 
 <!---
 keywords: neuropolis 
@@ -3421,11 +3420,11 @@ aliases:
 
 ----------
 
-<a id="#6760"></a> 
-----------
- ###  👤 SMURF
 
-**🪧 Place** in [Ares Gardens](#fff0)
+----------
+ ### <a id="6760"></a>👤 SMURF
+
+**🪧 Place** in [Ares Gardens](../refs/ares_gardens.md)
 
 SMURF stands for Sustainable Mineral Usage Regarding Forests and was built by Protectores Silva in Ares Gardens Eon 550.
 
@@ -3438,9 +3437,9 @@ aliases:
 
 ----------
 
-<a id="#53e0"></a> 
+
 ----------
- ###  Something Tacensis Rock
+ ### <a id="53e0"></a>Something Tacensis Rock
 
 **🧙‍♂️ Character**
 
@@ -3455,9 +3454,9 @@ aliases:
 
 ----------
 
-<a id="#7850"></a> 
+
 ----------
- ###  Somnivale
+ ### <a id="7850"></a>Somnivale
 
 `📃 To-do list`
 
@@ -3476,9 +3475,9 @@ aliases:
 
 ----------
 
-<a id="#bda0"></a> 
+
 ----------
- ###  Southern Sea
+ ### <a id="bda0"></a>Southern Sea
 
 `📃 To-do list`
 
@@ -3496,13 +3495,13 @@ aliases:
 
 ----------
 
-<a id="#6690"></a> 
+
 ----------
- ###  🛸 Spaceport
+ ### <a id="6690"></a>🛸 Spaceport
 
-`🪧 Place` in [Chaotic Plains](#8a30)
+`🪧 Place` in [Chaotic Plains](../refs/chaotic_plains.md)
 
-Built on eon 492 by [Delta Collective](#8bc0)
+Built on eon 492 by [Delta Collective](../refs/delta_collective.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -3513,13 +3512,13 @@ aliases:
 
 ----------
 
-<a id="#25b0"></a> 
+
 ----------
- ###  🗽 Statue of Mimb
+ ### <a id="25b0"></a>🗽 Statue of Mimb
 
-`🪧 Place` in [Cerene Vale](#3850)
+`🪧 Place` in [Cerene Vale](../refs/cerene_vale.md)
 
-Built on eon 727 by [Protectores Silva](#7a60)
+Built on eon 727 by [Protectores Silva](../refs/protectores_silva.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -3530,13 +3529,13 @@ aliases:
 
 ----------
 
-<a id="#3d30"></a> 
+
 ----------
- ###  Stonehavers (family)
+ ### <a id="3d30"></a>Stonehavers (family)
 
 `🪪 Family`
 
-A family of innkeepers that own the [Seven Roads Inn](#1780) in [Paradox Pass](#cb50).
+A family of innkeepers that own the [Seven Roads Inn](../refs/seven_roads_inn.md) in [Paradox Pass](../refs/paradox_pass.md).
 
 _Oliver "Old Olly" Stonehaver_ is the most famous of the family, to many older travelers he's known as *the* innkeeper for his years of service in the Inn.
 
@@ -3549,9 +3548,9 @@ aliases:
 
 ----------
 
-<a id="#e390"></a> 
+
 ----------
- ###  Support
+ ### <a id="e390"></a>Support
 
 **📑 Term**
 
@@ -3564,9 +3563,9 @@ aliases:
 
 ----------
 
-<a id="#7cc0"></a> 
+
 ----------
- ###  Synaxos Fields
+ ### <a id="7cc0"></a>Synaxos Fields
 
 `🖼️ Landmark`
 
@@ -3591,13 +3590,13 @@ aliases:
 
 ----------
 
-<a id="#7d60"></a> 
+
 ----------
- ###  Syncrax Road
+ ### <a id="7d60"></a>Syncrax Road
 
 `🪧 Place`
 
-The second-largest road in [Paradox Pass](#cb50) - that connects the northern regions of [Xyrclaox Watch](#b9a0) and [Synaxos Fields](#7cc0) to the [Axonite Road](#a740) and therefore to the rest of the [MindTech Institute](#6550) lands.
+The second-largest road in [Paradox Pass](../refs/paradox_pass.md) - that connects the northern regions of [Xyrclaox Watch](../refs/xyrclaox_watch.md) and [Synaxos Fields](../refs/synaxos_fields.md) to the [Axonite Road](../refs/axonite_road.md) and therefore to the rest of the [MindTech Institute](../refs/mindtech_institute.md) lands.
 
 <!---
 keywords:  
@@ -3606,21 +3605,21 @@ aliases:
 
 ----------
 
-<a id="#5480"></a> 
+
 ----------
- ###  The Arcanum
+ ### <a id="5480"></a>The Arcanum
 
 `📑 Term`
 
-**The Arcanum**, also known as "The Secret Book" and "The Book of Secrets" is rumored to be the most important book in [MindTech Institute](#6550)'s teachings.
+**The Arcanum**, also known as "The Secret Book" and "The Book of Secrets" is rumored to be the most important book in [MindTech Institute](../refs/mindtech_institute.md)'s teachings.
 
-It is associated first and foremost with the [Masters of the Council](#7c90).
+It is associated first and foremost with the [Masters of the Council](../refs/council_of_minds.md).
 
 The common understanding is that each of the Masters has their own unique version of the book. This is indirectly proven by the lectures given in the Institute: even when Masters speak of the same topics, theirs readings of the book are vastly different.
 
 The Arcanum cannot be read by anyone but the Masters of the Council, and the exact contents of it remain a closely guarded secret.
 
-This paves the way for many conspiracy theories ranging from relatively modest - Masters starting to write their own version of the Arcanum when accepted into the Council; and to the obscure ones as the book being *[Timeless](#0130)* with each of the Masters reading literally different versions of it.
+This paves the way for many conspiracy theories ranging from relatively modest - Masters starting to write their own version of the Arcanum when accepted into the Council; and to the obscure ones as the book being *[Timeless](../refs/timeless_desert.md)* with each of the Masters reading literally different versions of it.
 
 However, the most prevalent theory is actually a running joke that the book is in fact empty, and Masters are making up their lectures on the spot.
 
@@ -3633,17 +3632,17 @@ aliases:
 
 ----------
 
-<a id="#a610"></a> 
+
 ----------
- ###  The Great Auditorium
+ ### <a id="a610"></a>The Great Auditorium
 
-`🖼️ Landmark` in [Neuropolis](#b870)
+`🖼️ Landmark` in [Neuropolis](../refs/neuropolis.md)
 
-A complex of administrative buildings situated at the center point of the Cerebrime Peak in [Neuropolis](#b870).
+A complex of administrative buildings situated at the center point of the Cerebrime Peak in [Neuropolis](../refs/neuropolis.md).
 
-Cortexian Hall servers as a permanent residence for the [Council of Minds](#7c90), as well as the greatest archive of official documents in MT lands, and a living quarters for the Masters of the Council.
+Cortexian Hall servers as a permanent residence for the [Council of Minds](../refs/council_of_minds.md), as well as the greatest archive of official documents in MT lands, and a living quarters for the Masters of the Council.
 
-It contains many ancient books and scrolls that date back to when the capital was still in the [A'as Forest](#dd50).
+It contains many ancient books and scrolls that date back to when the capital was still in the [A'as Forest](../refs/aas_forest.md).
 
 The Great Auditorium where the Council holds their meetings is one of the biggest indoor spaces of the island.
 
@@ -3656,9 +3655,9 @@ aliases: The Great Auditorium
 
 ----------
 
-<a id="#fd60"></a> 
+
 ----------
- ###  The Algorithms
+ ### <a id="fd60"></a>The Algorithms
 
 `📃 To-do list`
 
@@ -3677,20 +3676,20 @@ aliases: The Algorithms
 
 ----------
 
-<a id="#ea90"></a> 
+
 ----------
- ###  Towers of MindTech Institute
+ ### <a id="ea90"></a>Towers of MindTech Institute
 
 `🪧 Place`
 
-It is a thirty-storey building with a vaguely triangular plan, surrounded by the [outer walls](#8a90). At each corner stands a tower, different from the others in shape and size.
+It is a thirty-storey building with a vaguely triangular plan, surrounded by the [outer walls](../refs/institute_fortress_outer.md). At each corner stands a tower, different from the others in shape and size.
 
-The building houses the seat of government: the [Council of Minds](#7c90). Many rooms are not open to the public and their use is unknown.
+The building houses the seat of government: the [Council of Minds](../refs/council_of_minds.md). Many rooms are not open to the public and their use is unknown.
 
 The Towers, distinguished by a colour, are: 
 - the *Orange Tower*, which hosts the students, candidates to be part of the Institute.
-- the *Blue Tower* is reserved for members of the Institute who study the culture of the southwestern faction, [Delta Collective](#8bc0).
-- finally, the *Green Tower* hosts the members who deal with everything related to the northern faction, [Cybernetics Inc](#80b0).
+- the *Blue Tower* is reserved for members of the Institute who study the culture of the southwestern faction, [Delta Collective](../refs/delta_collective.md).
+- finally, the *Green Tower* hosts the members who deal with everything related to the northern faction, [Cybernetics Inc](../refs/cybernetics_inc.md).
 
 - Lessons relating to the faction being studied take place in the Blue and Green Towers.
 
@@ -3707,9 +3706,9 @@ aliases: Towers of MindTech Institute
 
 ----------
 
-<a id="#7a60"></a> 
+
 ----------
- ###  Tree Huggers
+ ### <a id="7a60"></a>Tree Huggers
 
 **🪪 Faction**
 
@@ -3718,7 +3717,7 @@ Protectores Silva (PS) - a newer faction on the island, founded in former MT lan
 Capital city - **Cerene Vale**.
 
 Synopsis:
-> *Zeithalt is changing, under threat from unnatural disturbances and behavior (see [Corruption](#a2b0)). We must protect her and live in balance with nature to thrive long-term.*
+> *Zeithalt is changing, under threat from unnatural disturbances and behavior (see [Corruption](../refs/corruption.md)). We must protect her and live in balance with nature to thrive long-term.*
 
 <!---
 keywords: ps
@@ -3727,13 +3726,13 @@ aliases: PS, Tree Huggers
 
 ----------
 
-<a id="#f840"></a> 
+
 ----------
- ###  🪩 The Sacred Sphere
+ ### <a id="f840"></a>🪩 The Sacred Sphere
 
-`🪧 Place` in [Indigo Shore](#7a70)
+`🪧 Place` in [Indigo Shore](../refs/indigo_shore.md)
 
-Built on eon 538 by [Delta Collective](#8bc0)
+Built on eon 538 by [Delta Collective](../refs/delta_collective.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -3744,13 +3743,13 @@ aliases:
 
 ----------
 
-<a id="#02e0"></a> 
+
 ----------
- ###  🫖 Tea Emporium
+ ### <a id="02e0"></a>🫖 Tea Emporium
 
-`🪧 Place` in [PEBKAC Peak](#f6f0)
+`🪧 Place` in [PEBKAC Peak](../refs/pebkac_peak.md)
 
-Built on eon 516 by [Cybernetics Inc](#80b0)
+Built on eon 516 by [Cybernetics Inc](../refs/cybernetics_inc.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -3761,13 +3760,13 @@ aliases:
 
 ----------
 
-<a id="#c980"></a> 
+
 ----------
- ###  Teleport
+ ### <a id="c980"></a>Teleport
 
-`🪧 Place` in [Purple Deeps](#3911)
+`🪧 Place` in [Purple Deeps](../refs/purple_deeps.md)
 
-Build on eon 736 by [Delta Collective](#8bc0).
+Build on eon 736 by [Delta Collective](../refs/delta_collective.md).
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -3778,15 +3777,15 @@ aliases:
 
 ----------
 
-<a id="#6590"></a> 
+
 ----------
- ###  Temporal Resources
+ ### <a id="6590"></a>Temporal Resources
 
 **📑 Term**
 
-Or TMP for short, refers to the sands of [Timeless Desert](#0130) which possess unique _time-bending_ properties.
+Or TMP for short, refers to the sands of [Timeless Desert](../refs/timeless_desert.md) which possess unique _time-bending_ properties.
 
-For example, TMP can be transmuted into any other kind of resources and is known to be used in [Chronoglass](#e320) production.
+For example, TMP can be transmuted into any other kind of resources and is known to be used in [Chronoglass](../refs/chronoglass.md) production.
 
 <!---
 keywords: tmp, timeless, desert, sands, chronoglass
@@ -3795,9 +3794,9 @@ aliases:
 
 ----------
 
-<a id="#0130"></a> 
+
 ----------
- ###  Timeless Desert
+ ### <a id="0130"></a>Timeless Desert
 
 `🖼️ Landmark`
 
@@ -3816,19 +3815,19 @@ aliases:
 
 ----------
 
-<a id="#22a0"></a> 
+
 ----------
- ###  Timeless Waystone
+ ### <a id="22a0"></a>Timeless Waystone
 
 `📜 Item`
 
 > (Scientific Name: *Isynthillicus Cyrciniae*)
 
-Also known as the "Pathfinder Stone", this ancient gemstone is created at the [center-point](#0130) of the lands of Zeithalt by the continuous pressure given by the physical and mystical force above and below the land.
+Also known as the "Pathfinder Stone", this ancient gemstone is created at the [center-point](../refs/timeless_desert.md) of the lands of Zeithalt by the continuous pressure given by the physical and mystical force above and below the land.
 
 The stone emanates a bright white light when first seen that will make the beholder temporarily immune or lengthen any illusionary and temporal effects, depending on the will of the holder. Although the quality of the stone may affect how strong the effectivity would be.
 
-These stones, though, are very rare due to it taking hundreds of years to form and being very difficult to find as the [Desert](#0130) where they are made are famous for being a place where you can easily get lost or lose your way, leading to many adventurers never coming back.
+These stones, though, are very rare due to it taking hundreds of years to form and being very difficult to find as the [Desert](../refs/timeless_desert.md) where they are made are famous for being a place where you can easily get lost or lose your way, leading to many adventurers never coming back.
 
 ![Timeless Waystone](../refs/img/timeless_waystone.png)
 
@@ -3839,9 +3838,9 @@ aliases: Isynthillicus Cyrciniae
 
 ----------
 
-<a id="#1e30"></a> 
+
 ----------
- ###  Timeline
+ ### <a id="1e30"></a>Timeline
 
 `📑 Term`
 
@@ -3856,9 +3855,9 @@ aliases:
 
 ----------
 
-<a id="#a310"></a> 
+
 ----------
- ###  To do "a Bumps"
+ ### <a id="a310"></a>To do "a Bumps"
 
 `📃 To-do list`
 
@@ -3877,9 +3876,9 @@ aliases:
 
 ----------
 
-<a id="#0680"></a> 
+
 ----------
- ###  To do "a Loki"
+ ### <a id="0680"></a>To do "a Loki"
 
 `📃 To-do list`
 
@@ -3898,11 +3897,11 @@ aliases:
 
 ----------
 
-<a id="#64c0"></a> 
-----------
- ###  🌳 Tree of Many Inquiries
 
-**🪧 Place** in [Cybertron Jungle](#b9b0)
+----------
+ ### <a id="64c0"></a>🌳 Tree of Many Inquiries
+
+**🪧 Place** in [Cybertron Jungle](../refs/cybertron_jungle.md)
 
 The Tree of Many Inquiries (TMI) is a huge oak tree that was discovered by PS in the depths of Cybertron Jungle in Eon 472.
 
@@ -3919,13 +3918,13 @@ aliases:
 
 ----------
 
-<a id="#1fa0"></a> 
+
 ----------
- ###  🌺 Underground Botanical Garden
+ ### <a id="1fa0"></a>🌺 Underground Botanical Garden
 
-**🪧 Place** in [A'as Forest](#dd50)
+**🪧 Place** in [A'as Forest](../refs/aas_forest.md)
 
-Built in Eon 509 by [Protectores Silva](#7a60), the garden serves as a refuge for numerous species of plants and animals coming from all over the Zeithalt.
+Built in Eon 509 by [Protectores Silva](../refs/protectores_silva.md), the garden serves as a refuge for numerous species of plants and animals coming from all over the Zeithalt.
 
 Due to dense, ancient forests overgrowing surface of A'as, the Botanical Garden was built as an underground complex of huge grottos, illuminated mostly thanks to system composed of luminous plants and mirrors.
 
@@ -3938,13 +3937,13 @@ aliases:
 
 ----------
 
-<a id="#e851"></a> 
+
 ----------
- ###  ⚙️ Underwater Turbine Power Plant
+ ### <a id="e851"></a>⚙️ Underwater Turbine Power Plant
 
-`🪧 Place` in [Virtuara Outpost](#6e00)
+`🪧 Place` in [Virtuara Outpost](../refs/virtuara_outpost.md)
 
-Built on eon 579 by [Cybernetics Inc](#80b0)
+Built on eon 579 by [Cybernetics Inc](../refs/cybernetics_inc.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -3955,19 +3954,19 @@ aliases:
 
 ----------
 
-<a id="#6ad0"></a> 
+
 ----------
- ###  🦄 UniCorn™️ Farmlands
+ ### <a id="6ad0"></a>🦄 UniCorn™️ Farmlands
 
 `🖼️ Landmark`
 
 UniCorn was a relatively unknown family-owned farm that produced corn and related products.
 
-The brand became known to a wider audience across the island with their hype product - _UniCorn Blood Whiskey_ the ad-campaign for which was based on the trending at the time rumors of [hexAgon](#f910) being a baby unicorn blood drinker.
+The brand became known to a wider audience across the island with their hype product - _UniCorn Blood Whiskey_ the ad-campaign for which was based on the trending at the time rumors of [hexAgon](../refs/hexagon.md) being a baby unicorn blood drinker.
 
 The company made this hoax into a reality, even featuring the hexAgon himself in one of their ads.
 
-Even though there were no huge successes since then, it's still considered a business of local importance for the region of [Synaxos Fields](#7cc0).
+Even though there were no huge successes since then, it's still considered a business of local importance for the region of [Synaxos Fields](../refs/synaxos_fields.md).
 
 <!---
 keywords:  synaxos fields
@@ -3976,13 +3975,13 @@ aliases:
 
 ----------
 
-<a id="#8de0"></a> 
+
 ----------
- ###  🥡 Valhalla Bar
+ ### <a id="8de0"></a>🥡 Valhalla Bar
 
-`🪧 Place` in [Oblivion Mire](#8840)
+`🪧 Place` in [Oblivion Mire](../refs/oblivion_mire.md)
 
-Build on eon 480 by [MindTech Institute](#6550)
+Build on eon 480 by [MindTech Institute](../refs/mindtech_institute.md)
 
 <!---
 keywords:  mt, oblivion mire
@@ -3991,15 +3990,15 @@ aliases:
 
 ----------
 
-<a id="#3660"></a> 
+
 ----------
- ###  Valkyrie Spec Ops
+ ### <a id="3660"></a>Valkyrie Spec Ops
 
 `📑 Term`
 
-Valkyrie Special Operations Squad is an independent mercenary service, led by a mysterious strategic leadership. The tactical field operations are supervised by [Revalx](#9ff1), who manages the members of the Valkyries.
+Valkyrie Special Operations Squad is an independent mercenary service, led by a mysterious strategic leadership. The tactical field operations are supervised by [Revalx](../refs/revalx.md), who manages the members of the Valkyries.
 
-Initially, there were no proper pricing scheme, only running on opinion-based discourse to determine their alignment in battles. When Revalx co-founded the [Fighters Guild](#ee30) alongside other  prominent sellswords, the service now accepts formal paid contracts as provided by the Guild.
+Initially, there were no proper pricing scheme, only running on opinion-based discourse to determine their alignment in battles. When Revalx co-founded the [Fighters Guild](../refs/fighters_guild.md) alongside other  prominent sellswords, the service now accepts formal paid contracts as provided by the Guild.
 
 <!---
 keywords: revalx, valkyrie, mercenary, fighters guild
@@ -4008,9 +4007,9 @@ aliases:
 
 ----------
 
-<a id="#6e00"></a> 
+
 ----------
- ###  Virtuara Outpost
+ ### <a id="6e00"></a>Virtuara Outpost
 
 `📃 To-do list`
 
@@ -4029,13 +4028,13 @@ aliases:
 
 ----------
 
-<a id="#3e80"></a> 
+
 ----------
- ###  🦈 Void Shark Hatchery
+ ### <a id="3e80"></a>🦈 Void Shark Hatchery
 
-`🪧 Place` in [Dev Null Marsh](#1070)
+`🪧 Place` in [Dev Null Marsh](../refs/dev_null_marsh.md)
 
-Built on eon 554 by [Delta Collective](#8bc0)
+Built on eon 554 by [Delta Collective](../refs/delta_collective.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -4046,13 +4045,13 @@ aliases:
 
 ----------
 
-<a id="#16d0"></a> 
+
 ----------
- ###  ♨️ Volcanic Jacuzzi
+ ### <a id="16d0"></a>♨️ Volcanic Jacuzzi
 
-`🪧 Place` in [Peace Death Gorge](#db50)
+`🪧 Place` in [Peace Death Gorge](../refs/peace_death_gorge.md)
 
-Built on eon 724 by [Delta Collective](#8bc0)
+Built on eon 724 by [Delta Collective](../refs/delta_collective.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -4063,13 +4062,13 @@ aliases:
 
 ----------
 
-<a id="#0780"></a> 
+
 ----------
- ###  🌋 Volcano Influeno
+ ### <a id="0780"></a>🌋 Volcano Influeno
 
-`🪧 Place` in [Peace Death Gorge](#db50)
+`🪧 Place` in [Peace Death Gorge](../refs/peace_death_gorge.md)
 
-Discovered on eon 501 by [Delta Collective](#8bc0)
+Discovered on eon 501 by [Delta Collective](../refs/delta_collective.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -4080,17 +4079,17 @@ aliases:
 
 ----------
 
-<a id="#f6d0"></a> 
+
 ----------
- ###  Western Brickland
+ ### <a id="f6d0"></a>Western Brickland
 
 `🖼️ Landmark`
 
 Brickland Fortress is a harsh, mostly mountainous region acting as a buffer between the lands of the east and west.
 
-It features huge mountain ranges that start on the south-easternmost border with the [Chaotic Plains](#8a30), extend into the middle part of the region, and then slowly bend in a U-shape toward [Mt. Pickles](#7490) as they divide the land into two parts: Eastern and Western Brickland.
+It features huge mountain ranges that start on the south-easternmost border with the [Chaotic Plains](../refs/chaotic_plains.md), extend into the middle part of the region, and then slowly bend in a U-shape toward [Mt. Pickles](../refs/mt_pickles.md) as they divide the land into two parts: Eastern and Western Brickland.
 
-The mountain ranges, which are named as [Brickspire Mountains](#50d0), house small amounts of gold and iron mines. However they also house the main economic source of the entire region - its numerous stone quarries.
+The mountain ranges, which are named as [Brickspire Mountains](../refs/brickspire_mountains.md), house small amounts of gold and iron mines. However they also house the main economic source of the entire region - its numerous stone quarries.
 
 The high quality stones are mined from quarries used both locally, as well as exported into different regions to supply a factions' demand for building materials.
 
@@ -4098,15 +4097,15 @@ There are numerous small fortifications scattered all around the Brickspire Moun
 
 However, the main force that defends the entire region and acts as a one giant gate between the Western and Eastern parts is the Brickland Fortress itself. It is located in the tallest mountain of the entire region, has an enormous size and equally gorgeous appearance.
 
-Although nowadays this fortress gives the name to the whole region, it is believed that during the [Age of Darkness](#b750) nomadic people had a different name for their home. Sadly that name is now forgotten and lost in time.
+Although nowadays this fortress gives the name to the whole region, it is believed that during the [Age of Darkness](../refs/age_of_darkness.md) nomadic people had a different name for their home. Sadly that name is now forgotten and lost in time.
 
 Western Brickland is a smaller part of the region. 
 
 It consists of mostly hills and small mountains with the exception of small flat area shaped like a triangle connecting to the vast expanses of Chaotic Plains. While not many people reside here compared to its eastern counterpart, there are still a few small villages scattered around the area.
 
-Eastern Brickland, in addition to being a larger part, has much more life and greenery. The number of mountains and the overall height of the region starts decreasing as it gets closer to Oblivion Mire and Cerene Vale. The mountains and hills are eventually replaced by a number of small forests along the borders with Cerene Vale and the [Southern Sea](#bda0).
+Eastern Brickland, in addition to being a larger part, has much more life and greenery. The number of mountains and the overall height of the region starts decreasing as it gets closer to Oblivion Mire and Cerene Vale. The mountains and hills are eventually replaced by a number of small forests along the borders with Cerene Vale and the [Southern Sea](../refs/southern_sea.md).
 
-The majority of Brickland Fortress's population lives in the Eastern Part - in its villages, but mainly in [Meadowridge](#c860) - the largest town of the entire region.
+The majority of Brickland Fortress's population lives in the Eastern Part - in its villages, but mainly in [Meadowridge](../refs/meadowridge.md) - the largest town of the entire region.
 
 <!---
 keywords: ci, dc, landmark
@@ -4116,9 +4115,9 @@ aliases: Western Brickland, Eastern Brickland
 
 ----------
 
-<a id="#9930"></a> 
+
 ----------
- ###  Weapons
+ ### <a id="9930"></a>Weapons
 
 **📑 Term**
 
@@ -4138,9 +4137,9 @@ aliases: Weapons, Armor, Relics
 
 ----------
 
-<a id="#9930"></a> 
+
 ----------
- ###  WAR items
+ ### <a id="9930"></a>WAR items
 
 **📑 Term**
 
@@ -4160,19 +4159,19 @@ aliases: Weapons, Armor, Relics
 
 ----------
 
-<a id="#60b0"></a> 
-----------
- ###  Watchtower Ruins
 
-`🪧 Place` in [Xyrclaox Watch](#b9a0)
+----------
+ ### <a id="60b0"></a>Watchtower Ruins
+
+`🪧 Place` in [Xyrclaox Watch](../refs/xyrclaox_watch.md)
 
 Ruins of the very same watchtower that game the land its name. It once stood strong and overlooked the shores of Xyclaox Watch, hosting a watch guard to ward against any potential thread from the sea.
 
 Rumors say that at the time of construction it was the tallest structure on the whole island.
 
-The exact reason of its fall is lost in history, with versions ranging from it being destroyed in a battle, or as a result of one of the [CR Outbursts](#17b0).
+The exact reason of its fall is lost in history, with versions ranging from it being destroyed in a battle, or as a result of one of the [CR Outbursts](../refs/cr_fallout.md).
 
-Ruins reconstructed by [MindTech Institute](#6550) into a tourist attraction on eon 737.
+Ruins reconstructed by [MindTech Institute](../refs/mindtech_institute.md) into a tourist attraction on eon 737.
 
 <!---
 keywords:  mt, xyrclaox watch
@@ -4181,13 +4180,13 @@ aliases:
 
 ----------
 
-<a id="#a1d0"></a> 
+
 ----------
- ###  🎏 Weather Tower Relay
+ ### <a id="a1d0"></a>🎏 Weather Tower Relay
 
-`🪧 Place` in [Synaxos Fields](#7cc0)
+`🪧 Place` in [Synaxos Fields](../refs/synaxos_fields.md)
 
-Built on eon 586 by [Cybernetics Inc](#80b0)
+Built on eon 586 by [Cybernetics Inc](../refs/cybernetics_inc.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -4198,9 +4197,9 @@ aliases:
 
 ----------
 
-<a id="#ada0"></a> 
+
 ----------
- ###  Webified Hills
+ ### <a id="ada0"></a>Webified Hills
 
 `📃 To-do list`
 
@@ -4219,13 +4218,13 @@ aliases:
 
 ----------
 
-<a id="#ca80"></a> 
+
 ----------
- ###  🐅 Wildlife Preservation
+ ### <a id="ca80"></a>🐅 Wildlife Preservation
 
-`🪧 Place` in [Ares Gardens](#fff0)
+`🪧 Place` in [Ares Gardens](../refs/ares_gardens.md)
 
-Build on eon 480 by [Protectores Silva](#7a60)
+Build on eon 480 by [Protectores Silva](../refs/protectores_silva.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -4236,13 +4235,13 @@ aliases:
 
 ----------
 
-<a id="#0fd0"></a> 
+
 ----------
- ###  🌱 World Seed Pendant
+ ### <a id="0fd0"></a>🌱 World Seed Pendant
 
 `📜 Item`
 
-The World Seed Pendant is a relic thought to have been lost over the Eons until [Ozimud](#c080) discovered it in his search for artifacts. As he already had another ancient relic of his own, he trusted this one to [Airmanon](#0a70).
+The World Seed Pendant is a relic thought to have been lost over the Eons until [Ozimud](../refs/ozimud.md) discovered it in his search for artifacts. As he already had another ancient relic of his own, he trusted this one to [Airmanon](../refs/airmanon.md).
 
 The _World Seed Pendant_ was made with a seed that, according to local legend, was capable of growing into a tree capable of holding a world. Could such World Trees be able to create new lands out in the Oceans beyond Zeithalt Island? No one knows, and there's no way to break the Pendant to get the seed inside without destroying the seed itself. If another such seed could be found, however...
 
@@ -4253,13 +4252,13 @@ aliases:
 
 ----------
 
-<a id="#4d00"></a> 
+
 ----------
- ###  🎨 Xiavente's Meme Workshop
+ ### <a id="4d00"></a>🎨 Xiavente's Meme Workshop
 
-`🪧 Place` in [Paradox Pass](#cb50)
+`🪧 Place` in [Paradox Pass](../refs/paradox_pass.md)
 
-Built on eon 628 by [MindTech Institute](#6550)
+Built on eon 628 by [MindTech Institute](../refs/mindtech_institute.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -4270,9 +4269,9 @@ aliases:
 
 ----------
 
-<a id="#40a0"></a> 
+
 ----------
- ###  Xiavente
+ ### <a id="40a0"></a>Xiavente
 
 `📃 To-do list`
 
@@ -4291,9 +4290,9 @@ aliases:
 
 ----------
 
-<a id="#b9a0"></a> 
+
 ----------
- ###  Xyrclaox Watch
+ ### <a id="b9a0"></a>Xyrclaox Watch
 
 `🖼️ Landmark`
 
@@ -4303,7 +4302,7 @@ The training facilities here are made for those who wants to enter military or l
 
 A lot of the MindTech Institute leaders went here to train their minds not only in the league of knowledge and wisdom, but also in the forte of war tactics, demeanor, cunning, and many more.
 
-It also holds many places where those who break the law gets sentenced or punished, and kept. Which is the main reason why the place is always heavily guarded. The biggest prison in the faction, [Prefrenial Prefect](#9850), is the most heavily guarded, with layers and layers of walls in all walls, roofs, and floors. It is said that once you get in here, it would take you days to get out, even if you're not a prisoner.
+It also holds many places where those who break the law gets sentenced or punished, and kept. Which is the main reason why the place is always heavily guarded. The biggest prison in the faction, [Prefrenial Prefect](../refs/prefrenial_prefect.md), is the most heavily guarded, with layers and layers of walls in all walls, roofs, and floors. It is said that once you get in here, it would take you days to get out, even if you're not a prisoner.
 
 <!---
 keywords: mt, landmark
@@ -4312,9 +4311,9 @@ aliases:
 
 ----------
 
-<a id="#c480"></a> 
+
 ----------
- ###  You
+ ### <a id="c480"></a>You
 
 **🧙‍♂️ Character**
 
@@ -4329,13 +4328,13 @@ aliases:
 
 ----------
 
-<a id="#2e80"></a> 
+
 ----------
- ###  🦁 Zeithalt Pet Zoo and Animal Shelter
+ ### <a id="2e80"></a>🦁 Zeithalt Pet Zoo and Animal Shelter
 
-`🪧 Place` in [Paradox Pass](#cb50)
+`🪧 Place` in [Paradox Pass](../refs/paradox_pass.md)
 
-Built on eon 529 by [MindTech Institute](#6550)
+Built on eon 529 by [MindTech Institute](../refs/mindtech_institute.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -4346,9 +4345,9 @@ aliases:
 
 ----------
 
-<a id="#fad0"></a> 
+
 ----------
- ###  Zeithalt Zeitgeist newspaper
+ ### <a id="fad0"></a>Zeithalt Zeitgeist newspaper
 
 **📑 Term**
 
@@ -4361,13 +4360,13 @@ aliases: Double-Z
 
 ----------
 
-<a id="#e480"></a> 
+
 ----------
- ###  🗼 Zikkurat
+ ### <a id="e480"></a>🗼 Zikkurat
 
-`🪧 Place` in [Purple Deeps](#3911)
+`🪧 Place` in [Purple Deeps](../refs/purple_deeps.md)
 
-Built on eon 545 by [Delta Collective](#8bc0)
+Built on eon 545 by [Delta Collective](../refs/delta_collective.md)
 
 _This entry is considered incomplete - you can request more info for it [on discord](<https://discord.com/channels/562910943848169472/1173922660489633802>) or write it yourself_
 
@@ -4378,13 +4377,13 @@ aliases:
 
 ----------
 
-<a id="#4d60"></a> 
+
 ----------
- ###  🌟 ZIPP Lines
+ ### <a id="4d60"></a>🌟 ZIPP Lines
 
-**🪧 Place** in [Chaotic Plains](#8a30)
+**🪧 Place** in [Chaotic Plains](../refs/chaotic_plains.md)
 
-Built on eon 527 by [Cybernetics Inc](#80b0)
+Built on eon 527 by [Cybernetics Inc](../refs/cybernetics_inc.md)
 
 ZIPP Lines or Zeithalt Industry Protection Protocol Starline is a Safety Service providing everything from technical engineering support to personal accident protection services.
 

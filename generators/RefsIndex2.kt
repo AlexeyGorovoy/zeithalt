@@ -36,7 +36,8 @@ fun main() {
             } else {
                 aliases
             }
-            buildEntries(titles, file.name, textNoTitle)
+            val anchor = linkMap["../refs/${file.name}"] ?: ""
+            buildEntries(titles, textNoTitle, anchor)
         }
         ?.sortedBy { it.letter }
 
@@ -46,11 +47,9 @@ fun main() {
             lastLetter = entry.letter
             letters.add(entry.letter)
 
-            val anchor = linkMap[entry.link] ?: ""
-
             listOfNotNull(
                 if (newLetter) "### ${entry.letter}" else null,
-                "[${entry.title}](#$anchor)",
+                "[${entry.title}](#${entry.anchor})",
                 ""
             )
         }
@@ -68,11 +67,11 @@ fun main() {
     val sep = "\n----------\n"
 
     val texts = entries?.joinToString("\n") { entry ->
-        "<a id=\"${entry.link}\"></a> $sep ###  ${entry.title}\n${entry.text}\n$sep"
+        "$sep ### <a id=\"${entry.anchor}\"></a>${entry.title}\n${entry.text}\n$sep"
     }
 
-    val rIndexText = "# Index\n$reference$sep$reference$sep$content$sep\n$texts"
-        .replaceLinks(linkMap)
+    val rIndexText = "# Index\n$reference$sep$content$sep$reference$sep$texts"
+//        .replaceLinks(linkMap)
 
     val output = File("r/index.md")
     output.writeText(rIndexText)
@@ -110,8 +109,8 @@ private fun extractAliases(refText: String): List<String> {
 
 private fun buildEntries(
     titles: List<String>,
-    filename: String,
-    text: String
+    text: String,
+    anchor: String
 ): List<Entry2> {
     return titles.mapNotNull { title ->
         val letter = title.firstOrNull {
@@ -122,7 +121,7 @@ private fun buildEntries(
             Entry2(
                 letter = letter,
                 title = title,
-                link = "../refs/$filename",
+                anchor = anchor,
                 text = text
             )
         } else {
@@ -140,6 +139,6 @@ private fun String.replaceLinks(linkMap: Map<String, String>): String {
 data class Entry2(
     val letter: String,
     val title: String,
-    val link: String,
+    val anchor: String,
     val text: String
 )
