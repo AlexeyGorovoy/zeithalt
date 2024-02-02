@@ -67,10 +67,10 @@ fun main() {
     val sep = "\n----------\n"
 
     val texts = entries?.joinToString("\n") { entry ->
-        "$sep### <a id=\"${entry.anchor}\" href=\"${entry.anchor}\">↑</a> ${entry.title}\n${entry.text}\n"
+        "$sep### <a id=\"${entry.anchor}\" href=\"#${entry.letter}\">↑ ${entry.title}</a>\n${entry.text}\n"
     }
 
-    val rIndexText = "# Index\n$reference\n$content$sep$reference$texts"
+    val rIndexText = "# Zeithalt Lore Book\n$reference\n$content$sep$reference$texts"
         .replaceLinks(linkMap)
 
     val output = File("r/index.md")
