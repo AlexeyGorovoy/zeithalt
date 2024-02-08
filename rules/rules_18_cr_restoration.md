@@ -10,7 +10,7 @@ Upon successful completion, all stages will grant the faction which started it t
 
 Factions need to submit **/send_gm_action** to the GM to request the next stage of the Restoration Project.
 
-Please note that at last one battle has to happen after the land was lost to Corruption, as in-lore, the land is considered to be way too dangerous right after the CR Fallout happens. 
+Please note that at least one battle has to happen after the land was lost to Corruption, as in-lore, the land is considered to be way too dangerous right after the CR Fallout happens. 
 
 <!---
 keywords:  
