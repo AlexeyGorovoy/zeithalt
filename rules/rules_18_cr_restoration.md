@@ -1,4 +1,4 @@
-## 17. Post-CR Restoration
+## 18. Post-CR Restoration
 
 `📑 Battle Rules`
 

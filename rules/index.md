@@ -583,7 +583,7 @@ When the spec-op timer runs out, the faction which spent the most RES gets bonus
 keywords:  
 aliases: 
 -->
-## 17. Post-CR Restoration
+## 18. Post-CR Restoration
 
 `📑 Battle Rules`
 
