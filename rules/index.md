@@ -563,9 +563,9 @@ aliases:
 `📑 Battle Rules`
 
 Factions can start three types of special operations:
-- `🪨 Brutal Force` started from `🪨 Mineral Resources` 
-- `🧪 Special Tactics` started from `🧪 Science Resources`
-- `⚡️ Advanced Weapons` started from `⚡️ Energy Resources`
+- `🪨 Brutal Force` started from `🪨 Mineral Resources`, countered by `⚡️ ERG`
+- `🧪 Special Tactics` started from `🧪 Science Resources`, countered by `🪨 MIN`
+- `⚡️ Advanced Weapons` started from `⚡️ Energy Resources`, countered by `🧪 SCI`
 
 These weapons work a bit like rock-paper-scissors game: `🪨` beats `🧪` beats ️`⚡️` beats `🪨`.
 
@@ -578,6 +578,24 @@ To do that just type "min", "sci" or "erg". Optionally, you can specify the amou
 The cooldown on this action is **10s** enforced by the bot and the slowmode.
 
 When the spec-op timer runs out, the faction which spent the most RES gets bonus points equal to **what was spent by both sides**.
+
+<!---
+keywords:  
+aliases: 
+-->
+## 17. Post-CR Restoration
+
+`📑 Battle Rules`
+
+If factions lose the battle against Corruption, they can start a special action to restore the land. 
+
+This is a three-stage process, each of them is started using a [battle action point](#14-faction-actions-in-between-battles) and has an assigned gold price.
+
+Upon successful completion, all stages will grant the faction which started it the `☣️ CR Sample` item for their [corrupted artifacts](#13-corrupted-artefacts) research. 
+
+Factions need to submit **/send_gm_action** to the GM to request the next stage of the Restoration Project.
+
+Please note that at last one battle has to happen after the land was lost to Corruption, as in-lore, the land is considered to be way too dangerous right after the CR Fallout happens. 
 
 <!---
 keywords:  
