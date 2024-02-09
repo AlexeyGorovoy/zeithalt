@@ -334,6 +334,8 @@
 
 [🗽 Statue of Mimb](../refs/statue_of_mimb.md)
 
+[🌌 Stellarium](../refs/stellarium.md)
+
 [Stonehavers (family)](../refs/stonehavers.md)
 
 [Support](../refs/support.md)
