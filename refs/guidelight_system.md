@@ -12,6 +12,8 @@ The Guidelight System consists of two main routes:
 
 These paths mostly go along the same routes Mire's inhabitants use for ceonturies. However, the Guidelight System provides a reliable and relatively safe way to navigate these routes much quicker and without the need to employ local villagers as guides.
 
+![Guidelight System](../refs/img/guidelight_system.png)
+
 <!---
 keywords:  mt, oblivion mire
 aliases: 
