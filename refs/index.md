@@ -158,6 +158,8 @@
 
 [GreenOtter](../refs/greenotter.md)
 
+[🔦 Guidelight System](../refs/guidelight_system.md)
+
 ### H
 [Headmaster of the Institute](../refs/council_of_minds.md)
 
