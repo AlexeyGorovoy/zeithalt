@@ -37,6 +37,8 @@
 
 [🕯️ Beacon for the Light of Reason](../refs/beacon_of_reason.md)
 
+[Bloodvine](../refs/bloodvines.md)
+
 [Blue Screen Lagoon](../refs/blue_screen_lagoon.md)
 
 [Book of Balance](../refs/book_of_balance.md)
