@@ -19,7 +19,7 @@ type: battle
 number: 63
 place: AAS_FOREST
 -->
-## Eon 810 - Griding Battle of Peace Death Gorge
+## Eon 810 - Grinding Battle of Peace Death Gorge
 
 `⚔️ Battle` won by [Delta Collective](../refs/delta_collective.md)
 
