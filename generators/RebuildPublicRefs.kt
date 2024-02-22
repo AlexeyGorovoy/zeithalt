@@ -3,6 +3,10 @@ package generators
 import java.io.File
 
 fun main() {
+    rebuildRefsIndex()
+}
+
+fun rebuildRefsIndex() {
     println("Started!")
     val startTime = System.currentTimeMillis()
 
@@ -75,7 +79,7 @@ fun main() {
     val rIndexText = "# <a id=\"$topAnchor\"></a>Zeithalt Lore Book\n$reference\n$content\n$texts"
         .replaceLinks(linkMap)
 
-    val output = File("public_refs/index.md")
+    val output = File("docs/refs/index.md")
     output.writeText(rIndexText)
 
     val endTime = System.currentTimeMillis()
