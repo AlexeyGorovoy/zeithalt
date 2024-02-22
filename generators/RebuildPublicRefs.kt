@@ -3,10 +3,10 @@ package generators
 import java.io.File
 
 fun main() {
-    rebuildRefsIndex()
+    rebuildRefsIndex(rebuildLinkMap())
 }
 
-fun rebuildRefsIndex() {
+fun rebuildRefsIndex(linkMap: Map<String, String>) {
     println("Started!")
     val startTime = System.currentTimeMillis()
 
@@ -16,8 +16,6 @@ fun rebuildRefsIndex() {
     println("Found files: ${files?.size ?: "none"}")
 
     val topAnchor = "top"
-
-    val linkMap = rebuildLinkMap()
 
     val letters = mutableSetOf<String>()
     var lastLetter: String? = null
@@ -73,7 +71,7 @@ fun rebuildRefsIndex() {
     val sep = "\n----------\n"
 
     val texts = entries?.joinToString("\n") { entry ->
-        "$sep### <a id=\"${entry.anchor}\"></a>${entry.title}\n${entry.text}\n<a href=\"#${entry.letter.lowercase()}\">↑ Scroll up</a>"
+        "$sep### <a id=\"${entry.anchor}\"></a>${entry.title}\n${entry.text}\n<a href=\"#${entry.letter.lowercase()}\">⬆️ Scroll up</a>"
     }
 
     val rIndexText = "# <a id=\"$topAnchor\"></a>Zeithalt Lore Book\n$reference\n$content\n$texts"
