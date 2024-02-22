@@ -25,28 +25,37 @@ fun rebuildTimelineIndex (linkMap: Map<String, String>) {
                     .split("<!--")
                     .first()
                     .replace("## ", "## <a id=\"${ownAnchor}\"></a>")
-                    .apply {
-                           var startIndex = 0
+                    .run {
+                        var result = this
+                        var startIndex = 0
                         while (startIndex < length) {
-                            val start = indexOf("](", startIndex)
+                            val start = result.indexOf("](", startIndex)
                             if (start == -1) {
                                 break
                             }
-                            val end = indexOf(")", start)
-                            val link = substring(start + 3, end)
+
+                            val end = result.indexOf(")", start)
+                            val link = result.substring(start + 2, end)
 
                             when {
                                 link.contains("img") -> {
                                     /* skip */
                                 }
+                                link.contains("#") -> {
+                                    /* skip */
+                                }
                                 link.contains("refs") -> {
                                     val anchor = linkMap[link] ?: ""
-                                    replaceRange(start + 3, end, "../refs/#${anchor})")
+                                    if (start > result.length) {
+                                        println("oops")
+                                    }
+                                    result = result.replaceRange(start + 2, end, "../refs/#${anchor}")
                                 }
                             }
 
-                            startIndex = end
+                            startIndex++
                         }
+                        result
                     },
             )
         }
