@@ -2,9 +2,9 @@
 
 `⚔️ Battle` won by [MindTech Institute](../refs/mindtech_institute.md)
 
-It was a quick and decisive battle where the attacking MindTech forces were ahead of their opposition by a colossal margin.
+It was a quick and decisive battle in here the attacking MindTech forces were ahead of their opposition by a colossal margin.
 
-First of all, Minds prepared greatly for this battle, and attacked A'as from three sides simultaneously, almost trapping the opposing [PS](../refs/protectores_silva.md) and [CI](../refs/cybernetics_inc.md) troops in the process.
+First of all, Minds prepared greatly for this battle, and attacked [A'as Forest](../refs/aas_forest.md) from three sides simultaneously, almost trapping the opposing [Silvan](../refs/protectores_silva.md) and [Cybernetics'](../refs/cybernetics_inc.md) troops in the process.
 
 Secondly, _Minds_ were able to secure contracts with both [Fighters' Guild](../refs/fighters_guild.md) and [Cloudy Operatives](../refs/cloudy_operatives.md) to further increase their numbers.
 
