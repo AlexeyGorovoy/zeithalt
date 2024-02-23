@@ -11,6 +11,10 @@ enum class Destination(
     val refsImgDir: String,
     val timelineDir: String,
     val timelineMapDir: String,
+    val globalRefs: String,
+    val globalRefsImg: String,
+    val globalTimeline: String,
+    val globalTimelineMap: String
 ) {
     DOCS(
         targetRefsRoot = "docs/refs",
@@ -20,7 +24,11 @@ enum class Destination(
         refsFromTimelineDir = "../refs",
         refsImgDir = "refs/img",
         timelineDir = "../timeline",
-        timelineMapDir = "../../timeline/map"
+        timelineMapDir = "../../timeline/map",
+        globalRefs = "https://alexeygorovoy.github.io/zeithalt/refs/",
+        globalRefsImg = "https://alexeygorovoy.github.io/zeithalt/refs/img/",
+        globalTimeline = "https://alexeygorovoy.github.io/zeithalt/timeline/",
+        globalTimelineMap = "https://alexeygorovoy.github.io/zeithalt/timeline/map/"
     ),
     ZEITHALT_REPO(
         targetRefsRoot = "public_refs",
@@ -30,7 +38,11 @@ enum class Destination(
         refsFromTimelineDir = "../r",
         refsImgDir = "i",
         timelineDir = "../t",
-        timelineMapDir = "m"
+        timelineMapDir = "m",
+        globalRefs = "https://zeithalt.github.io/r/",
+        globalRefsImg = "https://zeithalt.github.io/r/i/",
+        globalTimeline = "https://zeithalt.github.io/t/",
+        globalTimelineMap = "https://zeithalt.github.io/t/m/"
     )
 }
 
@@ -72,10 +84,11 @@ private fun copyRefs(
             val anchor = linkMap["../refs/${file.name}"] ?: ""
 
             val updatedImgLinks = text
-                .replace("../refs/img", destination.refsImgReplacement)
-                .replace("../refs/", "${destination.refsSelfDir}/")
-                .replace("../timeline/", "${destination.timelineDir}/")
-                .replace(".md", ".html")
+//                .replace("../refs/img", destination.refsImgReplacement)
+//                .replace("../refs/", "${destination.refsSelfDir}/")
+//                .replace("../timeline/", "${destination.timelineDir}/")
+//                .replace(".md", ".html")
+                .replaceRefsWithGlobalLinks(destination, linkMap)
                 .split("<!---")
                 .first()
                 .plus("\n")
