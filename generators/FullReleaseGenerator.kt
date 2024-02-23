@@ -4,21 +4,33 @@ import java.io.File
 
 enum class Destination(
     val targetRefsRoot: String,
+    val targetTimelineRoot: String,
     val refsImgReplacement: String,
-    val refsDir: String,
-    val refsImgDir: String
+    val refsSelfDir: String,
+    val refsFromTimelineDir: String,
+    val refsImgDir: String,
+    val timelineDir: String,
+    val timelineMapDir: String,
 ) {
     DOCS(
         targetRefsRoot = "docs/refs",
+        targetTimelineRoot = "docs/timeline",
         refsImgReplacement = "../../refs/img",
-        refsDir = "../refs",
-        refsImgDir = "refs/img"
+        refsSelfDir = "../refs",
+        refsFromTimelineDir = "../refs",
+        refsImgDir = "refs/img",
+        timelineDir = "../timeline",
+        timelineMapDir = "../../timeline/map"
     ),
     ZEITHALT_REPO(
         targetRefsRoot = "public_refs",
+        targetTimelineRoot = "public_timeline",
         refsImgReplacement = "/i",
-        refsDir = "",
-        refsImgDir = "i"
+        refsSelfDir = "",
+        refsFromTimelineDir = "../r",
+        refsImgDir = "i",
+        timelineDir = "t",
+        timelineMapDir = "m"
     )
 }
 
@@ -26,7 +38,7 @@ fun main() {
     println("Started full release generation!")
     val startTime = System.currentTimeMillis()
 
-    generateFullRelease(Destination.DOCS)
+    generateFullRelease(Destination.ZEITHALT_REPO)
 
     val endTime = System.currentTimeMillis()
     println("Finished full release generation in ${endTime - startTime} ms")
@@ -38,11 +50,13 @@ private fun generateFullRelease(destination: Destination) {
     copyRefs(destination, linkMap)
     copyRefsImg(destination)
 
-    copyTimeline()
-    copyTimelineMap()
+    if (destination == Destination.DOCS) {
+        copyTimeline()
+    }
+    copyTimelineMap(destination)
 
     rebuildRefsIndex(destination, linkMap)
-    rebuildTimelineIndex(linkMap)
+    rebuildTimelineIndex(destination, linkMap)
 }
 
 private fun copyRefs(
@@ -59,12 +73,13 @@ private fun copyRefs(
 
             val updatedImgLinks = text
                 .replace("../refs/img", destination.refsImgReplacement)
-                .replace("../refs/", "${destination.refsDir}/")
+                .replace("../refs/", "${destination.refsSelfDir}/")
+                .replace("../timeline/", "${destination.timelineDir}/")
                 .split("<!---")
                 .first()
                 .plus("\n")
                 .plus("----------\n")
-                .plus("[⬅️ Back to index](${destination.refsDir}/index.md#${anchor}_s)")
+                .plus("[⬅️ Back to index](${destination.refsSelfDir}/index.md#${anchor}_s)")
 
             File("${destination.targetRefsRoot}/${file.name}")
                 .writeText(updatedImgLinks)
@@ -110,12 +125,14 @@ private fun copyTimeline() {
     println("Copied ${timeline?.size ?: "0"} timeline entries")
 }
 
-private fun copyTimelineMap() {
+private fun copyTimelineMap(
+    destination: Destination
+) {
     val timelineMap = File("timeline/map")
         .listFiles()
         ?.filter { it.isFile }
         ?.onEach { file ->
-            file.copyTo(File("docs/timeline/map/${file.name}"), overwrite = true)
+            file.copyTo(File("${destination.targetTimelineRoot}/${destination.timelineMapDir}/${file.name}"), overwrite = true)
         }
 
     println("Copied ${timelineMap?.size ?: "0"} timeline map images")

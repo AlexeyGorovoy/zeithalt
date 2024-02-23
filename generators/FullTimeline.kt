@@ -2,11 +2,10 @@ package generators
 
 import java.io.File
 
-fun main() {
-    rebuildTimelineIndex(rebuildLinkMap())
-}
-
-fun rebuildTimelineIndex (linkMap: Map<String, String>) {
+fun rebuildTimelineIndex (
+    destination: Destination,
+    linkMap: Map<String, String>
+) {
     println("Started!")
     val startTime = System.currentTimeMillis()
 
@@ -24,6 +23,8 @@ fun rebuildTimelineIndex (linkMap: Map<String, String>) {
                 file.readText()
                     .split("<!--")
                     .first()
+                    .replace("../refs/", "${destination.refsFromTimelineDir}/")
+//                    .replace("../timeline/", "${destination.timelineDir}/")
                     .replace("## ", "## <a id=\"${ownAnchor}\"></a>")
                     .run {
                         var result = this
@@ -61,7 +62,7 @@ fun rebuildTimelineIndex (linkMap: Map<String, String>) {
         }
         ?.joinToString("\n")
 
-    val output = File("docs/timeline/index.md")
+    val output = File("${destination.targetTimelineRoot}/index.md")
     output.writeText(links ?: "none")
 
     val endTime = System.currentTimeMillis()

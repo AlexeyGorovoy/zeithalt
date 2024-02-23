@@ -40,7 +40,7 @@ fun rebuildRefsIndex(
                 aliases
             }
             val anchor = linkMap["../refs/${file.name}"] ?: ""
-            buildEntries("${destination.refsDir}/${file.name}", titles, textNoTitle, anchor)
+            buildEntries("${destination.refsSelfDir}/${file.name}", titles, textNoTitle, anchor)
         }
         ?.sortedBy { it.letter }
 
