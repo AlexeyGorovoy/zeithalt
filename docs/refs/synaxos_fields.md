@@ -18,4 +18,4 @@ The people who come here are either businessmen or merchants who came to buy the
 
 
 ----------
-[⬅️ Back to index](../refs/#7cc0_s)
+[⬅️ Back to index](../refs/index.md#7cc0_s)

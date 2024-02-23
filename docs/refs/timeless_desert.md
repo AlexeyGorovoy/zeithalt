@@ -12,4 +12,4 @@ There are cases of people wandering the desert for months only to find they ther
 
 
 ----------
-[⬅️ Back to index](../refs/#0130_s)
+[⬅️ Back to index](../refs/index.md#0130_s)

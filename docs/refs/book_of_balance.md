@@ -14,4 +14,4 @@ It is customary among MindTech followers to give out copies of this book to frie
 
 
 ----------
-[⬅️ Back to index](../refs/#b710_s)
+[⬅️ Back to index](../refs/index.md#b710_s)

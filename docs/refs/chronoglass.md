@@ -13,4 +13,4 @@ People new to the chronoglass concept, can often be riddled by the question:
 
 
 ----------
-[⬅️ Back to index](../refs/#e320_s)
+[⬅️ Back to index](../refs/index.md#e320_s)

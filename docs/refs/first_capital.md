@@ -8,4 +8,4 @@ See also: [Museum of the Old Capital](../refs/museum_of_old_capital.md)
 
 
 ----------
-[⬅️ Back to index](../refs/#5570_s)
+[⬅️ Back to index](../refs/index.md#5570_s)

@@ -8,4 +8,4 @@ SMURFs primary goal is to make sure mineral resources harvested from forest area
 
 
 ----------
-[⬅️ Back to index](../refs/#6760_s)
+[⬅️ Back to index](../refs/index.md#6760_s)

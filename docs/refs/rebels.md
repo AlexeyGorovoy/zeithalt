@@ -6,4 +6,4 @@ Various anti-faction military groups around the island, some of them seeking to 
 
 
 ----------
-[⬅️ Back to index](../refs/#4270_s)
+[⬅️ Back to index](../refs/index.md#4270_s)

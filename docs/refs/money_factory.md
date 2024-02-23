@@ -8,4 +8,4 @@ Destroyed during the The Fall of Imperial Swamp on eon 596.
 
 
 ----------
-[⬅️ Back to index](../refs/#18c0_s)
+[⬅️ Back to index](../refs/index.md#18c0_s)

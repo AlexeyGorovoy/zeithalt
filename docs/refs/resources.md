@@ -14,4 +14,4 @@ Factions have learned to use these resources to their advantage in battles in Sp
 There's also a fourth category of resources - [Temporal Resources](../refs/temporal_resources.md) or (TMP), exclusively found in the [Timeless Desert](../refs/timeless_desert.md).
 
 ----------
-[⬅️ Back to index](../refs/#74f0_s)
+[⬅️ Back to index](../refs/index.md#74f0_s)

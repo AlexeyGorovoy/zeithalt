@@ -8,4 +8,4 @@ Eon 0 is the end of Age of Darkness and start of Age of Conquest.
 
 
 ----------
-[⬅️ Back to index](../refs/#b750_s)
+[⬅️ Back to index](../refs/index.md#b750_s)

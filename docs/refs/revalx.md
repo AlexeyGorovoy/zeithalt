@@ -11,4 +11,4 @@ He co-founded the [Fighters Guild](../refs/fighters_guild.md) with other promine
 
 
 ----------
-[⬅️ Back to index](../refs/#9ff1_s)
+[⬅️ Back to index](../refs/index.md#9ff1_s)

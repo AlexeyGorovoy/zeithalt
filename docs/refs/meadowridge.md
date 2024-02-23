@@ -6,4 +6,4 @@ A town located in the [Eastern Brickland](../refs/brickland_fortress.md). It is 
 
 
 ----------
-[⬅️ Back to index](../refs/#c860_s)
+[⬅️ Back to index](../refs/index.md#c860_s)

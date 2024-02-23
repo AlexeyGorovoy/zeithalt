@@ -6,4 +6,4 @@ Defensive military regiments, that can be stationed in a territory to increase i
 
 
 ----------
-[⬅️ Back to index](../refs/#6fe0_s)
+[⬅️ Back to index](../refs/index.md#6fe0_s)

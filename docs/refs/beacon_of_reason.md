@@ -10,4 +10,4 @@ The beacon is not a dominant structure of the [Neuropolis](../refs/neuropolis.md
 
 
 ----------
-[⬅️ Back to index](../refs/#2880_s)
+[⬅️ Back to index](../refs/index.md#2880_s)

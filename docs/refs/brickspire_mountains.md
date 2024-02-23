@@ -6,4 +6,4 @@ A mountain range that is located in [Brickland Fortress](../refs/brickland_fortr
 
 
 ----------
-[⬅️ Back to index](../refs/#50d0_s)
+[⬅️ Back to index](../refs/index.md#50d0_s)

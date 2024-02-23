@@ -12,4 +12,4 @@ Wields a legendary [Prehistoric Axe](../refs/prehistoric_axe.md) and often speak
 
 
 ----------
-[⬅️ Back to index](../refs/#8f50_s)
+[⬅️ Back to index](../refs/index.md#8f50_s)

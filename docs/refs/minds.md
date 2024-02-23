@@ -6,4 +6,4 @@ A collective term to refer to MindTech Institute's members or the faction in gen
 
 
 ----------
-[⬅️ Back to index](../refs/#7c50_s)
+[⬅️ Back to index](../refs/index.md#7c50_s)

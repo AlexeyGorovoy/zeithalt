@@ -12,4 +12,4 @@ The skin in contact with the goo starts to bleed, and the open wound gets furthe
 
 
 ----------
-[⬅️ Back to index](../refs/#0580_s)
+[⬅️ Back to index](../refs/index.md#0580_s)

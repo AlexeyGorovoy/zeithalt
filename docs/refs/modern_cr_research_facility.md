@@ -8,4 +8,4 @@ Solar run and with networking backed by the Admincity power grid in the heart of
 
 
 ----------
-[⬅️ Back to index](../refs/#9f60_s)
+[⬅️ Back to index](../refs/index.md#9f60_s)

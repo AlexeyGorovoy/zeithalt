@@ -8,4 +8,4 @@ The Resource Management Facility is also responsible for managing all the resour
 
 
 ----------
-[⬅️ Back to index](../refs/#7a61_s)
+[⬅️ Back to index](../refs/index.md#7a61_s)

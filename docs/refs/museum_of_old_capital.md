@@ -10,4 +10,4 @@ From the Shaushka runes describing the foundation of the [First Capital](../refs
 
 
 ----------
-[⬅️ Back to index](../refs/#6c20_s)
+[⬅️ Back to index](../refs/index.md#6c20_s)

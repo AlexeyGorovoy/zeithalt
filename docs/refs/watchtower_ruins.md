@@ -12,4 +12,4 @@ Ruins reconstructed by [MindTech Institute](../refs/mindtech_institute.md) into 
 
 
 ----------
-[⬅️ Back to index](../refs/#60b0_s)
+[⬅️ Back to index](../refs/index.md#60b0_s)

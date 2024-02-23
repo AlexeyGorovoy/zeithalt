@@ -19,4 +19,4 @@ At some point [Double-Z](../refs/zeithalt_zeitgeist.md) was hyping rumours that 
 
 
 ----------
-[⬅️ Back to index](../refs/#f910_s)
+[⬅️ Back to index](../refs/index.md#f910_s)

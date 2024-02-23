@@ -8,4 +8,4 @@ Besides offering delicious pizzas it also has arcade games and serves as a cente
 
 
 ----------
-[⬅️ Back to index](../refs/#b910_s)
+[⬅️ Back to index](../refs/index.md#b910_s)

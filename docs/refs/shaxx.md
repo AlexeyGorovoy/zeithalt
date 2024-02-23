@@ -8,4 +8,4 @@ His eccentric lifestyle sets him apart, embracing the unknown with unwavering fa
 
 
 ----------
-[⬅️ Back to index](../refs/#f4e0_s)
+[⬅️ Back to index](../refs/index.md#f4e0_s)

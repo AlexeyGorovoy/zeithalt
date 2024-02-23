@@ -12,4 +12,4 @@ In recent eons the Great AI has been encouraging all CI citizenry to learn more 
 
 
 ----------
-[⬅️ Back to index](../refs/#dd30_s)
+[⬅️ Back to index](../refs/index.md#dd30_s)

@@ -8,4 +8,4 @@ Head researcher, intrepid explorer, permanent resident, and resource exploiter o
 
 
 ----------
-[⬅️ Back to index](../refs/#8880_s)
+[⬅️ Back to index](../refs/index.md#8880_s)

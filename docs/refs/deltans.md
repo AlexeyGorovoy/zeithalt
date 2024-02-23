@@ -6,4 +6,4 @@ A collective term to refer to Delta Collective's members or the faction in gener
 
 
 ----------
-[⬅️ Back to index](../refs/#b730_s)
+[⬅️ Back to index](../refs/index.md#b730_s)

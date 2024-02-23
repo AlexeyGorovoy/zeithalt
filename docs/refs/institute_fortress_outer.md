@@ -20,4 +20,4 @@ Trees and fog hide the view of the structure built in the center of the perimete
 
 
 ----------
-[⬅️ Back to index](../refs/#8a90_s)
+[⬅️ Back to index](../refs/index.md#8a90_s)

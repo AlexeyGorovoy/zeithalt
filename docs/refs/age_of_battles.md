@@ -8,4 +8,4 @@ It started at Eon 258 with the ***Battle of Mt. Pickles*** - the first ever batt
 
 
 ----------
-[⬅️ Back to index](../refs/#32e0_s)
+[⬅️ Back to index](../refs/index.md#32e0_s)

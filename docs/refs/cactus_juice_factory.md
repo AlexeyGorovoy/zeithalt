@@ -12,4 +12,4 @@ The factory provides a steady supply of cactus-related produce to the [Neuropoli
 
 
 ----------
-[⬅️ Back to index](../refs/#32c0_s)
+[⬅️ Back to index](../refs/index.md#32c0_s)

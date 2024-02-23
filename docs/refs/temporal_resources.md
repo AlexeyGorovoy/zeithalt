@@ -8,4 +8,4 @@ For example, TMP can be transmuted into any other kind of resources and is known
 
 
 ----------
-[⬅️ Back to index](../refs/#6590_s)
+[⬅️ Back to index](../refs/index.md#6590_s)

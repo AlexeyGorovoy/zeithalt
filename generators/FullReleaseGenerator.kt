@@ -26,7 +26,7 @@ fun main() {
     println("Started full release generation!")
     val startTime = System.currentTimeMillis()
 
-    generateFullRelease(Destination.ZEITHALT_REPO)
+    generateFullRelease(Destination.DOCS)
 
     val endTime = System.currentTimeMillis()
     println("Finished full release generation in ${endTime - startTime} ms")

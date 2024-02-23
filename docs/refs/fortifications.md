@@ -6,4 +6,4 @@ A group term for all kinds of permanent defensive structures factions can build 
 
 
 ----------
-[⬅️ Back to index](../refs/#9ff0_s)
+[⬅️ Back to index](../refs/index.md#9ff0_s)

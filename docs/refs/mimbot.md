@@ -10,4 +10,4 @@ Feel free to ask me about anything!
 
 
 ----------
-[⬅️ Back to index](../refs/#1670_s)
+[⬅️ Back to index](../refs/index.md#1670_s)

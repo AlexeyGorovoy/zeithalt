@@ -6,4 +6,4 @@ Built on eon 612 by [Cybernetics Inc](../refs/cybernetics_inc.md) as the first o
 
 
 ----------
-[⬅️ Back to index](../refs/#ff60_s)
+[⬅️ Back to index](../refs/index.md#ff60_s)
