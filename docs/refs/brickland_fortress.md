@@ -26,4 +26,4 @@ The majority of Brickland Fortress's population lives in the Eastern Part - in i
 
 
 ----------
-[⬅️ Back to index](../refs/index.md)
+[⬅️ Back to index](../refs/#f6d0_s)

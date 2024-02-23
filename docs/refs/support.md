@@ -6,4 +6,4 @@ Military unit that helps its faction in battles by providing additional fighting
 
 
 ----------
-[⬅️ Back to index](../refs/index.md)
+[⬅️ Back to index](../refs/#e390_s)

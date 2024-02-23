@@ -8,4 +8,4 @@ Fortunately, after over half a thousand eons of sleep, he was able to get healed
 
 
 ----------
-[⬅️ Back to index](../refs/index.md)
+[⬅️ Back to index](../refs/#c480_s)

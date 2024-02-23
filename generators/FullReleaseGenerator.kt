@@ -15,7 +15,7 @@ fun main() {
 private fun generateFullRelease() {
     val linkMap = rebuildLinkMap()
 
-    copyRefs()
+    copyRefs(linkMap)
     copyRefsImg()
 
     copyTimeline()
@@ -25,12 +25,14 @@ private fun generateFullRelease() {
     rebuildTimelineIndex(linkMap)
 }
 
-private fun copyRefs() {
+private fun copyRefs(linkMap: Map<String, String>) {
     val refs = File("refs")
         .listFiles()
         ?.filter { it.isFile }
         ?.onEach { file ->
             val text = file.readText()
+
+            val anchor = linkMap["../refs/${file.name}"] ?: ""
 
             val updatedImgLinks = text
                 .replace("../refs/img", "../../refs/img")
@@ -38,7 +40,7 @@ private fun copyRefs() {
                 .first()
                 .plus("\n")
                 .plus("----------\n")
-                .plus("[⬅️ Back to index](../refs/index.md)")
+                .plus("[⬅️ Back to index](../refs/#${anchor}_s)")
 
             File("docs/refs/${file.name}")
                 .writeText(updatedImgLinks)
@@ -65,13 +67,15 @@ private fun copyTimeline() {
         ?.onEach { file ->
             val text = file.readText()
 
+            val anchor = file.name.replace(".md", "")
+
             val updatedImgLinks = text
                 .split("<!---")
                 .first()
                 .plus("\n")
                 .plus("\n")
                 .plus("----------\n")
-                .plus("[⬅️ Back to index](../timeline/index.md)")
+                .plus("[⬅️ Back to Timeline](../timeline/#${anchor})")
 
             File("docs/timeline/${file.name}")
                 .writeText(updatedImgLinks)

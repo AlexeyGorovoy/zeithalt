@@ -8,4 +8,4 @@ A curious and adventurous lore writer with diplomat work on the side. He prides 
 
 
 ----------
-[⬅️ Back to index](../refs/index.md)
+[⬅️ Back to index](../refs/#53e0_s)

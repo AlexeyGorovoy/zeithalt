@@ -10,4 +10,4 @@ The virus was named in honor of the first two researchers who studied it Mimb an
 
 
 ----------
-[⬅️ Back to index](../refs/index.md)
+[⬅️ Back to index](../refs/#a4e0_s)

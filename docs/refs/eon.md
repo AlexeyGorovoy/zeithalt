@@ -6,4 +6,4 @@ A unit of time used on Zeithalt Island, as the perception of time on the island 
 
 
 ----------
-[⬅️ Back to index](../refs/index.md)
+[⬅️ Back to index](../refs/#8730_s)

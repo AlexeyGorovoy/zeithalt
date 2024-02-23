@@ -12,4 +12,4 @@ They also divide into Common and Epic variants. Epic items do what Common items 
 
 
 ----------
-[⬅️ Back to index](../refs/index.md)
+[⬅️ Back to index](../refs/#9930_s)

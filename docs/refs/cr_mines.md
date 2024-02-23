@@ -6,4 +6,4 @@ CR Mines - a powerful artefact constructed from CR samples. Can be used as a def
 
 
 ----------
-[⬅️ Back to index](../refs/index.md)
+[⬅️ Back to index](../refs/#8360_s)

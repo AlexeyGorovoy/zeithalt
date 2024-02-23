@@ -6,4 +6,4 @@ Built on eon 504 by [Cybernetics Inc](../refs/cybernetics_inc.md) in honour of t
 
 
 ----------
-[⬅️ Back to index](../refs/index.md)
+[⬅️ Back to index](../refs/#50e0_s)

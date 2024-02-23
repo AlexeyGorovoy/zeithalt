@@ -8,4 +8,4 @@ Even though he seems like an egg himself he has been seen on multiple occasions 
 
 
 ----------
-[⬅️ Back to index](../refs/index.md)
+[⬅️ Back to index](../refs/#c080_s)

@@ -6,4 +6,4 @@ Build on eon 480 by [MindTech Institute](../refs/mindtech_institute.md)
 
 
 ----------
-[⬅️ Back to index](../refs/index.md)
+[⬅️ Back to index](../refs/#8de0_s)

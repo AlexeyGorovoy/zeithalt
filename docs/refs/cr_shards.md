@@ -6,4 +6,4 @@ CR Shards - a powerful artefact constructed from CR samples. Can be used as an o
 
 
 ----------
-[⬅️ Back to index](../refs/index.md)
+[⬅️ Back to index](../refs/#1330_s)
