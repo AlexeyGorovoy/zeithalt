@@ -187,6 +187,8 @@
 ### <a id="#top"></a>K
 ▪️ <a id="2dc0_s"></a>[🕸️ K2 Fibers](../refs/k2_fibers.md)
 
+▪️ <a id="8810_s"></a>[🌳 Kingtree Sanctuary](../refs/kingtree_sanctuary.md)
+
 ### <a id="#top"></a>L
 ▪️ <a id="bca0_s"></a>[Lake Corsair](../refs/lake_corsair.md)
 
@@ -258,7 +260,7 @@
 ▪️ <a id="c080_s"></a>[Ozimud](../refs/ozimud.md)
 
 ### <a id="#top"></a>P
-▪️ <a id="cb50_s"></a>[Paradox PAss](../refs/paradox_pass.md)
+▪️ <a id="cb50_s"></a>[Paradox Pass](../refs/paradox_pass.md)
 
 ▪️ <a id="3910_s"></a>[🎡 Particle Collitionist](../refs/partcile_collitionist.md)
 
