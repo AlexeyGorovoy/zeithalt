@@ -16,7 +16,7 @@ enum class Destination(
     ),
     ZEITHALT_REPO(
         targetRefsRoot = "public_refs",
-        refsImgReplacement = "../i",
+        refsImgReplacement = "/i",
         refsDir = "",
         refsImgDir = "i"
     )
