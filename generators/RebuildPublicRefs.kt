@@ -68,7 +68,6 @@ fun rebuildRefsIndex(
         }
 
     val rIndexText = "# <a id=\"$topAnchor\"></a>Zeithalt Lore Book\n$reference\n$content\n"
-//        .replaceLinks(linkMap)
 
     val output = File("${destination.targetRefsRoot}/index.md")
     output.writeText(rIndexText)

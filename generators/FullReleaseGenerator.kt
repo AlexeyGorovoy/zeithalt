@@ -84,10 +84,6 @@ private fun copyRefs(
             val anchor = linkMap["../refs/${file.name}"] ?: ""
 
             val updatedImgLinks = text
-//                .replace("../refs/img", destination.refsImgReplacement)
-//                .replace("../refs/", "${destination.refsSelfDir}/")
-//                .replace("../timeline/", "${destination.timelineDir}/")
-//                .replace(".md", ".html")
                 .replaceRefsWithGlobalLinks(destination, linkMap)
                 .split("<!---")
                 .first()

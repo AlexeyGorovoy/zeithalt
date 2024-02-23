@@ -28,9 +28,12 @@ fun rebuildTimelineIndex(
             )
         }
         ?.joinToString("\n")
+        ?: ""
+
+    val text = "# <a id=\"top\"></a>Zeithalt Timeline\n$links"
 
     val output = File("${destination.targetTimelineRoot}/index.md")
-    output.writeText(links ?: "none")
+    output.writeText(text)
 
     val endTime = System.currentTimeMillis()
     println("Finished in ${endTime - startTime} ms")
