@@ -2,22 +2,22 @@ package generators
 
 import java.io.File
 
-private enum class Destination(
+enum class Destination(
     val targetRefsRoot: String,
     val refsImgReplacement: String,
     val refsDir: String,
     val refsImgDir: String
 ) {
     DOCS(
-        targetRefsRoot = "docs",
+        targetRefsRoot = "docs/refs",
         refsImgReplacement = "../../refs/img",
-        refsDir = "refs",
+        refsDir = "../refs",
         refsImgDir = "refs/img"
     ),
     ZEITHALT_REPO(
         targetRefsRoot = "public_refs",
         refsImgReplacement = "../i",
-        refsDir = "r",
+        refsDir = "..",
         refsImgDir = "i"
     )
 }
@@ -41,7 +41,7 @@ private fun generateFullRelease(destination: Destination) {
     copyTimeline()
     copyTimelineMap()
 
-    rebuildRefsIndex(linkMap)
+    rebuildRefsIndex(destination, linkMap)
     rebuildTimelineIndex(linkMap)
 }
 
@@ -63,9 +63,9 @@ private fun copyRefs(
                 .first()
                 .plus("\n")
                 .plus("----------\n")
-                .plus("[⬅️ Back to index](../${destination.refsDir}/#${anchor}_s)")
+                .plus("[⬅️ Back to index](${destination.refsDir}/#${anchor}_s)")
 
-            File("${destination.targetRefsRoot}/${destination.refsDir}/${file.name}")
+            File("${destination.targetRefsRoot}/${file.name}")
                 .writeText(updatedImgLinks)
         }
 

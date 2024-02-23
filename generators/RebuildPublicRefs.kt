@@ -2,11 +2,10 @@ package generators
 
 import java.io.File
 
-fun main() {
-    rebuildRefsIndex(rebuildLinkMap())
-}
-
-fun rebuildRefsIndex(linkMap: Map<String, String>) {
+fun rebuildRefsIndex(
+    destination: Destination,
+    linkMap: Map<String, String>
+) {
     println("Started!")
     val startTime = System.currentTimeMillis()
 
@@ -41,7 +40,7 @@ fun rebuildRefsIndex(linkMap: Map<String, String>) {
                 aliases
             }
             val anchor = linkMap["../refs/${file.name}"] ?: ""
-            buildEntries("../refs/${file.name}", titles, textNoTitle, anchor)
+            buildEntries("${destination.refsDir}/${file.name}", titles, textNoTitle, anchor)
         }
         ?.sortedBy { it.letter }
 
@@ -71,7 +70,7 @@ fun rebuildRefsIndex(linkMap: Map<String, String>) {
     val rIndexText = "# <a id=\"$topAnchor\"></a>Zeithalt Lore Book\n$reference\n$content\n"
 //        .replaceLinks(linkMap)
 
-    val output = File("docs/refs/index.md")
+    val output = File("${destination.targetRefsRoot}/index.md")
     output.writeText(rIndexText)
 
     val endTime = System.currentTimeMillis()
