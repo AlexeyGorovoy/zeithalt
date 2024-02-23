@@ -59,6 +59,7 @@ private fun copyRefs(
 
             val updatedImgLinks = text
                 .replace("../refs/img", destination.refsImgReplacement)
+                .replace("../refs/", "${destination.refsDir}/")
                 .split("<!---")
                 .first()
                 .plus("\n")
