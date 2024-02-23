@@ -44,12 +44,12 @@ fun rebuildTimelineIndex (linkMap: Map<String, String>) {
                                 link.contains("#") -> {
                                     /* skip */
                                 }
-                                link.contains("refs") -> {
-                                    val anchor = linkMap[link] ?: ""
+                                link.contains("timeline") &&  link.contains(".md") -> {
+                                    val anchor = linkMap[link] ?: link.split("/").last().replace(".md", "")
                                     if (start > result.length) {
                                         println("oops")
                                     }
-                                    result = result.replaceRange(start + 2, end, "../refs/#${anchor}")
+                                    result = result.replaceRange(start + 2, end, "../timeline/#${anchor}")
                                 }
                             }
 
