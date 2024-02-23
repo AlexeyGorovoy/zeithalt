@@ -41,7 +41,7 @@ fun rebuildRefsIndex(linkMap: Map<String, String>) {
                 aliases
             }
             val anchor = linkMap["../refs/${file.name}"] ?: ""
-            buildEntries(titles, textNoTitle, anchor)
+            buildEntries("../refs/${file.name}", titles, textNoTitle, anchor)
         }
         ?.sortedBy { it.letter }
 
@@ -53,7 +53,7 @@ fun rebuildRefsIndex(linkMap: Map<String, String>) {
 
             listOfNotNull(
                 if (newLetter) "### <a id=\"#$topAnchor\"></a>${entry.letter}" else null,
-                "<a id=\"${entry.upAnchor}\"></a>[${entry.title}](#${entry.anchor})",
+                "▪️ <a id=\"${entry.upAnchor}\"></a>[${entry.title}](${entry.filename})",
                 ""
             )
         }
@@ -68,14 +68,8 @@ fun rebuildRefsIndex(linkMap: Map<String, String>) {
             "[$letter](#${letter.lowercase()})"
         }
 
-    val sep = "\n----------\n"
-
-    val texts = entries?.joinToString("\n") { entry ->
-        "$sep### <a id=\"${entry.anchor}\"></a>${entry.title}\n${entry.text}\n<a href=\"#${entry.letter.lowercase()}\">⬆️ Scroll up</a>"
-    }
-
-    val rIndexText = "# <a id=\"$topAnchor\"></a>Zeithalt Lore Book\n$reference\n$content\n$texts"
-        .replaceLinks(linkMap)
+    val rIndexText = "# <a id=\"$topAnchor\"></a>Zeithalt Lore Book\n$reference\n$content\n"
+//        .replaceLinks(linkMap)
 
     val output = File("docs/refs/index.md")
     output.writeText(rIndexText)
@@ -112,6 +106,7 @@ private fun extractAliases(refText: String): List<String> {
 }
 
 private fun buildEntries(
+    filename: String,
     titles: List<String>,
     text: String,
     anchor: String
@@ -130,6 +125,7 @@ private fun buildEntries(
 
         if (letter != null) {
             Entry2(
+                filename = filename,
                 letter = letter,
                 title = title,
                 anchor = anchor,
@@ -149,6 +145,7 @@ private fun String.replaceLinks(linkMap: Map<String, String>): String {
 }
 
 data class Entry2(
+    val filename: String,
     val letter: String,
     val title: String,
     val anchor: String,
