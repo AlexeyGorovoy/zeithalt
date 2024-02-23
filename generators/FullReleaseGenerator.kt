@@ -27,9 +27,9 @@ enum class Destination(
         targetTimelineRoot = "public_timeline",
         refsImgReplacement = "/i",
         refsSelfDir = "",
-        refsFromTimelineDir = "r",
+        refsFromTimelineDir = "../r",
         refsImgDir = "i",
-        timelineDir = "t",
+        timelineDir = "../t",
         timelineMapDir = "m"
     )
 }
@@ -75,6 +75,7 @@ private fun copyRefs(
                 .replace("../refs/img", destination.refsImgReplacement)
                 .replace("../refs/", "${destination.refsSelfDir}/")
                 .replace("../timeline/", "${destination.timelineDir}/")
+                .replace(".md", ".html")
                 .split("<!---")
                 .first()
                 .plus("\n")

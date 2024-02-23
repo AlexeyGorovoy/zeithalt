@@ -58,6 +58,7 @@ fun rebuildTimelineIndex (
                         }
                         result
                     }
+                    .replace(".md", ".html")
                     .replace("../timeline/map", destination.timelineMapDir),
             )
         }
