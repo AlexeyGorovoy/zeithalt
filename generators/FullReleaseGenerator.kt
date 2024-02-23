@@ -63,7 +63,7 @@ private fun copyRefs(
                 .first()
                 .plus("\n")
                 .plus("----------\n")
-                .plus("[⬅️ Back to index](${destination.refsDir}/#${anchor}_s)")
+                .plus("[⬅️ Back to index](${destination.refsDir}/index.md#${anchor}_s)")
 
             File("${destination.targetRefsRoot}/${file.name}")
                 .writeText(updatedImgLinks)
