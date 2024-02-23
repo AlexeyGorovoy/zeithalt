@@ -57,7 +57,8 @@ fun rebuildTimelineIndex (
                             startIndex++
                         }
                         result
-                    },
+                    }
+                    .replace("../timeline/map", destination.timelineMapDir),
             )
         }
         ?.joinToString("\n")

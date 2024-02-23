@@ -27,7 +27,7 @@ enum class Destination(
         targetTimelineRoot = "public_timeline",
         refsImgReplacement = "/i",
         refsSelfDir = "",
-        refsFromTimelineDir = "../r",
+        refsFromTimelineDir = "r",
         refsImgDir = "i",
         timelineDir = "t",
         timelineMapDir = "m"
