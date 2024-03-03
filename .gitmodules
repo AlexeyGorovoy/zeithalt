@@ -1,6 +1,0 @@
-[submodule "public_refs"]
-	path = public_refs
-	url = https://github.com/zeithalt/r.git
-[submodule "public_timeline"]
-	path = public_timeline
-	url = https://github.com/zeithalt/t.git
